@@ -1,6 +1,6 @@
 # Google Scholar 文章他引数量统计
 
-本程序用于对Google Scholar 上指定的一篇文章统计其引用里的他引文章数量，并输出这些他引文章的名称、作者列表、年份、发表位置至 result/result.txt 里，并在命令行输出所以他引文章中有多少个IEEE Fellow
+本程序用于对Google Scholar 上指定的一篇文章统计其引用里的他引文章数量，并输出这些他引文章的名称、作者列表、年份、发表位置至 result/result.txt 里，并在命令行输出所有他引文章中有多少个IEEE Fellow
 
 本程序基于https://github.com/rpSebastian/gs-cite-fellow 完成，十分感谢这位作者的工作！
 
