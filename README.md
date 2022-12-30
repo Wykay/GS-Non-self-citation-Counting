@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 * result.txt
 
-![image]()
+![image](https://github.com/EvenYYY/GS-other-citations-Crawling-new/blob/main/figures/result.png)
