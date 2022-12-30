@@ -1,0 +1,1464 @@
+Karen Simonyan,Andrew Zisserman. Very deep convolutional networks for large-scale image recognition
+
+Ken Chatfield,Karen Simonyan,Andrea Vedaldi,Andrew Zisserman. Return of the devil in the details: Delving deep into convolutional nets
+
+Ming-Ming Cheng,Yun Liu,Wen-Yan Lin,Ziming Zhang,Paul L. Rosin,Philip H. S. Torr. BING: Binarized normed gradients for objectness estimation at 300fps
+
+Long Chen,Hanwang Zhang,Jun Xiao,Liqiang Nie,Jian Shao,Wei Liu,Tat-Seng Chua. Sca-cnn: Spatial and channel-wise attention in convolutional networks for image captioning
+
+Jiang Wang,Yi Yang,Junhua Mao,Zhiheng Huang,Chang Huang,Wei Xu. Cnn-rnn: A unified framework for multi-label image classification
+
+Maxime Oquab,Léon Bottou,Ivan Laptev,Josef Sivic. Is object localization for free?-weakly-supervised learning with convolutional neural networks
+
+Mircea Cimpoi,Subhransu Maji,Iasonas Kokkinos,Andrea Vedaldi. Deep filter banks for texture recognition and segmentation
+
+Qi Wu,Chunhua Shen,Lingqiao Liu,Anthony R. Dick,Anton van den Hengel. What value do explicit high level concepts have in vision to language problems?
+
+Zhao-Min Chen,Xiu-Shen Wei,Peng Wang,Yanwen Guo. Multi-label image recognition with graph convolutional networks
+
+Limin Wang,Yuanjun Xiong,Dahua Lin,Luc Van Gool. Untrimmednets for weakly supervised action recognition and detection
+
+Qi Wu,Peng Wang,Chunhua Shen,Anthony R. Dick,Anton van den Hengel. Ask me anything: Free-form visual question answering based on knowledge from external sources
+
+Wieland Brendel,Matthias Bethge. Approximating cnns with bag-of-local-features models works surprisingly well on imagenet
+
+Chuang Gan,Naiyan Wang,Yi Yang,Dit-Yan Yeung,Alexander G. Hauptmann. Devnet: A deep event network for multimedia event detection and evidence recounting
+
+Qi Wu,Chunhua Shen,Peng Wang,Anthony R. Dick,Anton van den Hengel. Image captioning and visual question answering based on attributes and external knowledge
+
+Xin Lu,Zhe Lin,Xiaohui Shen,Radomír Mech,James Z. Wang. Deep multi-patch aggregation network for image style, aesthetics, and quality estimation
+
+Bin-Bin Gao,Chao Xing,Chen-Wei Xie,Jianxin Wu,Xin Geng. Deep label distribution learning with label ambiguity
+
+Shi-Zhe Chen,Chun-Chao Guo,Jian-Huang Lai. Deep ranking for person re-identification via joint representation learning
+
+Feng Zhu,Hongsheng Li,Wanli Ouyang,Nenghai Yu,Xiaogang Wang. Learning spatial regularization with image-level supervisions for multi-label image classification
+
+Guanbin Li,Pengxiang Yan,Yuan Xie,Guisheng Wang,Liang Lin,Yizhou Yu. Instance-level salient object segmentation
+
+Abrar H. Abdulnabi,Gang Wang,Jiwen Lu,Kui Jia. Multi-task CNN model for attribute prediction
+
+Zhennan Yan,Yiqiang Zhan,Zhigang Peng,Shu Liao,Yoshihisa Shinagawa,Shaoting Zhang,Dimitris N. Metaxas,Xiang Sean Zhou. Multi-instance deep learning: Discover discriminative local anatomies for bodypart recognition
+
+Chung-Wei Lee,Wei Fang,Chih-Kuan Yeh,Yu-Chiang Frank Wang. Multi-label zero-shot learning with structured knowledge graphs
+
+Chih-Kuan Yeh,Wei-Chieh Wu,Wei-Jen Ko,Yu-Chiang Frank Wang. Learning deep latent space for multi-label classification
+
+Suraj Srinivas,Ravi Kiran Sarvadevabhatla,Konda Reddy Mopuri,Nikita Prabhu,Srinivas S. S. Kruthiventi,R. Venkatesh Babu. A taxonomy of deep convolutional neural nets for computer vision
+
+Yan Huang,Qi Wu,Chunfeng Song,Liang Wang. Learning semantic concepts and order for image and sentence matching
+
+Zhouxia Wang,Tianshui Chen,Guanbin Li,Ruijia Xu,Liang Lin. Multi-label image recognition by recurrently discovering attentional regions
+
+Peng Tang,Xinggang Wang,Song Bai,Wei Shen,Xiang Bai,Wenyu Liu,Alan L. Yuille. Pcl: Proposal cluster learning for weakly supervised object detection
+
+Dong Li,Jia-Bin Huang,Yali Li,Shengjin Wang,Ming-Hsuan Yang. Weakly supervised object localization with progressive domain adaptation
+
+Florent Perronnin,Diane Larlus. Fisher vectors meet neural networks: A hybrid classification architecture
+
+Yuncheng Li,Yale Song,Jiebo Luo. Improving pairwise ranking for multi-label image classification
+
+Lin Wu,Yang Wang,Junbin Gao,Xue Li. Deep adaptive feature embedding with local sample distributions for person re-identification
+
+Alan Siegel. On universal classes of fast high performance hash functions, their time-space tradeoff, and their applications
+
+Jiheon Kang,Youn-Jong Park,Jaeho Lee,Soo-Hyun Wang,Doo Seop Eom. Novel leakage detection by ensemble CNN-SVM and graph-based localization in water distribution systems
+
+Gene T. J. Wuu,Umeshwar Dayal. A uniform model for temporal object-oriented databases
+
+Han Xu,Jiayi Ma,Junjun Jiang,Xiaojie Guo,Haibin Ling. U2Fusion: A unified unsupervised image fusion network
+
+Junjie Zhang,Qi Wu,Chunhua Shen,Jian Zhang,Jianfeng Lu. Multilabel image classification with regional latent semantic dependencies
+
+Shuang Bai,Shan An. A survey on automatic image caption generation
+
+Christian Rupprecht,Iro Laina,Robert S. DiPietro,Maximilian Baust. Learning in an uncertain world: Representing ambiguity through multiple hypotheses
+
+Hao Yang,Joey Tianyi Zhou,Yu Zhang,Bin-Bin Gao,Jianxin Wu,Jianfei Cai. Exploit bounding box annotations for multi-label object recognition
+
+Hao Guo,Kang Zheng,Xiaochuan Fan,Hongkai Yu,Song Wang. Visual attention consistency under image transforms for multi-label image classification
+
+Donggeun Yoo,Sunggyun Park,Joon-Young Lee,In So Kweon. Multi-scale pyramid pooling for deep convolutional representation
+
+Tianshui Chen,Zhouxia Wang,Guanbin Li,Liang Lin. Recurrent attentional reinforcement learning for multi-label image recognition
+
+Jian Zhu,Leyuan Fang,Pedram Ghamisi. Deformable convolutional neural networks for hyperspectral image classification
+
+Martina Pastorino,Gabriele Moser,Sebastiano B. Serpico,Josiane Zerubia. Hierarchical deep convolutional neural network for image classification
+
+Shang-Fu Chen,Yi-Chen Chen,Chih-Kuan Yeh,Yu-Chiang Frank Wang. Order-free rnn with visual attention for multi-label classification
+
+Ji Feng,Zhi-Hua Zhou. Deep MIML network
+
+Jufeng Yang,Dongyu She,Ming Sun,Ming-Ming Cheng,Paul L. Rosin,Liang Wang. Visual sentiment prediction based on automatic discovery of affective regions
+
+Tianshui Chen,Muxin Xu,Xiaolu Hui,Hefeng Wu,Liang Lin. Learning semantic-specific graph representation for multi-label image recognition
+
+Serge Bernard,Florence Azaïs,Yves Bertrand,Michel Renovell. A high accuracy triangle-wave signal generator for on-chip ADC testing
+
+Amaia Salvador,Michal Drozdzal,Xavier Giró-i-Nieto,Adriana Romero. Inverse cooking: Recipe generation from food images
+
+Authors. A brief survey on semantic segmentation with deep learning
+
+Bo Yu,Lu Yang,Fang Chen. Semantic segmentation for high spatial resolution remote sensing images based on convolution neural network and pyramid pooling module
+
+Chang-Dong Xu,Xing-Ran Zhao,Xin Jin,Xiu-Shen Wei. Exploring categorical regularization for domain adaptive object detection
+
+L. Zhang,S. K. Shah,Ioannis A. Kakadiaris. Hierarchical multi-label classification using fully associative ensemble learning
+
+Konda Reddy Mopuri,R. Venkatesh Babu. Object level deep feature pooling for compact image representation
+
+Zhige Xie,Kai Xu,Wen Shan,Ligang Liu,Yueshan Xiong,Hui Huang. Projective feature learning for 3D shapes with multi‐view depth images
+
+Maksim Lapin,Matthias Hein,Bernt Schiele. Analysis and optimization of loss functions for multiclass, top-k, and multilabel classification
+
+Jiren Jin,Hideki Nakayama. Annotation order matters: Recurrent image annotator for arbitrary length image tagging
+
+Peng Tang,Xinggang Wang,Zilong Huang,Xiang Bai,Wenyu Liu. Deep patch learning for weakly supervised object classification and discovery
+
+Chen Sun,Manohar Paluri,Ronan Collobert,Ram Nevatia,Lubomir D. Bourdev. Pronet: Learning to propose object-specific boxes for cascaded neural networks
+
+Yogesh Singh Rawat,Mohan S. Kankanhalli. ConTagNet: Exploiting user context for image tag recommendation
+
+Pengze Liu,Xihui Liu,Junjie Yan,Jing Shao. Localization guided learning for pedestrian attribute recognition
+
+Ana Isabel Martins,Alexandra Queirós,Anabela G. Silva,Nelson Pacheco da Rocha. Performance evaluating the evaluator
+
+Munawar Hayat,Salman H. Khan,Mohammed Bennamoun,Senjian An. A spatial layout and scale invariant feature representation for indoor scene classification
+
+Yongcheng Liu,Lu Sheng,Jing Shao,Junjie Yan,Shiming Xiang,Chunhong Pan. Multi-label image classification via knowledge distillation from weakly-supervised detection
+
+Thi Hong Hanh Nguyen. Personalized deep learning for tag recommendation
+
+Guoliang Kang,Jun Li,Dacheng Tao. Shakeout: A new approach to regularized deep neural network training
+
+Willem Waegeman,Krzysztof Dembczynski,Eyke Hüllermeier. Multi-target prediction: a unifying view on problems and methods
+
+Afshine Amidi,Shervine Amidi,Dimitrios Vlachakis,Vasileios Megalooikonomou,Nikos Paragios,Evangelia I. Zacharaki. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation
+
+Lingyun Song,Jun Liu,Buyue Qian,Mingxuan Sun,Kuan Yang,Meng Sun,Samar Abbas. A deep multi-modal CNN for multi-instance multi-label image classification
+
+Yao Li,Lingqiao Liu,Chunhua Shen,Anton van den Hengel. Mining mid-level visual patterns with deep CNN activations
+
+Meng Wang,Changzhi Luo,Richang Hong,Jinhui Tang,Jiashi Feng. Beyond object proposals: Random crop pooling for multi-label image recognition
+
+Yifei Xue,Tiejun Wang,Andrew K. Skidmore. Automatic counting of large mammals from very high resolution panchromatic satellite imagery
+
+Tiberio Uricchio,Marco Bertini,Lorenzo Seidenari,Alberto Del Bimbo. Fisher encoded convolutional bag-of-windows for efficient image retrieval and social image tagging
+
+Shiping Wen,Weiwei Liu,Yin Yang,Pan Zhou,Zhenyuan Guo,Zheng Yan,Yiran Chen,Tingwen Huang. Multilabel image classification via feature/label co-projection
+
+Wenda Zhao,Fan Zhao,Dong Wang,Huchuan Lu. Defocus blur detection via multi-stream bottom-top-bottom fully convolutional network
+
+Renchun You,Zhiyao Guo,Lei Cui,Xiang Long,Yingze Bao,Shilei Wen. Cross-modality attention with semantic graph embedding for multi-label classification
+
+Si Liu,Changhu Wang,Ruihe Qian,Han Yu,Renda Bao,Yao Sun. Surveillance video parsing with single frame supervision
+
+Yizhen Jia,Fangtian Zhong,Arwa Alrawais,Bei Gong,Xiuzhen Cheng. Flowguard: an intelligent edge defense mechanism against IoT DDoS attacks
+
+Miao Sun,Tony X. Han,Ming-Chang Liu,Ahmad Khodayari-Rostamabad. Multiple instance learning convolutional neural networks for object recognition
+
+Zheng Yan,Weiwei Liu,Shiping Wen,Yin Yang. Multi-label image classification by feature attention network
+
+Yun Liu,Yu-Huan Wu,Peisong Wen,Yujun Shi,Yu Qiu,Ming-Ming Cheng. Leveraging instance-, image-and dataset-level information for weakly supervised instance segmentation
+
+Zhennan Yan,Yiqiang Zhan,Zhigang Peng,Shu Liao,Yoshihisa Shinagawa,Dimitris N. Metaxas,Xiang Sean Zhou. Bodypart recognition using multi-stage deep learning
+
+ Sleep apnea detection from a single-lead ECG signal with automatic feature-extraction through a modified LeNet-5 convolutional neural network
+
+Qi Wu,Chunhua Shen,Anton van den Hengel,Peng Wang,Anthony R. Dick. Image captioning and visual question answering based on attributes and their related external knowledge
+
+Donggeun Yoo,Sunggyun Park,Joon-Young Lee,In-So Kweon. Fisher kernel for deep neural activations
+
+Peng Tang,Xinggang Wang,Baoguang Shi,Xiang Bai,Wenyu Liu,Zhuowen Tu. Deep FisherNet for image classification
+
+Yunhe Wang,Chang Xu,Chao Xu,Dacheng Tao. Packing convolutional neural networks in the frequency domain
+
+Ming-Ming Cheng,Yun Liu,Wen-Yan Lin,Ziming Zhang,Paul L. Rosin,Philip H. S. Torr. BING: Binarized normed gradients for objectness estimation at 300fps
+
+Omid Ghorbanzadeh,Sansar Raj Meena,Thomas Blaschke,Jagannath Aryal. UAV-based slope failure detection using deep-learning convolutional neural networks
+
+Nagma Khan,Ushasi Chaudhuri,Biplab Banerjee,Subhasis Chaudhuri. Graph convolutional network for multi-label VHR remote sensing scene recognition
+
+Weiwei Shi,Yihong Gong,Xiaoyu Tao,Nanning Zheng. Training DCNN by combining max-margin, max-correlation objectives, and correntropy loss for multilabel image classification
+
+Seyed Hamid Rezatofighi,Vijay Kumar B. G,Anton Milan,Ehsan Abbasnejad,Anthony R. Dick,Ian D. Reid. Deepsetnet: Predicting sets with deep neural networks
+
+Lin Yuan,Xue Wei,Hui Shen,Ling-Li Zeng,Dewen Hu. Multi-center brain imaging classification using a novel 3D CNN approach
+
+Peng Tang,Xinggang Wang,Baoguang Shi,Xiang Bai,Wenyu Liu,Zhuowen Tu. Deep fishernet for object classification
+
+Jia-Xing Zhong,Nannan Li,Weijie Kong,Tao Zhang,Thomas H. Li,Ge Li. Step-by-step erasion, one-by-one collection: a weakly supervised temporal action detector
+
+Ziming Zhang,Yun Liu,Xi Chen,Yanjun Zhu,Ming-Ming Cheng,Venkatesh Saligrama,Philip H. S. Torr. Sequential optimization for efficient high-quality object proposal generation
+
+R. Anil,K. Manjusha,S. Sachin Kumar,K. P. Soman. Convolutional neural networks for the recognition of Malayalam characters
+
+Mete Ozay,Takayuki Okatani. Optimization on submanifolds of convolution kernels in cnns
+
+Yanbu Guo,Bingyi Wang,Weihua Li,Bei Yang. Protein secondary structure prediction improved by recurrent neural networks integrated with two-dimensional convolutional neural networks
+
+Fan Lyu,Qi Wu,Fuyuan Hu,Qingyao Wu,Mingkui Tan. Attend and imagine: Multi-label image classification with visual attention and recurrent neural networks
+
+Na Duan,Lizheng Liu,Xianjia Yu,Qingqing Li,Shih-Ching Yeh. Classification of multichannel surface-electromyography signals based on convolutional neural networks
+
+Thanh Vo,Trang Nguyen,C. T. Le. Race recognition using deep convolutional neural networks
+
+Xiao Huang,Cuizhen Wang,Zhenlong Li,Huan Ning. A visual–textual fused approach to automated tagging of flood-related tweets during a flood event
+
+ Scikit-multilearn: a scikit-based Python environment for performing multi-label classification
+
+Wenda Zhao,Fan Zhao,Dong Wang,Huchuan Lu. Defocus blur detection via multi-stream bottom-top-bottom network
+
+Foteini Markatopoulou,Vasileios Mezaris,Ioannis Patras. Implicit and explicit concept relations in deep neural networks for multi-label video/image annotation
+
+Hao Chen,Jianglong Xu,Guangyi Xiao,Qi Wu,Shiqin Zhang. Fast auto-clean CNN model for online prediction of food materials
+
+Ramazan Gokberk Cinbis,Jakob J. Verbeek,Cordelia Schmid. Approximate fisher kernels of non-iid image models for image categorization
+
+Sheng Guo,Weilin Huang,Xiao Zhang,Prasanna Srikhanta,Yin Cui,Yuan Li,Hartwig Adam,Matthew R. Scott,Serge J. Belongie. The imaterialist fashion attribute dataset
+
+Ashima Kukkar,Rajni Mohana,Anand Nayyar,Jeamin Kim,Byeong-Gwon Kang,Naveen K. Chilamkurti. A novel deep-learning-based bug severity classification technique using convolutional neural networks and random forest with boosting
+
+Guo Li,Na Li. Customs classification for cross-border e-commerce based on text-image adaptive convolutional neural network
+
+Yaqi Wang,Shi Feng,Daling Wang,Ge Yu,Yifei Zhang. Multi-label Chinese microblog emotion classification via convolutional neural network
+
+Zijun Wei,Minh Hoai. Region ranking SVM for image classification
+
+Liang Li,Shuhui Wang,Shuqiang Jiang,Qingming Huang. Attentive recurrent neural network for weak-supervised multi-label image classification
+
+Xueliang Liu,Rongjie Zhang,Zhijun Meng,Richang Hong,Guangcan Liu. On fusing the latent deep CNN feature for image classification
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Multiview label sharing for visual representations and classifications
+
+Fengping An. Image classification algorithm based on deep learning-kernel function
+
+Hakan Cevikalp,Burak Benligiray,Ömer Nezih Gerek. Semi-supervised robust deep neural networks for multi-label image classification
+
+ A new method using the convolutional neural network with compressive sensing for fabric defect classification based on small sample sizes
+
+Yongshan Zhang,Jia Wu,Zhihua Cai,Philip S. Yu. Multi-view multi-label learning with sparse feature selection for image annotation
+
+Ziming Zhang,Philip H. S. Torr. Object proposal generation using two-stage cascade SVMs
+
+Yu Zhang,Yin Wang,Xu-Ying Liu,Siya Mi,Min-Ling Zhang. Large-scale multi-label classification using unknown streaming images
+
+Yongqiang Zhang,Yancheng Bai,Mingli Ding,Yongqiang Li,Bernard Ghanem. Weakly-supervised object detection via mining pseudo ground truth bounding-boxes
+
+Hanh T. H. Nguyen,Martin Wistuba,Lars Schmidt-Thieme. Personalized tag recommendation for images using deep transfer learning
+
+Vacit Oguz Yazici,Abel Gonzalez-Garcia,Arnau Ramisa,Bartlomiej Twardowski,Joost van de Weijer. Orderless recurrent models for multi-label classification
+
+Carolina Redondo-Cabrera,Marcos Baptista-Ríos,Roberto Javier López-Sastre. Learning to exploit the prior network knowledge for weakly supervised semantic segmentation
+
+Pengtao Xie,Ruslan Salakhutdinov,Luntian Mou,Eric P. Xing. Deep determinantal point process for large-scale multi-label classification
+
+Fei Huang,Cheng Jin,Yuejie Zhang,Kangnian Weng,Tao Zhang,Weiguo Fan. Sketch-based image retrieval with deep visual semantic descriptor
+
+Rui-Wei Zhao,Jianguo Li,Yurong Chen,Jia-Ming Liu,Yu-Gang Jiang,Xiangyang Xue. Regional gating neural networks for multi-label image classification.
+
+Xu Chen,Chunfeng Lian,Li Wang,Hannah H. Deng,Tianshu Kuang,Steve H. Fung,Jaime Gateno,Dinggang Shen,James J. Xia,Pew-Thian Yap. Diverse image annotation
+
+Tie-Qiang Wang,Fei Yin,Cheng-Lin Liu. Radical-based Chinese character recognition via multi-labeled learning of deep residual networks
+
+Matteo Poggi,Stefano Mattoccia. Deep stereo fusion: combining multiple disparity hypotheses with deep-learning
+
+Amir Rasouli,John K. Tsotsos. Joint attention in driver-pedestrian interaction: from theory to practice
+
+Feiping Nie,Zhanxuan Hu,Xuelong Li. An investigation for loss functions widely used in machine learning
+
+Wan-Jin Yu,Zhen-Duo Chen,Xin Luo,Wu Liu,Xin-Shun Xu. DELTA: A deep dual-stream network for multi-label image classification
+
+Mehdi Baradaran Tahoori. Using satisfiability in application-dependent testing of FPGA interconnects
+
+Si Liu,Yao Sun,Defa Zhu,Guanghui Ren,Yu Chen,Jiashi Feng,Jizhong Han. Cross-domain human parsing via adversarial feature and label adaptation
+
+Biswarup Ganguly,Sayanti Chaudhuri,Subrata Biswas,Debangshu Dey,Sugata Munshi,Biswendu Chatterjee,Sovan Dalai,Sivaji Chakravorti. Wavelet kernel-based convolutional neural network for localization of partial discharge sources within a power apparatus
+
+Ziming Zhang,Yun Liu,Tolga Bolukbasi,Ming-Ming Cheng,Venkatesh Saligrama. Bing++: A fast high quality object proposal generator at 100fps
+
+Thi Quynh Nhi Tran,Hervé Le Borgne,Michel Crucianu. Aggregating image and text quantized correlated components
+
+Qinghua Yu,Jinjun Wang,Shizhou Zhang,Yihong Gong,Jizhong Zhao. Combining local and global hypotheses in deep neural network for multi-label image classification
+
+Qian Zhang,Wei Qi Yan. Currency detection and recognition based on deep learning
+
+Alexis Vallet,Hiroyasu Sakamoto. A multi-label convolutional neural network for automatic image annotation
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Structured weak semantic space construction for visual categorization
+
+Siyuan Hao,Wei Wang,Yan Yan,Lorenzo Bruzzone. Class-wise dictionary learning for hyperspectral image classification
+
+Shiyi He,Chang Xu,Tianyu Guo,Chao Xu,Dacheng Tao. Reinforced multi-label image classification by exploring curriculum
+
+Jin Ye,Junjun He,Xiaojiang Peng,Wenhao Wu,Yu Qiao. Attention-driven dynamic graph convolutional network for multi-label image recognition
+
+ Multi-label classification: problem transformation methods in Tamil phoneme classification
+
+Jingwen Ye,Yixin Ji,Xinchao Wang,Xin Gao,Mingli Song. Data-free knowledge amalgamation via group-stack dual-gan
+
+Thibaut Durand,Nicolas Thome,Matthieu Cord. Exploiting negative evidence for deep latent structured models
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Image-level classification by hierarchical structure learning with visual and semantic similarities
+
+Shi Feng,Yaqi Wang,Kaisong Song,Daling Wang,Ge Yu. Detecting multiple coexisting emotions in microblogs with convolutional neural networks
+
+Tao Wang,Changhua Lu,Yining Sun,Mei Yang,Chun Liu,Chunsheng Ou. Automatic ECG classification using continuous wavelet transform and convolutional neural network
+
+Markus Mühling,Nikolaus Korfhage,Eric Müller,Christian Otto,Matthias Springstein,Thomas Langelage,Uli Veith,Ralph Ewerth,Bernd Freisleben. Deep learning for content-based video retrieval in film and television production
+
+Mohamed Ilyes Lakhal,Hakan Çevikalp,Sergio Escalera,Ferda Ofli. Recurrent neural networks for remote sensing image classification
+
+Omid Ghorbanzadeh,Thomas Blaschke. Optimizing Sample Patches Selection of CNN to Improve the mIOU on Landslide Detection.
+
+Hassan El Bahi,Abdelkarim Zatni. Text recognition in document images obtained by a smartphone based on deep convolutional and recurrent neural network
+
+Lin Feng,Sheng-lan Liu,Jianing Yao. Music genre classification with paralleling recurrent convolutional neural network
+
+Tianshui Chen,Liang Lin,Riquan Chen,Xiaolu Hui,Hefeng Wu. Knowledge-guided multi-label few-shot learning for general image recognition
+
+Aaliyah Alshehri,Yakoub Bazi,Nassim Ammour,Haidar Almubarak,Naif Alajlan. Deep attention neural network for multi-label classification in unmanned aerial vehicle imagery
+
+Qi Wu,Chunhua Shen,Anton van den Hengel,Lingqiao Liu,Anthony R. Dick. Image captioning with an intermediate attributes layer
+
+Jack Lanchantin,Tianlu Wang,Vicente Ordonez,Yanjun Qi. General multi-label image classification with transformers
+
+Wei-Lin Ku,Hung-Chun Chou,Wen-Hsiao Peng. Discriminatively-learned global image representation using CNN as a local feature extractor for image retrieval
+
+Yo-Ping Huang,Haobijam Basanta. Bird image retrieval and recognition using a deep learning platform
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Multi-view image classification with visual, semantic and view consistency
+
+Haoqian Wang,Yi Luo,Wangpeng An,Qingyun Sun,Jun Xu,Lei Zhang. PID controller-based stochastic optimization acceleration for deep neural networks
+
+Guoqiang Wu,Yingjie Tian,Dalian Liu. Cost-sensitive multi-label learning with positive and negative label pairwise correlations
+
+Thanh Vo,Trang Nguyen,C. T. Le. A hybrid framework for smile detection in class imbalance scenarios
+
+Francisco Charte,Antonio J. Rivera,David Charte,María José del Jesus,Francisco Herrera. Tips, guidelines and tools for managing multi-label datasets: The mldr. datasets R package and the Cometa data repository
+
+Zhi Zhang,Guanghan Ning,Zhihai He. Knowledge projection for deep neural networks
+
+Caijuan Shi,Gaoyun An,Ruizhen Zhao,Qiuqi Ruan,Qi Tian. Multiview hessian semisupervised sparse feature selection for multimedia analysis
+
+Pawel Trajdos,Marek Kurzynski. Weighting scheme for a pairwise multi-label classifier based on the fuzzy confusion matrix
+
+ Survey and prospect of intelligent interaction-oriented image recognition techniques
+
+Yao Jiang,Tao Zhou,Ge-Peng Ji,Keren Fu,Qijun Zhao,Deng-Ping Fan. Light field salient object detection: A review and benchmark
+
+Yue Lang,Qing Wang,Yang Yang,Chunping Hou,Haiping Liu,Yuan He. Joint motion classification and person identification via multitask learning for smart homes
+
+Ce Ge,Jing Wang,Jingyu Wang,Qi Qi,Haifeng Sun,Jianxin Liao. Towards automatic visual inspection: A weakly supervised learning method for industrial applicable object detection
+
+Zhihao Zhu,Zhan Xue,Zejian Yuan. Topic-guided attention for image captioning
+
+Seyed Hamid Rezatofighi,Anton Milan,Qinfeng Shi,Anthony R. Dick,Ian D. Reid. Joint learning of set cardinality and state distribution
+
+Chen Chen,Yi Ma,Guangbo Ren. A convolutional neural network with fletcher–reeves algorithm for hyperspectral image classification
+
+Man Zhang,Yong Zhou,Jiaqi Zhao,Yiyun Man,Bing Liu,Rui Yao. A survey of semi-and weakly supervised semantic segmentation of images
+
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu. Mind your neighbours: Image annotation with metadata neighbourhood graph co-attention networks
+
+Anna Mikaelyan,Fernando Alonso-Fernandez,Josef Bigün. Periocular recognition by detection of local symmetry patterns
+
+Dongzhe Wang,Kezhi Mao. Task-generic semantic convolutional neural network for web text-aided image classification
+
+Saed Alrabaee,Mourad Debbabi,Lingyu Wang. On the feasibility of binary authorship characterization
+
+ The classification of construction waste material using a deep convolutional neural network
+
+Dong Li,Jia-Bin Huang,Yali Li,Shengjin Wang,Ming-Hsuan Yang. Progressive representation adaptation for weakly supervised object localization
+
+Shizhen Zhao,Changxin Gao,Jun Zhang,Hao Cheng,Chuchu Han,Xinyang Jiang,Xiaowei Guo,Wei-Shi Zheng,Nong Sang,Xing Sun. Do not disturb me: Person re-identification under the interference of other pedestrians
+
+Jing Li,Huaxiang Zhang,Wenbo Wan,Jiande Sun. Two-class 3D-CNN classifiers combination for video copy detection
+
+Qian Wang,Ke Chen. Multi-label zero-shot human action recognition via joint latent ranking embedding
+
+Patricia Ordóñez,Tom Armstrong,Tim Oates,Jim Fackler. Classification of patients using novel multivariate time series representations of physiological data
+
+ Automatic modulation classification exploiting hybrid machine learning network
+
+Mingchen Gao,Ziyue Xu,Le Lu,Adam P. Harrison,Ronald M. Summers,Daniel J. Mollura. Multi-label deep regression and unordered pooling for holistic interstitial lung disease pattern detection
+
+Long Chen,Ronggui Wang,Juan Yang,Lixia Xue,Min Hu. Multi-label image classification with recurrently learning semantic dependencies
+
+Sarah Vluymans. Dealing with imbalanced and weakly labelled data in machine learning using fuzzy and rough set methods
+
+Samya Amiri,Mohamed Ali Mahjoub,Islem Rekik. Tree-based ensemble classifier learning for automatic brain glioma segmentation
+
+Sourour Brahimi,Najib Ben Aoun,Chokri Ben Amar. Boosted Convolutional Neural Network for object recognition at large scale
+
+Amirhossein Akbarnejad,Mahdieh Soleymani Baghshah. An efficient semi-supervised multi-label classifier capable of handling missing labels
+
+Alberto Blanco,Arantza Casillas,Alicia Pérez,Arantza Díaz de Ilarraza. Multi-label clinical document classification: Impact of label-density
+
+Chin-Chen Chang,Chung-Mou Pengwu. Gesture recognition approach for sign language using curvature scale space and hidden Markov model
+
+Marilyn Bello,Gonzalo Nápoles,Ricardo Sánchez,Rafael Bello,Koen Vanhoof. Deep neural network to extract high-level features and labels in multi-label classification problems
+
+Mingchen Gao,Ziyue Xu,Le Lu,Adam P. Harrison,Ronald M. Summers,Daniel J. Mollura. Holistic interstitial lung disease detection using deep convolutional neural networks: Multi-label learning and unordered pooling
+
+ A weakly supervised semantic segmentation network by aggregating seed cues: the multi-object proposal generation perspective
+
+Qingquan Song,Haifeng Jin,Xiao Huang,Xia Hu. Multi-label adversarial perturbations
+
+Pascal Mettes,Jan C. van Gemert,Cees G. M. Snoek. No spare parts: Sharing part detectors for image categorization
+
+Shafin Rahman,Salman H. Khan,Nick Barnes. Deep0Tag: Deep Multiple Instance Learning for Zero-Shot Image Tagging
+
+Yong Guo,Mingkui Tan,Qingyao Wu,Jian Chen,Anton van den Hengel,Qinfeng Shi. The shallow end: Empowering shallower deep-convolutional networks through auxiliary outputs
+
+Jianpei Wang,Shihong Yue,Xiao Yu,Yaru Wang. An efficient data reduction method and its application to cluster analysis
+
+Yun Liu,Shijie Li,Ming-Ming Cheng. Refinedbox: Refining for fewer and high-quality object proposals
+
+Changsheng Li,Chong Liu,Lixin Duan,Peng Gao,Kai Zheng. Reconstruction regularized deep metric learning for multi-label image classification
+
+Khalil Khan,Muhammad Attique,Rehan Ullah Khan,Ikram Syed,Tae-Sun Chung. A multi-task framework for facial attributes classification through end-to-end face parsing and deep convolutional neural networks
+
+Hao Yang,Joey Tianyi Zhou,Yu Zhang,Bin-Bin Gao,Jianxin Wu,Jianfei Cai. Can partial strong labels boost multi-label object recognition
+
+Qiaobo Hao,Shutao Li,Xudong Kang. Multilabel sample augmentation-based hyperspectral image classification
+
+ Image annotation using deep learning: A review
+
+Dongzhe Wang,Kezhi Mao. Learning semantic text features for web text-aided image classification
+
+M. Joseph Hughes,Robert Kennedy. High-quality cloud masking of Landsat 8 imagery using convolutional neural networks
+
+Mengze Wu,Yongdi Lu,Wenli Yang,Shen Yuong Wong. A study on arrhythmia via ECG signal classification using the convolutional neural network
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Semantically modeling of object and context for categorization
+
+ Android malware family classification based on deep learning of code images
+
+Ang Li,Jianzhong Qi,Rui Zhang,Ramamohanarao Kotagiri. Boosted gan with semantically interpretable information for image inpainting
+
+Yan Huang,Qi Wu,Wei Wang,Liang Wang. Image and sentence matching via semantic concepts and order learning
+
+Ahmad Jalal,Abrar Ahmed,Adnan Ahmed Rafique,Kibum Kim. Scene semantic recognition based on modified fuzzy C-mean and maximum entropy using object-to-object relations
+
+ Deep-learning-based power distribution network switch action identification leveraging dynamic features of distributed energy resources
+
+Martin Kolár,Michal Hradis,Pavel Zemcík. Deep learning on small datasets using online image search
+
+Lingling Fang,Hanyu Zhang,Jiaxin Zhou,Xianghai Wang. Image classification with an RGB-channel nonsubsampled contourlet transform and a convolutional neural network
+
+ Method development for cross-study microbiome data mining: challenges and opportunities
+
+Pawel Trajdos,Marek Kurzynski. A correction method of a binary classifier applied to multi-label pairwise models
+
+Rim Trabelsi,Issam Jabri,Farid Melgani,Fethi Smach,Nicola Conci,Ammar Bouallegue. Indoor object recognition in RGBD images with complex-valued neural networks for visually-impaired people
+
+Fadi A. Aloul,Igor L. Markov,Karem A. Sakallah. Improving the efficiency of Circuit-to-BDD conversion by gate and input ordering
+
+Tianshui Chen,Liang Lin,Xian Wu,Nong Xiao,Xiaonan Luo. Learning to segment object candidates via recursive neural networks
+
+ Real-time detection of critical generators in power systems: A deep learning HCP approach
+
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Learning label correlations for multi-label image recognition with graph networks
+
+Youssef Tamaazousti,Hervé Le Borgne,Adrian Popescu,Etienne Gadeski,Alexandru-Lucian Gînsca,Céline Hudelot. Vision-language integration using constrained local semantic features
+
+Tong Shen,Guosheng Lin,Chunhua Shen,Ian D. Reid. Learning multi-level region consistency with dense multi-label networks for semantic segmentation
+
+Yanchen Qiao,Qingshan Jiang,Zhenchao Jiang,Liang Gu. A multi-channel visualization method for malware classification based on deep learning
+
+ Recognition of handwritten digits using DNN, CNN, and RNN
+
+Chunjie Zhang,Jian Cheng,Qi Tian. Multiview semantic representation for visual recognition
+
+Ke Sun,Jiasong Zhu,Zhuo Lei,Xianxu Hou,Qian Zhang,Jiang Duan,Guoping Qiu. Learning deep semantic attributes for user video summarization
+
+Jiahao Xu,Hongda Tian,Zhiyong Wang,Yang Wang,Wenxiong Kang,Fang Chen. Joint input and output space learning for multi-label image classification
+
+Yongsheng Liu,Wenyu Chen,Hong Qu,S. M. Hasan Mahmud,Kebin Miao. Weakly supervised image classification and pointwise localization with graph convolutional networks
+
+ Multitrace first-break picking using an integrated seismic and machine learning methodPicking based on machine learning
+
+Hongyu Xu,Xutao Lv,Xiaoyu Wang,Zhou Ren,Navaneeth Bodla,Rama Chellappa. Deep regionlets: Blended representation and deep learning for generic object detection
+
+Kien Do,Truyen Tran,Thin Nguyen,Svetha Venkatesh. Attentional multilabel learning over graphs: a message passing approach
+
+Robert W. P. Luk,Robert I. Damper. A novel approach to inferring letter-phoneme correspondences
+
+Youssef Tamaazousti,Hervé Le Borgne,Adrian Popescu. Constrained local enhancement of semantic features by content-based sparsity
+
+Ju-Youn Park,Yewon Hwang,Dukyoung Lee,Jong-Hwan Kim. MarsNet: multi-label classification network for images of various sizes
+
+Yannis Papanikolaou,Grigorios Tsoumakas,Ioannis Katakis. Hierarchical partitioning of the output space in multi-label data
+
+Lu Shen,Jun Shi,Yun Dong,Shihui Ying,Yaxin Peng,Lu Chen,Qi Zhang,Hedi An,Yingchun Zhang. An improved deep polynomial network algorithm for transcranial sonography–based diagnosis of parkinson's disease
+
+Hamid Abrishami Moghaddam,Samaneh Ghodratnama. Toward semantic content-based image retrieval using Dempster–Shafer theory in multi-label classification framework
+
+Tao Zhou,Zhixin Li,Canlong Zhang. Enhance the recognition ability to occlusions and small objects with robust faster R-CNN
+
+ A deep learning framework for eye melanoma detection employing convolutional neural network
+
+Luis Adrián Cabrera-Diego,Nik Bessis,Ioannis Korkontzelos. Classifying emotions in Stack Overflow and JIRA using a multi-label approach
+
+Gong Cheng,Decheng Gao,Yang Liu,Junwei Han. Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification.
+
+Xiangping Wu,Qingcai Chen,Wei Li,Yulun Xiao,Baotian Hu. AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification
+
+ A survey on multi-label classification for images
+
+Rui-Wei Zhao,Zuxuan Wu,Jianguo Li,Yu-Gang Jiang. Learning semantic feature map for visual content recognition
+
+ Machine learning-enabled non-destructive paper chromogenic array detection of multiplexed viable pathogens on food
+
+Zunlei Feng,Weixin Liang,Daocheng Tao,Li Sun,Anxiang Zeng,Mingli Song. Cu-net: Component unmixing network for textile fiber identification
+
+Pallavi Jain,Bianca Schoen-Phelan,Robert Ross. Automatic flood detection in SentineI-2 images using deep convolutional neural networks
+
+Cong Wang,Peng Zhang,Yanning Zhang,Lei Zhang,Wei Wei. A multi-label hyperspectral image classification method with deep learning features
+
+Mei-Chen Yeh,Yi-Nan Li. Multilabel deep visual-semantic embedding
+
+Oscar Quispe,Alexander Ocsa,Ricardo Coronado. Latent semantic indexing and convolutional neural network for multi-label and multi-class text classification
+
+Liuting Shang,Shukai Duan,Lidan Wang,Tingwen Huang. SRMC: A multibit memristor crossbar for self-renewing image mask
+
+ On the universality of visual and multimodal representations
+
+ Multi-label classification of satellite images with deep learning
+
+Lei Liu,Wentao Lei,Xiang Wan,Li Liu,Yongfang Luo,Cheng Feng. Semi-supervised active learning for COVID-19 lung ultrasound multi-symptom classification
+
+Jingwen Ye,Xinchao Wang,Yixin Ji,Kairi Ou,Mingli Song. Amalgamating filtered knowledge: Learning task-customized student from multi-task teachers
+
+Yangtao Wang,Yanzhao Xie,Yu Liu,Ke Zhou,Xiaocui Li. Fast graph convolution network based multi-label image recognition via cross-modal fusion
+
+ Automated isotope identification algorithms for low-resolution gamma spectrometers
+
+Luis Pineda,Amaia Salvador,Michal Drozdzal,Adriana Romero. Elucidating image-to-set prediction: An analysis of models, losses and datasets
+
+Shafin Rahman,Salman H. Khan,Nick Barnes. Deep multiple instance learning for zero-shot image tagging
+
+Bin-Bin Gao,Hong-Yu Zhou. Learning to discover multi-class attentional regions for multi-label image recognition
+
+Yugang Li,Yongbin Wang. A multi-label image classification algorithm based on attention model
+
+Quanling Meng,Weigang Zhang. Multi-label image classification with attention mechanism and graph convolutional networks
+
+Jingfan Guo,Tongwei Ren,Lei Huang,Jia Bei. Saliency detection on sampled images for tag ranking
+
+Chao Huang,Hongliang Li,Wei Li,Qingbo Wu,Linfeng Xu. Store classification using Text-Exemplar-Similarity and Hypotheses-Weighted-CNN
+
+ An approach for multi label image classification using single label convolutional neural network
+
+Joakim Bruslund Haurum,Thomas B. Moeslund. Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark
+
+Wangyang Yu,W. Bastiaan Kleijn. Room acoustical parameter estimation from room impulse responses using deep neural networks
+
+Ce Ge,Jingyu Wang,Qi Qi,Haifeng Sun,Jianxin Liao. Fewer is More: Image Segmentation Based Weakly Supervised Object Detection with Partial Aggregation.
+
+Jonathan Mojoo,Keiichi Kurosawa,Takio Kurita. Deep CNN with graph laplacian regularization for multi-label image annotation
+
+ 面向智能交互的图像识别技术综述与展望
+
+Hakan Cevikalp,Burak Benligiray,Ömer Nezih Gerek. Semi-Supervised Robust Deep Neural Networks for Multi-Label Classification.
+
+Zhaohui Yang,Miaojing Shi,Chao Xu,Vittorio Ferrari,Yannis Avrithis. Training object detectors from few weakly-labeled and many unlabeled images
+
+Dong Liang,Xinbo Gao,Wen Lu,Lihuo He. Deep multi-label learning for image distortion identification
+
+Menglin Wu,Xinxin Cai,Qiang Chen,Zexuan Ji,Sijie Niu,Theodore Leng,Daniel L. Rubin,Hyunjin Park. Geographic atrophy segmentation in SD-OCT images using synthesized fundus autofluorescence imaging
+
+Qian Wang,Ke Chen. Multi-label zero-shot human action recognition via joint latent embedding
+
+Xiaojie Wang,Rui Zhang,Yu Sun,Jianzhong Qi. Adversarial distillation for learning with privileged provisions
+
+Hoa M. Le,Thi-Oanh Nguyen,Dung Ngo-Tien. Fully automated multi-label image annotation by convolutional neural network and adaptive thresholding
+
+Xiaopeng Zhang,Hongkai Xiong,Weiyao Lin,Qi Tian. Weak to strong detector learning for simultaneous classification and localization
+
+Mariusz Topolski. Algorithm of multidimensional analysis of main features of PCA with blurry observation of facility features detection of carcinoma cells multiple myeloma
+
+ BinEye: Towards Efficient Binary Authorship Characterization Using Deep Learning
+
+Yanqing Feng,Lunwen Wang,Mengbo Zhang. Weakly-supervised learning of a deep convolutional neural networks for semantic segmentation
+
+Jonas Prellberg,Oliver Kramer. Multi-label classification of surgical tools with convolutional neural networks
+
+Jing Li. Parallel two-class 3D-CNN classifiers for video classification
+
+Samya Amiri,Mohamed Ali Mahjoub,Islem Rekik. Dynamic multiscale tree learning using ensemble strong classifiers for multi-label segmentation of medical images with lesions
+
+ Restaurant attribute classification using deep learning
+
+Tao Zhou,Zhixin Li,Canlong Zhang,Lan Lin. An improved convolutional neural network model with adversarial net for multi-label image classification
+
+Juanjuan Zhao,Ling Pan,Pengfei Zhao,Xiao-Xian Tang. Medical sign recognition of lung nodules based on image retrieval with semantic features and supervised hashing
+
+Mengdan Zhang,Jiashi Feng,Weiming Hu. Robust visual object tracking with top-down reasoning
+
+ Nondestructive multiplex detection of foodborne pathogens with background microflora and symbiosis using a paper chromogenic array and advanced neural network
+
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu,Qiang Wu. Heritage image annotation via collective knowledge
+
+Shuo Xu,Xin An. ML2S-SVM: multi-label least-squares support vector machine classifiers
+
+Kelei He,Jing Huo,Yinghuan Shi,Yang Gao,Dinggang Shen. Midcn: A multiple instance deep convolutional network for image classification
+
+Yi-Nan Li,Mei-Chen Yeh. Learning image conditioned label space for multilabel classification
+
+Qi Wu,Chunhua Shen,Lingqiao Liu,Anthony R. Dick,Anton van den Hengel. What value high level concepts in vision to language problems
+
+Zhihao Zhu,Zhan Xue,Zejian Yuan. Think and Tell: Preview Network for Image Captioning.
+
+ Human action recognition by discriminative feature pooling and video segmentation attention model
+
+Haigang Zhang,Jinfeng Yang,Guimin Jia,Shaocheng Han,Xinran Zhou. ELM-MC: multi-label classification framework based on extreme learning machine
+
+Junjie Zhang,Jian Zhang,Jianfeng Lu,Chunhua Shen,Kate Curr,Robin Phua,Richard Neville,Elise Edmonds. Slnsw-uts: A historical image dataset for image multi-labeling and retrieval
+
+Tiezhu Sun,Wei Zhang,Zhijie Wang,Lin Ma,Zequn Jie. Image-level to Pixel-wise Labeling: From Theory to Practice.
+
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Learning category correlations for multi-label image recognition with graph networks
+
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu. Kill two birds with one stone: Weakly-supervised neural network for image annotation and tag refinement
+
+Leszek Pecyna,Angelo Cangelosi. Learning to point and count
+
+Suvidha Tripathi,Satish Kumar Singh,Hwee Kuan Lee. An end-to-end breast tumour classification model using context-based patch modelling–A BiLSTM approach for image classification
+
+ DM-L based feature extraction and classifier ensemble for object recognition
+
+ Image retrieval by fusion of features from pre-trained deep convolution neural networks
+
+ Diversity-promoting and large-scale machine learning for healthcare
+
+Jianming Ye,Weiji Yang,Jianqing Wang,Xiaomei Xu,Liuyi Li,Chun Xie,Gang Chen,Xiangcai Wang,Xiaobo Lai. 基于 DCNN 的图像语义分割综述
+
+ 面向大规模图像分类的深度卷积神经网络优化
+
+Fan Lyu,Fuyuan Hu,Victor S. Sheng,Zhengtian Wu,Qiming Fu,Baochuan Fu. Coarse to fine: Multi-label image classification with global/local attention
+
+ BVCNN: a multi-object image recognition method based on the convolutional neural networks
+
+ Barcode detection and decoding in on-line fashion images
+
+Seyed Hamid Rezatofighi,Vijay Kumar B. G,Anton Milan,Ehsan Abbasnejad,Anthony R. Dick,Ian D. Reid. Deepsetnet: Predicting sets with deep neural networks
+
+Yashaswi Verma. Diverse image annotation with missing labels
+
+ RADAMES: A New Management Approach to Opera: repertory, archives and related documents
+
+Mohammed Hassanin,Ibrahim Radwan,Salman H. Khan,Murat Tahtali. Learning discriminative representations for multi-label image recognition
+
+ Visual characteristics for computational prediction of aesthetics and evoked emotions
+
+Sonit Singh,Sarvnaz Karimi,Kevin Ho-Shon,Len Hamey. Biomedical Concept Detection in Medical Images: MQ-CSIRO at 2019 ImageCLEFmed Caption Task.
+
+Hilal Ergun,Mustafa Sert. Feature-level fusion of convolutional neural networks for visual object classification
+
+ LNEMLC: Label network embeddings for multi-label classification
+
+Weishan Zhang,Bing Xue,Jiehan Zhou,Xin Liu,Hao Lv. A scalable and efficient multi-label CNN-based license plate recognition on Spark
+
+Jianjia Zhang,Lei Wang,Luping Zhou,Wanqing Li. Beyond covariance: Sice and kernel based visual feature representation
+
+Zhao-Min Chen,Quan Cui,Xiu-Shen Wei,Xin Jin,Yanwen Guo. Disentangling, embedding and ranking label cues for multi-label image recognition
+
+Ran Song,Yonghuai Liu,Paul L. Rosin. Distinction of 3D objects and scenes via classification network and markov random field
+
+Xinggang Wang,Jiasi Wang,Peng Tang,Wenyu Liu. Weakly-and semi-supervised fast region-based CNN for object detection
+
+Xin Zhang,Bo He,Guangliang Li,Xiaokai Mu,Ying Zhou,Tanji Mang. NavNet: AUV navigation through deep sequential learning
+
+Zhao Li,Wei Lu,Zhanquan Sun,Weiwei Xing. Improving multi-label classification using scene cues
+
+Satyajit Neogi,Justin Dauwels. Factored Latent-Dynamic Conditional Random Fields for single and multi-label sequence modeling
+
+Erik Quintanilla,Yogesh Singh Rawat,Andrey Sakryukin,Mubarak Shah,Mohan S. Kankanhalli. Adversarial learning for personalized tag recommendation
+
+Rui-Wei Zhao,Qi Zhang,Zuxuan Wu,Jianguo Li,Yu-Gang Jiang. Visual content recognition by exploiting semantic feature map with attention and multi-task learning
+
+Zixuan Zhu,Yuhai Zhao. Multi-Graph Multi-Label Learning Based on Entropy
+
+Jongkwang Hong,Jianlong Fu,Youngjung Uh,Tao Mei,Hyeran Byun. Exploiting hierarchical visual features for visual question answering
+
+ Bing: Binarized normed gradients for objectness estimation at 300 frames per second
+
+ 目标提取与哈希机制的多标签图像检索
+
+ Semantic-interactive graph convolutional network for multilabel image recognition
+
+Jizhou Ma,Shuai Li,Hong Qin,Aimin Hao. Adaptive appearance modeling via hierarchical entropy analysis over multi-type features
+
+ Room geometry estimation from room impulse responses using convolutional neural networks
+
+Michael Wray,Davide Moltisanti,Dima Damen. Towards an unequivocal representation of actions
+
+Pawel Trajdos,Marek Kurzynski. Dynamic classifier chains for multi-label learning
+
+Tao Zhou,Zhixin Li,Canlong Zhang,Huifang Ma. Classify multi-label images via improved CNN model with adversarial network
+
+Dongjoo Yun,Jongbin Ryu,Jongwoo Lim. Dual aggregated feature pyramid network for multi label classification
+
+Shilong Liu,Lei Zhang,Xiao Yang,Hang Su,Jun Zhu. Query2label: A simple transformer way to multi-label classification
+
+Natalie Sommer,Senem Velipasalar,Leanne M. Hirshfield,Yantao Lu,Burak Kakillioglu. Simultaneous and spatiotemporal detection of different levels of activity in multidimensional data
+
+Arjun Pakrashi,Brian Mac Namee. CascadeML: An automatic neural network architecture evolution and training algorithm for multi-label classification (best technical paper)
+
+Christoph Daniel Schulze,Gregor Hoops,Reinhard von Hanxleden. Automatic Layout and Label Management for Compact UML Sequence Diagrams
+
+Mete Özay,Takayuki Okatani. Training cnns with normalized kernels
+
+Hao Guo,Song Wang. Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings
+
+Elijah Cole,Oisin Mac Aodha,Titouan Lorieul,Pietro Perona,Dan Morris,Nebojsa Jojic. Multi-Label Learning from Single Positive Labels
+
+Sumi Dey,Olac Fuentes. Predicting solar x-ray flux using deep learning techniques
+
+Wenhua Liu,Yidong Li,Qi Wu. An attribute-based high-level image representation for scene classification
+
+Xin Liu,Qihan Hu,Han Yuan,Cuiwei Yang. Motion artifact detection in ppg signals based on gramian angular field and 2-d-cnn
+
+Feng-Ping An,Jun-e Liu,Lei Bai. Object recognition algorithm based on optimized nonlinear activation function-global convolutional neural network
+
+Yawen Luo,Yuhua Chen. FPGA-Based Acceleration on Additive Manufacturing Defects Inspection
+
+Yanan Wu,He Liu,Songhe Feng,Yi Jin,Gengyu Lyu,Zizhang Wu. GM-MLIC: graph matching based multi-label image classification
+
+Ngoc Q. Ly,Tuong KL. Do,Binh X. Nguyen. Large-scale coarse-to-fine object retrieval ontology and deep local multitask learning
+
+Jianwei Luo,Jianguo Li,Jun Wang,Zhiguo Jiang,Yurong Chen. Deep attributes from context-aware regional neural codes
+
+ Multimodal medical image fusion using rolling guidance filter with CNN and nuclear norm minimization
+
+Mengying Zhang,Changsheng Li,Xiangfeng Wang. Multi-view metric learning for multi-label image classification
+
+Xiaowei Gu,Plamen P. Angelov,Ce Zhang,Peter M. Atkinson. A semi-supervised deep rule-based approach for complex satellite sensor image analysis
+
+Wolfgang Fuhl. Tensor normalization and full distribution training
+
+ Uncertainty flow facilitates zero-shot multi-label learning in affective facial analysis
+
+Xiaoli Sun,Qiwei Wang,Xiujun Zhang,Chen Xu,Weiqiang Zhang. Deep blur detection network with boundary-aware multi-scale features
+
+Lingxiao Yang,Xiaohua Xie,Jianhuang Lai. Learning discriminative visual elements using part-based convolutional neural network
+
+ Deep-lift: deep label-specific feature learning for image annotation
+
+Vidya B. Manian,Estefanía Alfaro-Mejía,Roger P. Tokars. Image classification and labeling
+
+Haofu Liao,Yucheng Li,Tianran Hu,Jiebo Luo. Inferring restaurant styles by mining crowd sourced photos from user-review websites
+
+Fengping An. Image classification algorithm based on stacked sparse coding deep learning model-optimized kernel function nonnegative sparse representation
+
+Shangfei Wang,Guozhu Peng,Zhuangqiang Zheng. Capturing joint label distribution for multi-label classification through adversarial learning
+
+ Classification of hand-drawn basic circuit components using convolutional neural networks
+
+Gonzalo Nápoles,Marilyn Bello,Yamisleydi Salgueiro. Long-term Cognitive Network-based architecture for multi-label classification
+
+ 인공 지능 기술 비평
+
+Falong Shen,Rui Gan. Joint segmentation and classification with fully convolutional networks
+
+ An automatic computer-based method for fast and accurate Covid-19 diagnosis
+
+Mengdan Gu,Xin Huang,Yu Fang. Automatic generation of pulmonary radiology reports with semantic tags
+
+Lixia Xue,Di Jiang,Ronggui Wang,Juan Yang,Min Hu. Learning semantic dependencies with channel correlation for multi-label classification
+
+Mikhail Postnikov,Boris V. Dobrov. News stories representation using event photos
+
+Yang Zhao,Zhongxia Shang,Yong Lian. Auto generation of high-performance fixed-point multiplier for artificial neural networks
+
+Ruiquan Ge,Renfeng Zhang,Pu Wang. Prediction of chronic diseases with multi-label neural network
+
+Sounak Dey,Anjan Dutta,Suman K. Ghosh,Ernest Valveny,Josep Lladós,Umapada Pal. Aligning salient objects to queries: A multi-modal and multi-object image retrieval framework
+
+ A comparison of image and object level annotation performance of image recognition cloud services and custom Convolutional Neural Network models
+
+ Image classification based on convolutional neural network and support vector machine
+
+Manan Jethanandani,Thinagaran Perumal,Jieh-Ren Chang,Abhishek Sharma,Yipeng Bao. Multi-Resident Activity Recognition using Multi-Label Classification in Ambient Sensing Smart Homes
+
+Ngoc Q. Ly,Tuong KL. Do,Binh X. Nguyen. Enhanced fashion attribute learning framework adapts to attributes' inner-group correlations and imbalanced data
+
+ Learn to classify and count: A unified framework for object classification and counting
+
+ Computer Vision beyond the visible: Image understanding through language
+
+ Early detection of hemiplegia by analyzing the gait characteristics and walking patterns using convolutional neural networks
+
+Shuai Yu,Tao Zhang,Chao Ma,Lei Zhou,Jie Yang,Xiangjian He. Learning a discriminative dictionary with CNN for image classification
+
+Qingxiao Sun,Yi Liu,Ming Dun,Hailong Yang,Zhongzhi Luan,Lin Gan,Guangwen Yang,Depei Qian. SpTFS: sparse tensor format selection for MTTKRP via deep learning
+
+Mustafa Ozan Tezcan,Janusz Konrad,Jordana Muroff. Automatic Assessment of Hoarding Clutter from Images Using Convolutional Neural Networks
+
+Boseon Hong,Bongjae Kim. Efficient Caoshu Character Recognition Scheme and Service Using CNN-Based Recognition Model Optimization
+
+Youqing Xiao,Zhanchuan Cai,Xixi Yuan. An improved skeleton extraction method via multi-task and variable coefficient loss function in natural images
+
+Pei Lv,Haiyu Yu,Junxiao Xue,Junjin Cheng,Lisha Cui,Bing Zhou,Mingliang Xu,Yi Yang. Multi-scale discriminative region discovery for weakly-supervised object localization
+
+ Predicting device availability in mobile crowd computing using ConvLSTM
+
+ Research on Clothing Classification Based on Convolutional Neural Network
+
+Yang Zhao,Hao Zhang. Regularization in deep neural networks
+
+Han Yang,Shuangjian Jiao,Feng-De Yin. Multilabel Image Classification Based Fresh Concrete Mix Proportion Monitoring Using Improved Convolutional Neural Network
+
+Lihi Dery. Multi-label Ranking: Mining Multi-label and Label Ranking Data
+
+Guangwu Qian,Lei Zhang,Yan Wang. Single-label and multi-label conceptor classifiers in pre-trained neural networks
+
+Daphne S. Duncan-Wiles,Tamecia R. Jones,Heidi A. Diefes-Dux,Sean P. Brophy. Work in progress: Changes in elementary teachers' Noticing of engineering Pre/Post professional development with engineering
+
+ Comparison of deep learning activation functions for performance improvement of a 2D shooting game learning agent
+
+Fuyu Wang,Xiaodan Liang,Lin Xu,Liang Lin. Unifying relational sentence generation and retrieval for medical image report composition
+
+Gang Chen,Xiang Cheng,Sen Su,Chongmo Tang. Multiple-Instance ranking based deep hashing for multi-Label image retrieval
+
+Jingying Sun,Chengzhe Jia,Zhiguo Shi. Vehicle Attribute Recognition Algorithm Based on Multi-task Learning
+
+ Rice Disease Detection Based on Image Processing Technique
+
+Fengtao Zhou,Sheng Huang,Yun Xing. Deep semantic dictionary learning for multi-label image classification
+
+Kanghua Mo,Xiaozhang Liu,Teng Huang,Anli Yan. Querying little is enough: Model inversion attack via latent information
+
+G. Siva krishna,N. Prakash. Deep learning for efficient and multi-labelled classification of synthetic aperture radar images
+
+Carlos Fernandez Musoles. Towards neuroimaging real-time driving using Convolutional Neural Networks
+
+Pijush Kanti Dutta Pramanik,Nilanjan Sinhababu,Kyung-Sup Kwak,Prasenjit Choudhury. Deep learning based resource availability prediction for local mobile crowd computing
+
+Xinyuan Qu,Zhihong Huang,Yu Xu,Ning Mao,Gang Cai,Zhen Fang. Cheetah: An accurate assessment mechanism and a high-throughput acceleration architecture oriented toward resource efficiency
+
+ Criminal investigation image classification based on spatial CNN features and ELM
+
+Xiaopeng Zhang,Hongkai Xiong,Weiyao Lin,Qi Tian. Ensemble of part detectors for simultaneous classification and localization
+
+Pengfei Zhang,Hao-Yi Wu,Xin-Shun Xu. A dual-CNN model for multi-label classification by leveraging co-occurrence dependencies between labels
+
+Tengpeng Li,Huihui Song,Kaihua Zhang,Qingshan Liu. Context learning network for object detection
+
+ An investigation of estimating pitch periods using a non-linear differential operator
+
+ From convolutional to recurrent: case study in Nasopharyngeal Carcinoma segmentation
+
+Zhi-bin Guan,Kang Liu,Yan Ma,Xu Qian,Tongkai Ji. Sequential Dual Attention: Coarse-to-Fine-Grained Hierarchical Generation for Image Captioning
+
+ Multi-label classification of a real-world image dataset
+
+Yong Guo,Yin Zheng,Mingkui Tan,Qi Chen,Zhipeng Li,Jian Chen,Peilin Zhao,Junzhou Huang. Towards accurate and compact architectures via neural architecture transformer
+
+Tao He,Lei Zhang,Jixiang Guo,Zhang Yi. Multilabel classification by exploiting data‐driven pair‐wise label dependence
+
+ Comparison of image classification models on varying dataset sizes
+
+Jun Meng,Qiang Kang,Zheng Chang,Yushi Luan. Plncrna-hdeep: plant long noncoding rna prediction using hybrid deep learning based on two encoding styles
+
+Zheng Wang,Xu Zheng,Dongyan Li,Helin Zhang,Yi Yang,Hongguang Pan. A VGGNet-like approach for classifying and segmenting coal dust particles with overlapping regions
+
+ Agrégation de descripteurs sémantiques locaux contraints par parcimonie basée sur le contenu
+
+ 改进的卷积神经网络图片分类识别方法
+
+ 深度卷积神经网络图像语义分割研究进展
+
+Guangwei Zhang,Yinliang Zhao. Learning radicals from tangut characters
+
+Yan Zhang,Rui Zhang. Research on multimedia image classification technology based on chaos optimization machine learning algorithm
+
+Shuhuan Wen,Wenbo Tian,Hong Zhang,Shaokang Fan,Nannan Zhou,Xiongfei Li. Weakly Supervised Semantic Segmentation Based on Deep Learning
+
+ Identification of pedestrians attributes based on multi-class multi-label classification using Convolutional Neural Network (CNN)
+
+Guanghui Yang. Classification algorithm based on semantic judgment and its application in image classification
+
+ Identification and location of voltage sag sources based on multi-label random forest
+
+Lingqiao Li,Xipeng Pan,Huihua Yang,Tao Zhang,Zhenbing Liu. Supervised dictionary learning with regularization for near-infrared spectroscopy classification
+
+ Automatic segmentation of auroral images using machine learning techniques
+
+ Category Identification Technique by a Semantic Feature Generation Algorithm
+
+ E-Commerce Product Image Classification using Transfer Learning
+
+Abu Saleh Md. Abir,Sanjana Rahman,Samia Ellin,Maisha Farzana,Md Hridoy Manik,Chowdhury Rafeed Rahman. Confronting the constraints for optical character segmentation from printed bangla text image
+
+ Multiple Instance Multi-Label Learning for Yelp Restaurant Photo Classification
+
+Feiyu Wang,Wen Li,Dong Xu. Cross-dataset point cloud recognition using deep-shallow domain adaptation network
+
+ ML-ANet: A Transfer Learning Approach Using Adaptation Network for Multi-label Image Classification in Autonomous Driving
+
+ A Study: Multiple-Label Image Classification Using Deep Convolutional Neural Network Architectures
+
+Haiying Zhao,Wei Zhou,Xiaogang Hou,Hui Zhu. Double Attention for Multi-Label Image Classification
+
+Kai Chen,Yuhua Cheng,Chenming Hu. Device design for low power electronics with accurate deep submicrometer LDD-MOSFET models
+
+Xiaoli Sun,Xiujun Zhang,Mingqing Xiao,Chen Xu. Blur detection via deep pyramid network with recurrent distinction enhanced modules
+
+ Multilabel classification with group-based mapping: a framework with local feature selection and local label correlation
+
+Ke Zhu,Jianxin Wu. Residual Attention: A Simple but Effective Method for Multi-Label Recognition
+
+Changyu Liu,Qian Zhang,Bin Lu,Cong Li. Feature encodings and poolings for action and event recognition: A comprehensive survey
+
+Tian Chen,Chenxin Lin,Huaguo Liang,Fuji Ren. A dictionary-based test data compression method using tri-state coding
+
+Changyu Liu,Qian Zhang,Bin Lu,Cong Li. Feature encodings and poolings for action and event recognition: A comprehensive survey
+
+Tian Chen,Chenxin Lin,Huaguo Liang,Fuji Ren. A dictionary-based test data compression method using tri-state coding
+
+ Vision to keywords: automatic image annotation by filling the semantic gap
+
+Jianqiang Li,Guanghui Fu,Yueda Chen,Pengzhi Li,Bo Liu,Yan Pei,Hui Feng. A multi-label classification model for full slice brain computerised tomography image
+
+Hailiang Li,Qingxiao Guan,Haidong Wang,Jing Dong. Deep-MATEM: TEM query image based cross-modal retrieval for material science literature
+
+Wenhui Jiang,Zhicheng Zhao,Fei Su,Yuming Fang. Dynamic proposal sampling for weakly supervised object detection
+
+ Bayesian Spam Detection Framework on Mobile Device
+
+Kai Zhang,Jupeng Li,Ruohan Ma,Gang Li. An end-to-end segmentation network for the temporomandibular joints CBCT image based on 3D U-Net
+
+ Naive bayes classifier for dynamic chaining approach in multi-label learning
+
+Nima L. Wickramasinghe,Mohamed Athif. Multi-Label Classification using Deep Convolutional Neural Network
+
+ Middle-Level Attribute-Based Language Retouching for Image Caption Generation
+
+Hao Fan,Qingdi Wei,De-Qin Shu. The Method of Extracting Land Classification Information by HRI-RefineNET Model
+
+Mingchen Gao,Ziyue Xu,Daniel J. Mollura. Interstitial Lung Diseases via Deep Convolutional Neural Networks: Segmentation Label Propagation, Unordered Pooling and Cross-Dataset Learning
+
+Xiaohang Xu,Hong Zheng,Changhui You,Zhongyuan Guo,Xiongbin Wu. Far-net: Feature-wise attention-based relation network for multilabel jujube defect classification
+
+Khalil Khan,Jehad Ali,Irfan Uddin,Sahib Khan,Byeong-Hee Roh. A Facial Feature Discovery Framework for Race Classification Using Deep Learning
+
+Tao Pu,Tianshui Chen,Hefeng Wu,Liang Lin. Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels
+
+ Automatic Recognition of Anatomical Regions in Computed Tomography Images
+
+ Multiple Object Class Detection & Localization with Deep Learning (CNN).
+
+ Object detection and recognition: using deep learning to assist the visually impaired
+
+Saurabh Hinduja,Shaun J. Canavan,Lijun Yin. Recognizing Perceived Emotions from Facial Expressions
+
+Abhik Chakraborty,Raksha Sharma. See deeper: Identifying crystal structure from x-ray diffraction patterns
+
+Miguel Ángel Álvarez Carmona,Esaú Villatoro-Tello,Manuel Montes-y-Gómez,Luis Villaseñor Pineda. Author profiling in social media with multimodal information
+
+ Multi-label Classification of Small Samples Using an Ensemble Technique
+
+ Understanding the Amazon from Space
+
+ Flood Event Recognition from Images Based on CNN and Semantics
+
+ Cnn-fm: Personalized content-aware image tag recommendation
+
+Alexandru-Lucian Gînsca. Leveraging large scale Web data for image retrieval and user credibility estimation
+
+Shuai Ding,Hui Huang,Zhenmin Li,Xiao Liu,Shanlin Yang. SCNET: a novel UGI cancer screening framework based on semantic-level multimodal data fusion
+
+Yu-Chi Chen,Kuan-Ting Lai,Dong Liu,Ming-Syan Chen. Tagnet: Triplet-attention graph networks for hashtag recommendation
+
+Marilyn Bello,Gonzalo Nápoles,Ricardo Sánchez,Koen Vanhoof,Rafael Bello. Feature and label association based on granulation entropy for deep neural networks
+
+Rebecca Kehlbeck,Jochen Görtler,Yunhai Wang,Oliver Deussen. SPEULER: Semantics-preserving Euler Diagrams
+
+Abhik Chakraborty,Raksha Sharma. A deep crystal structure identification system for X-ray diffraction patterns
+
+Nicolò Colombo,Yang Gao. Disentangling neural architectures and weights: A case study in supervised classification
+
+ FA-Net: feature attention network for semantic segmentation of ship port
+
+Dmitry Krylov,Semen Poliakov,Natalia Khanzhina,Alexey Zabashta,Andrey Filchenkov,Aleksandr Farseev. Active and deep learning for multimedia
+
+ Real-time stability surveillance in power systems: a deep learning approach
+
+ Intelligent situational-awareness architecture for hybrid emergency power systems in more electric aircraft
+
+ Представление новостных сюжетов с помощью событийных фотографий
+
+V. L. Khatskevich. 应用k-means算法实现标记分布学习
+
+ 集成的卷积神经网络在智能冰箱果蔬识别中的应用
+
+V. L. Khatskevich. 应用k-means算法实现标记分布学习
+
+ 集成的卷积神经网络在智能冰箱果蔬识别中的应用
+
+ sEMG Classication with Convolutional Neural Networks: A Multi-Label Approach for Prosthetic Hand Control
+
+ Gömülü sistem üzerinde evrişimsel sinir ağları ile nesne sınıflandırması
+
+ Towards Real-Time Object Detection on Edge with Deep Neural Networks
+
+Cristian Sestito,Fanny Spagnolo,Stefania Perri. Design of Flexible Hardware Accelerators for Image Convolutions and Transposed Convolutions
+
+Lin Nie,Tianshui Chen,Zhouxia Wang,Wenxiong Kang,Liang Lin. Multi-label image recognition with attentive transformer-localizer module
+
+ Pattern classification of interstitial lung disease in high resolution clinical datasets: A systematic review
+
+ Chinese Speech Synthesis System Based on End to End
+
+ Optical Machine Learning Using Time-Lens Deep Neural NetWorks
+
+ COVID-DETECT: A DEEP LEARNING APPROACH FOR CLASSIFICATION OF COVID-19 PNEUMONIA FROM LUNG SEGMENTED CHEST X-RAYS
+
+ Handwritten Digit Recognition using DNN, CNN and RNN
+
+ Comparative Analysis on Encoding Methods for Convolutional Neural Network in Korean Text Classification
+
+ InVID-In Video Veritas: Verification of Social Media Video Content for the News Industry
+
+ An Application of Mask Detector For Prevent Covid-19 in Public Services Area
+
+Weibo Zhang,Fuqing Zhu,Jiao Dai,Songlin Hu,Jizhong Han,Tao Guo. SPL: Exploiting Unlabeled Data for Multi-label Image Classification
+
+Wei-Ta Chu,Si-Heng Huang. Multi-label image recognition by using semantics consistency, object correlation, and multiple samples
+
+ Simulating mixed land-use change under multi-label concept by integrating a convolutional neural network and cellular automata: a case study of Huizhou, China
+
+ High Resolution Remote Sensing Image Classification Using Hybrid Ensemble Learning
+
+Borin Min,Hok Tin,Aziz Nasridinov,Kwan-Hee Yoo. Abnormal Detection and Classification in i-Ceramic Images
+
+ Exploring CNN-RNN Architectures for Multilabel Classification of the Amazon
+
+Mircea Cimpoi. Recognizing describable attributes of textures and materials in the wild and clutter
+
+Jiwei Hu,Kin-Man Lam,Ping Lou,Quan Liu,Wupeng Deng. Can a machine have two systems for recognition, like human beings?
+
+ Learning Deep Representations: Platform and Algorithms
+
+Toni Pimentel,Fernando M. Ramos,Sandra A. Sandri. Land Cover Classification in the Amazon
+
+ Towards Attribute-aware Cross-domain Image Retrieval
+
+Yun Wang,Tong Zhang,Zhen Cui,Chunyan Xu,Jian Yang. Instance-Aware Graph Convolutional Network for Multi-Label Classification
+
+ Deep-Learning based Analysis of fMRI data: A Visual Recognition Study
+
+ Improved deep learning techniques for recognition and labeling
+
+Sara Kamran,Raziyeh Zall,Mohammad Reza Kangavari,Saeid Hosseini,Sana Rahmani,Wen Hua. EmoDNN: Understanding emotions from short texts through a deep neural network ensemble
+
+Daji Tang,Kehua Guo,Jianhua Ma,Xiaoyan Kui. Deep Neural Network Based Disease Discrimination Learning from Small Medical Image Training Set and User Feedback
+
+ Analysis of Contextual Emotions Using Multimodal Data
+
+ An Attention-Driven Multi-label Image Classification with Semantic Embedding and Graph Convolutional Networks
+
+Jhonatan Geremias,Altair O. Santin,Eduardo K. Viegas,Alceu S. Britto Jr.. Towards Real-time Video Content Detection in Resource Constrained Devices
+
+ Multimodal cooperative learning for micro-video advertising click prediction
+
+Khalil Khan,Jehad Ali,Irfan Uddin,Sahib Khan,Byeong-Hee Roh. Race Classification Using Deep Learning
+
+Xiangzhou Luo,Xushan Qing,Huimiao Chen. Spatiotemporal Traffic Flow Forecasting for PHETs Based on Data Mining and Deep Learning
+
+ Image Annotation by Object Hypotheses-oriented Deep Neural Networks
+
+ Graph interaction for automated diagnosis of thoracic disease using x-ray images
+
+ Sparse Feature Convolutional Neural Network with Cluster Max Extraction for Fast Object Classification
+
+Jiawei Zhao,Ke Yan,Yifan Zhao,Xiaowei Guo,Feiyue Huang,Jia Li. Transformer-based Dual Relation Graph for Multi-label Image Recognition
+
+ Security Enhancement of IoT-Based Edge Computing
+
+ Salient object detection based on adaptive recalibration technique through deep network
+
+ Analysis of deep learning loss functions for multi-label remote sensing image classification
+
+Egidio Ragonese,Marco Fattori,Eugenio Cantatore. Flexible and Printed Electronics
+
+ A Bearing Fault Diagnosis Method Using Multi-Branch Deep Neural Network
+
+Jialu Zhang,Qian Zhang,Jianfeng Ren,Yitian Zhao,Jiang Liu. Spatial-context-aware deep neural network for multi-class image classification
+
+ Characterizing On-Chip Traffic Patterns in Throughput Processors: A Deep Learning Approach
+
+Junbing Li,Changqing Zhang,Xueman Wang,Ling Du. Multi-Scale Cross-Modal Spatial Attention Fusion for Multi-label Image Recognition
+
+ Characterizing On-Chip Traffic Patterns in Throughput Processors: A Deep Learning Approach
+
+Junbing Li,Changqing Zhang,Xueman Wang,Ling Du. Multi-Scale Cross-Modal Spatial Attention Fusion for Multi-label Image Recognition
+
+Qian Wang,Jiachen Liu,Yiwen Yang. Weakly Supervised Object Detection for Auroral Vortex Structure in All-sky Image
+
+ Research on Image Caption Algorithm Based on Improved Attention Mechanism
+
+Shaoqing Ren,Kaiming He,Ross B. Girshick,Xiangyu Zhang,Jian Sun. Object Detection Networks on Convolutional Feature Maps
+
+Chaitawat Chenbunyanon,Ji-Han Jiang. Clothing Classification with Multi-attribute Using Convolutional Neural Network
+
+ Image Classification Algorithm Based on Big Data and Multilabel Learning of Improved Convolutional Neural Network
+
+ Four Types of Multiclass Frameworks for Pneumonia Classification and Its Validation in X-ray Scans Using Seven Types of Deep Learning Artificial Intelligence …
+
+Yiling Wu,Shuhui Wang,Guoli Song,Qingming Huang. Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval............
+
+Syed S. Husain. Robust aggregation of local image descriptors for visual search
+
+Jiawei Zhao,Yifan Zhao,Jia Li. M3TR: Multi-modal Multi-label Recognition with Transformer
+
+Seyed Hamid Rezatofighi,Vijay Kumar B. G,Anton Milan,Ehsan Abbasnejad,Anthony R. Dick,Ian D. Reid. DeepSetNet: Predicting Sets with Deep Neural Networks
+
+Tianshui Chen,Tao Pu,Hefeng Wu,Yuan Xie,Liang Lin. Structured Semantic Transfer for Multi-Label Recognition with Partial Labels
+
+ Large Scale Image Classification and Object Detection
+
+ Active and deep learning for multi-media.
+
+ New deep learning approaches to domain adaptation and their applications in 3D hand pose estimation
+
+ Non-Linear Machine Learning Techniques for Multi-Label Image Data Classification
+
+Jin Yuan,Shikai Chen,Yao Zhang,Zhongchao Shi,Xin Geng,Jianping Fan,Yong Rui. Graph Attention Transformer Network for Multi-Label Image Classification
+
+ Recognition of overlapped radar signals via VMD-based multi-label learning
+
+Dongping Tian. Gaussian Mixture Model and Its Applications in Semantic Image Analysis.
+
+ A CNN-RNN based approach for Simultaneous Detection, Identification and Classification of Intracranial Hemorrhage
+
+ Hierarchical edge-aware network for defocus blur detection
+
+ Applying Deep Learning Kernel Function for Species Identification System
+
+Chuan Zhou,Junjing Chen,Tian Zhang,Ximan Tang,Siying Dai,Leiting Chen. Automatic Medical Lesion Annotation via Feature Fusion Correlation Network
+
+ Face Recognition Based on Deep Learning and FPGA for Ethnicity Identification
+
+Vidya B. Manian,Estefanía Alfaro-Mejía,Roger P. Tokars. Image classification and labeling
+
+ A Bearing Fault Diagnosis Method Using Multi-Branch Deep Neural Network. Machines 2021, 9, 345
+
+ Machine learning-enabled feature classification of evaporation-driven multi-scale 3D printing
+
+Diqi Pan,Yonggang Lu,Peiyu Kang. A Deep Learning Model for Multi-label Classification Using Capsule Networks
+
+Mingming Peng,Max Khanov,Saikeerthi Reddy Madireddy,Hongmei Chi,Esra Akbas,Gokila Dorai. DECADE-Deep Learning Based Content-hiding Application Detection System for Android
+
+Richard Hankins. Unsupervised Image Feature Learning for Convolutional Neural Networks
+
+ Improving multi-label classification using inter-label associations and a new Kalman filter based ensemble method
+
+ An Improved Convolutional Neural Network Algorithm for Multi-Label Classification
+
+ Label Dependency Classifier using Multi Feature Graph Convolution Networks for Automatic Image Annotation
+
+ Context-Based Visual Object Segmentation
+
+ An Automatic Computer-Based Method for Fast and Accurate Covid-19 Diagnosis
+
+ Mapping between Images and Conceptual Spaces: Sketch-based Image Retrieval
+
+Saed Alrabaee,Kim-Kwang Raymond Choo,Mohammad Qbea'h,Mahmoud Khasawneh. BinDeep: Binary to Source Code Matching Using Deep Learning
+
+ Multi-Class Object Learning with Application to Fabric Defects Detection
+
+ Defocus Blur detection via transformer encoder and edge guidance
+
+Saed Alrabaee,Kim-Kwang Raymond Choo,Mohammad Qbea'h,Mahmoud Khasawneh. BinDeep: Binary to Source Code Matching Using Deep Learning
+
+ Multi-Class Object Learning with Application to Fabric Defects Detection
+
+ Defocus Blur detection via transformer encoder and edge guidance
+
+Jian Gong,Ju Ren,Yaoxue Zhang. DeepNav: A scalable and plug-and-play indoor navigation system based on visual CNN
+
+ FPGA-based Acceleration for Convolutional Neural Networks on PYNQ-Z2.
+
+ Improvement on Deep Features through Various Enhancement Techniques for Vehicles Classification
+
+Shreya Jain,Poornima S. Thakur,Kusum Bharti,Pritee Khanna,Aparajita Ojha. A Lightweight Multi-label Image Classification Model Based on Inception Module
+
+ Regularized Deep Network Learning for Multi-Label Visual Recognition
+
+Bo Yan,Bahetiyaer Bare,Chenxi Ma,Ke Li,Weimin Tan. Deep Objective Image Quality Assessment
+
+ Deep Learning Methods for Classification of Road Defects
+
+ Cocktail Party Problem for Bird Sounds
+
+ Development of in-house fully residual deep convolutional neural network-based segmentation software for the male pelvic CT
+
+Aymen Ben Hassen,Sonia Ben Ticha. Transfer Learning to Extract Features for Personalized User Modeling.
+
+Foteini Markatopoulou,Markos Zampoglou,Evlampios E. Apostolidis,Symeon Papadopoulos,Vasileios Mezaris,Ioannis Patras,Ioannis Kompatsiaris. Finding Semantically Related Videos in Closed Collections
+
+ Descripteur sémantique local contraint basé sur un descripteur RNC diversifié
+
+ 3D Convolution Recurrent Neural Networks for Multi-Label Earthquake Magnitude Classification
+
+ Deep learning integral imaging for three-dimensional visualization, object detection, and segmentation
+
+ Emotion recognition in video using Deep learning method with subtract pre-processing
+
+Tao Pu,Lixian Yuan,Hefeng Wu,Tianshui Chen,Ling Tian,Liang Lin. Semantic Representation and Dependency Learning for Multi-Label Image Recognition
+
+Dimitrios Iliadis,Bernard De Baets,Willem Waegeman. Multi-target prediction for dummies using two-branch neural networks
+
+ Object-Based Video Multi-Label Classification with an Improved 3D Convolutional Neural Network
+
+Kien Do,Truyen Tran,Thin Nguyen,Svetha Venkatesh. Attentional Multilabel Learning over Graphs
+
+ FPGA-based Acceleration for Convolutional Neural Networks on PYNQ-Z2
+
+Chenfei Ma,Weiyu Guo,Han Zhang,Oluwarotimi Williams Samuel,Xiaopeng Ji,Lisheng Xu,Guanglin Li. A Novel and Efficient Feature Extraction Method for Deep Learning Based Continuous Estimation
+
+ Multi‐defect segmentation from façade images using balanced copy–paste method
+
+ Real-Time Multi-Label Upper Gastrointestinal Anatomy Recognition from Gastroscope Videos
+
+Gabriel Bénédict,Vincent Koops,Daan Odijk,Maarten de Rijke. sigmoidF1: A Smooth F1 Score Surrogate Loss for Multilabel Classification
+
+ Robust Medical Image Recognition and Segmentation
+
+ Training accurate, diverse, and unbiased recommender systems by joint optimization
+
+ Beyond Full Supervision in Deep Learning
+
+Jiren Jin,Hideki Nakayama. Annotation Length Matters: Recurrent Image Annotator for Arbitrary Length Image Tagging
+
+Xiao Yao,Feiyang Xu,Min Gu,Peipei Wang. M-GCN: Brain-inspired memory graph convolutional network for multi-label image recognition
+
+ A Multi-scale Semantic Attention Representation for Multi-Label Image Recognition with Graph Networks
+
+ Deep Learning-based Management For Wastewater Treatment Plants Under Blockchain Environment
+
+Tal Ridnik,Gilad Sharir,Avi Ben-Cohen,Emanuel Ben Baruch,Asaf Noy. ML-Decoder: Scalable and Versatile Classification Head
+
+ Fast Defocus Blur Detection Network via Global Search and Local Refinements
+
+Jingya Yang,Dongdong Zhang,Gaocai Dong,Jing Peng. Figure Captioning in Scholarly Literatures to Augment Search Results
+
+ Design and Implementation of Painting Classification System Based on Double Attention Network
+
+ IMPLEMENTATION OF DEEP LEARNING NEURAL NETWORK LENET5 ON STM32 MICROCONTROLLER FOR IMAGE RECOGNITION
+
+Pawel Trajdos,Marcin Majak. Bayes metaclassifier and Soft-confusion-matrix classifier in the task of multi-label classification
+
+ Classical Convolutional Neural Network for Image Classification—VGGNet Paper Translation (Pure Chinese Version)—Very Deep Convolutional Networks for …
+
+ Multilabel Convolutional Network With Feature Denoising and Details Supplement
+
+ Label graph learning for multi-label image recognition with cross-modal fusion
+
+ Recognition of weld defects from X-ray images based on improved convolutional neural network
+
+ Efficient Object Recognition using Convolution Neural Networks Theorem
+
+ Attribute Classification for Transformer Substation Based on Deep Convolutional Network
+
+ Towards Realistic Human Analytics
+
+Franco Zambonelli,Wolfgang De Meuter,Salil S. Kanhere,Seng Wai Loke,Flora D. Salim. Smart cities: Intelligent environments and dumb people? Panel summary
+
+Dongzhe Wang,Kezhi Mao. Web text‑aided image classification
+
+ Design of Visual-Image Classifier for Web Application
+
+Franco Zambonelli,Wolfgang De Meuter,Salil S. Kanhere,Seng Wai Loke,Flora D. Salim. Smart cities: Intelligent environments and dumb people? Panel summary
+
+Dongzhe Wang,Kezhi Mao. Web text‑aided image classification
+
+ Design of Visual-Image Classifier for Web Application
+
+ Shape analysis for phenotype characterisation from high-throughput imaging
+
+ Multi-Label Image Recognition in Anime Illustration with Graph Convolutional Networks
+
+Qian Wang. Zero-Shot Visual Recognition via Latent Embedding Learning
+
+ Research on Multi-label Clothing Image Classification Based on Convolutional Neural Network
+
+Aditya Kumar Singh,B. Uma Shankar. Multi-Label Classification on Remote-Sensing Images
+
+Amaia Salvador,Michal Drozdzal,Xavier Giró-i-Nieto,Adriana Romero. Inverse cooking: recipe generation from food images
+
+Qiaobo Hao,Yu Pei,Rong Zhou,Bin Sun,Jun Sun,Shutao Li,Xudong Kang. Fusing Multiple Deep Models for In Vivo Human Brain Hyperspectral Image Classification to Identify Glioblastoma Tumor
+
+ Context models for pedestrian intention prediction by factored latent‑dynamic conditional random fields
+
+ Multi-label Image Classification via Category Prototype Compositional Learning
+
+Xiaowei Tan,Zhifeng Xiao,Jianjun Zhu,Qiao Wan,Kai Wang,Deren Li. Transformer-Driven Semantic Relation Inference for Multilabel Classification of High-Resolution Remote Sensing Images
+
+ A Serial Attention Frame for Multi-Label Waste Bottle Classification
+
+ Analytical Calculation of Air-Gap Magnetic Field of the Trapezoidal Surface Permanent Magnet Machine
+
+Yundong Wu,Jiajia Liao,Yujun Liu,Kaiming Ding,Shimin Li,Zhilin Zhang,Guorong Cai,Jinhe Su. Knowledge-Driven Network for Object Detection
+
+Arjun Pakrashi,Brian Mac Namee. A multi‐label cascaded neural network classification algorithm for automatic training and evolution of deep cascaded architecture
+
+ Eye Melanoma Cancer Detection and Classification Using CNN
+
+ Correlation-Based Multi-View Representation Learning for Information Fusion
+
+ Forecasting Covid-19 Cases in India using Deep CNN LSTM Model
+
+ Boosting image captioning with an attentional mechanism= Boosting image captioning using diverse beam search
+
+ Usage of Convolutional Neural Networks in Real-Time Facial Emotion Detection
+
+Wenzhi Fu,Jianlei Yang,Pengcheng Dai,Yiran Chen,Weisheng Zhao. A Scalable Pipelined Dataflow Accelerator for Object Region Proposals on FPGA Platform
+
+ An Hybrid Parallel Network Structure for Image Classification
+
+ Global-Guided Weakly-Supervised Learning for Multi-Label Image Classification
+
+ Using artificial intelligence to automate meat cut identification from the semimembranosus muscle on beef boning lines
+
+P. Mahalakshmi,N. Sabiyath Fatima. Image Captioning using Deep Learning
+
+ An Analysis of Deep Learning Models to Diagnose COVID-19 Using Radiography Images
+
+Cong Sun,Zhihao Yang,Lei Wang,Yin Zhang,Hongfei Lin,Jian Wang. Named Entity Recognition with Deep Learning
+
+ A Classification Method for Small Sample Multi-label Images
+
+ A Comparative Analysis of Multiple Label Image Classification Techniques
+
+Qifan Lin,Zhaoliang Chen,Shiping Wang,Wenzhong Guo. A Unified Modular Framework with Deep Graph Convolutional Networks forMulti-label Image Recognition
+
+Rudri Mahesh Oza,Angelina Geisen,Taehyung Wang. Traffic sign recognition using deep learning
+
+Shiqiao Gu,Liu Yang,Yaning Li,Hui Li. Multi-label Learning by Exploiting Imbalanced Label Correlations
+
+ Multi-label classification based on attention mechanism and semantic dependencies
+
+Thi Hong Hanh Nguyen. Recommending Tags for Images
+
+Yaning Li,Liu Yang. More Correlations Better Performance: Fully Associative Networks for Multi-label Image Classification
+
+Zongting Lyu,Yan Yan,Fei Wu. Distribution-based Label Space Transformation for Multi-label Learning
+
+Foteini Markatopoulou. Machine Learning Architectures for Video Annotation and Retrieval
+
+Yaning Li,Liu Yang. More Correlations Better Performance: Fully Associative Networks for Multi-label Image Classification
+
+Zongting Lyu,Yan Yan,Fei Wu. Distribution-based Label Space Transformation for Multi-label Learning
+
+Foteini Markatopoulou. Machine Learning Architectures for Video Annotation and Retrieval
+
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Graph Networks for Multi-label Image Recognition
+
+ Localizing Interpretable Multi-scale informative Patches Derived from Media Classification Task
+
+ Sparse multi-label classification of medical images using deep convolutional neural networks
+
+ Deep representation for classification of refrigerator image via novel convolutional neural network
+
+ Weakly Supervised Instance Segmentation using Image Level Annotations
+
+ Four Types of Multiclass Frameworks for Pneumonia Classification and Its Validation in X-ray Scans Using Seven Types of Deep Learning Artificial …
+
+ Content-based Image Understanding with Applications to Affective Computing and Person Recognition in Natural Settings
+
+ Predict attribute labels for restaurants using user-submitted photos
+
+S. Sowmyayani,P. Arockia Jansi Rani. Salient object based visual sentiment analysis by combining deep features and handcrafted features
+
+ Google Cloud and YouTube-8M Video Understanding Challenge
+
+ Weakly supervised learning from noisy data: from practice to theory
+
+ Friend recommendation in social multimedia networks.
+
+Andrew Gilbert,Richard Bowden. Geometric Mining: Scaling Geometric Hashing to Large Datasets
+
+Ke Sun,Zhuo Lei,Jiasong Zhu,Xianxu Hou,Bozhi Liu,Guoping Qiu. Character Prediction in TV Series via a Semantic Projection Network
+
+ Vision Navigator: A Smart and Intelligent Obstacle Recognition Model for Visually Impaired Users
+
+ Lung Cancer Diagnosis Based on Convolutional Neural Networks Ensemble Model
+
+Ruotian Luo. Goal-driven text descriptions for images
+
+Zhe Wang,Zhongli Fang,Dongdong Li,Hai Yang,Wenli Du. Semantic Supplementary Network with Prior Information for Multi-label Image Classification
+
+Yuanjian Zhang,Tianna Zhao,Duoqian Miao,Witold Pedrycz. Granular Multilabel Batch Active Learning With Pairwise Label Correlation
+
+ Better Learning Through Improved Distributional Modeling
+
+Fangxin Wang,Jie Liu,Shuwu Zhang,Guixuan Zhang,Yang Zheng,Xiaoqian Li,Wei Liang,Yuejun Li. Adaptive Attention Annotation Model: Optimizing the Prediction Path through Dependency Fusion
+
+ Apk2Img4AndMal: Android Malware Detection Framework Based on Convolutional Neural Network
+
+Zhao-Min Chen,Quan Cui,Borui Zhao,Ren-Jie Song,Xiaoqin Zhang,Osamu Yoshie. SST: Spatial and Semantic Transformers for Multi-Label Image Recognition
+
+ Structural damage identification under nonstationary excitations through recurrence plot and multi-label convolutional neural network
+
+ Annotation automatique d'images par apprentissage profond: Génération automatique de descriptions d'une image
+
+Christian Rupprecht. Learning under Ambiguity through Multiple Predictions
+
+ 融合注意力机制和语义关联性的多标签图像分类
+
+ FREDRIK NÄSSTRÖM, FREDRIK BISSMARCK, VIKTOR DELESKOG, DAVID GUSTAFSSON, GUSTAF HENDEBY, JÖRGEN KARLHOLM
+
+ DERİN ÖĞRENME YAKLAŞIMLARINI KULLANARAK MAKALE ATIFLARININ SEMANTİK ANALİZİ
+
+ 用於大規模圖像識別的深度卷積網絡
+
+ 协同级联网络和对抗网络的目标检测
+
+ 基于多视角学习和注意力的特征选择算法
+
+ CNN 系列: VGG: 网络在图像识别的应用 (Very Deep Convolutional Networks for Large-Scale Image Recognition)
+
+ Русские Блоги
+
+ 基于改进卷积神经网络的多标记分类算法
+
+ 基于机器学习的极光图像自动分割方法
+
+Antonin Durey. 首页> Web 开发> 详细
+
+Jackson Mallmann,Altair Olivo Santin,Eduardo Kugler Viegas,Roger Robson dos Santos,Jhonatan Geremias. JHONATAN GEREMIAS
+
+ A multilayer perceptron approach for Ficus carica (fig) ripening classification
+
+ 面向多标签小样本学习的双流重构网络
+
+ マルチラベル分類を利用した自治体オープンデータへのタグの付与に関する考察
+
+ Görüntü işleme yöntemleriyle temel devre elemanlarının sınıflandırılması
+
+Mohammed El Adoui. Prédiction de l'efficacité de la chimiothérapie appliquée au cancer du sein par le traitement d'images et le Deep Learning
+
+ 基于语义特征和有监督哈希的图像检索的肺结节医学征象识别
+
+ NGHIÊN CỨU TRIỂN KHAI MẠNG HỌC SÂU LENET5 TRÊN VI ĐIỀU KHIỂN STM32 ỨNG DỤNG TRONG NHẬN DẠNG HÌNH ẢNH
+
+ VGGNet 论文翻译-Very Deep Convolutional Networks for Large-Scale Image Recognition
+
+ programador clic
+
+ 一种基于注意力机制的电子病历中药物词向量转化方法
+
+ Використання штучного інтелекту для розпізнавання складових елементів об'єктів на базі зображення
+
+ Vers l'universalité des représentations visuelle et multimodales
+
+Dheeb Albashish,Rizik Al-Sayyed,Azizi Abdullah,Mohammad Hashem Ryalat,Nedaa Ahmad Almansour. CNN 系列: VGG: 网络在图像识别的应用
+
+ Використання штучного інтелекту для оцінювання розпізнавання зображень
+

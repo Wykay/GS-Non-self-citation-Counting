@@ -1,0 +1,451 @@
+Ming-Ming Cheng,Yun Liu,Wen-Yan Lin,Ziming Zhang,Paul L. Rosin,Philip H. S. Torr. BING: Binarized normed gradients for objectness estimation at 300fps. CVPR, 2019
+Long Chen,Hanwang Zhang,Jun Xiao,Liqiang Nie,Jian Shao,Wei Liu,Tat-Seng Chua. Sca-cnn: Spatial and channel-wise attention in convolutional networks for image captioning. CoRR, 2017
+Zhao-Min Chen,Xiu-Shen Wei,Peng Wang,Yanwen Guo. Multi-label image recognition with graph convolutional networks. CoRR, 2019
+Wieland Brendel,Matthias Bethge. Approximating cnns with bag-of-local-features models works surprisingly well on imagenet. CoRR, 2019
+Qi Wu,Chunhua Shen,Peng Wang,Anthony R. Dick,Anton van den Hengel. Image captioning and visual question answering based on attributes and external knowledge. CoRR, 2018
+Bin-Bin Gao,Chao Xing,Chen-Wei Xie,Jianxin Wu,Xin Geng. Deep label distribution learning with label ambiguity. CoRR, 2017
+Guanbin Li,Pengxiang Yan,Yuan Xie,Guisheng Wang,Liang Lin,Yizhou Yu. Instance-level salient object segmentation. CoRR, 2021
+Zhouxia Wang,Tianshui Chen,Guanbin Li,Ruijia Xu,Liang Lin. Multi-label image recognition by recurrently discovering attentional regions. CoRR, 2017
+Peng Tang,Xinggang Wang,Song Bai,Wei Shen,Xiang Bai,Wenyu Liu,Alan L. Yuille. Pcl: Proposal cluster learning for weakly supervised object detection. CoRR, 2020
+Jiheon Kang,Youn-Jong Park,Jaeho Lee,Soo-Hyun Wang,Doo Seop Eom. Novel leakage detection by ensemble CNN-SVM and graph-based localization in water distribution systems. IEEE Trans. Ind. Electron., 2018
+Han Xu,Jiayi Ma,Junjun Jiang,Xiaojie Guo,Haibin Ling. U2Fusion: A unified unsupervised image fusion network. IEEE Trans. Pattern Anal. Mach. Intell., 2022
+Junjie Zhang,Qi Wu,Chunhua Shen,Jian Zhang,Jianfeng Lu. Multilabel image classification with regional latent semantic dependencies. IEEE Trans. Multim., 2018
+Tianshui Chen,Zhouxia Wang,Guanbin Li,Liang Lin. Recurrent attentional reinforcement learning for multi-label image recognition. CoRR, 2018
+Jian Zhu,Leyuan Fang,Pedram Ghamisi. Deformable convolutional neural networks for hyperspectral image classification. IEEE Geosci. Remote. Sens. Lett., 2018
+Jufeng Yang,Dongyu She,Ming Sun,Ming-Ming Cheng,Paul L. Rosin,Liang Wang. Visual sentiment prediction based on automatic discovery of affective regions. IEEE Trans. Multim., 2018
+Tianshui Chen,Muxin Xu,Xiaolu Hui,Hefeng Wu,Liang Lin. Learning semantic-specific graph representation for multi-label image recognition. CoRR, 2019
+Bo Yu,Lu Yang,Fang Chen. Semantic segmentation for high spatial resolution remote sensing images based on convolution neural network and pyramid pooling module. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens., 2018
+Chang-Dong Xu,Xing-Ran Zhao,Xin Jin,Xiu-Shen Wei. Exploring categorical regularization for domain adaptive object detection. CoRR, 2020
+L. Zhang,S. K. Shah,Ioannis A. Kakadiaris. Hierarchical multi-label classification using fully associative ensemble learning. Pattern Recognit., 2017
+Maksim Lapin,Matthias Hein,Bernt Schiele. Analysis and optimization of loss functions for multiclass, top-k, and multilabel classification. CoRR, 2018
+Peng Tang,Xinggang Wang,Zilong Huang,Xiang Bai,Wenyu Liu. Deep patch learning for weakly supervised object classification and discovery. CoRR, 2017
+Pengze Liu,Xihui Liu,Junjie Yan,Jing Shao. Localization guided learning for pedestrian attribute recognition. CoRR, 2018
+Guoliang Kang,Jun Li,Dacheng Tao. Shakeout: A new approach to regularized deep neural network training. IEEE Trans. Pattern Anal. Mach. Intell., 2019
+Willem Waegeman,Krzysztof Dembczynski,Eyke Hüllermeier. Multi-target prediction: a unifying view on problems and methods. CoRR, 2019
+Afshine Amidi,Shervine Amidi,Dimitrios Vlachakis,Vasileios Megalooikonomou,Nikos Paragios,Evangelia I. Zacharaki. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation. CoRR, 2017
+Yifei Xue,Tiejun Wang,Andrew K. Skidmore. Automatic counting of large mammals from very high resolution panchromatic satellite imagery. Remote. Sens., 2017
+Shiping Wen,Weiwei Liu,Yin Yang,Pan Zhou,Zhenyuan Guo,Zheng Yan,Yiran Chen,Tingwen Huang. Multilabel image classification via feature/label co-projection. IEEE Trans. Syst. Man Cybern. Syst., 2021
+Wenda Zhao,Fan Zhao,Dong Wang,Huchuan Lu. Defocus blur detection via multi-stream bottom-top-bottom fully convolutional network. CVPR, 2018
+Si Liu,Changhu Wang,Ruihe Qian,Han Yu,Renda Bao,Yao Sun. Surveillance video parsing with single frame supervision. CoRR, 2017
+Yizhen Jia,Fangtian Zhong,Arwa Alrawais,Bei Gong,Xiuzhen Cheng. Flowguard: an intelligent edge defense mechanism against IoT DDoS attacks. IEEE Internet Things J., 2020
+Zheng Yan,Weiwei Liu,Shiping Wen,Yin Yang. Multi-label image classification by feature attention network. IEEE Access, 2019
+Yun Liu,Yu-Huan Wu,Peisong Wen,Yujun Shi,Yu Qiu,Ming-Ming Cheng. Leveraging instance-, image-and dataset-level information for weakly supervised instance segmentation. IEEE Trans. Pattern Anal. Mach. Intell., 2022
+ Sleep apnea detection from a single-lead ECG signal with automatic feature-extraction through a modified LeNet-5 convolutional neural network. search fail, search fail
+Peng Tang,Xinggang Wang,Baoguang Shi,Xiang Bai,Wenyu Liu,Zhuowen Tu. Deep FisherNet for image classification. IEEE Trans. Neural Networks Learn. Syst., 2019
+Yunhe Wang,Chang Xu,Chao Xu,Dacheng Tao. Packing convolutional neural networks in the frequency domain. NIPS, 2019
+Ming-Ming Cheng,Yun Liu,Wen-Yan Lin,Ziming Zhang,Paul L. Rosin,Philip H. S. Torr. BING: Binarized normed gradients for objectness estimation at 300fps. CVPR, 2019
+Nagma Khan,Ushasi Chaudhuri,Biplab Banerjee,Subhasis Chaudhuri. Graph convolutional network for multi-label VHR remote sensing scene recognition. Neurocomputing, 2019
+Lin Yuan,Xue Wei,Hui Shen,Ling-Li Zeng,Dewen Hu. Multi-center brain imaging classification using a novel 3D CNN approach. IEEE Access, 2018
+Peng Tang,Xinggang Wang,Baoguang Shi,Xiang Bai,Wenyu Liu,Zhuowen Tu. Deep fishernet for object classification. CoRR, 2016
+Mete Ozay,Takayuki Okatani. Optimization on submanifolds of convolution kernels in cnns. CoRR, 2016
+Yanbu Guo,Bingyi Wang,Weihua Li,Bei Yang. Protein secondary structure prediction improved by recurrent neural networks integrated with two-dimensional convolutional neural networks. J. Bioinform. Comput. Biol., 2018
+Thanh Vo,Trang Nguyen,C. T. Le. Race recognition using deep convolutional neural networks. IJCB, 2018
+Xiao Huang,Cuizhen Wang,Zhenlong Li,Huan Ning. A visual–textual fused approach to automated tagging of flood-related tweets during a flood event. Int. J. Digit. Earth, 2019
+ Scikit-multilearn: a scikit-based Python environment for performing multi-label classification. search fail, search fail
+Wenda Zhao,Fan Zhao,Dong Wang,Huchuan Lu. Defocus blur detection via multi-stream bottom-top-bottom network. CVPR, 2020
+Foteini Markatopoulou,Vasileios Mezaris,Ioannis Patras. Implicit and explicit concept relations in deep neural networks for multi-label video/image annotation. IEEE Trans. Circuits Syst. Video Technol., 2019
+Sheng Guo,Weilin Huang,Xiao Zhang,Prasanna Srikhanta,Yin Cui,Yuan Li,Hartwig Adam,Matthew R. Scott,Serge J. Belongie. The imaterialist fashion attribute dataset. CoRR, 2019
+Ashima Kukkar,Rajni Mohana,Anand Nayyar,Jeamin Kim,Byeong-Gwon Kang,Naveen K. Chilamkurti. A novel deep-learning-based bug severity classification technique using convolutional neural networks and random forest with boosting. Sensors, 2019
+Guo Li,Na Li. Customs classification for cross-border e-commerce based on text-image adaptive convolutional neural network. Electron. Commer. Res., 2019
+Chunjie Zhang,Jian Cheng,Qi Tian. Multiview label sharing for visual representations and classifications. IEEE Trans. Multim., 2018
+Fengping An. Image classification algorithm based on deep learning-kernel function. Sci. Program., 2020
+Hakan Cevikalp,Burak Benligiray,Ömer Nezih Gerek. Semi-supervised robust deep neural networks for multi-label image classification. Pattern Recognit., 2020
+ A new method using the convolutional neural network with compressive sensing for fabric defect classification based on small sample sizes. search fail, search fail
+Yongshan Zhang,Jia Wu,Zhihua Cai,Philip S. Yu. Multi-view multi-label learning with sparse feature selection for image annotation. IEEE Trans. Multim., 2020
+Yu Zhang,Yin Wang,Xu-Ying Liu,Siya Mi,Min-Ling Zhang. Large-scale multi-label classification using unknown streaming images. Pattern Recognit., 2020
+Yongqiang Zhang,Yancheng Bai,Mingli Ding,Yongqiang Li,Bernard Ghanem. Weakly-supervised object detection via mining pseudo ground truth bounding-boxes. Pattern Recognit., 2019
+Carolina Redondo-Cabrera,Marcos Baptista-Ríos,Roberto Javier López-Sastre. Learning to exploit the prior network knowledge for weakly supervised semantic segmentation. CoRR, 2019
+Rui-Wei Zhao,Jianguo Li,Yurong Chen,Jia-Ming Liu,Yu-Gang Jiang,Xiangyang Xue. Regional gating neural networks for multi-label image classification.. BMVC, 2016
+Tie-Qiang Wang,Fei Yin,Cheng-Lin Liu. Radical-based Chinese character recognition via multi-labeled learning of deep residual networks. ICDAR, 2017
+Feiping Nie,Zhanxuan Hu,Xuelong Li. An investigation for loss functions widely used in machine learning. Commun. Inf. Syst., 2018
+Wan-Jin Yu,Zhen-Duo Chen,Xin Luo,Wu Liu,Xin-Shun Xu. DELTA: A deep dual-stream network for multi-label image classification. Pattern Recognit., 2019
+Si Liu,Yao Sun,Defa Zhu,Guanghui Ren,Yu Chen,Jiashi Feng,Jizhong Han. Cross-domain human parsing via adversarial feature and label adaptation. CoRR, 2018
+Biswarup Ganguly,Sayanti Chaudhuri,Subrata Biswas,Debangshu Dey,Sugata Munshi,Biswendu Chatterjee,Sovan Dalai,Sivaji Chakravorti. Wavelet kernel-based convolutional neural network for localization of partial discharge sources within a power apparatus. IEEE Trans. Ind. Informatics, 2021
+Chunjie Zhang,Jian Cheng,Qi Tian. Structured weak semantic space construction for visual categorization. IEEE Trans. Neural Networks Learn. Syst., 2018
+Shiyi He,Chang Xu,Tianyu Guo,Chao Xu,Dacheng Tao. Reinforced multi-label image classification by exploring curriculum. AAAI, 2018
+Jin Ye,Junjun He,Xiaojiang Peng,Wenhao Wu,Yu Qiao. Attention-driven dynamic graph convolutional network for multi-label image recognition. CoRR, 2020
+ Multi-label classification: problem transformation methods in Tamil phoneme classification. search fail, search fail
+Jingwen Ye,Yixin Ji,Xinchao Wang,Xin Gao,Mingli Song. Data-free knowledge amalgamation via group-stack dual-gan. CoRR, 2020
+Chunjie Zhang,Jian Cheng,Qi Tian. Image-level classification by hierarchical structure learning with visual and semantic similarities. Inf. Sci., 2018
+Shi Feng,Yaqi Wang,Kaisong Song,Daling Wang,Ge Yu. Detecting multiple coexisting emotions in microblogs with convolutional neural networks. Cogn. Comput., 2018
+Tao Wang,Changhua Lu,Yining Sun,Mei Yang,Chun Liu,Chunsheng Ou. Automatic ECG classification using continuous wavelet transform and convolutional neural network. Entropy, 2021
+Hassan El Bahi,Abdelkarim Zatni. Text recognition in document images obtained by a smartphone based on deep convolutional and recurrent neural network. Multim. Tools Appl., 2019
+Lin Feng,Sheng-lan Liu,Jianing Yao. Music genre classification with paralleling recurrent convolutional neural network. CoRR, 2017
+Tianshui Chen,Liang Lin,Riquan Chen,Xiaolu Hui,Hefeng Wu. Knowledge-guided multi-label few-shot learning for general image recognition. CoRR, 2022
+Jack Lanchantin,Tianlu Wang,Vicente Ordonez,Yanjun Qi. General multi-label image classification with transformers. CoRR, 2021
+Yo-Ping Huang,Haobijam Basanta. Bird image retrieval and recognition using a deep learning platform. IEEE Access, 2019
+Chunjie Zhang,Jian Cheng,Qi Tian. Multi-view image classification with visual, semantic and view consistency. IEEE Trans. Image Process., 2020
+Haoqian Wang,Yi Luo,Wangpeng An,Qingyun Sun,Jun Xu,Lei Zhang. PID controller-based stochastic optimization acceleration for deep neural networks. IEEE Trans. Neural Networks Learn. Syst., 2020
+Guoqiang Wu,Yingjie Tian,Dalian Liu. Cost-sensitive multi-label learning with positive and negative label pairwise correlations. Neural Networks, 2018
+Thanh Vo,Trang Nguyen,C. T. Le. A hybrid framework for smile detection in class imbalance scenarios. Neural Comput. Appl., 2019
+Francisco Charte,Antonio J. Rivera,David Charte,María José del Jesus,Francisco Herrera. Tips, guidelines and tools for managing multi-label datasets: The mldr. datasets R package and the Cometa data repository. CoRR, 2018
+Zhi Zhang,Guanghan Ning,Zhihai He. Knowledge projection for deep neural networks. CoRR, 2017
+Caijuan Shi,Gaoyun An,Ruizhen Zhao,Qiuqi Ruan,Qi Tian. Multiview hessian semisupervised sparse feature selection for multimedia analysis. IEEE Trans. Circuits Syst. Video Technol., 2017
+Pawel Trajdos,Marek Kurzynski. Weighting scheme for a pairwise multi-label classifier based on the fuzzy confusion matrix. CoRR, 2018
+Yue Lang,Qing Wang,Yang Yang,Chunping Hou,Haiping Liu,Yuan He. Joint motion classification and person identification via multitask learning for smart homes. IEEE Internet Things J., 2019
+Ce Ge,Jing Wang,Jingyu Wang,Qi Qi,Haifeng Sun,Jianxin Liao. Towards automatic visual inspection: A weakly supervised learning method for industrial applicable object detection. Comput. Ind., 2020
+Chen Chen,Yi Ma,Guangbo Ren. A convolutional neural network with fletcher–reeves algorithm for hyperspectral image classification. Remote. Sens., 2019
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu. Mind your neighbours: Image annotation with metadata neighbourhood graph co-attention networks. CVPR, 2019
+Anna Mikaelyan,Fernando Alonso-Fernandez,Josef Bigün. Periocular recognition by detection of local symmetry patterns. SITIS, 2014
+Saed Alrabaee,Mourad Debbabi,Lingyu Wang. On the feasibility of binary authorship characterization. Digit. Investig., 2019
+ The classification of construction waste material using a deep convolutional neural network. search fail, search fail
+Dong Li,Jia-Bin Huang,Yali Li,Shengjin Wang,Ming-Hsuan Yang. Progressive representation adaptation for weakly supervised object localization. CoRR, 2020
+Shizhen Zhao,Changxin Gao,Jun Zhang,Hao Cheng,Chuchu Han,Xinyang Jiang,Xiaowei Guo,Wei-Shi Zheng,Nong Sang,Xing Sun. Do not disturb me: Person re-identification under the interference of other pedestrians. CoRR, 2020
+Jing Li,Huaxiang Zhang,Wenbo Wan,Jiande Sun. Two-class 3D-CNN classifiers combination for video copy detection. Multim. Tools Appl., 2020
+Qian Wang,Ke Chen. Multi-label zero-shot human action recognition via joint latent ranking embedding. Neural Networks, 2020
+ Automatic modulation classification exploiting hybrid machine learning network. search fail, search fail
+Long Chen,Ronggui Wang,Juan Yang,Lixia Xue,Min Hu. Multi-label image classification with recurrently learning semantic dependencies. Vis. Comput., 2019
+Sarah Vluymans. Dealing with imbalanced and weakly labelled data in machine learning using fuzzy and rough set methods. Studies in Computational Intelligence, 2019
+Sourour Brahimi,Najib Ben Aoun,Chokri Ben Amar. Boosted Convolutional Neural Network for object recognition at large scale. Neurocomputing, 2019
+Amirhossein Akbarnejad,Mahdieh Soleymani Baghshah. An efficient semi-supervised multi-label classifier capable of handling missing labels. CoRR, 2019
+Marilyn Bello,Gonzalo Nápoles,Ricardo Sánchez,Rafael Bello,Koen Vanhoof. Deep neural network to extract high-level features and labels in multi-label classification problems. Neurocomputing, 2020
+ A weakly supervised semantic segmentation network by aggregating seed cues: the multi-object proposal generation perspective. search fail, search fail
+Qingquan Song,Haifeng Jin,Xiao Huang,Xia Hu. Multi-label adversarial perturbations. ICDM, 2019
+Shafin Rahman,Salman H. Khan,Nick Barnes. Deep0Tag: Deep Multiple Instance Learning for Zero-Shot Image Tagging. IEEE Trans. Multim., 2020
+Yong Guo,Mingkui Tan,Qingyao Wu,Jian Chen,Anton van den Hengel,Qinfeng Shi. The shallow end: Empowering shallower deep-convolutional networks through auxiliary outputs. CoRR, 2016
+Jianpei Wang,Shihong Yue,Xiao Yu,Yaru Wang. An efficient data reduction method and its application to cluster analysis. Neurocomputing, 2017
+Yun Liu,Shijie Li,Ming-Ming Cheng. Refinedbox: Refining for fewer and high-quality object proposals. Neurocomputing, 2020
+Changsheng Li,Chong Liu,Lixin Duan,Peng Gao,Kai Zheng. Reconstruction regularized deep metric learning for multi-label image classification. CoRR, 2020
+Khalil Khan,Muhammad Attique,Rehan Ullah Khan,Ikram Syed,Tae-Sun Chung. A multi-task framework for facial attributes classification through end-to-end face parsing and deep convolutional neural networks. Sensors, 2020
+Qiaobo Hao,Shutao Li,Xudong Kang. Multilabel sample augmentation-based hyperspectral image classification. IEEE Trans. Geosci. Remote. Sens., 2020
+Dongzhe Wang,Kezhi Mao. Learning semantic text features for web text-aided image classification. IEEE Trans. Multim., 2019
+Mengze Wu,Yongdi Lu,Wenli Yang,Shen Yuong Wong. A study on arrhythmia via ECG signal classification using the convolutional neural network. Frontiers Comput. Neurosci., 2020
+Chunjie Zhang,Jian Cheng,Qi Tian. Semantically modeling of object and context for categorization. IEEE Trans. Neural Networks Learn. Syst., 2019
+ Android malware family classification based on deep learning of code images. search fail, search fail
+Ang Li,Jianzhong Qi,Rui Zhang,Ramamohanarao Kotagiri. Boosted gan with semantically interpretable information for image inpainting. CoRR, 2019
+Ahmad Jalal,Abrar Ahmed,Adnan Ahmed Rafique,Kibum Kim. Scene semantic recognition based on modified fuzzy C-mean and maximum entropy using object-to-object relations. IEEE Access, 2021
+Lingling Fang,Hanyu Zhang,Jiaxin Zhou,Xianghai Wang. Image classification with an RGB-channel nonsubsampled contourlet transform and a convolutional neural network. Neurocomputing, 2020
+ Method development for cross-study microbiome data mining: challenges and opportunities. search fail, search fail
+Pawel Trajdos,Marek Kurzynski. A correction method of a binary classifier applied to multi-label pairwise models. CoRR, 2018
+Rim Trabelsi,Issam Jabri,Farid Melgani,Fethi Smach,Nicola Conci,Ammar Bouallegue. Indoor object recognition in RGBD images with complex-valued neural networks for visually-impaired people. Neurocomputing, 2019
+Fadi A. Aloul,Igor L. Markov,Karem A. Sakallah. Improving the efficiency of Circuit-to-BDD conversion by gate and input ordering. ICCD, 2002
+Tianshui Chen,Liang Lin,Xian Wu,Nong Xiao,Xiaonan Luo. Learning to segment object candidates via recursive neural networks. IEEE Trans. Image Process., 2018
+ Real-time detection of critical generators in power systems: A deep learning HCP approach. search fail, search fail
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Learning label correlations for multi-label image recognition with graph networks. CoRR, 2020
+Tong Shen,Guosheng Lin,Chunhua Shen,Ian D. Reid. Learning multi-level region consistency with dense multi-label networks for semantic segmentation. CoRR, 2017
+Yanchen Qiao,Qingshan Jiang,Zhenchao Jiang,Liang Gu. A multi-channel visualization method for malware classification based on deep learning. TrustCom/BigDataSE, 2019
+Chunjie Zhang,Jian Cheng,Qi Tian. Multiview semantic representation for visual recognition. IEEE Trans. Cybern., 2020
+Jiahao Xu,Hongda Tian,Zhiyong Wang,Yang Wang,Wenxiong Kang,Fang Chen. Joint input and output space learning for multi-label image classification. IEEE Trans. Multim., 2021
+Yongsheng Liu,Wenyu Chen,Hong Qu,S. M. Hasan Mahmud,Kebin Miao. Weakly supervised image classification and pointwise localization with graph convolutional networks. Pattern Recognit., 2021
+Hongyu Xu,Xutao Lv,Xiaoyu Wang,Zhou Ren,Navaneeth Bodla,Rama Chellappa. Deep regionlets: Blended representation and deep learning for generic object detection. CoRR, 2021
+Kien Do,Truyen Tran,Thin Nguyen,Svetha Venkatesh. Attentional multilabel learning over graphs: a message passing approach. CoRR, 2019
+Ju-Youn Park,Yewon Hwang,Dukyoung Lee,Jong-Hwan Kim. MarsNet: multi-label classification network for images of various sizes. IEEE Access, 2020
+Lu Shen,Jun Shi,Yun Dong,Shihui Ying,Yaxin Peng,Lu Chen,Qi Zhang,Hedi An,Yingchun Zhang. An improved deep polynomial network algorithm for transcranial sonography–based diagnosis of parkinson's disease. Cogn. Comput., 2020
+Tao Zhou,Zhixin Li,Canlong Zhang. Enhance the recognition ability to occlusions and small objects with robust faster R-CNN. Int. J. Mach. Learn. Cybern., 2019
+ A deep learning framework for eye melanoma detection employing convolutional neural network. search fail, search fail
+Luis Adrián Cabrera-Diego,Nik Bessis,Ioannis Korkontzelos. Classifying emotions in Stack Overflow and JIRA using a multi-label approach. Knowl. Based Syst., 2020
+Gong Cheng,Decheng Gao,Yang Liu,Junwei Han. Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification.. IJCAI, 2018
+Xiangping Wu,Qingcai Chen,Wei Li,Yulun Xiao,Baotian Hu. AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification. ACM Multimedia, 2020
+ A survey on multi-label classification for images. search fail, search fail
+Rui-Wei Zhao,Zuxuan Wu,Jianguo Li,Yu-Gang Jiang. Learning semantic feature map for visual content recognition. ACM Multimedia, 2017
+ Machine learning-enabled non-destructive paper chromogenic array detection of multiplexed viable pathogens on food. search fail, search fail
+Pallavi Jain,Bianca Schoen-Phelan,Robert Ross. Automatic flood detection in SentineI-2 images using deep convolutional neural networks. SAC, 2020
+Mei-Chen Yeh,Yi-Nan Li. Multilabel deep visual-semantic embedding. IEEE Trans. Pattern Anal. Mach. Intell., 2020
+Oscar Quispe,Alexander Ocsa,Ricardo Coronado. Latent semantic indexing and convolutional neural network for multi-label and multi-class text classification. LA-CCI, 2017
+Liuting Shang,Shukai Duan,Lidan Wang,Tingwen Huang. SRMC: A multibit memristor crossbar for self-renewing image mask. IEEE Trans. Very Large Scale Integr. Syst., 2018
+Lei Liu,Wentao Lei,Xiang Wan,Li Liu,Yongfang Luo,Cheng Feng. Semi-supervised active learning for COVID-19 lung ultrasound multi-symptom classification. CoRR, 2020
+Jingwen Ye,Xinchao Wang,Yixin Ji,Kairi Ou,Mingli Song. Amalgamating filtered knowledge: Learning task-customized student from multi-task teachers. CoRR, 2019
+Yangtao Wang,Yanzhao Xie,Yu Liu,Ke Zhou,Xiaocui Li. Fast graph convolution network based multi-label image recognition via cross-modal fusion. CIKM, 2020
+Luis Pineda,Amaia Salvador,Michal Drozdzal,Adriana Romero. Elucidating image-to-set prediction: An analysis of models, losses and datasets. CoRR, 2019
+Shafin Rahman,Salman H. Khan,Nick Barnes. Deep multiple instance learning for zero-shot image tagging. CoRR, 2020
+Bin-Bin Gao,Hong-Yu Zhou. Learning to discover multi-class attentional regions for multi-label image recognition. IEEE Trans. Image Process., 2021
+Yugang Li,Yongbin Wang. A multi-label image classification algorithm based on attention model. ICIS, 2018
+Quanling Meng,Weigang Zhang. Multi-label image classification with attention mechanism and graph convolutional networks. MMAsia, 2019
+Jingfan Guo,Tongwei Ren,Lei Huang,Jia Bei. Saliency detection on sampled images for tag ranking. Multim. Syst., 2019
+ An approach for multi label image classification using single label convolutional neural network. search fail, search fail
+Joakim Bruslund Haurum,Thomas B. Moeslund. Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark. CoRR, 2021
+Wangyang Yu,W. Bastiaan Kleijn. Room acoustical parameter estimation from room impulse responses using deep neural networks. IEEE ACM Trans. Audio Speech Lang. Process., 2021
+Ce Ge,Jingyu Wang,Qi Qi,Haifeng Sun,Jianxin Liao. Fewer is More: Image Segmentation Based Weakly Supervised Object Detection with Partial Aggregation.. BMVC, 2018
+Hakan Cevikalp,Burak Benligiray,Ömer Nezih Gerek. Semi-Supervised Robust Deep Neural Networks for Multi-Label Classification.. CVPR Workshops, 2020
+Zhaohui Yang,Miaojing Shi,Chao Xu,Vittorio Ferrari,Yannis Avrithis. Training object detectors from few weakly-labeled and many unlabeled images. CoRR, 2021
+Menglin Wu,Xinxin Cai,Qiang Chen,Zexuan Ji,Sijie Niu,Theodore Leng,Daniel L. Rubin,Hyunjin Park. Geographic atrophy segmentation in SD-OCT images using synthesized fundus autofluorescence imaging. Comput. Methods Programs Biomed., 2019
+Qian Wang,Ke Chen. Multi-label zero-shot human action recognition via joint latent embedding. CoRR, 2020
+Xiaojie Wang,Rui Zhang,Yu Sun,Jianzhong Qi. Adversarial distillation for learning with privileged provisions. IEEE Trans. Pattern Anal. Mach. Intell., 2021
+Hoa M. Le,Thi-Oanh Nguyen,Dung Ngo-Tien. Fully automated multi-label image annotation by convolutional neural network and adaptive thresholding. SoICT, 2016
+Xiaopeng Zhang,Hongkai Xiong,Weiyao Lin,Qi Tian. Weak to strong detector learning for simultaneous classification and localization. IEEE Trans. Circuits Syst. Video Technol., 2019
+Mariusz Topolski. Algorithm of multidimensional analysis of main features of PCA with blurry observation of facility features detection of carcinoma cells multiple myeloma. CORES, 2019
+Yong Dai,Yi Li,Shutao Li. Multi-label learning for concept-oriented labels of product image data. Image Vis. Comput., 2020
+ BinEye: Towards Efficient Binary Authorship Characterization Using Deep Learning. search fail, search fail
+Yanqing Feng,Lunwen Wang,Mengbo Zhang. Weakly-supervised learning of a deep convolutional neural networks for semantic segmentation. IEEE Access, 2019
+Jonas Prellberg,Oliver Kramer. Multi-label classification of surgical tools with convolutional neural networks. CoRR, 2018
+Jing Li. Parallel two-class 3D-CNN classifiers for video classification. ISPACS, 2017
+Tao Zhou,Zhixin Li,Canlong Zhang,Lan Lin. An improved convolutional neural network model with adversarial net for multi-label image classification. PRICAI, 2018
+Mengdan Zhang,Jiashi Feng,Weiming Hu. Robust visual object tracking with top-down reasoning. ACM Multimedia, 2017
+ Nondestructive multiplex detection of foodborne pathogens with background microflora and symbiosis using a paper chromogenic array and advanced neural network. search fail, search fail
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu,Qiang Wu. Heritage image annotation via collective knowledge. Pattern Recognit., 2019
+Shuo Xu,Xin An. ML2S-SVM: multi-label least-squares support vector machine classifiers. Electron. Libr., 2019
+Yi-Nan Li,Mei-Chen Yeh. Learning image conditioned label space for multilabel classification. CoRR, 2018
+Haigang Zhang,Jinfeng Yang,Guimin Jia,Shaocheng Han,Xinran Zhou. ELM-MC: multi-label classification framework based on extreme learning machine. Int. J. Mach. Learn. Cybern., 2020
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Learning category correlations for multi-label image recognition with graph networks. CoRR, 2019
+Junjie Zhang,Qi Wu,Jian Zhang,Chunhua Shen,Jianfeng Lu. Kill two birds with one stone: Weakly-supervised neural network for image annotation and tag refinement. CoRR, 2018
+ Image retrieval by fusion of features from pre-trained deep convolution neural networks. search fail, search fail
+Jianming Ye,Weiji Yang,Jianqing Wang,Xiaomei Xu,Liuyi Li,Chun Xie,Gang Chen,Xiangcai Wang,Xiaobo Lai. 基于 DCNN 的图像语义分割综述. Sensors, 2022
+ 面向大规模图像分类的深度卷积神经网络优化. search fail, search fail
+Mohammed Hassanin,Ibrahim Radwan,Salman H. Khan,Murat Tahtali. Learning discriminative representations for multi-label image recognition. CoRR, 2022
+Sonit Singh,Sarvnaz Karimi,Kevin Ho-Shon,Len Hamey. Biomedical Concept Detection in Medical Images: MQ-CSIRO at 2019 ImageCLEFmed Caption Task.. CLEF (Working Notes), 2019
+Feng-Ping An,Jun-e Liu,Lei Bai. Object recognition algorithm based on optimized nonlinear activation function-global convolutional neural network. Vis. Comput., 2022
+ LNEMLC: Label network embeddings for multi-label classification. search fail, search fail
+Zhao-Min Chen,Quan Cui,Xiu-Shen Wei,Xin Jin,Yanwen Guo. Disentangling, embedding and ranking label cues for multi-label image recognition. IEEE Trans. Multim., 2021
+Ran Song,Yonghuai Liu,Paul L. Rosin. Distinction of 3D objects and scenes via classification network and markov random field. IEEE Trans. Vis. Comput. Graph., 2020
+Xinggang Wang,Jiasi Wang,Peng Tang,Wenyu Liu. Weakly-and semi-supervised fast region-based CNN for object detection. J. Comput. Sci. Technol., 2019
+Xin Zhang,Bo He,Guangliang Li,Xiaokai Mu,Ying Zhou,Tanji Mang. NavNet: AUV navigation through deep sequential learning. IEEE Access, 2020
+Zhao Li,Wei Lu,Zhanquan Sun,Weiwei Xing. Improving multi-label classification using scene cues. Multim. Tools Appl., 2018
+Satyajit Neogi,Justin Dauwels. Factored Latent-Dynamic Conditional Random Fields for single and multi-label sequence modeling. CoRR, 2022
+Rui-Wei Zhao,Qi Zhang,Zuxuan Wu,Jianguo Li,Yu-Gang Jiang. Visual content recognition by exploiting semantic feature map with attention and multi-task learning. ACM Trans. Multim. Comput. Commun. Appl., 2019
+Zixuan Zhu,Yuhai Zhao. Multi-Graph Multi-Label Learning Based on Entropy. Entropy, 2018
+Jongkwang Hong,Jianlong Fu,Youngjung Uh,Tao Mei,Hyeran Byun. Exploiting hierarchical visual features for visual question answering. Neurocomputing, 2019
+ Bing: Binarized normed gradients for objectness estimation at 300 frames per second. search fail, search fail
+ Semantic-interactive graph convolutional network for multilabel image recognition. search fail, search fail
+ Room geometry estimation from room impulse responses using convolutional neural networks. search fail, search fail
+Pawel Trajdos,Marek Kurzynski. Dynamic classifier chains for multi-label learning. CoRR, 2019
+Tao Zhou,Zhixin Li,Canlong Zhang,Huifang Ma. Classify multi-label images via improved CNN model with adversarial network. Multim. Tools Appl., 2020
+Dongjoo Yun,Jongbin Ryu,Jongwoo Lim. Dual aggregated feature pyramid network for multi label classification. Pattern Recognit. Lett., 2021
+Shilong Liu,Lei Zhang,Xiao Yang,Hang Su,Jun Zhu. Query2label: A simple transformer way to multi-label classification. CoRR, 2021
+Christoph Daniel Schulze,Gregor Hoops,Reinhard von Hanxleden. Automatic Layout and Label Management for Compact UML Sequence Diagrams. VL/HCC, 2018
+Mete Özay,Takayuki Okatani. Training cnns with normalized kernels. AAAI, 2018
+Elijah Cole,Oisin Mac Aodha,Titouan Lorieul,Pietro Perona,Dan Morris,Nebojsa Jojic. Multi-Label Learning from Single Positive Labels. CoRR, 2021
+Sumi Dey,Olac Fuentes. Predicting solar x-ray flux using deep learning techniques. IJCNN, 2020
+Xin Liu,Qihan Hu,Han Yuan,Cuiwei Yang. Motion artifact detection in ppg signals based on gramian angular field and 2-d-cnn. CISP-BMEI, 2020
+Yawen Luo,Yuhua Chen. FPGA-Based Acceleration on Additive Manufacturing Defects Inspection. Sensors, 2021
+Yanan Wu,He Liu,Songhe Feng,Yi Jin,Gengyu Lyu,Zizhang Wu. GM-MLIC: graph matching based multi-label image classification. CoRR, 2021
+ Multimodal medical image fusion using rolling guidance filter with CNN and nuclear norm minimization. search fail, search fail
+Mengying Zhang,Changsheng Li,Xiangfeng Wang. Multi-view metric learning for multi-label image classification. ICIP, 2019
+Xiaowei Gu,Plamen P. Angelov,Ce Zhang,Peter M. Atkinson. A semi-supervised deep rule-based approach for complex satellite sensor image analysis. IEEE Trans. Pattern Anal. Mach. Intell., 2022
+Wolfgang Fuhl. Tensor normalization and full distribution training. CoRR, 2021
+ Uncertainty flow facilitates zero-shot multi-label learning in affective facial analysis. search fail, search fail
+Xiaoli Sun,Qiwei Wang,Xiujun Zhang,Chen Xu,Weiqiang Zhang. Deep blur detection network with boundary-aware multi-scale features. Connect. Sci., 2022
+Lingxiao Yang,Xiaohua Xie,Jianhuang Lai. Learning discriminative visual elements using part-based convolutional neural network. Neurocomputing, 2018
+ Deep-lift: deep label-specific feature learning for image annotation. search fail, search fail
+Fengping An. Image classification algorithm based on stacked sparse coding deep learning model-optimized kernel function nonnegative sparse representation. Soft Comput., 2020
+Shangfei Wang,Guozhu Peng,Zhuangqiang Zheng. Capturing joint label distribution for multi-label classification through adversarial learning. IEEE Trans. Knowl. Data Eng., 2020
+ Classification of hand-drawn basic circuit components using convolutional neural networks. search fail, search fail
+Gonzalo Nápoles,Marilyn Bello,Yamisleydi Salgueiro. Long-term Cognitive Network-based architecture for multi-label classification. Neural Networks, 2021
+ An automatic computer-based method for fast and accurate Covid-19 diagnosis. search fail, search fail
+Lixia Xue,Di Jiang,Ronggui Wang,Juan Yang,Min Hu. Learning semantic dependencies with channel correlation for multi-label classification. Vis. Comput., 2020
+Yang Zhao,Zhongxia Shang,Yong Lian. Auto generation of high-performance fixed-point multiplier for artificial neural networks. AICAS, 2019
+Ruiquan Ge,Renfeng Zhang,Pu Wang. Prediction of chronic diseases with multi-label neural network. IEEE Access, 2020
+Sounak Dey,Anjan Dutta,Suman K. Ghosh,Ernest Valveny,Josep Lladós,Umapada Pal. Aligning salient objects to queries: A multi-modal and multi-object image retrieval framework. ACCV (2), 2018
+ A comparison of image and object level annotation performance of image recognition cloud services and custom Convolutional Neural Network models. search fail, search fail
+ Image classification based on convolutional neural network and support vector machine. search fail, search fail
+Manan Jethanandani,Thinagaran Perumal,Jieh-Ren Chang,Abhishek Sharma,Yipeng Bao. Multi-Resident Activity Recognition using Multi-Label Classification in Ambient Sensing Smart Homes. ICCE-TW, 2019
+ Learn to classify and count: A unified framework for object classification and counting. search fail, search fail
+ Computer Vision beyond the visible: Image understanding through language. search fail, search fail
+ Early detection of hemiplegia by analyzing the gait characteristics and walking patterns using convolutional neural networks. search fail, search fail
+Qingxiao Sun,Yi Liu,Ming Dun,Hailong Yang,Zhongzhi Luan,Lin Gan,Guangwen Yang,Depei Qian. SpTFS: sparse tensor format selection for MTTKRP via deep learning. SC, 2020
+Mustafa Ozan Tezcan,Janusz Konrad,Jordana Muroff. Automatic Assessment of Hoarding Clutter from Images Using Convolutional Neural Networks. SSIAI, 2018
+Boseon Hong,Bongjae Kim. Efficient Caoshu Character Recognition Scheme and Service Using CNN-Based Recognition Model Optimization. Sensors, 2020
+Youqing Xiao,Zhanchuan Cai,Xixi Yuan. An improved skeleton extraction method via multi-task and variable coefficient loss function in natural images. IEEE Access, 2019
+Pei Lv,Haiyu Yu,Junxiao Xue,Junjin Cheng,Lisha Cui,Bing Zhou,Mingliang Xu,Yi Yang. Multi-scale discriminative region discovery for weakly-supervised object localization. CoRR, 2019
+ Predicting device availability in mobile crowd computing using ConvLSTM. search fail, search fail
+ Research on Clothing Classification Based on Convolutional Neural Network. search fail, search fail
+Yang Zhao,Hao Zhang. Regularization in deep neural networks. CoRR, 2022
+Lihi Dery. Multi-label Ranking: Mining Multi-label and Label Ranking Data. CoRR, 2021
+Guangwu Qian,Lei Zhang,Yan Wang. Single-label and multi-label conceptor classifiers in pre-trained neural networks. Neural Comput. Appl., 2019
+ Comparison of deep learning activation functions for performance improvement of a 2D shooting game learning agent. search fail, search fail
+ Rice Disease Detection Based on Image Processing Technique. search fail, search fail
+Fengtao Zhou,Sheng Huang,Yun Xing. Deep semantic dictionary learning for multi-label image classification. CoRR, 2021
+G. Siva krishna,N. Prakash. Deep learning for efficient and multi-labelled classification of synthetic aperture radar images. Evol. Syst., 2021
+Carlos Fernandez Musoles. Towards neuroimaging real-time driving using Convolutional Neural Networks. CEEC, 2016
+Pijush Kanti Dutta Pramanik,Nilanjan Sinhababu,Kyung-Sup Kwak,Prasenjit Choudhury. Deep learning based resource availability prediction for local mobile crowd computing. IEEE Access, 2021
+Xinyuan Qu,Zhihong Huang,Yu Xu,Ning Mao,Gang Cai,Zhen Fang. Cheetah: An accurate assessment mechanism and a high-throughput acceleration architecture oriented toward resource efficiency. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst., 2021
+ Criminal investigation image classification based on spatial CNN features and ELM. search fail, search fail
+Xiaopeng Zhang,Hongkai Xiong,Weiyao Lin,Qi Tian. Ensemble of part detectors for simultaneous classification and localization. CoRR, 2017
+Tengpeng Li,Huihui Song,Kaihua Zhang,Qingshan Liu. Context learning network for object detection. ICDM Workshops, 2020
+ Multi-label classification of a real-world image dataset. search fail, search fail
+Yong Guo,Yin Zheng,Mingkui Tan,Qi Chen,Zhipeng Li,Jian Chen,Peilin Zhao,Junzhou Huang. Towards accurate and compact architectures via neural architecture transformer. CoRR, 2021
+Tao He,Lei Zhang,Jixiang Guo,Zhang Yi. Multilabel classification by exploiting data‐driven pair‐wise label dependence. Int. J. Intell. Syst., 2020
+Jun Meng,Qiang Kang,Zheng Chang,Yushi Luan. Plncrna-hdeep: plant long noncoding rna prediction using hybrid deep learning based on two encoding styles. BMC Bioinform., 2021
+Zheng Wang,Xu Zheng,Dongyan Li,Helin Zhang,Yi Yang,Hongguang Pan. A VGGNet-like approach for classifying and segmenting coal dust particles with overlapping regions. Comput. Ind., 2021
+ 改进的卷积神经网络图片分类识别方法. search fail, search fail
+ 深度卷积神经网络图像语义分割研究进展. search fail, search fail
+Yan Zhang,Rui Zhang. Research on multimedia image classification technology based on chaos optimization machine learning algorithm. Multim. Tools Appl., 2021
+Da-Han Wang,Wei Zhou,Jianmin Li,Yun Wu,Shunzhi Zhu. Exploring Misclassification Information for Fine-Grained Image Classification. Sensors, 2021
+Shuhuan Wen,Wenbo Tian,Hong Zhang,Shaokang Fan,Nannan Zhou,Xiongfei Li. Weakly Supervised Semantic Segmentation Based on Deep Learning. IEEE Access, 2020
+ Identification of pedestrians attributes based on multi-class multi-label classification using Convolutional Neural Network (CNN). search fail, search fail
+Guanghui Yang. Classification algorithm based on semantic judgment and its application in image classification. Microprocess. Microsystems, 2021
+ Identification and location of voltage sag sources based on multi-label random forest. search fail, search fail
+ Automatic segmentation of auroral images using machine learning techniques. search fail, search fail
+ Category Identification Technique by a Semantic Feature Generation Algorithm. search fail, search fail
+ E-Commerce Product Image Classification using Transfer Learning. search fail, search fail
+Abu Saleh Md. Abir,Sanjana Rahman,Samia Ellin,Maisha Farzana,Md Hridoy Manik,Chowdhury Rafeed Rahman. Confronting the constraints for optical character segmentation from printed bangla text image. NSysS, 2020
+Feiyu Wang,Wen Li,Dong Xu. Cross-dataset point cloud recognition using deep-shallow domain adaptation network. IEEE Trans. Image Process., 2021
+ ML-ANet: A Transfer Learning Approach Using Adaptation Network for Multi-label Image Classification in Autonomous Driving. search fail, search fail
+ A Study: Multiple-Label Image Classification Using Deep Convolutional Neural Network Architectures. search fail, search fail
+Xiaoli Sun,Xiujun Zhang,Mingqing Xiao,Chen Xu. Blur detection via deep pyramid network with recurrent distinction enhanced modules. Neurocomputing, 2020
+ Multilabel classification with group-based mapping: a framework with local feature selection and local label correlation. search fail, search fail
+Ke Zhu,Jianxin Wu. Residual Attention: A Simple but Effective Method for Multi-Label Recognition. CoRR, 2021
+Changyu Liu,Qian Zhang,Bin Lu,Cong Li. Feature encodings and poolings for action and event recognition: A comprehensive survey. Inf., 2017
+Tian Chen,Chenxin Lin,Huaguo Liang,Fuji Ren. A dictionary-based test data compression method using tri-state coding. ATS, 2018
+Jianqiang Li,Guanghui Fu,Yueda Chen,Pengzhi Li,Bo Liu,Yan Pei,Hui Feng. A multi-label classification model for full slice brain computerised tomography image. BMC Bioinform., 2020
+Wenhui Jiang,Zhicheng Zhao,Fei Su,Yuming Fang. Dynamic proposal sampling for weakly supervised object detection. Neurocomputing, 2021
+ Bayesian Spam Detection Framework on Mobile Device. search fail, search fail
+Kai Zhang,Jupeng Li,Ruohan Ma,Gang Li. An end-to-end segmentation network for the temporomandibular joints CBCT image based on 3D U-Net. CISP-BMEI, 2020
+ Naive bayes classifier for dynamic chaining approach in multi-label learning. search fail, search fail
+Hao Fan,Qingdi Wei,De-Qin Shu. The Method of Extracting Land Classification Information by HRI-RefineNET Model. IEEE Access, 2020
+Khalil Khan,Jehad Ali,Irfan Uddin,Sahib Khan,Byeong-Hee Roh. A Facial Feature Discovery Framework for Race Classification Using Deep Learning. CoRR, 2021
+Tao Pu,Tianshui Chen,Hefeng Wu,Liang Lin. Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels. CoRR, 2022
+ Automatic Recognition of Anatomical Regions in Computed Tomography Images. search fail, search fail
+ Object detection and recognition: using deep learning to assist the visually impaired. search fail, search fail
+Saurabh Hinduja,Shaun J. Canavan,Lijun Yin. Recognizing Perceived Emotions from Facial Expressions. FG, 2020
+Abhik Chakraborty,Raksha Sharma. See deeper: Identifying crystal structure from x-ray diffraction patterns. CW, 2020
+Shuai Ding,Hui Huang,Zhenmin Li,Xiao Liu,Shanlin Yang. SCNET: a novel UGI cancer screening framework based on semantic-level multimodal data fusion. IEEE J. Biomed. Health Informatics, 2021
+Marilyn Bello,Gonzalo Nápoles,Ricardo Sánchez,Koen Vanhoof,Rafael Bello. Feature and label association based on granulation entropy for deep neural networks. IJCRS, 2020
+ Comparison of reinforcement learning algorithms for a 2D racing game learning agent. search fail, search fail
+Amandeep Kaur,Ajay Pal Singh Chauhan,Ashwani Kumar Aggarwal. An automated slice sorting technique for multi-slice computed tomography liver cancer images using convolutional network. Expert Syst. Appl., 2021
+Rebecca Kehlbeck,Jochen Görtler,Yunhai Wang,Oliver Deussen. SPEULER: Semantics-preserving Euler Diagrams. CoRR, 2022
+Abhik Chakraborty,Raksha Sharma. A deep crystal structure identification system for X-ray diffraction patterns. Vis. Comput., 2022
+Nicolò Colombo,Yang Gao. Disentangling neural architectures and weights: A case study in supervised classification. CoRR, 2020
+ FA-Net: feature attention network for semantic segmentation of ship port. search fail, search fail
+ Real-time stability surveillance in power systems: a deep learning approach. search fail, search fail
+ Intelligent situational-awareness architecture for hybrid emergency power systems in more electric aircraft. search fail, search fail
+ sEMG Classication with Convolutional Neural Networks: A Multi-Label Approach for Prosthetic Hand Control. search fail, search fail
+ Gömülü sistem üzerinde evrişimsel sinir ağları ile nesne sınıflandırması. search fail, search fail
+ Towards Real-Time Object Detection on Edge with Deep Neural Networks. search fail, search fail
+Cristian Sestito,Fanny Spagnolo,Stefania Perri. Design of Flexible Hardware Accelerators for Image Convolutions and Transposed Convolutions. J. Imaging, 2021
+Lin Nie,Tianshui Chen,Zhouxia Wang,Wenxiong Kang,Liang Lin. Multi-label image recognition with attentive transformer-localizer module. Multim. Tools Appl., 2022
+ Pattern classification of interstitial lung disease in high resolution clinical datasets: A systematic review. search fail, search fail
+ Optical Machine Learning Using Time-Lens Deep Neural NetWorks. search fail, search fail
+ COVID-DETECT: A DEEP LEARNING APPROACH FOR CLASSIFICATION OF COVID-19 PNEUMONIA FROM LUNG SEGMENTED CHEST X-RAYS. search fail, search fail
+ InVID-In Video Veritas: Verification of Social Media Video Content for the News Industry. search fail, search fail
+ An Application of Mask Detector For Prevent Covid-19 in Public Services Area. search fail, search fail
+Weibo Zhang,Fuqing Zhu,Jiao Dai,Songlin Hu,Jizhong Han,Tao Guo. SPL: Exploiting Unlabeled Data for Multi-label Image Classification. ICME, 2019
+Wei-Ta Chu,Si-Heng Huang. Multi-label image recognition by using semantics consistency, object correlation, and multiple samples. J. Vis. Commun. Image Represent., 2021
+ Simulating mixed land-use change under multi-label concept by integrating a convolutional neural network and cellular automata: a case study of Huizhou, China. search fail, search fail
+ High Resolution Remote Sensing Image Classification Using Hybrid Ensemble Learning. search fail, search fail
+Borin Min,Hok Tin,Aziz Nasridinov,Kwan-Hee Yoo. Abnormal Detection and Classification in i-Ceramic Images. BigComp, 2020
+Yun Wang,Tong Zhang,Zhen Cui,Chunyan Xu,Jian Yang. Instance-Aware Graph Convolutional Network for Multi-Label Classification. CoRR, 2020
+ Deep-Learning based Analysis of fMRI data: A Visual Recognition Study. search fail, search fail
+Sara Kamran,Raziyeh Zall,Mohammad Reza Kangavari,Saeid Hosseini,Sana Rahmani,Wen Hua. EmoDNN: Understanding emotions from short texts through a deep neural network ensemble. CoRR, 2021
+Daji Tang,Kehua Guo,Jianhua Ma,Xiaoyan Kui. Deep Neural Network Based Disease Discrimination Learning from Small Medical Image Training Set and User Feedback. iThings/GreenCom/CPSCom/SmartData, 2018
+ Analysis of Contextual Emotions Using Multimodal Data. search fail, search fail
+ An Attention-Driven Multi-label Image Classification with Semantic Embedding and Graph Convolutional Networks. search fail, search fail
+Runyu Chen. Multimodal cooperative learning for micro-video advertising click prediction. Internet Res., 2022
+Khalil Khan,Jehad Ali,Irfan Uddin,Sahib Khan,Byeong-Hee Roh. Race Classification Using Deep Learning. CoRR, 2021
+Xiangzhou Luo,Xushan Qing,Huimiao Chen. Spatiotemporal Traffic Flow Forecasting for PHETs Based on Data Mining and Deep Learning. ISSPIT, 2019
+ Graph interaction for automated diagnosis of thoracic disease using x-ray images. search fail, search fail
+Jianghuai Huang,Chaobing Huang. A Ship Classification Method Based on Residual Structure and Computational Verb. ICSAI, 2019
+Yi Chang,Xin Jing,Zhao Ren,Björn W. Schuller. CovNet: A Transfer Learning Framework for Automatic COVID-19 Detection From Crowd-Sourced Cough Sounds. Frontiers Digit. Health, 2021
+ Sparse Feature Convolutional Neural Network with Cluster Max Extraction for Fast Object Classification. search fail, search fail
+Jiawei Zhao,Ke Yan,Yifan Zhao,Xiaowei Guo,Feiyue Huang,Jia Li. Transformer-based Dual Relation Graph for Multi-label Image Recognition. CoRR, 2021
+ Security Enhancement of IoT-Based Edge Computing. search fail, search fail
+ Analysis of deep learning loss functions for multi-label remote sensing image classification. search fail, search fail
+Egidio Ragonese,Marco Fattori,Eugenio Cantatore. Flexible and Printed Electronics. MWSCAS, 2021
+ A Bearing Fault Diagnosis Method Using Multi-Branch Deep Neural Network. search fail, search fail
+ Characterizing On-Chip Traffic Patterns in Throughput Processors: A Deep Learning Approach. search fail, search fail
+Junbing Li,Changqing Zhang,Xueman Wang,Ling Du. Multi-Scale Cross-Modal Spatial Attention Fusion for Multi-label Image Recognition. ICANN (1), 2020
+Qian Wang,Jiachen Liu,Yiwen Yang. Weakly Supervised Object Detection for Auroral Vortex Structure in All-sky Image. AIPR, 2021
+ Research on Image Caption Algorithm Based on Improved Attention Mechanism. search fail, search fail
+ Image Classification Algorithm Based on Big Data and Multilabel Learning of Improved Convolutional Neural Network. search fail, search fail
+ Four Types of Multiclass Frameworks for Pneumonia Classification and Its Validation in X-ray Scans Using Seven Types of Deep Learning Artificial Intelligence …. search fail, search fail
+Yiling Wu,Shuhui Wang,Guoli Song,Qingming Huang. Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval............. IEEE Trans. Image Process., 2019
+Jiawei Zhao,Yifan Zhao,Jia Li. M3TR: Multi-modal Multi-label Recognition with Transformer. ACM Multimedia, 2021
+Tianshui Chen,Tao Pu,Hefeng Wu,Yuan Xie,Liang Lin. Structured Semantic Transfer for Multi-Label Recognition with Partial Labels. CoRR, 2021
+ New deep learning approaches to domain adaptation and their applications in 3D hand pose estimation. search fail, search fail
+ Non-Linear Machine Learning Techniques for Multi-Label Image Data Classification. search fail, search fail
+Jin Yuan,Shikai Chen,Yao Zhang,Zhongchao Shi,Xin Geng,Jianping Fan,Yong Rui. Graph Attention Transformer Network for Multi-Label Image Classification. CoRR, 2022
+Dongping Tian. Gaussian Mixture Model and Its Applications in Semantic Image Analysis.. J. Inf. Hiding Multim. Signal Process., 2018
+ Hierarchical edge-aware network for defocus blur detection. search fail, search fail
+ Applying Deep Learning Kernel Function for Species Identification System. search fail, search fail
+ Attention-Based Dual-Branch Cascade Network for Multi-Label Image Recognition. search fail, search fail
+Chuan Zhou,Junjing Chen,Tian Zhang,Ximan Tang,Siying Dai,Leiting Chen. Automatic Medical Lesion Annotation via Feature Fusion Correlation Network. BIBM, 2021
+ Face Recognition Based on Deep Learning and FPGA for Ethnicity Identification. search fail, search fail
+ A Bearing Fault Diagnosis Method Using Multi-Branch Deep Neural Network. Machines 2021, 9, 345. search fail, search fail
+ Machine learning-enabled feature classification of evaporation-driven multi-scale 3D printing. search fail, search fail
+Diqi Pan,Yonggang Lu,Peiyu Kang. A Deep Learning Model for Multi-label Classification Using Capsule Networks. ICIC (1), 2019
+Mingming Peng,Max Khanov,Saikeerthi Reddy Madireddy,Hongmei Chi,Esra Akbas,Gokila Dorai. DECADE-Deep Learning Based Content-hiding Application Detection System for Android. IEEE BigData, 2021
+ Universal Face Recognition Using Multiple Deep Learning Agent and Lazy Learning Algorithm. search fail, search fail
+ An Improved Convolutional Neural Network Algorithm for Multi-Label Classification. search fail, search fail
+ Label Dependency Classifier using Multi Feature Graph Convolution Networks for Automatic Image Annotation. search fail, search fail
+ An Automatic Computer-Based Method for Fast and Accurate Covid-19 Diagnosis. search fail, search fail
+ Mapping between Images and Conceptual Spaces: Sketch-based Image Retrieval. search fail, search fail
+Saed Alrabaee,Kim-Kwang Raymond Choo,Mohammad Qbea'h,Mahmoud Khasawneh. BinDeep: Binary to Source Code Matching Using Deep Learning. TrustCom, 2021
+ Multi-Class Object Learning with Application to Fabric Defects Detection. search fail, search fail
+ Defocus Blur detection via transformer encoder and edge guidance. search fail, search fail
+Jian Gong,Ju Ren,Yaoxue Zhang. DeepNav: A scalable and plug-and-play indoor navigation system based on visual CNN. Peer-to-Peer Netw. Appl., 2021
+ FPGA-based Acceleration for Convolutional Neural Networks on PYNQ-Z2.. search fail, search fail
+ Improvement on Deep Features through Various Enhancement Techniques for Vehicles Classification. search fail, search fail
+Shreya Jain,Poornima S. Thakur,Kusum Bharti,Pritee Khanna,Aparajita Ojha. A Lightweight Multi-label Image Classification Model Based on Inception Module. CVIP (3), 2020
+ Deep Learning Methods for Classification of Road Defects. search fail, search fail
+ Cocktail Party Problem for Bird Sounds. search fail, search fail
+ Development of in-house fully residual deep convolutional neural network-based segmentation software for the male pelvic CT. search fail, search fail
+Foteini Markatopoulou,Markos Zampoglou,Evlampios E. Apostolidis,Symeon Papadopoulos,Vasileios Mezaris,Ioannis Patras,Ioannis Kompatsiaris. Finding Semantically Related Videos in Closed Collections. Video Verification in the Fake News Era, 2019
+ 3D Convolution Recurrent Neural Networks for Multi-Label Earthquake Magnitude Classification. search fail, search fail
+ Deep learning integral imaging for three-dimensional visualization, object detection, and segmentation. search fail, search fail
+Tao Pu,Lixian Yuan,Hefeng Wu,Tianshui Chen,Ling Tian,Liang Lin. Semantic Representation and Dependency Learning for Multi-Label Image Recognition. CoRR, 2022
+Dimitrios Iliadis,Bernard De Baets,Willem Waegeman. Multi-target prediction for dummies using two-branch neural networks. Mach. Learn., 2022
+ Object-Based Video Multi-Label Classification with an Improved 3D Convolutional Neural Network. search fail, search fail
+Kien Do,Truyen Tran,Thin Nguyen,Svetha Venkatesh. Attentional Multilabel Learning over Graphs. CoRR, 2019
+ FPGA-based Acceleration for Convolutional Neural Networks on PYNQ-Z2. search fail, search fail
+Chenfei Ma,Weiyu Guo,Han Zhang,Oluwarotimi Williams Samuel,Xiaopeng Ji,Lisheng Xu,Guanglin Li. A Novel and Efficient Feature Extraction Method for Deep Learning Based Continuous Estimation. IEEE Robotics Autom. Lett., 2021
+ Real-Time Multi-Label Upper Gastrointestinal Anatomy Recognition from Gastroscope Videos. search fail, search fail
+Gabriel Bénédict,Vincent Koops,Daan Odijk,Maarten de Rijke. sigmoidF1: A Smooth F1 Score Surrogate Loss for Multilabel Classification. CoRR, 2021
+ Training accurate, diverse, and unbiased recommender systems by joint optimization. search fail, search fail
+Xiao Yao,Feiyang Xu,Min Gu,Peipei Wang. M-GCN: Brain-inspired memory graph convolutional network for multi-label image recognition. Neural Comput. Appl., 2022
+ A Multi-scale Semantic Attention Representation for Multi-Label Image Recognition with Graph Networks. search fail, search fail
+ Deep Learning-based Management For Wastewater Treatment Plants Under Blockchain Environment. search fail, search fail
+ Fast Defocus Blur Detection Network via Global Search and Local Refinements. search fail, search fail
+Jingya Yang,Dongdong Zhang,Gaocai Dong,Jing Peng. Figure Captioning in Scholarly Literatures to Augment Search Results. SSDBM, 2020
+ Design and Implementation of Painting Classification System Based on Double Attention Network. search fail, search fail
+ IMPLEMENTATION OF DEEP LEARNING NEURAL NETWORK LENET5 ON STM32 MICROCONTROLLER FOR IMAGE RECOGNITION. search fail, search fail
+Pawel Trajdos,Marcin Majak. Bayes metaclassifier and Soft-confusion-matrix classifier in the task of multi-label classification. CoRR, 2019
+ Deep Learning Strategies for Pool Boiling Heat Flux Prediction Using Image Sequences. search fail, search fail
+ Image Recognition of Engine Ignition Experiment Based on Convolutional Neural Network. search fail, search fail
+Geunseok Yang,Byungjeong Lee. Utilizing Topic-Based Similar Commit Information and CNN-LSTM Algorithm for Bug Localization. Symmetry, 2021
+ Multilabel Convolutional Network With Feature Denoising and Details Supplement. search fail, search fail
+ Label graph learning for multi-label image recognition with cross-modal fusion. search fail, search fail
+ Recognition of weld defects from X-ray images based on improved convolutional neural network. search fail, search fail
+Dongzhe Wang,Kezhi Mao. Web text‑aided image classification. APWeb, 2019
+ Design of Visual-Image Classifier for Web Application. search fail, search fail
+ Multi-Label Image Recognition in Anime Illustration with Graph Convolutional Networks. search fail, search fail
+Qian Wang. Zero-Shot Visual Recognition via Latent Embedding Learning. Zero-shot visual recognition via latent embedding learning., 2018
+ Research on Multi-label Clothing Image Classification Based on Convolutional Neural Network. search fail, search fail
+Qiaobo Hao,Yu Pei,Rong Zhou,Bin Sun,Jun Sun,Shutao Li,Xudong Kang. Fusing Multiple Deep Models for In Vivo Human Brain Hyperspectral Image Classification to Identify Glioblastoma Tumor. IEEE Trans. Instrum. Meas., 2021
+ Context models for pedestrian intention prediction by factored latent‑dynamic conditional random fields. search fail, search fail
+ Multi-label Image Classification via Category Prototype Compositional Learning. search fail, search fail
+Xiaowei Tan,Zhifeng Xiao,Jianjun Zhu,Qiao Wan,Kai Wang,Deren Li. Transformer-Driven Semantic Relation Inference for Multilabel Classification of High-Resolution Remote Sensing Images. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens., 2022
+ A Serial Attention Frame for Multi-Label Waste Bottle Classification. search fail, search fail
+Yundong Wu,Jiajia Liao,Yujun Liu,Kaiming Ding,Shimin Li,Zhilin Zhang,Guorong Cai,Jinhe Su. Knowledge-Driven Network for Object Detection. Algorithms, 2021
+ Eye Melanoma Cancer Detection and Classification Using CNN. search fail, search fail
+ Correlation-Based Multi-View Representation Learning for Information Fusion. search fail, search fail
+ Forecasting Covid-19 Cases in India using Deep CNN LSTM Model. search fail, search fail
+ Usage of Convolutional Neural Networks in Real-Time Facial Emotion Detection. search fail, search fail
+Wenzhi Fu,Jianlei Yang,Pengcheng Dai,Yiran Chen,Weisheng Zhao. A Scalable Pipelined Dataflow Accelerator for Object Region Proposals on FPGA Platform. CoRR, 2018
+ An Hybrid Parallel Network Structure for Image Classification. search fail, search fail
+ Global-Guided Weakly-Supervised Learning for Multi-Label Image Classification. search fail, search fail
+ Using artificial intelligence to automate meat cut identification from the semimembranosus muscle on beef boning lines. search fail, search fail
+ An Analysis of Deep Learning Models to Diagnose COVID-19 Using Radiography Images. search fail, search fail
+ Label-aware Graph Representation Learning for Multi-label Image Classification. search fail, search fail
+ Multi-view, Multi-label Learning with Deep Neural Networks. search fail, search fail
+ A Comparative Analysis of Multiple Label Image Classification Techniques. search fail, search fail
+Qifan Lin,Zhaoliang Chen,Shiping Wang,Wenzhong Guo. A Unified Modular Framework with Deep Graph Convolutional Networks forMulti-label Image Recognition. PRCV (2), 2021
+Shiqiao Gu,Liu Yang,Yaning Li,Hui Li. Multi-label Learning by Exploiting Imbalanced Label Correlations. PRICAI (2), 2021
+ Multi-label classification based on attention mechanism and semantic dependencies. search fail, search fail
+Yaning Li,Liu Yang. More Correlations Better Performance: Fully Associative Networks for Multi-label Image Classification. ICPR, 2020
+Foteini Markatopoulou. Machine Learning Architectures for Video Annotation and Retrieval. Machine learning architectures for video annotation and retrieval., 2018
+Qing Li,Xiaojiang Peng,Yu Qiao,Qiang Peng. Graph Networks for Multi-label Image Recognition. CoRR, 2020
+ Localizing Interpretable Multi-scale informative Patches Derived from Media Classification Task. search fail, search fail
+ Sparse multi-label classification of medical images using deep convolutional neural networks. search fail, search fail
+ Deep representation for classification of refrigerator image via novel convolutional neural network. search fail, search fail
+ Four Types of Multiclass Frameworks for Pneumonia Classification and Its Validation in X-ray Scans Using Seven Types of Deep Learning Artificial …. search fail, search fail
+S. Sowmyayani,P. Arockia Jansi Rani. Salient object based visual sentiment analysis by combining deep features and handcrafted features. Multim. Tools Appl., 2022
+Ke Sun,Zhuo Lei,Jiasong Zhu,Xianxu Hou,Bozhi Liu,Guoping Qiu. Character Prediction in TV Series via a Semantic Projection Network. MMM (1), 2019
+ Vision Navigator: A Smart and Intelligent Obstacle Recognition Model for Visually Impaired Users. search fail, search fail
+ Lung Cancer Diagnosis Based on Convolutional Neural Networks Ensemble Model. search fail, search fail
+Zhe Wang,Zhongli Fang,Dongdong Li,Hai Yang,Wenli Du. Semantic Supplementary Network with Prior Information for Multi-label Image Classification. IEEE Trans. Circuits Syst. Video Technol., 2022
+Yuanjian Zhang,Tianna Zhao,Duoqian Miao,Witold Pedrycz. Granular Multilabel Batch Active Learning With Pairwise Label Correlation. IEEE Trans. Syst. Man Cybern. Syst., 2022
+ Apk2Img4AndMal: Android Malware Detection Framework Based on Convolutional Neural Network. search fail, search fail
+Zhao-Min Chen,Quan Cui,Borui Zhao,Ren-Jie Song,Xiaoqin Zhang,Osamu Yoshie. SST: Spatial and Semantic Transformers for Multi-Label Image Recognition. IEEE Trans. Image Process., 2022
+ Structural damage identification under nonstationary excitations through recurrence plot and multi-label convolutional neural network. search fail, search fail
+ 融合注意力机制和语义关联性的多标签图像分类. search fail, search fail
+ FREDRIK NÄSSTRÖM, FREDRIK BISSMARCK, VIKTOR DELESKOG, DAVID GUSTAFSSON, GUSTAF HENDEBY, JÖRGEN KARLHOLM. search fail, search fail
+ DERİN ÖĞRENME YAKLAŞIMLARINI KULLANARAK MAKALE ATIFLARININ SEMANTİK ANALİZİ. search fail, search fail
+ 协同级联网络和对抗网络的目标检测. search fail, search fail
+ 基于多视角学习和注意力的特征选择算法. search fail, search fail
+ 基于改进卷积神经网络的多标记分类算法. search fail, search fail
+ 基于机器学习的极光图像自动分割方法. search fail, search fail
+Jackson Mallmann,Altair Olivo Santin,Eduardo Kugler Viegas,Roger Robson dos Santos,Jhonatan Geremias. JHONATAN GEREMIAS. IJCNN, 2020
+ A multilayer perceptron approach for Ficus carica (fig) ripening classification. search fail, search fail
+ 面向多标签小样本学习的双流重构网络. search fail, search fail
+ Görüntü işleme yöntemleriyle temel devre elemanlarının sınıflandırılması. search fail, search fail
+ NGHIÊN CỨU TRIỂN KHAI MẠNG HỌC SÂU LENET5 TRÊN VI ĐIỀU KHIỂN STM32 ỨNG DỤNG TRONG NHẬN DẠNG HÌNH ẢNH. search fail, search fail
+ 一种基于注意力机制的电子病历中药物词向量转化方法. search fail, search fail

@@ -1,0 +1,945 @@
+Sabera Hoque,Md. Yasir Arafat,Shuxiang Xu,Ananda Maiti,Yuchen Wei. Object detection with deep learning: A review. CoRR, 2021
+ [HTML][HTML] Salient object detection: A survey. search fail, search fail
+Junwei Han,Dingwen Zhang,Gong Cheng,Nian Liu,Dong Xu. Advanced deep-learning techniques for salient and category-specific object detection: a survey. IEEE Signal Process. Mag., 2018
+Nian Liu,Junwei Han,Ming-Hsuan Yang. Picanet: Learning pixel-wise contextual attention for saliency detection. CoRR, 2020
+Xuebin Qin,Zichen Vincent Zhang,Chenyang Huang,Chao Gao,Masood Dehghan,Martin Jägersand. Basnet: Boundary-aware salient object detection. CVPR, 2019
+Xiaoning Zhang,Tiantian Wang,Jinqing Qi,Huchuan Lu,Gang Wang. Progressive attention guided recurrent network for salient object detection. CVPR, 2018
+Zhe Wu,Li Su,Qingming Huang. Cascaded partial decoder for fast and accurate salient object detection. CoRR, 2019
+Holger R. Roth,Le Lu,Nathan Lay,Adam P. Harrison,Amal Farag,Andrew Sohn,Ronald M. Summers. Spatial aggregation of holistically-nested convolutional neural networks for automated pancreas localization and segmentation. CoRR, 2018
+Rukhshanda Hussain,Yash Karbhari,Muhammad Fazal Ijaz,Marcin Wozniak,Pawan Kumar Singh,Ram Sarkar. Reverse attention for salient object detection. CoRR, 2021
+Lu Zhang,Ju Dai,Huchuan Lu,You He,Gang Wang. A bi-directional message passing model for salient object detection. CVPR, 2018
+Hongmei Song,Wenguan Wang,Sanyuan Zhao,Jianbing Shen,Kin-Man Lam. Pyramid dilated deeper convlstm for video salient object detection. ECCV (11), 2018
+Ting Zhao,Xiangqian Wu. Pyramid feature attention network for saliency detection. CVPR, 2019
+Wenguan Wang,Qiuxia Lai,Huazhu Fu,Jianbing Shen,Haibin Ling. Salient object detection in the deep learning era: An in-depth survey. CoRR, 2019
+Bing Han,Xinyun Zhang,Shuang Ren. Pu-net: Point cloud upsampling network. CoRR, 2022
+Junwei Han,Hao Chen,Nian Liu,Chenggang Yan,Xuelong Li. CNNs-based RGB-D saliency detection via cross-view transfer and multiview fusion. IEEE Trans. Cybern., 2018
+ [PDF][PDF] R3net: Recurrent residual refinement network for saliency detection. search fail, search fail
+Mengyang Feng,Huchuan Lu,Errui Ding. Attentive feedback network for boundary-aware salient object detection. CVPR, 2019
+Guanbin Li,Pengxiang Yan,Yuan Xie,Guisheng Wang,Liang Lin,Yizhou Yu. Instance-level salient object segmentation. CoRR, 2021
+Xin Li,Fan Yang,Hong Cheng,Wei Liu,Dinggang Shen. Contour knowledge transfer for salient object detection. ECCV (15), 2018
+Xuebin Qin,Zichen Vincent Zhang,Chenyang Huang,Masood Dehghan,Osmar R. Zaïane,Martin Jägersand. U2-Net: Going deeper with nested U-structure for salient object detection. CoRR, 2020
+Wei Xiong,Jiahui Yu,Zhe Lin,Jimei Yang,Xin Lu,Connelly Barnes,Jiebo Luo. Foreground-aware image inpainting. CoRR, 2019
+Hao Chen,Youfu Li. Progressively complementarity-aware fusion network for RGB-D salient object detection. CVPR, 2018
+Wei Ji,Ge Yan,Jingjing Li,Yongri Piao,Shunyu Yao,Miao Zhang,Li Cheng,Huchuan Lu. Depth-induced multi-scale recurrent attention network for saliency detection. ICCV, 2022
+Hao Chen,Youfu Li. Three-stream attention-aware network for RGB-D salient object detection. IEEE Trans. Image Process., 2019
+Zhe Wu,Li Su,Qingming Huang. Stacked cross refinement network for edge-aware salient object detection. ICCV, 2019
+Youwei Pang,Xiaoqi Zhao,Lihe Zhang,Huchuan Lu. Multi-scale interactive network for salient object detection. CoRR, 2020
+Junwei Han,Rong Quan,Dingwen Zhang,Feiping Nie. Robust object co-segmentation using background prior. IEEE Trans. Image Process., 2018
+Xiaolin Zhang,Yunchao Wei,Guoliang Kang,Yi Yang,Thomas S. Huang. Self-produced guidance for weakly-supervised object localization. CoRR, 2018
+Runmin Wu,Mengyang Feng,Wenlong Guan,Dong Wang,Huchuan Lu,Errui Ding. A mutual learning method for salient object detection with intertwined multi-supervision. CVPR, 2019
+Huikai Wu,Shuai Zheng,Junge Zhang,Kaiqi Huang. Fast end-to-end trainable guided filter. CoRR, 2018
+Hongguang Zhang,Jing Zhang,Piotr Koniusz. Few-shot learning via saliency-guided hallucination of samples. CoRR, 2019
+Ping Hu,Dongqi Cai,Shandong Wang,Anbang Yao,Yurong Chen. Learning supervised scoring ensemble for emotion recognition in the wild. ICMI, 2017
+Jinchao Zhu. Adaptive fusion for RGB-D salient object detection. CoRR, 2021
+Keren Fu,Deng-Ping Fan,Ge-Peng Ji,Qijun Zhao. JL-DCF: Joint learning and densely-cooperative fusion framework for RGB-D salient object detection. CoRR, 2020
+Vishwanath Sindagi,Vishal M. Patel. Multi-level bottom-top and top-bottom feature fusion for crowd counting. CoRR, 2019
+Jing Zhang,Tong Zhang,Yuchao Dai,Mehrtash Harandi,Richard I. Hartley. Deep unsupervised saliency detection: A multiple noisy labeling perspective. CoRR, 2018
+Jinming Su,Jia Li,Yu Zhang,Changqun Xia,Yonghong Tian. Selectivity or invariance: Boundary-aware salient object detection. CoRR, 2019
+Guanbin Li,Yuan Xie,Tianhao Wei,Keze Wang,Liang Lin. Flow guided recurrent neural encoder for video salient object detection. CVPR, 2018
+Xiaoqi Zhao,Youwei Pang,Lihe Zhang,Huchuan Lu,Lei Zhang. Suppress and balance: A simple gated network for salient object detection. CoRR, 2020
+Ge-Peng Ji,Lei Zhu,Mingchen Zhuge,Keren Fu. Camouflaged object detection. IEEE Trans. Circuits Syst. Video Technol., 2022
+Zuyao Chen,Qianqian Xu,Runmin Cong,Qingming Huang. Global context-aware progressive aggregation network for salient object detection. CoRR, 2020
+Hongwen Dong,Kechen Song,Yu He,Jing Xu,Yunhui Yan,Qinggang Meng. PGA-Net: Pyramid feature fusion and global context attention network for automated surface defect detection. IEEE Trans. Ind. Informatics, 2020
+Guolei Sun,Wenguan Wang,Jifeng Dai,Luc Van Gool. Mining cross-image semantics for weakly supervised semantic segmentation. CoRR, 2020
+Huajun Zhou,Xiaohua Xie,Jian-Huang Lai,Zixuan Chen,Lingxiao Yang. Interactive two-stream decoder for accurate and fast saliency detection. CVPR, 2020
+Jia Li,Changqun Xia,Xiaowu Chen. A benchmark dataset and saliency-guided stacked autoencoders for video-based salient object detection. IEEE Trans. Image Process., 2018
+Yu Zeng,Yun-Zhi Zhuge,Huchuan Lu,Lihe Zhang,Mingyang Qian,Yizhou Yu. Multi-source weak supervision for saliency detection. CoRR, 2019
+Chongyi Li,Runmin Cong,Junhui Hou,Sanyi Zhang,Yue Qian,Sam Kwong. Nested network with two-stream pyramid for salient object detection in optical remote sensing images. CoRR, 2019
+Keren Fu,Qijun Zhao,Irene Yu-Hua Gu,Jie Yang. Deepside: A general deep framework for salient object detection. Neurocomputing, 2019
+Runmin Cong,Jianjun Lei,Huazhu Fu,Junhui Hou,Qingming Huang,Sam Kwong. Going from RGB to RGBD saliency: A depth-guided transformation model. IEEE Trans. Cybern., 2020
+Chunwei Tian,Yong Xu,Lunke Fei,Ke Yan. Deep learning for image denoising: A survey. CoRR, 2018
+Lu Zhang,Jianming Zhang,Zhe Lin,Huchuan Lu,You He. Capsal: Leveraging captioning to boost semantics for salient object detection. CVPR, 2019
+Yi Zeng,Pingping Zhang,Zhe L. Lin,Jianming Zhang,Huchuan Lu. Towards high-resolution salient object detection. CoRR, 2019
+Di Kang,Antoni B. Chan. Crowd counting by adaptively fusing predictions from an image pyramid. CoRR, 2018
+Md. Amirul Islam,Mahmoud Kalash,Neil D. B. Bruce. Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects. CoRR, 2018
+Chongyi Li,Runmin Cong,Sam Kwong,Junhui Hou,Huazhu Fu,Guopu Zhu,Dingwen Zhang,Qingming Huang. ASIF-Net: Attention steered interweave fusion network for RGB-D salient object detection. IEEE Trans. Cybern., 2021
+Jun Wei,Shuhui Wang,Zhe Wu,Chi Su,Qingming Huang,Qi Tian. Label decoupling framework for salient object detection. CoRR, 2020
+Trung-Nghia Le,Tam V. Nguyen,Zhongliang Nie,Minh-Triet Tran,Akihiro Sugimoto. Anabranch network for camouflaged object segmentation. Comput. Vis. Image Underst., 2021
+Haofeng Li,Guanqi Chen,Guanbin Li,Yizhou Yu. Motion guided attention for video salient object detection. CoRR, 2019
+Trung-Nghia Le,Akihiro Sugimoto. Video salient object detection using spatiotemporal deep features. CoRR, 2018
+Yongri Piao,Zhengkun Rong,Miao Zhang,Weisong Ren,Huchuan Lu. A2dele: Adaptive and attentive depth distiller for efficient rgb-d salient object detection. CVPR, 2020
+Yuzhu Ji,Haijun Zhang,Q. M. Jonathan Wu. Salient object detection via multi-scale attention CNN. Neurocomputing, 2018
+Guoguang Du,Kai Wang,Shiguo Lian,Kaiyong Zhao. Vision-based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review. Artif. Intell. Rev., 2021
+Nikita Araslanov,Stefan Roth. Single-stage semantic segmentation from image labels. CoRR, 2020
+Xu Zheng,Chong Fu,Haoyu Xie,Jialei Chen,Xingwei Wang,Chiu-Wing Sham. Deep co-training for semi-supervised image segmentation. CoRR, 2021
+Junsong Fan,Zhaoxiang Zhang,Chunfeng Song,Tieniu Tan. Learning integral objects with intra-class discriminator for weakly-supervised semantic segmentation. CVPR, 2020
+Youwei Pang,Lihe Zhang,Xiaoqi Zhao,Huchuan Lu. Hierarchical dynamic filtering network for rgb-d salient object detection. CoRR, 2020
+Yuhuan Chen,Wenbin Zou,Yi Tang,Xia Li,Chen Xu,Nikos Komodakis. SCOM: Spatiotemporal constrained optimization for salient object detection. IEEE Trans. Image Process., 2018
+Miao Zhang,Weisong Ren,Yongri Piao,Zhengkun Rong,Huchuan Lu. Select, supplement and focus for RGB-D saliency detection. CVPR, 2020
+Xiaowu Chen,Anlin Zheng,Jia Li,Feng Lu. Look, perceive and segment: Finding the salient objects in images via two-stream fixation-semantic cnns. ICCV, 2017
+Bingfeng Zhang,Jimin Xiao,Yunchao Wei,Mingjie Sun,Kaizhu Huang. Reliability does matter: An end-to-end weakly supervised semantic segmentation approach. CoRR, 2020
+Runmin Cong,Jianjun Lei,Huazhu Fu,Fatih Porikli,Qingming Huang,Chunping Hou. Video saliency detection via sparsity-based reconstruction and propagation. IEEE Trans. Image Process., 2019
+Runmin Cong,Jianjun Lei,Huazhu Fu,Qingming Huang,Xiaochun Cao,Nam Ling. HSCS: Hierarchical sparsity based co-saliency detection for RGBD images. CoRR, 2019
+Tiantian Wang,Yongri Piao,Huchuan Lu,Xiao Li,Lihe Zhang. Deep learning for light field saliency detection. ICCV, 2019
+Quanlong Zheng,Xiaotian Qiao,Ying Cao,Rynson W. H. Lau. Distraction-aware shadow detection. CVPR, 2019
+Shuhan Chen,Xiuli Tan,Ben Wang,Huchuan Lu,Xuelong Hu,Yun Fu. Reverse attention-based residual network for salient object detection. IEEE Trans. Image Process., 2020
+Qiang Zhang,Nianchang Huang,Lin Yao,Dingwen Zhang,Caifeng Shan,Jungong Han. RGB-T salient object detection via fusing multi-level CNN features. IEEE Trans. Image Process., 2020
+Tao Zhuo,Zhiyong Cheng,Peng Zhang,Yongkang Wong,Mohan S. Kankanhalli. Unsupervised online video object segmentation with motion property understanding. CoRR, 2020
+Dingwen Zhang,Junwei Han,Yu Zhang,Dong Xu. Synthesizing supervision for learning deep saliency network without human annotation. IEEE Trans. Pattern Anal. Mach. Intell., 2020
+Yingruo Fan,Jacqueline C. K. Lam,Victor O. K. Li. Video-based emotion recognition using deeply-supervised neural networks. ICMI, 2018
+Kaihua Zhang,Tengpeng Li,Bo Liu,Qingshan Liu. Co-saliency detection via mask-guided fully convolutional networks with multi-scale label smoothing. CVPR, 2019
+Duc Tam Nguyen,Maximilian Dax,Chaithanya Kumar Mummadi,Thi-Phuong-Nhung Ngo,Thi Hoai Phuong Nguyen,Zhongyu Lou,Thomas Brox. Deepusps: Deep robust unsupervised saliency prediction via self-supervision. NeurIPS, 2019
+Zhong Ji,Haoran Wang,Jungong Han,Yanwei Pang. Saliency-guided attention network for image-sentence matching. CoRR, 2019
+Pingping Zhang,Wei Liu,Huchuan Lu,Chunhua Shen. Salient object detection with lossless feature reflection and weighted structural loss. CoRR, 2019
+Debasmita Ghose,Shasvat Mukeshkumar Desai,Sneha Bhattacharya,Deep Chakraborty,Madalina Fiterau,Tauhidur Rahman. Pedestrian detection in thermal images using saliency maps. CoRR, 2019
+Huaxin Xiao,Jiashi Feng,Yunchao Wei,Maojun Zhang,Shuicheng Yan. Deep salient object detection with dense connections and distraction diagnosis. IEEE Trans. Multim., 2018
+Shuo Liu,Wenrui Ding,Chunhui Liu,Yu Liu,Yufeng Wang,Hongguang Li. ERN: Edge loss reinforced semantic segmentation network for remote sensing images. Remote. Sens., 2018
+Chongyi Li,Runmin Cong,Yongri Piao,Qianqian Xu,Chen Change Loy. RGB-D salient object detection with cross-modality modulation and selection. CoRR, 2020
+Zuyao Chen,Runmin Cong,Qianqian Xu,Qingming Huang. DPANet: Depth potentiality-aware gated attention network for RGB-D salient object detection. IEEE Trans. Image Process., 2021
+Wei Ji,Jingjing Li,Miao Zhang,Yongri Piao,Huchuan Lu. Accurate RGB-D salient object detection via collaborative learning. CoRR, 2020
+Miao Zhang,Jingjing Li,Ji Wei,Yongri Piao,Huchuan Lu. Memory-oriented decoder for light field salient object detection. NeurIPS, 2019
+Shouting Feng,Zhongshuo Zhuo,Daru Pan,Qi Tian. CcNet: A cross-connected convolutional network for segmenting retinal vessels using multi-scale features. Neurocomputing, 2020
+Michael Kampffmeyer,Nanqing Dong,Xiaodan Liang,Yujia Zhang,Eric P. Xing. ConnNet: A long-range relation-aware pixel-connectivity network for salient segmentation. CoRR, 2019
+Zhao Zhang,Zheng Lin,Jun Xu,Wenda Jin,Shao-Ping Lu,Deng-Ping Fan. Bilateral attention network for RGB-D salient object detection. CoRR, 2021
+Yi Zhu,Yanzhao Zhou,Huijuan Xu,Qixiang Ye,David S. Doermann,Jianbin Jiao. Learning instance activation maps for weakly supervised instance segmentation. CVPR, 2019
+Keren Fu,Qijun Zhao,Irene Yu-Hua Gu. Refinet: A deep segmentation assisted refinement network for salient object detection. IEEE Trans. Multim., 2019
+Kuang-Jui Hsu,Chung-Chi Tsai,Yen-Yu Lin,Xiaoning Qian,Yung-Yu Chuang. Unsupervised cnn-based co-saliency detection with graphical optimization. ECCV (5), 2018
+Yuzhu Ji,Haijun Zhang,Zhao Zhang,Ming Liu. CNN-based encoder-decoder networks for salient object detection: A comprehensive review and recent advances. Inf. Sci., 2021
+Yupei Wang,Xin Zhao,Yin Li,Kaiqi Huang. Deep crisp boundaries: From boundaries to higher-level tasks. CoRR, 2019
+Keren Fu,Deng-Ping Fan,Ge-Peng Ji,Qijun Zhao,Jianbing Shen,Ce Zhu. Siamese network for RGB-D salient object detection and beyond. CoRR, 2020
+Lin Yuan,Xue Wei,Hui Shen,Ling-Li Zeng,Dewen Hu. Multi-center brain imaging classification using a novel 3D CNN approach. IEEE Access, 2018
+Gao Xu,Yongming Zhang,Qixing Zhang,Gaohua Lin,Yang Jia,Jinjun Wang. Video smoke detection based on deep saliency network. CoRR, 2018
+Chenglizhao Chen,Jipeng Wei,Chong Peng,Weizhong Zhang,Hong Qin. Improved saliency detection in RGB-D images using two-phase depth estimation and selective deep fusion. IEEE Trans. Image Process., 2020
+Chenglizhao Chen,Guotao Wang,Chong Peng,Xiaowei Zhang,Hong Qin. Improved robust video saliency detection based on long-term spatial-temporal information. IEEE Trans. Image Process., 2020
+Bo Wang,Quan Chen,Min Zhou,Zhiqiang Zhang,Xiaogang Jin,Kun Gai. Progressive feature polishing network for salient object detection. CoRR, 2020
+Ao Luo,Xin Li,Fan Yang,Zhicheng Jiao,Hong Cheng,Siwei Lyu. Cascade graph neural networks for rgb-d salient object detection. CoRR, 2020
+Pingping Zhang,Wei Liu,Yinjie Lei,Huchuan Lu. Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection. Pattern Recognit., 2019
+Wouter Van Gansbeke,Simon Vandenhende,Stamatios Georgoulis,Luc Van Gool. Unsupervised semantic segmentation by contrasting object mask proposals. CoRR, 2021
+Salman Khan,Khan Muhammad,Tanveer Hussain,Javier Del Ser,Fabio Cuzzolin,Siddhartha Bhattacharyya,Zahid Akhtar,Victor Hugo C. de Albuquerque. Deep smoke segmentation. CoRR, 2021
+Sina Mohammadi,Mehrdad Noori,Ali Bahri,Sina Ghofrani Majelan,Mohammad Havaei. CAGNet: Content-aware guidance for salient object detection. CoRR, 2020
+Shuhan Chen,Ben Wang,Xiuli Tan,Xuelong Hu. Embedding attention and residual network for accurate salient object detection. IEEE Trans. Cybern., 2020
+Shuhan Chen,Yun Fu. Progressively guided alternate refinement network for rgb-d salient object detection. CoRR, 2020
+Pengxiang Yan,Guanbin Li,Yuan Xie,Zhen Li,Chuan Wang,Tianshui Chen,Liang Lin. Semi-supervised video salient object detection using pseudo-labels. CoRR, 2019
+Guangxiao Ma,Chenglizhao Chen,Shuai Li,Chong Peng,Aimin Hao,Hong Qin. Salient object detection via multiple instance joint re-learning. IEEE Trans. Multim., 2020
+Wenda Zhao,Fan Zhao,Dong Wang,Huchuan Lu. Defocus blur detection via multi-stream bottom-top-bottom network. CVPR, 2020
+Yingyue Xu,Dan Xu,Xiaopeng Hong,Wanli Ouyang,Rongrong Ji,Min Xu,Guoying Zhao. Structured modeling of joint deep feature and prediction refinement for salient object detection. CoRR, 2019
+Zhengzheng Tu,Tian Xia,Chenglong Li,Xiaoxiao Wang,Yan Ma,Jin Tang. RGB-T image saliency detection via collaborative graph learning. CoRR, 2020
+Zhiliang Zeng,Xianzhi Li,Ying Kin Yu,Chi-Wing Fu. Deep floor plan recognition using a multi-task network with room-boundary-guided attention. CoRR, 2019
+Guorong Song,Kechen Song,Yunhui Yan. EDRNet: Encoder–decoder residual network for salient object detection of strip steel surface defects. IEEE Trans. Instrum. Meas., 2020
+Wujie Zhou,Junwei Wu,Jingsheng Lei,Jenq-Neng Hwang,Lu Yu. Salient object detection in stereoscopic 3D images using a deep convolutional residual autoencoder. IEEE Trans. Multim., 2021
+Hang Zhou,Dongdong Chen,Jing Liao,Kejiang Chen,Xiaoyi Dong,Kunlin Liu,Weiming Zhang,Gang Hua,Nenghai Yu. Lg-gan: Label guided adversarial network for flexible targeted attack of point cloud based deep networks. CoRR, 2020
+Yuzhu Ji,Haijun Zhang,Q. M. Jonathan Wu. Saliency detection via conditional adversarial image-to-image network. Neurocomputing, 2018
+Pingping Zhang,Wei Liu,Huchuan Lu,Chunhua Shen. Salient object detection by lossless feature reflection. CoRR, 2018
+Yuzhu Ji,Haijun Zhang,Zequn Jie,Lin Ma,Q. M. Jonathan Wu. CASNet: A cross-attention siamese network for video salient object detection. IEEE Trans. Neural Networks Learn. Syst., 2021
+ Three birds one stone: A general architecture for salient object segmentation, edge detection and skeleton extraction. search fail, search fail
+Xin Li,Fan Yang,Hong Cheng,Junyu Chen,Yuxiao Guo,Leiting Chen. Multi-scale cascade network for salient object detection. ACM Multimedia, 2017
+Wenlong Guan,Tiantian Wang,Jinqing Qi,Lihe Zhang,Huchuan Lu. Edge-aware convolution neural network based salient object detection. IEEE Signal Process. Lett., 2019
+Youbao Tang,Xiangqian Wu. Salient object detection using cascaded convolutional neural networks and adversarial learning. IEEE Trans. Multim., 2019
+Yupei Wang,Xin Zhao,Xuecai Hu,Yin Li,Kaiqi Huang. Focal boundary guided salient object detection. IEEE Trans. Image Process., 2019
+Nian Liu,Junwei Han,Ming-Hsuan Yang. Picanet: Pixel-wise contextual attention learning for accurate saliency detection. CoRR, 2020
+Muwei Jian,Qiang Qi,Hui Yu,Junyu Dong,Chaoran Cui,Xiushan Nie,Huaxiang Zhang,Yilong Yin,Kin-Man Lam. The extended marine underwater environment database and baseline evaluations. Appl. Soft Comput., 2019
+Jungbeom Lee,Eunji Kim,Sungmin Lee,Jangho Lee,Sungroh Yoon. Frame-to-frame aggregation of active regions in web videos for weakly supervised semantic segmentation. CoRR, 2019
+Miao Zhang,Wei Ji,Yongri Piao,Jingjing Li,Yu Zhang,Shuang Xu,Huchuan Lu. LFNet: Light field fusion network for salient object detection. IEEE Trans. Image Process., 2020
+Junwei Wu,Wujie Zhou,Ting Luo,Lu Yu,Jingsheng Lei. Multiscale multilevel context and multimodal fusion for RGB-D salient object detection. Signal Process., 2021
+Pingping Zhang,Wei Liu,Dong Wang,Yinjie Lei,Hongyu Wang,Huchuan Lu. Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps. CoRR, 2020
+Zhengzheng Tu,Yan Ma,Chenglong Li,Jin Tang,Bin Luo. Edge-guided non-local fully convolutional network for salient object detection. CoRR, 2021
+ [PDF][PDF] Deep Light-field-driven Saliency Detection from a Single View.. search fail, search fail
+Zhengyi Liu,Wei Zhang,Peng Zhao. A cross-modal adaptive gated fusion generative adversarial network for RGB-D salient object detection. Neurocomputing, 2020
+Zixuan Chen,Huajun Zhou,Jianhuang Lai,Lingxiao Yang,Xiaohua Xie. Contour-aware loss: Boundary-aware learning for salient object segmentation. CoRR, 2021
+Heyi Li,Yunke Tian,Klaus Mueller,Xin Chen. Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation. CoRR, 2019
+Yanpeng Cao,Dayan Guan,Yulun Wu,Jiangxin Yang,Yanlong Cao,Michael Ying Yang. Box-level segmentation supervised deep neural networks for accurate and real-time multispectral pedestrian detection. CoRR, 2019
+Faming Shao,Xinqing Wang,Fanjie Meng,Jingwei Zhu,Dong Wang,Juying Dai. Improved faster R-CNN traffic sign detection based on a second region of interest and highly possible regions proposal network. Sensors, 2019
+Chunlei Cai,Li Chen,Xiaoyun Zhang,Zhiyong Gao. End-to-end optimized ROI image compression. IEEE Trans. Image Process., 2020
+Yun-Zhi Zhuge,Yu Zeng,Huchuan Lu. Deep embedding features for salient object detection. AAAI, 2019
+Shizhou Dong,Zhifan Gao,Sandeep Pirbhulal,Gui-Bin Bian,Heye Zhang,Wanqing Wu,Shuo Li. IoT-based 3D convolution for video salient object detection. Neural Comput. Appl., 2020
+Ya Liu,Fan Xu,Ziqi Pu,Xuyang Huang,Jun Chen,Shuning Shao. Concealed object detection. ICIP (1), 2022
+Wenguan Wang,Jianbing Shen,Xiankai Lu,Steven C. H. Hoi,Haibin Ling. Paying attention to video object pattern understanding. IEEE Trans. Pattern Anal. Mach. Intell., 2021
+Jiaxuan Zhuo,Jianhuang Lai,Peijia Chen. A novel teacher-student learning framework for occluded person re-identification. CoRR, 2019
+Jinghui Qin,Yongjie Huang,Wushao Wen. Multi-scale feature fusion residual network for single image super-resolution. Neurocomputing, 2020
+Yuzhu Ji,Haijun Zhang,Kuo-Kun Tseng,Tommy W. S. Chow,Q. M. Jonathan Wu. Graph model-based salient object detection using objectness and multiple saliency cues. Neurocomputing, 2019
+Zhihao Chen,Lei Zhu,Liang Wan,Song Wang,Wei Feng,Pheng-Ann Heng. A multi-task mean teacher for semi-supervised shadow detection. CVPR, 2020
+Miao Zhang,Sun Xiao Fei,Jie Liu,Shuang Xu,Yongri Piao,Huchuan Lu. Asymmetric two-stream architecture for accurate rgb-d saliency detection. ECCV (28), 2020
+Xueyi Li,Tianfei Zhou,Jianwu Li,Yi Zhou,Zhaoxiang Zhang. Group-wise semantic mining for weakly supervised semantic segmentation. CoRR, 2021
+Xin Yang,Haiyang Mei,Ke Xu,Xiaopeng Wei,Baocai Yin,Rynson W. H. Lau. Where is my mirror?. CoRR, 2019
+Quanlong Zheng,Jianbo Jiao,Ying Cao,Rynson W. H. Lau. Task-driven webpage saliency. ECCV (14), 2018
+Hao Chen,Youfu Li,Dan Su. Attention-aware cross-modal cross-level fusion network for RGB-D salient object detection. IROS, 2018
+Haofeng Li,Guanbin Li,Yizhou Yu. ROSA: Robust salient object detection against adversarial attacks. CoRR, 2020
+Haiyang Mei,Xin Yang,Yang Wang,Yuanyuan Liu,Shengfeng He,Qiang Zhang,Xiaopeng Wei,Rynson W. H. Lau. Don't hit me! glass detection in real-world scenes. CVPR, 2020
+Mingchen Zhuge,Deng-Ping Fan,Nian Liu,Dingwen Zhang,Dong Xu,Ling Shao. Salient object detection via integrity learning. CoRR, 2021
+Tam V. Nguyen,Khanh-Duy Nguyen,Thanh-Toan Do. Semantic prior analysis for salient object detection. IEEE Trans. Image Process., 2019
+ [PDF][PDF] Visual attention in deep learning: a review. search fail, search fail
+ Facial expression recognition with deeply-supervised attention network. search fail, search fail
+Po-Sheng Huang,Chin-Han Shen,Hsu-Feng Hsiao. RGBD salient object detection using spatially coherent deep learning framework. DSL, 2018
+Junsong Fan,Zhaoxiang Zhang,Tieniu Tan. Employing multi-estimations for weakly-supervised semantic segmentation. ECCV (17), 2020
+Tianle Ma,Aidong Zhang. Multi-view factorization autoencoder with network constraints for multi-omic integrative analysis. CoRR, 2018
+Yunxiao Li,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. Accurate and robust video saliency detection via self-paced diffusion. IEEE Trans. Multim., 2020
+Hao Chen,Youfu Li,Dan Su. Discriminative cross-modal transfer learning and densely cross-level feedback fusion for RGB-D salient object detection. IEEE Trans. Cybern., 2020
+Guangxiao Ma,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. Stage-wise salient object detection in 360 omnidirectional image via object-level semantical saliency ranking. IEEE Trans. Vis. Comput. Graph., 2020
+ [BOOK][B] Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part II. search fail, search fail
+Miao Liu,Siyu Tang,Yin Li,James M. Rehg. Forecasting human-object interaction: joint prediction of motor attention and actions in first person video. ECCV (1), 2020
+Yongri Piao,Zhengkun Rong,Miao Zhang,Huchuan Lu. Exploit and replace: An asymmetrical two-stream architecture for versatile light field saliency detection. AAAI, 2020
+Anyi Rao,Jiaze Wang,Linning Xu,Xuekun Jiang,Qingqiu Huang,Bolei Zhou,Dahua Lin. A unified framework for shot type classification based on subject centric lens. CoRR, 2020
+Andrey Ignatov,Praveen Kandula,Maitreya Suin,A. N. Rajagopalan,Zhiwei Xiong,Jie Huang,Guanting Dong,Mingde Yao,Dong Liu,Wenjin Yang,Ming Hong,Wenying Lin,Jagruti Patel,Yanyun Qu,Jae-Seok Choi,Woonsung Park,Munchurl Kim,Rui Liu,Xiangyu Mao,Chengxi Yang,Qiong Yan,Wenxiu Sun,Junkai Fang,Radu Timofte,Meimei Shang,Fei Gao,Sujoy Ghosh,Prasen Kumar Sharma,Arijit Sur,Bolun Zheng,Xin Ye,Li Huang,Xiang Tian,Saikat Dutta,Kuldeep Purohit. Aim 2019 challenge on bokeh effect synthesis: Methods and results. ICCV Workshops, 2019
+Qi Yao,Xiaojin Gong. Saliency guided self-attention network for weakly and semi-supervised semantic segmentation. IEEE Access, 2020
+Andrey Ignatov,Radu Timofte,Ming Qian,Congyu Qiao,Jiamin Lin,Zhenyu Guo,Chenghua Li,Cong Leng,Jian Cheng,Juewen Peng,Xianrui Luo,Ke Xian,Zijin Wu,Zhiguo Cao,Densen Puthussery,C. V. Jiji,Hrishikesh P. S,Melvin Kuriakose,Saikat Dutta,Sourya Dipta Das,Nisarg A. Shah,Kuldeep Purohit,Praveen Kandula,Maitreya Suin,A. N. Rajagopalan,Saagara M. B,Minnu A. L,Sanjana A. R,Praseeda S,Ge Wu,Xueqin Chen,Tengyao Wang,Max Zheng,Hulk Wong,Jay Zou. AIM 2020 challenge on rendering realistic bokeh. CoRR, 2020
+Yi Xiao,Xinqing Wang,Peng Zhang,Fanjie Meng,Faming Shao. Object detection based on faster R-CNN algorithm with skip pooling and fusion of contextual information. Sensors, 2020
+Zhe Zhang,Junhui Ma,Panpan Xu,Wencheng Wang. Attention and boundary guided salient object detection. Pattern Recognit., 2021
+Qiang Zhang,Tonglin Xiao,Nianchang Huang,Dingwen Zhang,Jungong Han. Revisiting feature fusion for RGB-T salient object detection. IEEE Trans. Circuits Syst. Video Technol., 2021
+Xuanyang Xi,Yongkang Luo,Peng Wang,Hong Qiao. Salient object detection based on an efficient end-to-end saliency regression network. Neurocomputing, 2019
+Jian Wang,Shuhan Chen,Xiao Lv,Xiuqi Xu,Xuelong Hu. Residual learning for salient object detection. IEEE Trans. Image Process., 2022
+Qiang Zhai,Xin Li,Fan Yang,Chenglizhao Chen,Hong Cheng,Deng-Ping Fan. Mutual graph learning for camouflaged object detection. CoRR, 2021
+Pingping Zhang,Luyao Wang,Dong Wang,Huchuan Lu,Chunhua Shen. Agile amulet: Real-time salient object detection with contextual attention. CoRR, 2018
+Debiao Zhang,Wei Bu,Xiangqian Wu. Diabetic retinopathy classification using deeply supervised ResNet. SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI, 2017
+Kunpeng Li,Yulun Zhang,Kai Li,Yuanyuan Li,Yun Fu. Attention bridging network for knowledge transfer. ICCV, 2019
+Xuehao Wang,Shuai Li,Chenglizhao Chen,Yuming Fang,Aimin Hao,Hong Qin. Data-level recombination and lightweight fusion scheme for RGB-D salient object detection. CoRR, 2021
+Mingmin Zhen,Shiwei Li,Lei Zhou,Jiaxiang Shang,Haoan Feng,Tian Fang,Long Quan. Learning discriminative feature with crf for unsupervised video object segmentation. CoRR, 2020
+Congcong Li,Dawei Du,Libo Zhang,Tiejian Luo,Yanjun Wu,Qi Tian,Longyin Wen,Siwei Lyu. Data priming network for automatic check-out. CoRR, 2019
+Haiyang Mei,Ge-Peng Ji,Ziqi Wei,Xin Yang,Xiaopeng Wei,Deng-Ping Fan. Camouflaged object segmentation with distraction mining. CoRR, 2021
+Gongyang Li,Zhi Liu,Minyu Chen,Zhen Bai,Weisi Lin,Haibin Ling. Hierarchical alternate interaction network for RGB-D salient object detection. IEEE Trans. Image Process., 2021
+Xiaofei Zhou,Gongyang Li,Chen Gong,Zhi Liu,Jiyong Zhang. Attention-guided RGBD saliency detection using appearance information. Image Vis. Comput., 2020
+Chengyuan Li,Bin Luo,Hailong Hong,Xin Su,Yajun Wang,Jun Liu,Chenjie Wang,Jing Zhang,Linhai Wei. Object detection based on global-local saliency constraint in aerial images. Remote. Sens., 2020
+ [PDF][PDF] Salient Object Detection using a Context-Aware Refinement Network.. search fail, search fail
+Lu Li,Fugen Zhou,Xiangzhi Bai. Infrared pedestrian segmentation through background likelihood and object-biased saliency. IEEE Trans. Intell. Transp. Syst., 2018
+Jinnan Yan,Trung-Nghia Le,Khanh-Duy Nguyen,Minh-Triet Tran,Thanh-Toan Do,Tam V. Nguyen. MirrorNet: Bio-inspired camouflaged object segmentation. CoRR, 2021
+Nian Liu,Ni Zhang,Kaiyuan Wan,Ling Shao,Junwei Han. Visual saliency transformer. HCC, 2021
+Qian Chen,Keren Fu,Ze Liu,Geng Chen,Hongwei Du,Bensheng Qiu,Ling Shao. EF-Net: A novel enhancement and fusion network for RGB-D saliency detection. Pattern Recognit., 2021
+Yuming Fang,Chi Zhang,Hanqin Huang,Jianjun Lei. Visual attention prediction for stereoscopic video by multi-module fully convolutional network. IEEE Trans. Image Process., 2019
+Qian Chen,Ze Liu,Yi Zhang,Keren Fu,Qijun Zhao,Hongwei Du. RGB-D salient object detection via 3D convolutional neural networks. CoRR, 2021
+Junxia Li,Zefeng Pan,Qingshan Liu,Ziyang Wang. Stacked U-shape network with channel-wise attention for salient object detection. IEEE Trans. Multim., 2021
+Yiling Wu,Shuhui Wang,Guoli Song,Qingming Huang. Online asymmetric metric learning with multi-layer similarity aggregation for cross-modal retrieval. IEEE Trans. Image Process., 2019
+Sen Jia,Neil D. B. Bruce. Richer and deeper supervision network for salient object detection. CoRR, 2019
+Qiang Wang,Huijie Fan,Gan Sun,Weihong Ren,Yandong Tang. Recurrent generative adversarial network for face completion. IEEE Trans. Multim., 2021
+Bo Jiang,Xingyue Jiang,Jin Tang,Bin Luo,Shilei Huang. Multiple graph convolutional networks for co-saliency detection. ICME, 2019
+Dandan Zhu,Lei Dai,Ye Luo,Guokai Zhang,Xuan Shao,Laurent Itti,Jianwei Lu. Multi-scale adversarial feature learning for saliency detection. Symmetry, 2018
+ Fully automated prostate whole gland and central gland segmentation on MRI using holistically nested networks with short connections. search fail, search fail
+Mingyang Qian,Jinqing Qi,Lihe Zhang,Mengyang Feng,Huchuan Lu. Language-aware weak supervision for salient object detection. Pattern Recognit., 2019
+Zhiwen Fan,Liyan Sun,Xinghao Ding,Yue Huang,Congbo Cai,John W. Paisley. A segmentation-aware deep fusion network for compressed sensing mri. CoRR, 2018
+Chongyi Li,Runmin Cong,Chunle Guo,Hua Li,Chunjie Zhang,Feng Zheng,Yao Zhao. A parallel down-up fusion network for salient object detection in optical remote sensing images. CoRR, 2020
+BeomSeok Kim,Hyeongseok Son,Seong-Jin Park,Sunghyun Cho,Seungyong Lee. Defocus and motion blur detection with deep contextual features. Comput. Graph. Forum, 2018
+ [PDF][PDF] Detecting Robust Co-Saliency with Recurrent Co-Attention Neural Network.. search fail, search fail
+Yunxiao Li,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. A plug-and-play scheme to adapt image saliency deep model for video data. CoRR, 2021
+Junxia Li,Zefeng Pan,Qingshan Liu,Ying Cui,Yubao Sun. Complementarity-aware attention network for salient object detection. IEEE Trans. Cybern., 2022
+Bingcai Chen,Xin Tao,Manrou Yang,Chao Yu,Weimin Pan,Victor C. M. Leung. A saliency map fusion method based on weighted DS evidence theory. IEEE Access, 2018
+ [PDF][PDF] Densely Cascaded Shadow Detection Network via Deeply Supervised Parallel Fusion.. search fail, search fail
+Changrui Chen,Xin Sun,Yang Hua,Junyu Dong,Hongwei Xv. Learning deep relations to promote saliency detection. AAAI, 2020
+Fengdong Sun,Wenhui Li,Yuanyuan Guan. Self-attention recurrent network for saliency detection. CoRR, 2019
+ A cloud-edge collaboration framework for cognitive service. search fail, search fail
+Jing Zhang,Yuchao Dai,Fatih Porikli,Mingyi He. Deep edge-aware saliency detection. CoRR, 2017
+Xuehao Wang,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. Depth-quality-aware salient object detection. CoRR, 2021
+Yongri Piao,Xiao Li,Miao Zhang,Jingyi Yu,Huchuan Lu. Saliency detection via depth-induced cellular automata on light field. IEEE Trans. Image Process., 2020
+Qingzhen Xu,Fengyun Wang,Yongyi Gong,Zhoutao Wang,Kun Zeng,Qi Li,Xiaonan Luo. A novel edge-oriented framework for saliency detection enhancement. Image Vis. Comput., 2019
+Xuebin Qin,Deng-Ping Fan,Chenyang Huang,Cyril Diagne,Zichen Vincent Zhang,Adrià Cabeza Sant'Anna,Albert Suàrez,Martin Jägersand,Ling Shao. Boundary-aware segmentation network for mobile and web applications. CoRR, 2021
+Mohammad Shokri,Ahad Harati,Kimya Taba. Salient object detection in video using deep non-local neural networks. CoRR, 2020
+Sanping Zhou,Jinjun Wang,Fei Wang,Dong Huang. Se2net: Siamese edge-enhancement network for salient object detection. CoRR, 2019
+Zhenyu Wu,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. A deeper look at image salient object detection: Bi-stream network with a small training dataset. IEEE Trans. Multim., 2022
+Sucheng Ren,Chu Han,Xin Yang,Guoqiang Han,Shengfeng He. Tenet: Triple excitation network for video salient object detection. CoRR, 2020
+Si Liu,Zhen Wei,Yao Sun,Xinyu Ou,Junyu Lin,Bin Liu,Ming-Hsuan Yang. Composing semantic collage for image retargeting. IEEE Trans. Image Process., 2018
+Hao Dou,Delie Ming,Zhi Yang,Zhihong Pan,Yansheng Li,Jinwen Tian. Object-based visual saliency via laplacian regularized kernel regression. IEEE Trans. Multim., 2017
+ [PDF][PDF] Holistic and Deep Feature Pyramids for Saliency Detection.. search fail, search fail
+Jianwei Zhang,Zhenmei Liu,Bohai Du,Junting He,Guanzhao Li,Danni Chen. Binary tree-like network with two-path Fusion Attention Feature for cervical cell nucleus segmentation. Comput. Biol. Medicine, 2019
+Jinglin Zhang,Chenchu Xu,Zhifan Gao,Joel J. P. C. Rodrigues,Victor Hugo C. de Albuquerque. Industrial pervasive edge computing-based intelligence IoT for surveillance saliency detection. IEEE Trans. Ind. Informatics, 2021
+Xinghao Ding,Fujin He,Zhirui Lin,Yu Wang,Huimin Guo,Yue Huang. Crowd density estimation using fusion of multi-layer features. IEEE Trans. Intell. Transp. Syst., 2021
+Caiyong Wang,Yuhao Zhu,Yunfan Liu,Ran He,Zhenan Sun. Joint iris segmentation and localization using deep multi-task learning framework. CoRR, 2019
+Jin Tang,Dongzhe Fan,Xiaoxiao Wang,Zhengzheng Tu,Chenglong Li. RGBT salient object detection: Benchmark and a novel cooperative ranking approach. IEEE Trans. Circuits Syst. Video Technol., 2020
+Lecheng Zhou,Xiaodong Gu. Embedding topological features into convolutional neural network salient object detection. Neural Networks, 2020
+Abdelhafid Dakhia,Tiantian Wang,Huchuan Lu. A hybrid-backward refinement model for salient object detection. Neurocomputing, 2019
+Aymen Azaza,Joost van de Weijer,Ali Douik,Marc Masana. Context proposals for saliency detection. CoRR, 2018
+Xiao Wang,Tao Sun,Rui Yang,Chenglong Li,Bin Luo,Jin Tang. Quality-aware dual-modal saliency detection via deep reinforcement learning. Signal Process. Image Commun., 2019
+Nan Li,Xiaoguang Zhang,Chunlong Zhang,Huiwen Guo,Zhe Sun,Xinyu Wu. Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach. IEEE Access, 2019
+Zhengyi Liu,Quanlong Li,Wei Li. Deep layer guided network for salient object detection. Neurocomputing, 2020
+Wei Ji,Jingjing Li,Shuang Yu,Miao Zhang,Yongri Piao,Shunyu Yao,Qi Bi,Kai Ma,Yefeng Zheng,Huchuan Lu,Li Cheng. Calibrated RGB-D salient object detection. CVPR, 2021
+Jia Li,Jinming Su,Changqun Xia,Yonghong Tian. Distortion-Adaptive Salient Object Detection in 360 Omnidirectional Images. CoRR, 2020
+Xuelong Li,Dawei Song,Yongsheng Dong. Hierarchical feature fusion network for salient object detection. IEEE Trans. Image Process., 2020
+Wenbin Wang,Ruiping Wang,Shiguang Shan,Xilin Chen. Sketching image gist: Human-mimetic hierarchical scene graph generation. CoRR, 2020
+Yuzhen Niu,Chaoran Su,Wenzhong Guo. Salient object segmentation based on superpixel and background connectivity prior. IEEE Access, 2018
+Yu Qiu,Yun Liu,Hui Yang,Jing Xu. A simple saliency detection approach via automatic top-down feature fusion. Neurocomputing, 2020
+Ibtissam Bakkouri,Karim Afdel. Computer-aided diagnosis (CAD) system based on multi-layer feature fusion network for skin lesion recognition in dermoscopy images. Multim. Tools Appl., 2020
+ [HTML][HTML] Artificial intelligence in the creative industries: a review. search fail, search fail
+Zhengzheng Tu,Yan Ma,Zhun Li,Chenglong Li,Jieming Xu,Yongtao Liu. RGBT salient object detection: A large-scale dataset and benchmark. CoRR, 2020
+Zun Li,Congyan Lang,Yunpeng Chen,Jun Hao Liew,Jiashi Feng. Deep reasoning with multi-scale context for salient object detection. CoRR, 2019
+Wei Ji,Xi Li,Lina Wei,Fei Wu,Yueting Zhuang. Context-aware graph label propagation network for saliency detection. IEEE Trans. Image Process., 2020
+Jing Zhang,Yuchao Dai,Fatih Porikli,Mingyi He. Multi-scale salient object detection with pyramid spatial pooling. APSIPA, 2017
+Inam Ullah,Muwei Jian,Sumaira Hussain,Jie Guo,Hui Yu,Xing Wang,Yilong Yin. A brief survey of visual saliency detection. Multim. Tools Appl., 2020
+Fei Fang,Miao Yi,Hui Feng,Shenghong Hu,Chunxia Xiao. Narrative collage of image collections by scene graph recombination. IEEE Trans. Vis. Comput. Graph., 2018
+Kuldeep Purohit,Maitreya Suin,Praveen Kandula,Rajagopalan Ambasamudram. Depth-guided dense dynamic filtering network for bokeh effect rendering. ICCV Workshops, 2019
+Yaxin Tu,Zhigang Ling,Siyu Guo,He Wen. An accurate and real-time surface defects detection method for sawn lumber. IEEE Trans. Instrum. Meas., 2021
+ [PDF][PDF] Structure-consistent weakly supervised salient object detection with local saliency coherence. search fail, search fail
+Yonghua Zhang,Liang Li,Runmin Cong,Xiaojie Guo,Hui Xu,Jiawan Zhang. Co-saliency detection via hierarchical consistency measure. ICME, 2018
+Mehrdad Noori,Sina Mohammadi,Sina Ghofrani Majelan,Ali Bahri,Mohammad Havaei. DFNet: Discriminative feature extraction and integration network for salient object detection. CoRR, 2020
+Xia Hua,Xinqing Wang,Ting Rui,Haitao Zhang,Dong Wang. A fast self-attention cascaded network for object detection in large scene remote sensing images. Appl. Soft Comput., 2020
+Ye Lu,Kedong Zhou,Xiyin Wu,Penghan Gong. A novel multi-graph framework for salient object detection. Vis. Comput., 2019
+Xuemiao Xu,Jiaxing Chen,Huaidong Zhang,Guoqiang Han. Dual pyramid network for salient object detection. Neurocomputing, 2022
+Xin Xu,Shiqin Wang,Zheng Wang,Xiaolong Zhang,Ruimin Hu. Exploring image enhancement for salient object detection in low light images. CoRR, 2020
+Yi Tang,Wenbin Zou,Zhi Jin,Xia Li. Multi-scale spatiotemporal Conv-LSTM network for video saliency detection. ICMR, 2018
+Huaxin Xiao,Jiashi Feng,Yunchao Wei,Maojun Zhang. Self-explanatory deep salient object detection. CoRR, 2017
+Kun Huang,Shenghua Gao. Image saliency detection via multi-scale iterative CNN. Vis. Comput., 2020
+Hosub Lee,Richard Chow,Mohammad R. Haghighat,Heather M. Patterson,Alfred Kobsa. IoT service store: A web-based system for privacy-aware IoT service discovery and interaction. PerCom Workshops, 2018
+Avishek Siris,Jianbo Jiao,Gary K. L. Tam,Xianghua Xie,Rynson W. H. Lau. Inferring attention shift ranks of objects for image saliency. CVPR, 2020
+Seungho Lee,Minhyun Lee,Jongwuk Lee,Hyunjung Shim. Railroad is not a train: Saliency as pseudo-pixel supervision for weakly supervised semantic segmentation. CoRR, 2021
+Chung-Chi Tsai,Kuang-Jui Hsu,Yen-Yu Lin,Xiaoning Qian,Yung-Yu Chuang. Deep co-saliency detection via stacked autoencoder-enabled fusion and self-trained cnns. IEEE Trans. Multim., 2020
+Yuan Yuan,Hailong Ning,Xiaoqiang Lu. Bio-inspired representation learning for visual attention prediction. CoRR, 2021
+Yingyue Xu,Xiaopeng Hong,Fatih Porikli,Xin Liu,Jie Chen,Guoying Zhao. Saliency integration: An arbitrator model. CoRR, 2019
+Anni Li,Jinqing Qi,Huchuan Lu. Multi-attention guided feature fusion network for salient object detection. Neurocomputing, 2020
+Qinghua Ren,Renjie Hu. Multi-scale deep encoder-decoder network for salient object detection. Neurocomputing, 2018
+Yongjun Zhang,Xiang Wang,Xunwei Xie,Yansheng Li. Salient object detection via recursive sparse representation. Remote. Sens., 2018
+Simone Bianco,Marco Buzzelli,Raimondo Schettini. Multiscale fully convolutional network for image saliency. J. Electronic Imaging, 2018
+Yang Cong,Baojie Fan,Dongdong Hou,Huijie Fan,Kaizhou Liu,Jiebo Luo. Novel event analysis for human-machine collaborative underwater exploration. Pattern Recognit., 2019
+Jiawei Wang,Shuai Zhu,Jiao Xu,Da Cao. The retrieval of the beautiful: Self-supervised salient object detection for beauty product retrieval. ACM Multimedia, 2019
+Yuzhi Zhao,Lai-Man Po,Kwok-Wai Cheung,Wing Yin Yu,Yasar Abbas Ur Rehman. SCGAN: saliency map-guided colorization with generative adversarial network. CoRR, 2021
+Bo Wang,Wenxi Liu,Guoqiang Han,Shengfeng He. Learning long-term structural dependencies for video salient object detection. IEEE Trans. Image Process., 2020
+Liansheng Wang,Rongzhen Chen,Lei Zhu,Haoran Xie,Xiaomeng Li. Deep sub-region network for salient object detection. IEEE Trans. Circuits Syst. Video Technol., 2021
+Haofeng Li,Guanbin Li,Binbin Yang,Guanqi Chen,Liang Lin,Yizhou Yu. Depthwise nonlocal module for fast salient object detection using a single thread. IEEE Trans. Cybern., 2021
+ [PDF][PDF] Locate globally, segment locally: A progressive architecture with knowledge review network for salient object detection. search fail, search fail
+ Multi-feature fusion CNNs for Drosophila embryo of interest detection. search fail, search fail
+Ashish Kumar Gupta,Ayan Seal,Mukesh Prasad,Pritee Khanna. Salient object detection techniques in computer vision—A survey. Entropy, 2020
+Sanping Zhou,Jinjun Wang,Jimuyang Zhang,Le Wang,Dong Huang,Shaoyi Du,Nanning Zheng. Hierarchical U-shape attention network for salient object detection. IEEE Trans. Image Process., 2020
+Lamei Zhang,Hongwei Dong,Bin Zou. Efficiently utilizing complex-valued PolSAR image data via a multi-task deep learning framework. CoRR, 2019
+ Iteratively applying neural networks to automatically identify pixels of salient objects portrayed in digital images. search fail, search fail
+Qinghua Ren,Shijian Lu,Jinxia Zhang,Renjie Hu. Salient object detection by fusing local and global contexts. IEEE Trans. Multim., 2021
+Yunpeng Wu,Yangdong Ye,Chenyang Zhao,Zenglin Shi. Collective density clustering for coherent motion detection. IEEE Trans. Multim., 2018
+Yi Tang,Wenbin Zou,Yang Hua,Zhi Jin,Xia Li. Video salient object detection via spatiotemporal attention neural networks. Neurocomputing, 2020
+ Salient object detection from multi-spectral remote sensing images with deep residual network. search fail, search fail
+Peng Zhang,Li Su,Liang Li,Bing-Kun Bao,Pamela C. Cosman,Guorong Li,Qingming Huang. Training efficient saliency prediction models with knowledge distillation. ACM Multimedia, 2019
+Kwan-Young Kim,Se Young Chun. Sredgenet: Edge enhanced single image super resolution using dense edge detection network and feature merge network. CoRR, 2018
+Qi Qi,Sanyuan Zhao,Jianbing Shen,Kin-Man Lam. Multi-scale capsule attention-based salient object detection with multi-crossed layer connections. ICME, 2019
+Guangyu Ren,Tianhong Dai,Panagiotis Barmpoutis,Tania Stathaki. Salient object detection combining a self-attention module and a feature pyramid network. CoRR, 2020
+Nianchang Huang,Yang Yang,Dingwen Zhang,Qiang Zhang,Jungong Han. Employing bilinear fusion and saliency prior information for RGB-D salient object detection. IEEE Trans. Multim., 2022
+Gang Zhang,Zhi Li,Xuewei Li,Canbin Yin,Zengkai Shi. A novel salient feature fusion method for ship detection in synthetic aperture radar images. IEEE Access, 2020
+Jialun Pei,He Tang,Chao Liu,Chuanbo Chen. Salient instance segmentation via subitizing and clustering. CoRR, 2020
+Yanhua Liang,Guihe Qin,Minghui Sun,Jie Yan,Huiming Jiang. MAFNet: Multi-style attention fusion network for salient object detection. Neurocomputing, 2021
+Sanping Zhou,Jinjun Wang,Le Wang,Jimuyang Zhang,Fei Wang,Dong Huang,Nanning Zheng. Hierarchical and interactive refinement network for edge-preserving salient object detection. IEEE Trans. Image Process., 2021
+Liangzhi Tang,Hongliang Li,Qingbo Wu,King Ngi Ngan. Boundary-guided optimization framework for saliency refinement. IEEE Signal Process. Lett., 2018
+Yong Wu,Zhi Liu,Xiaofei Zhou. Saliency detection using adversarial learning networks. J. Vis. Commun. Image Represent., 2020
+ [PDF][PDF] Convolutional neural network based object detection: A review. search fail, search fail
+ Military object real-time detection technology combined with visual salience and psychology. search fail, search fail
+Qiong Wang,Lu Zhang,Wenbin Zou,Kidiyo Kpalma. Salient video object detection using a virtual border and guided filter. Pattern Recognit., 2020
+ RGB-D point cloud registration based on salient object detection. search fail, search fail
+Céline Craye,Timothée Lesort,David Filliat,Jean-François Goudou. Exploring to learn visual saliency: The RL-IAC approach. CoRR, 2019
+Yash Patel,Srikar Appalaraju,R. Manmatha. Saliency driven perceptual image compression. WACV, 2021
+Xin Tian,Ke Xu,Xin Yang,Baocai Yin,Rynson W. H. Lau. Weakly-supervised salient instance detection. CoRR, 2020
+Tengpeng Li,Huihui Song,Kaihua Zhang,Qingshan Liu. Recurrent reverse attention guided residual learning for saliency object detection. Neurocomputing, 2020
+Reza Nasiripour,Hassan Farsi,Sajad Mohamadzadeh. Visual saliency object detection using sparse learning. IET Image Process., 2019
+Lihe Zhang,Jiayu Sun,Tiantian Wang,Yifan Min,Huchuan Lu. Visual saliency detection via kernelized subspace ranking with active learning. IEEE Trans. Image Process., 2020
+ [HTML][HTML] Performance comparison of saliency detection. search fail, search fail
+Ke Yan,Xiuying Wang,Jinman Kim,Dagan Feng. A new aggregation of DNN sparse and dense labeling for saliency detection. IEEE Trans. Cybern., 2021
+Tengpeng Li,Huihui Song,Kaihua Zhang,Qingshan Liu. Learning residual refinement network with semantic context representation for real-time saliency object detection. Pattern Recognit., 2020
+Tong Wu,Junshi Huang,Guangyu Gao,Xiaoming Wei,Xiaolin Wei,Xuan Luo,Chi Harold Liu. Embedded discriminative attention mechanism for weakly supervised semantic segmentation. CVPR, 2021
+Mehmood Nawaz,Hong Yan. Saliency detection via multiple-morphological and superpixel based fast fuzzy C-mean clustering network. Expert Syst. Appl., 2020
+Donggoo Kang,Sangwoo Park,Joonki Paik. SdBAN: Salient object detection using bilateral attention network with dice coefficient loss. IEEE Access, 2020
+Isaac Ronald Ward,Hamid Laga,Mohammed Bennamoun. RGB-D image-based object detection: from traditional methods to deep learning techniques. CoRR, 2019
+Bruno A. Krinski,Daniel V. Ruiz,Guilherme Z. Machado,Eduardo Todt. Masking salient object detection, a mask region-based convolutional neural network analysis for segmentation of salient objects. CoRR, 2019
+Di Liu,Yaosi Hu,Kao Zhang,Zhenzhong Chen. Two-stream refinement network for RGB-D saliency detection. ICIP, 2019
+Zhengyi Liu,Jiting Tang,Qian Xiang,Peng Zhao. Salient object detection for RGB-D images by generative adversarial network. Multim. Tools Appl., 2020
+Hemanta Kumar Bhuyan,Chinmay Chakraborty,Yogesh Shelke,Subhendu Kumar Pani. COVID‐19 diagnosis system by deep learning approaches. Expert Syst. J. Knowl. Eng., 2022
+Peng Jiang,Zhiyi Pan,Changhe Tu,Nuno Vasconcelos,Baoquan Chen,Jingliang Peng. Super diffusion for salient object detection. CoRR, 2020
+Zhifu Zhao,Xuemei Xie,Chenye Wang,Siying Mao,Wan Liu,Guangming Shi. ROI-CSNet: Compressive sensing network for ROI-aware image recovery. Signal Process. Image Commun., 2019
+Jinglei Tang,Guoxin Yang,Yurou Sun,Jing Xin,Dongjian He. Salient object detection of dairy goats in farm image based on background and foreground priors. Neurocomputing, 2019
+Qing Zhang,Jiajun Lin,Jingjing Zhuge,Wenhao Yuan. Multi-level and multi-scale deep saliency network for salient object detection. J. Vis. Commun. Image Represent., 2019
+Mauricio Soto,Claire Le Goues. Common statement kind changes to inform automatic program repair. MSR, 2018
+Lian Xu,Wanli Ouyang,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel,Dan Xu. Leveraging auxiliary tasks with affinity learning for weakly supervised semantic segmentation. CoRR, 2021
+Yuanqiang Cai,Weiqiang Wang,Yuting Chen,Qixiang Ye. IOS-Net: An inside-to-outside supervision network for scale robust text detection in the wild. Pattern Recognit., 2020
+Shaoyue Song,Zhenjiang Miao,Hongkai Yu,Jianwu Fang,Kang Zheng,Cong Ma,Song Wang. Deep domain adaptation based multi-spectral salient object detection. IEEE Trans. Multim., 2022
+Qixin Chen,Tie Liu,Yuanyuan Shang,Zhuhong Shao,Hui Ding. Salient object detection: Integrate salient features in the deep learning framework. IEEE Access, 2019
+Yuqiu Kong,Mengyang Feng,Xin Li,Huchuan Lu,Xiuping Liu,Baocai Yin. Spatial context-aware network for salient object detection. Pattern Recognit., 2021
+Yuzhen Niu,Dong Huang,Yiqing Shi,Xiao Ke. Siamese-network-based learning to rank for no-reference 2D and 3D image quality assessment. IEEE Access, 2019
+Xiaoyan Guo,Ming Zhang,Yongqiang Dai. Image of plant disease segmentation model based on pulse coupled neural network with shuffle frog leap algorithm. CIS, 2018
+ Real-time object detection in remote sensing images based on visual perception and memory reasoning. search fail, search fail
+Guang Feng,Hongguang Bo,Jiayu Sun,Lihe Zhang,Huchuan Lu. Cacnet: Salient object detection via context aggregation and contrast embedding. Neurocomputing, 2020
+Youngmin Oh,Beomjun Kim,Bumsub Ham. Background-aware pooling and noise-aware loss for weakly-supervised semantic segmentation. CoRR, 2021
+Lei Zhou,Chen Gong,Zhi Liu,Keren Fu. SAL: Selection and attention losses for weakly supervised semantic segmentation. IEEE Trans. Multim., 2021
+Qiong Wang,Lu Zhang,Yan Li,Kidiyo Kpalma. Overview of deep-learning based methods for salient object detection in videos. Pattern Recognit., 2020
+He Zhang,Jianming Zhang,Federico Perazzi,Zhe Lin,Vishal M. Patel. Deep image compositing. DigiPro, 2021
+Ronghua Luo,Huailin Huang,WeiZeng Wu. Salient object detection based on backbone enhanced network. Image Vis. Comput., 2020
+Simone Bianco,Marco Buzzelli,Gianluigi Ciocca,Raimondo Schettini. Neural architecture search for image saliency fusion. Inf. Fusion, 2020
+Marco Reggiannini,Davide Moroni. The use of saliency in underwater computer vision: A review. Remote. Sens., 2021
+Xiaodi Guan,Lijun He,Mengyue Li,Fan Li. Entropy based data expansion method for blind image quality assessment. Entropy, 2020
+Jan Tünnermann,Christian Born,Bärbel Mertsching. Saliency from Growing Neural Gas: Learning pre-attentional structures for a flexible attention system. IEEE Trans. Image Process., 2019
+Ben Wang,Shuhan Chen,Jian Wang,Xuelong Hu. Residual feature pyramid networks for salient object detection. Vis. Comput., 2020
+Xuaner Zhang,Kevin Matzen,Vivien Nguyen,Dillon Yao,You Zhang,Ren Ng. Synthetic defocus and look-ahead autofocus for casual videography. CoRR, 2019
+Zhengyi Liu,Qian Xiang,Jiting Tang,Yuan Wang,Peng Zhao. Robust salient object detection for RGB images. Vis. Comput., 2020
+Di Liu,Kao Zhang,Zhenzhong Chen. Attentive cross-modal fusion network for RGB-D saliency detection. IEEE Trans. Multim., 2021
+Yufei Wang,Zhe L. Lin,Xiaohui Shen,Jianming Zhang,Scott Cohen. Concept mask: Large-scale segmentation from semantic concepts. CoRR, 2018
+ Saliency detection using fully convolutional network. search fail, search fail
+Prashant W. Patil,Akshay Dudhane,Subrahmanyam Murala. End-to-end recurrent generative adversarial network for traffic and surveillance applications. IEEE Trans. Veh. Technol., 2020
+Lili Huang,Guanbin Li,Ya Li,Liang Lin. Lightweight adversarial network for salient object detection. Neurocomputing, 2020
+Libao Zhang,Jie Ma. Salient object detection based on progressively supervised learning for remote sensing images. IEEE Trans. Geosci. Remote. Sens., 2021
+Zehua Zhang,Chen Yu,David J. Crandall. A self validation network for object-level human attention estimation. CoRR, 2019
+Wenliang Qiu,Xinbo Gao,Bing Han. Saliency detection using a deep conditional random field network. Pattern Recognit., 2020
+Bo Li,Zhengxing Sun,Lv Tang,Anqi Hu. Two-B-real net: Two-branch network for real-time salient object detection. ICASSP, 2019
+Aleksander V. Kopyltsov,Alla G. Kravets,Gennady V. Abrahamyan,Galiya R. Katasonova,Aleksander D. Sotnikov,Anush M. Atayan. Algorithm of estimation and correction of wireless telecommunications quality. IISA, 2018
+Mahmoud Kalash,Md. Amirul Islam,Neil D. B. Bruce. Relative saliency and ranking: Models, metrics, data and benchmarks. CoRR, 2021
+ [PDF][PDF] Salient object detection via high-to-low hierarchical context aggregation. search fail, search fail
+Luke Melas-Kyriazi,Christian Rupprecht,Iro Laina,Andrea Vedaldi. Finding an unsupervised image segmenter in each of your deep generative models. CoRR, 2021
+ [PDF][PDF] Enhancing Salient Object Segmentation Through Attention.. search fail, search fail
+Ming Qian,Congyu Qiao,Jiamin Lin,Zhenyu Guo,Chenghua Li,Cong Leng,Jian Cheng. Bggan: Bokeh-glass generative adversarial network for rendering realistic bokeh. CoRR, 2020
+Dandan Ding,Zhan Ma,Di Chen,Qingshuang Chen,Zoe Liu,Fengqing Zhu. Advances in video compression system using deep neural network: A review and case studies. Proc. IEEE, 2021
+Shima Afzali,Harith Al-Sahaf,Bing Xue,Christopher Hollitt,Mengjie Zhang. Genetic programming for feature selection and feature combination in salient object detection. EvoApplications, 2019
+Yongri Piao,Zhengkun Rong,Shuang Xu,Miao Zhang,Huchuan Lu. DUT-LFSaliency: Versatile dataset and light field-to-RGB saliency detection. CoRR, 2020
+Sheng-Hua Zhong,Yuantian Wang,Tongwei Ren,Mingjie Zheng,Yan Liu,Gangshan Wu. Steganographer detection via multi-scale embedding probability estimation. ACM Trans. Multim. Comput. Commun. Appl., 2020
+Christian Wilms,Simone Frintrop. AttentionMask: Attentive, efficient object proposal generation focusing on small objects. CoRR, 2018
+ Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery. search fail, search fail
+Kan Huang,Chunbiao Zhu,Ge Li. Robust salient object detection via fusing foreground and background priors. ICIP, 2018
+Xin Wang,Shiyi Wang,Chen Ning,Huiyu Zhou. Enhanced feature pyramid network with deep semantic embedding for remote sensing scene classification. IEEE Trans. Geosci. Remote. Sens., 2021
+Pingping Zhang,Wei Liu,Yinjie Lei,Huchuan Lu. Hyperfusion-net: Densely reflective fusion for salient object detection. CoRR, 2019
+Xiaodong Cun,Chi-Man Pun. Defocus blur detection via depth distillation. CoRR, 2020
+Bo Dong,Yan Zhou,Chuanfei Hu,Keren Fu,Geng Chen. BCNet: bidirectional collaboration network for edge-guided salient object detection. Neurocomputing, 2021
+Ying-Ying Zhang,Shuo Zhang,Ping Zhang,Hai-Zhen Song,XinGang Zhang. Local regression ranking for saliency detection. IEEE Trans. Image Process., 2020
+Hao Li,Fei Qi,Guangming Shi,Chunhuan Lin. A multiscale dilated dense convolutional network for saliency prediction with instance-level attention competition. J. Vis. Commun. Image Represent., 2019
+Hao Chen,Youfu Li,Yongjian Deng,Guosheng Lin. CNN-Based RGB-D Salient Object Detection: Learn, Select, and Fuse. CoRR, 2021
+Xin Xu,Jie Wang. Extended non-local feature for visual saliency detection in low contrast images. ECCV Workshops (4), 2018
+Yanchao Yang,Brian Lai,Stefano Soatto. Dystab: Unsupervised object segmentation via dynamic-static bootstrapping. CVPR, 2021
+Mehmood Nawaz,Hong Yan. Saliency detection using deep features and affinity-based robust background subtraction. IEEE Trans. Multim., 2021
+Zheng Fang,Xiongwei Zhang,Xiaotong Deng,Tieyong Cao,Changyan Zheng. Camouflage people detection via strong semantic dilation network. ACM TUR-C, 2019
+Yu Qiu,Yun Liu,Xiaoxu Ma,Lei Liu,Hongcan Gao,Jing Xu. Revisiting multi-level feature fusion: A simple yet effective network for salient object detection. ICIP, 2019
+Yun Xiao,Bo Jiang,Zhengzheng Tu,Jixin Ma,Jin Tang. A prior regularized multi-layer graph ranking model for image saliency computation. Neurocomputing, 2018
+ Salient object detection using weighted K-nearest neighbor linear blending. search fail, search fail
+Huikai Wu,Junge Zhang,Kaiqi Huang. Sparsemask: Differentiable connectivity learning for dense image prediction. CoRR, 2019
+Jing Zhang,Yuchao Dai,Bo Li,Mingyi He. Attention to the scale: Deep multi-scale salient object detection. DICTA, 2017
+Inam Ullah,Muwei Jian,Sumaira Hussain,Li Lian,Zafar Ali,Imran Qureshi,Jie Guo,Yilong Yin. Global context-aware multi-scale features aggregative network for salient object detection. Neurocomputing, 2021
+ Image Saliency Detection By Residual And Inception-like CNNs. search fail, search fail
+ Iterative residual network for structured edge detection. search fail, search fail
+ Top-down sampling convolution network for face segmentation. search fail, search fail
+ Learning to detect salient object with multi-source weak supervision. search fail, search fail
+Chenglizhao Chen,Guotao Wang,Chong Peng. Structure-aware adaptive diffusion for video saliency detection. IEEE Access, 2019
+Tao Zheng,Bo Li,Jiajia Liu. Annular feature pyramid network for salient object detection. ICACI, 2019
+Zhiliang Zeng,Mengyang Wu,Wei Zeng,Chi-Wing Fu. Deep recognition of vanishing-point-constrained building planes in urban street views. IEEE Trans. Image Process., 2020
+Gang Fu,Qing Zhang,Qifeng Lin,Lei Zhu,Chunxia Xiao. Learning to detect specular highlights from real-world images. ACM Multimedia, 2020
+Lian Xu,Hao Xue,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel. Atrous convolutional feature network for weakly supervised semantic segmentation. Neurocomputing, 2021
+ [CITATION][C] Troy: Give attention to saliency and for saliency. search fail, search fail
+Liming Huang,Kechen Song,Aojun Gong,Chuang Liu,Yunhui Yan. RGB-T saliency detection via low-rank tensor learning and unified collaborative ranking. IEEE Signal Process. Lett., 2020
+Nan Mu,Xin Xu,Xiaolong Zhang. Salient object detection in low contrast images via global convolution and boundary refinement. CVPR Workshops, 2019
+ S³Net: Spectral–Spatial–Semantic Network for Hyperspectral Image Classification With the Multiway Attention Mechanism. search fail, search fail
+Gargi Srivastava,Rajeev Srivastava. Modification of gradient vector flow using directional contrast for salient object detection. IEEE Multim., 2020
+Xiuwen Liu,Zhi Liu,Xiaofei Zhou,Minyu Chen. Saliency-guided image style transfer. ICME Workshops, 2019
+Yuming Fang,Guanqun Ding,Wenying Wen,Feiniu Yuan,Yong Yang,Zhijun Fang,Weisi Lin. Salient object detection by spatiotemporal and semantic features in real-time video processing systems. IEEE Trans. Ind. Electron., 2020
+Chenxing Xia,Hanling Zhang,Xiuju Gao,Keqin Li. Exploiting background divergence and foreground compactness for salient object detection. Neurocomputing, 2020
+Yanan Wang,Huawei Wang,Jianzhong Cao. A contour self-compensated network for salient object detection. Vis. Comput., 2021
+Ashish Kumar Gupta,Ayan Seal,Pritee Khanna,Enrique Herrera-Viedma,Ondrej Krejcar. ALMNet: Adjacent Layer Driven Multiscale Features for Salient Object Detection. IEEE Trans. Instrum. Meas., 2021
+ [PDF][PDF] Visual relation of interest detection. search fail, search fail
+Shiping Zhu,Lanyun Zhu. OGNet: Salient object detection with output-guided attention module. CoRR, 2019
+Jing Zhang,Yuchao Dai,Xin Yu,Mehrtash Harandi,Nick Barnes,Richard I. Hartley. Uncertainty-aware deep calibrated salient object detection. CoRR, 2020
+Wenzhao Feng,Chunhe Hu,Yuan Wang,Junguo Zhang,Hao Yan. A Novel Hierarchical Coding Progressive Transmission Method for WMSN Wildlife Images. Sensors, 2019
+Xiaoqi Zhao,Youwei Pang,Jiaxing Yang,Lihe Zhang,Huchuan Lu. Multi-source fusion and automatic predictor selection for zero-shot video object segmentation. CoRR, 2021
+Ehtesham Iqbal,Asim Niaz,Asif Aziz Memon,Usman Asim,Kwang Nam Choi. Saliency-driven active contour model for image segmentation. IEEE Access, 2020
+Zhihao Chen,Liang Wan,Lei Zhu,Jia Shen,Huazhu Fu,Wennan Liu,Jing Qin. Triple-cooperative video shadow detection. CoRR, 2021
+Chao Zhang,Fei Yang,Guoping Qiu,Qian Zhang. Salient object detection with capsule-based conditional generative adversarial network. ICIP, 2019
+Haiyang Mei,Bo Dong,Wen Dong,Pieter Peers,Xin Yang,Qiang Zhang,Xiaopeng Wei. Depth-aware mirror segmentation. CVPR, 2021
+ Online attention accumulation for weakly supervised semantic segmentation. search fail, search fail
+Bingfeng Zhang,Jimin Xiao,Jianbo Jiao,Yunchao Wei,Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. CoRR, 2021
+Chen Huang,Tingfa Xu,Yuhan Zhang,Chenguang Pan,Jianhua Hao,Xiangmin Li. Salient object detection on hyperspectral images in wireless network using CNN and saliency optimization. Ad Hoc Networks, 2021
+ Pedestrian Detection Using Visual Saliency and Deep Learning.. search fail, search fail
+Pingping Zhang,Wei Liu,Yi Zeng,Yinjie Lei,Huchuan Lu. Looking for the detail and context devils: High-resolution salient object detection. IEEE Trans. Image Process., 2021
+Milan Zinzuvadiya,Vatsalkumar Dhameliya,Sanjay Vaghela,Sahil Patki,Nirali R. Nanavati,Arnav Bhavsar. Co-detection in images using saliency and siamese networks. CVIP (2), 2018
+Yujia Wang,Wei Liang,Wanwan Li,Dingzeyu Li,Lap-Fai Yu. Scene-aware background music synthesis. ACM Multimedia, 2020
+Xixia Xu,Qi Zou,Xue Lin. Multi-person pose estimation with enhanced feature aggregation and selection. CoRR, 2020
+Lv Tang,Bo Li,Yijie Zhong,Shouhong Ding,Mofei Song. Disentangled high quality salient object detection. CoRR, 2021
+ Military object detection in defense using multi-level capsule networks. search fail, search fail
+Lv Tang,Bo Li. Class: Cross-level attention and supervision for salient objects detection. CoRR, 2020
+Xinggang Wang,Jiapei Feng,Bin Hu,Qi Ding,Longjin Ran,Xiaoxin Chen,Wenyu Liu. Weakly-supervised instance segmentation via class-agnostic learning with salient images. CoRR, 2021
+Ye Liang,Hongzhe Liu,Nan Ma. A novel deep network and aggregation model for saliency detection. Vis. Comput., 2020
+Chenxing Xia,Xiuju Gao,Kuan-Ching Li,Qianjin Zhao,Shunxiang Zhang. Salient object detection based on distribution-edge guidance and iterative Bayesian optimization. Appl. Intell., 2020
+ [PDF][PDF] Hierarchical auto-regressive model for image compression incorporating object saliency and a deep perceptual loss. search fail, search fail
+Dominique Beaini,Sofiane Achiche,Alexandre Duperré,Maxime Raison. Deep green function convolution for improving saliency in convolutional neural networks. CoRR, 2021
+Donggoo Kang,Sangwoo Park,Joonki Paik. Coarse to fine: Progressive and multi-task learning for salient object detection. ICPR, 2020
+Ning Zhang,Junchi Yan. Rethinking the defocus blur detection problem and a real-time deep DBD model. ECCV (10), 2020
+Wenzhao Cui,Qing Zhang,Baochuan Zuo. Deep saliency detection via spatial-wise dilated convolutional attention. Neurocomputing, 2021
+Yongxiong Wang,Kai Chen,Yan Song. Salient object detection with boundary information. ICME, 2020
+Zhaojian Yao,Luping Wang. ERBANet: Enhancing region and boundary awareness for salient object detection. Neurocomputing, 2021
+ Infrared salient object detection based on global guided lightweight non-local deep features. search fail, search fail
+Dawei Li,Siyuan Yan,Xin Cai,Yan Cao,Sifan Wang. An integrated image filter for enhancing change detection results. CoRR, 2019
+Zhenzhou Wang. Robust segmentation of the colour image by fusing the SDD clustering results from different colour spaces. IET Image Process., 2020
+Guangxiao Ma,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. Rethinking image salient object detection: Object-level semantic saliency reranking first, pixelwise saliency refinement later. IEEE Trans. Image Process., 2021
+Yunpeng Wu,Yong Qin,Yu Qian,Feng Guo,Zhipeng Wang,Limin Jia. Hybrid deep learning architecture for rail surface segmentation and surface defect detection. Comput. Aided Civ. Infrastructure Eng., 2022
+Tengda Guo,Xin Xu. Salient object detection from low contrast images based on local contrast enhancing and non-local feature learning. Vis. Comput., 2021
+Tianyou Chen,Xiaoguang Hu,Jin Xiao,Guofeng Zhang. BPFINet: Boundary-aware progressive feature integration network for salient object detection. Neurocomputing, 2021
+Chang Liu,Wujie Zhou,Yuzhen Chen,Jingsheng Lei. Asymmetric deeply fused network for detecting salient objects in RGB-D images. IEEE Signal Process. Lett., 2020
+Yi Liu,Xuan Wang,Shuhan Qi,Jian Guan,Fengwei Jia,Lin Yao. Pixel meets region: A pratical framework for salient object detection. ICME, 2018
+Fengwei Jia,Xuan Wang,Jian Guan,Qing Liao,Jiajia Zhang,Huale Li,Shuhan Qi. Bi-Connect Net for salient object detection. Neurocomputing, 2020
+Shurong Pang,Zhe Chen,Fuliang Yin. Lightweight multi-scale aggregated residual attention networks for image super-resolution. Multim. Tools Appl., 2022
+Qiang Lu,Guangtao Zhai,Wenhan Zhu,Yucheng Zhu,Xiongkuo Min,Xiao-Ping Zhang,Hua Yang. Automatic region selection for objective sharpness assessment of mobile device photos. ICIP, 2020
+ Refined extraction of buildings with the semantic edge-assisted approach from very high-resolution remotely sensed imagery. search fail, search fail
+Yanpeng Cao,Guizhong Fu,Jiangxin Yang,Yanlong Cao,Michael Ying Yang. Accurate salient object detection via dense recurrent connections and residual-based hierarchical feature integration. Signal Process. Image Commun., 2019
+Zizheng Pan,Bohan Zhuang,Haoyu He,Jing Liu,Jianfei Cai. Less is more: Pay less attention in vision transformers. CoRR, 2021
+Chang Liu,Fang Wan,Wei Ke,Zhuowei Xiao,Yuan Yao,Xiaosong Zhang,Qixiang Ye. Orthogonal decomposition network for pixel-wise binary classification. CVPR, 2019
+ [HTML][HTML] Hierarchical domain-adapted feature learning for video saliency prediction. search fail, search fail
+ Advancing Segmentation and Unsupervised Learning Within the Field of Deep Learning. search fail, search fail
+Fan Yu,Dandan Wang,Haonan Wang,Tongwei Ren,Jinhui Tang,Gangshan Wu,Jingjing Chen,Michael Riegler. Instance of Interest Detection. ACM Multimedia, 2020
+Ziyun Yang,Somayyeh Soltanian-Zadeh,Sina Farsiu. BiconNet: an edge-preserved connectivity-based approach for salient object detection. CoRR, 2022
+Yanzhu Liu,Yanan Wang,Adams Wai-Kin Kong. Pixel-wise ordinal classification for salient object grading. Image Vis. Comput., 2021
+Lin Guo,Shiyin Qin. High precision detection of salient objects based on deep convolutional networks with proper combinations of shallow and deep connections. Symmetry, 2019
+Haiyang Mei,Yuanyuan Liu,Ziqi Wei,Dongsheng Zhou,Xiaopeng Wei,Qiang Zhang,Xin Yang. Exploring dense context for salient object detection. IEEE Trans. Circuits Syst. Video Technol., 2022
+Yuchen Liu,Zhixin Shu,Yijun Li,Zhe Lin,Federico Perazzi,Sun-Yuan Kung. Content-aware gan compression. CoRR, 2021
+ APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection. search fail, search fail
+Zhe Wu,Li Su,Qingming Huang. Decomposition and completion network for salient object detection. IEEE Trans. Image Process., 2021
+Hao He,Xiangtai Li,Guangliang Cheng,Jianping Shi,Yunhai Tong,Gaofeng Meng,Véronique Prinet,Lubin Weng. Enhanced boundary learning for glass-like object segmentation. CoRR, 2021
+Marlon Marcon,Riccardo Spezialetti,Samuele Salti,Luciano Silva,Luigi di Stefano. Boosting object recognition in point clouds by saliency detection. CoRR, 2019
+Jiahui Liu,Changqian Yu,Beibei Yang,Changxin Gao,Nong Sang. CSENet: Cascade semantic erasing network for weakly-supervised semantic segmentation. Neurocomputing, 2021
+ Foreground detection and segmentation in rgb-d images. search fail, search fail
+Sucheng Ren,Wenxi Liu,Yongtuo Liu,Haoxin Chen,Guoqiang Han,Shengfeng He. Reciprocal transformations for unsupervised video object segmentation. CVPR, 2021
+Feng Zhou,Hui Shuai,Qingshan Liu,Guodong Guo. Flow driven attention network for video salient object detection. IET Image Process., 2020
+Yanliang Ge,Cong Zhang,Kang Wang,Ziqi Liu,Hongbo Bi. WGI-Net: A weighted group integration network for RGB-D salient object detection. Comput. Vis. Media, 2021
+Zehua Zhang,Ashish Tawari,Sujitha Martin,David J. Crandall. Interaction graphs for object importance estimation in on-road driving videos. CoRR, 2020
+Johann Sawatzky,Debayan Banerjee,Juergen Gall. Harvesting information from captions for weakly supervised semantic segmentation. CoRR, 2019
+Yupeng Xu,Yi Zhang,Ke Bi,Zhiyu Ning,Lisha Xu,Mengjun Shen,Guoying Deng,Yin Wang. Boundary restored network for subpleural pulmonary lesion segmentation on ultrasound images at local and global scales. J. Digit. Imaging, 2020
+Ahmad A. Masoud. [PDF][PDF] 视觉注意力检测综述. AAAI, 2022
+Patricia Jiménez,Juan C. Roldán,Rafael Corchuelo. [HTML][HTML] 深度残差网络的多光谱遥感图像显著目标检测. Enterp. Inf. Syst., 2022
+Kévin Perrot. 基于加权的 K 近邻线性混合显著性目标检测. Efficient Detailed Routing on Optimized Tracks., 2022
+Yibo Han,Liejun Wang,Anyu Du,Shaochen Jiang. 基于多模态特征融合监督的 RGB-D 图像显著性检测. IEEE Trans. Circuits Syst. Video Technol., 2022
+ Dense attentive feature enhancement for salient object detection. search fail, search fail
+ Structuring Description for Product Image Data with Multilabel. search fail, search fail
+Chaitanya K. Ryali,David J. Schwab,Ari S. Morcos. Leveraging background augmentations to encourage semantic focus in self-supervised contrastive learning. CoRR, 2021
+Yuxuan Liu,Pengjie Wang,Ying Cao,Zijian Liang,Rynson W. H. Lau. Weakly-Supervised Salient Object Detection With Saliency Bounding Boxes. IEEE Trans. Image Process., 2021
+Bo Jiang,Xingyue Jiang,Jin Tang,Bin Luo. Co-saliency detection via a general optimization model and adaptive graph learning. IEEE Trans. Multim., 2021
+Yuanqiang Cai,Weiqiang Wang,Haiqing Ren,Ke Lu. SPN: short path network for scene text detection. Neural Comput. Appl., 2020
+Nian Liu,Wangbo Zhao,Dingwen Zhang,Junwei Han,Ling Shao. Light field saliency detection with dual local graph learning and reciprocative guidance. ICCV, 2021
+Xiaoyang Zheng,Xin Tan,Jie Zhou,Lizhuang Ma,Rynson W. H. Lau. Weakly Supervised Video Salient Object Detection. IEEE Trans. Circuits Syst. Video Technol., 2021
+Fengwei Jia,Jian Guan,Shuhan Qi,Huale Li,Xuan Wang. A mix-supervised unified framework for salient object detection. Appl. Intell., 2020
+Zhijie Han,Weiwei Zhang. A summary of the BCCC data center network topology. BigDataSecurity/HPSC/IDS, 2018
+ Semantic-aware dehazing network with adaptive feature fusion. search fail, search fail
+Jiawei Cai,Feifei Lee,Shuai Yang,Chaowei Lin,Hanqing Chen,Koji Kotani,Qiu Chen. Pedestrian as points: An improved anchor-free method for center-based pedestrian detection. IEEE Access, 2020
+Kai Tan,Qingbo Wu,Fanman Meng,Linfeng Xu. Multi information fusion network for saliency quality assessment. IEICE Trans. Inf. Syst., 2019
+Xiaowei Chen,Qing Zhang,Liqian Zhang. Edge-aware salient object detection network via context guidance. Image Vis. Comput., 2021
+Yufei Zhao,Yong Song,Xu Li,Muhammad Sulaman,Zhengkun Guo,Xin Yang,Fengning Wang,Qun Hao. IR saliency detection via a GCF-SB visual attention framework. J. Vis. Commun. Image Represent., 2020
+Chang Tang,Xinzhong Zhu,Xinwang Liu,Pichao Wang. Salient object detection via recurrently aggregating spatial attention weighted cross-level deep features. ICME, 2019
+Md Jahidul Islam,Ruobing Wang,Karin de Langis,Junaed Sattar. Svam: saliency-guided visual attention modeling by autonomous underwater robots. CoRR, 2020
+Surya Kant Singh,Rajeev Srivastava. A novel probabilistic contrast-based complex salient object detection. J. Math. Imaging Vis., 2019
+Wujie Zhou,Sijia Pan,Jingsheng Lei,Lu Yu,Xi Zhou,Ting Luo. Three-branch architecture for stereoscopic 3D salient object detection. Digit. Signal Process., 2020
+Yuan-fang Zhang,Jiangbin Zheng,Wenjing Jia,Wenfeng Huang,Long Li,Nian Liu,Fei Li,Xiangjian He. Deep RGB-D Saliency Detection without Depth. IEEE Trans. Multim., 2022
+Weipeng Li,Xiaogang Yang,Chuanxiang Li,Ruitao Lu,Xueli Xie. Fast visual saliency based on multi-scale difference of Gaussians fusion in frequency domain. IET Image Process., 2020
+Yihang Liu,Peiyan Yuan. Saliency detection using global and local information under multilayer cellular automata. IEEE Access, 2019
+Zhenyu Wu,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. Recursive multi-model complementary deep fusion for robust salient object detection via parallel sub-networks. Pattern Recognit., 2022
+ Robust place recognition based on salient landmarks screening and convolutional neural network features. search fail, search fail
+Çaglar Aytekin,Xingyang Ni,Francesco Cricri,Lixin Fan,Emre Aksu. Memory-efficient deep salient object segmentation networks on gridized superpixels. CoRR, 2018
+Zhenyu Wu,Shuai Li,Chenglizhao Chen,Aimin Hao,Hong Qin. A deeper look at salient object detection: Bi-stream network with a small training dataset. CoRR, 2022
+Juan Wang,Yiping Duan,Xiaoming Tao,Mai Xu,Jianhua Lu. Semantic perceptual image compression with a laplacian pyramid of convolutional networks. ICIP, 2021
+Jia Li,Pengcheng Yuan,Daxin Gu,Yonghong Tian. Hierarchical deep cosegmentation of primary objects in aerial videos. IEEE Multim., 2019
+Yexin Duan,Xingyu Zhou,Junhua Zou,Junyang Qiu,Jin Zhang,Zhisong Pan. Mask-guided noise restriction adversarial attacks for image classification. Comput. Secur., 2021
+Jinjin Wang,Zhoufeng Liu,Chunlei Li,Ruimin Yang,Bicao Li. Self-attention deep saliency network for fabric defect detection. BIC-TA (2), 2019
+Gargi Srivastava,Rajeev Srivastava. An efficient modification of generalized gradient vector flow using directional contrast for salient object detection and intelligent scene analysis. Multim. Tools Appl., 2020
+ Utilizing a neural network having a two-stream encoder architecture to generate composite digital images. search fail, search fail
+Jian Wang,Shuhan Chen,Xiao Lv,Xiuqi Xu,Xuelong Hu. Guided residual network for RGB-D salient object detection with efficient depth feature learning. Vis. Comput., 2022
+ Saliency guided image watermarking for anti-forgery. search fail, search fail
+António Lorvao Antunes,Elsa Cardoso,José Barateiro. Adding value to sensor data of civil engineering structures: automatic outlier detection. IISA, 2018
+Yingfeng Cai,Lei Dai,Hai Wang,Long Chen,Yicheng Li. Adversarial learning based saliency detection. ACPR, 2020
+ RGB-D image saliency detection based on multi-modal feature-fused supervision. search fail, search fail
+Ke Xian,Juewen Peng,Chao Zhang,Hao Lu,Zhiguo Cao. Ranking-based salient object detection and depth prediction for shallow depth-of-field. Sensors, 2021
+Kara J. Emery,Marina Zannoli,James Warren,Lei Xiao,Sachin S. Talathi. OpenNEEDS: A Dataset of Gaze, Head, Hand, and Scene Signals During Exploration in Open-Ended VR Environments. ETRA Short Papers, 2021
+Yo Umeki,Isana Funahashi,Taichi Yoshida,Masahiro Iwahashi. Salient object detection with importance degree. IEEE Access, 2020
+Cuili Yao,Lin Feng,Yuqiu Kong,Bo Jin,Yiwei Liu,Leheng Li. Bi-DAINet: Bi-directional discard-accept-integrate network for salient object detection. Neurocomputing, 2021
+Fei Gao,Jiangjiang Liu. Face recognition using segmentation technology. ICMLA, 2019
+ New product design with automatic scheme generation. search fail, search fail
+Aodong Shen,Han Dong,Kun Wang,Youyong Kong,Jiasong Wu,Huazhong Shu. Automatic extraction of blur regions on a single image based on semantic segmentation. IEEE Access, 2020
+Gaurav Patel,Jose Dolz. Weakly supervised segmentation with cross-modality equivariant constraints.. CoRR, 2022
+Jianqing Jia,Semir Elezovikj,Heng Fan,Shuojin Yang,Jing Liu,Wei Guo,Chiu C. Tan,Haibin Ling. Semantic-aware label placement for augmented reality in street view. CoRR, 2021
+ Non‐destructive detection of blueberry skin pigments and intrinsic fruit qualities based on deep learning. search fail, search fail
+Xiaofei Zhou,Kunye Shen,Zhi Liu,Chen Gong,Jiyong Zhang,Chenggang Yan. Edge-aware multiscale feature integration network for salient object detection in optical remote sensing images. IEEE Trans. Geosci. Remote. Sens., 2022
+Yuwei Li,Lihua Guo,Lianwen Jin. A content-aware image retargeting quality assessment method using foreground and global measurement. IEEE Access, 2019
+Luna Sun,Zhenxue Chen,Q. M. Jonathan Wu,Hongjian Zhao,Weikai He,Xinghe Yan. AMPNet: Average-and Max-Pool Networks for Salient Object Detection. IEEE Trans. Circuits Syst. Video Technol., 2021
+Sayanti Bardhan,Sukhendu Das,Shibu Jacob. Visual saliency detection via convolutional gated recurrent units. ICONIP (2), 2019
+ RSF: A Novel Saliency Fusion Framework for Image Saliency Detection. search fail, search fail
+Xin Tian,Ke Xu,Xin Yang,Baocai Yin,Rynson W. H. Lau. Learning to detect instance-level salient objects using complementary image labels. CoRR, 2022
+Avishek Siris,Jianbo Jiao,Gary K. L. Tam,Xianghua Xie,Rynson W. H. Lau. Scene context-aware salient object detection. ICCV, 2021
+Qing Zhang,Wenzhao Cui,Yanjiao Shi,Xueqin Zhang,Yunxiang Liu. Attentive feature integration network for detecting salient objects in images. Neurocomputing, 2020
+ Multiscope contextual information for saliency prediction. search fail, search fail
+ [HTML][HTML] Are RGB-based salient object detection methods unsuitable for light field data?. search fail, search fail
+Yuanqiang Cai,Chang Liu,Peirui Cheng,Dawei Du,Libo Zhang,Weiqiang Wang,Qixiang Ye. Scale-residual learning network for scene text detection. IEEE Trans. Circuits Syst. Video Technol., 2021
+Yuzhen Niu,Guanchao Long,Wenxi Liu,Wenzhong Guo,Shengfeng He. Boundary-aware RGBD salient object detection with cross-modal feature sampling. IEEE Trans. Image Process., 2020
+Qinghua Ren,Renjie Hu. Densely connected refinement network for salient object detection. ISPACS, 2018
+Ying Ying Zhang,Hongjuan Wang,Xiaodong Lv,Ping Zhang. Capturing the grouping and compactness of high-level semantic feature for saliency detection. Neural Networks, 2021
+Jun Cen,Han Sun,Xinyi Chen,Ningzhong Liu,Dong Liang,Huiyu Zhou. WFNet: a wider and finer network for salient object detection. IEEE Access, 2020
+Yiping Duan,Yaqiang Zhang,Xiaoming Tao,Chaoyi Han,Mai Xu,Cheng Yang,Jianhua Lu. Content-aware deep perceptual image compression. WCSP, 2019
+Yue Ming,Yashu Zhang. ADT: Object tracking algorithm based on adaptive detection. IEEE Access, 2020
+Xia Hua,Ting Rui,Xia Cai,Xinqing Wang,Haitao Zhang,Dong Wang. Collaborative Generative Adversarial Network with Visual perception and memory reasoning. Neurocomputing, 2020
+Caijuan Shi,Weiming Zhang,Changyu Duan,Houru Chen. A pooling-based feature pyramid network for salient object detection. Image Vis. Comput., 2021
+Zhengzheng Tu,Zhun Li,Chenglong Li,Yang Lang,Jin Tang. Multi-Interactive dual-decoder for RGB-Thermal salient object detection. IEEE Trans. Image Process., 2021
+ IR ship target saliency detection based on lightweight non-local depth features. search fail, search fail
+Fengwei Jia,Xuan Wang,Jian Guan,Huale Li,Chen Qiu,Shuhan Qi. Arank: Toward specific model pruning via advantage rank for multiple salient objects detection. Image Vis. Comput., 2021
+ Fast salient object detection based on multi-scale feature aggression. search fail, search fail
+ [CITATION][C] Keyframe-based saliency detection for human action recognition using deep learning. search fail, search fail
+Yu Pang,Xiaosheng Yu,Yunhe Wu,Chengdong Wu,Yang Jiang. Bagging-based saliency distribution learning for visual saliency detection. Signal Process. Image Commun., 2020
+Fengwei Jia,Xuan Wang,Jian Guan,Shuhan Qi,Qing Liao,Huale Li. Bi-directional features reuse network for salient object detection. PRICAI (3), 2019
+Gargi Srivastava,Rajeev Srivastava. User-interactive salient object detection using YOLOv2, lazy snapping, and gabor filters. Mach. Vis. Appl., 2020
+ A Novel Video Salient Object Detection Method via Semisupervised Motion Quality Perception. search fail, search fail
+ [HTML][HTML] Salient map of hyperbolas in GPR images. search fail, search fail
+Lei Huang,Bin Luo. Video-based salient object detection via spatio-temporal difference and coherence. Multim. Tools Appl., 2018
+Kunqian Li,Duo Shi,Yongchang Zhang,Q. M. Jonathan Wu,Xin Luan,Dalei Song. CascNet: No-reference saliency quality assessment with cascaded applicability sorting and comparing network. Neurocomputing, 2021
+ [PDF][PDF] Self-supervised attention-aware reinforcement learning. search fail, search fail
+ 基于深度学习的显著性目标检测综述. search fail, search fail
+Yi Li,Yong Dai,Li-Jun Liu,Hao Tan. Advanced Designing Assistant System for Smart Design Based on Product Image Dataset. HCI (11), 2019
+Pengbo Zhang,Zhihui Wang,Xinzhu Ma,Haojie Li,Jianjun Li. Learning to segment unseen category objects using gradient Gaussian attention. ICME, 2019
+Gongyang Li,Zhi Liu,Weisi Lin,Haibin Ling. Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images. CoRR, 2022
+Francesco Bardozzo,Borja de la Osa,Lubomíra Horanská,Javier Fumanal-Idocin,Mattia delli Priscoli,Luigi Troiano,Roberto Tagliaferri,Javier Fernández,Humberto Bustince. Adaptive binarization based on fuzzy integrals. CoRR, 2020
+ Improved Edge Detection Model Based on HED. search fail, search fail
+Marco Buzzelli,Simone Bianco,Gianluigi Ciocca. Combining saliency estimation methods. ICIAP (2), 2019
+Lixiang Ru,Bo Du,Yibing Zhan,Chen Wu. Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling. CoRR, 2022
+Jing Zhang,Xinyu Liu,Mei Chen,Qi Ye,Zhe Wang. Image sentiment classification via multi-level sentiment region correlation analysis. Neurocomputing, 2022
+Bangqi Cao,Xiandong Meng,Shuyuan Zhu,Bing Zeng. Salient object detection based on image bit-map. ICASSP, 2020
+Zhenyu Wang,Yunzhou Zhang,Yan Liu,Shichang Liu,Sonya Coleman,Dermot Kerr. MFC-Net: Multi-feature fusion cross neural network for salient object detection. Image Vis. Comput., 2021
+Sheng Yang,Kang Chen,Minghua Liu,Hongbo Fu,Shi-Min Hu. Saliency‐aware Real‐time Volumetric Fusion for Object Reconstruction. Comput. Graph. Forum, 2017
+ Research on Gear Appearance Defect Recognition Based on Improved Faster R-CNN. search fail, search fail
+ PANet: Patch-Aware Network for Light Field Salient Object Detection. search fail, search fail
+Sheng Yang,Weisi Lin,Guosheng Lin,Qiuping Jiang,Zichuan Liu. Progressive Self-Guided Loss for Salient Object Detection. CoRR, 2021
+Xiaofei Zhou,Hongfa Wen,Ran Shi,Haibing Yin,Jiyong Zhang,Chenggang Yan. FANet: Feature aggregation network for RGBD saliency detection. Signal Process. Image Commun., 2022
+Lv Tang,Bo Li,Yanliang Wu,Bo Xiao,Shouhong Ding. Fast: Feature aggregation for detecting salient object in real-time. ICASSP, 2021
+Fengwei Jia,Xuan Wang,Jian Guan,Huale Li,Chen Qiu,Shuhan Qi. WRGPruner: A new model pruning solution for tiny salient object detection. Image Vis. Comput., 2021
+Dominique Beaini,Sofiane Achiche,Maxime Raison. Improving Convolutional Neural Networks Via Conservative Field Regularisation and Integration. CoRR, 2020
+ Edge-Guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images. search fail, search fail
+Guanqun Ding,Nevrez Imamoglu,Ali Caglayan,Masahiro Murakawa,Ryosuke Nakamura. FBNet: FeedBack-Recursive CNN for Saliency Detection. MVA, 2021
+ [HTML][HTML] A deep multiscale fusion method via low-rank sparse decomposition for object saliency detection based on urban data in optical remote sensing images. search fail, search fail
+Hung-Wei Hsu,Yih-Cherng Lee,Jian-Jiun Ding,Ronald Y. Chang. Dolphin recognition with adaptive hybrid saliency detection for deep learning based on DenseNet recognition. APCCAS, 2018
+Christian Wilms,Simone Frintrop. Superpixel-based refinement for object proposal generation. ICPR, 2021
+Qiang Guo,Xin Zeng,Shizhe Hu,Sonephet Phoummixay,Yangdong Ye. Learning a deep network with cross-hierarchy aggregation for crowd counting. Knowl. Based Syst., 2021
+Jiaxiong Qiu,Xinyuan Yu,Guoqiang Yang,Shuaicheng Liu. Deepblindness: Fast blindness map estimation and blindness type classification for outdoor scene from single color image. CoRR, 2019
+Jinming Su,Changqun Xia,Jia Li. Exploring Driving-aware Salient Object Detection via Knowledge Transfer. CoRR, 2021
+Lili Huang,Pengxiang Yan,Guanbin Li,Qing Wang,Liang Lin. Attention embedded spatio-temporal network for video salient object detection. IEEE Access, 2019
+ ELAA: An efficient local adversarial attack using model interpreters. search fail, search fail
+ Salient Object Detection Using DenseNet Features. search fail, search fail
+Ting Zhao,Xiangqian Wu. Image Saliency Detection with Low-Level Features Enhancement. PRCV (1), 2018
+Chen Pan,Jianfeng Liu,Wei Qi Yan,Feilong Cao,Wei He,Yongxia Zhou. Salient object detection based on visual perceptual saturation and two-stream hybrid networks. IEEE Trans. Image Process., 2021
+Zhenkun Yang,Xianghua Ma,Kefan Wang,Jing An. Dense short connection network for efficient image classification. Concurr. Comput. Pract. Exp., 2021
+Yongxiong Wang,Kai Chen,Yan Song. Real-time salient object detection with boundary information guidance. Neurocomputing, 2020
+Tao Zheng,Bo Li,Jiaxu Yao. LHRNet: Lateral hierarchically refining network for salient object detection. J. Intell. Fuzzy Syst., 2019
+Jia Li,Jinming Su,Changqun Xia,Mingcan Ma,Yonghong Tian. Salient object detection with purificatory mechanism and structural similarity loss. CoRR, 2021
+ Deep supervised visual saliency model addressing low-level features. search fail, search fail
+Pengpeng Liang,Haoxuanye Ji,Erkang Cheng,Yumei Chai,Liming Wang,Haibin Ling. Learning local descriptors with multi-level feature aggregation and spatial context pyramid. Neurocomputing, 2021
+Shan Wang,Libao Zhang,Xiaohan Wang. Single image haze removal via attention-based transmission estimation and classification fusion network. Neurocomputing, 2021
+ CGAN: closure-guided attention network for salient object detection. search fail, search fail
+David Geisler,Andrew T. Duchowski,Enkelejda Kasneci. Predicting visual perceivability of scene objects through spatio-temporal modeling of retinal receptive fields. Neurocomputing, 2021
+ Semisupervised semantic segmentation by improving prediction confidence. search fail, search fail
+Sam H. Ross,Ecenaz Jen Ozmen,Maria V. Kogan,Lydia B. Chilton. WordBlender: principles and tools for generating word blends. IUI, 2020
+Zihui Jia,Zhenyu Weng,Fang Wan,Yuesheng Zhu. Multi-level context aggregation network with channel-wise attention for salient object detection. IEEE Access, 2020
+Mingxin Zhang,Zhijie Wang,Tiezhu Sun,Xiaolei Li. Salient Object Detection by Pyramid Networks with Gating. ROBIO, 2019
+Christian Wilms,Simone Frintrop. DeepFH segmentations for superpixel-based object proposal refinement. CoRR, 2021
+Gang He,Chang Wu,Li Xu,Lei Li,Ziyao Xu,Weiying Xie,Yunsong Li. An efficient video coding system with an adaptive overfitted multi-scale attention network. IEEE Access, 2021
+Xiaoli Zhao,Zheng Chen,Jenq-Neng Hwang,Xiwu Shang. AFLNet: Adversarial focal loss network for RGB-D salient object detection. Signal Process. Image Commun., 2021
+Xiaoguang Zhang,Nan Li,Luzhen Ge,Xuan Xia,Ning Ding. A Unified Model for Real-Time Crop Recognition and Stem Localization Exploiting Cross-Task Feature Fusion. RCAR, 2020
+ [HTML][HTML] 3MNet: Multi-task, multi-level and multi-channel feature aggregation network for salient object detection. search fail, search fail
+Dongjing Shan,Xiongwei Zhang,Limin Wang,Tieyong Cao,Chao Zhang. Saliency Detection With a Three-Stage Hierarchical Network. IEEE Intell. Syst., 2021
+Lian Xu,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel. Scale-aware feature network for weakly supervised semantic segmentation. IEEE Access, 2020
+Lili Huang,Guanbin Li,Ya Li,Liang Lin. Lightweight Contrast Modeling for Attention-Aware Visual Localization. ICRA, 2019
+Inam Ullah,Muwei Jian,Sumaira Hussain,Jie Guo,Li Lian,Hui Yu,Kashif Shaheed,Yilong Yin. DSFMA: deeply supervised fully convolutional neural networks based on multi-level aggregation for saliency detection. Multim. Tools Appl., 2021
+Jianbo Jiao,Ying Cao,Manfred Lau,Rynson W. H. Lau. Tactile sketch saliency. ACM Multimedia, 2020
+ SODA²: Salient Object Detection With Structure-Adaptive & Scale-Adaptive Receptive Field. search fail, search fail
+Jun Jiao,Hui Xue,Jundi Ding. Non-local duplicate pooling network for salient object detection. Appl. Intell., 2021
+ A Survey of Motion Detection in Image Sequences. search fail, search fail
+ Identifying target objects using scale-diverse segmentation neural networks. search fail, search fail
+Anzhi Wang. Three-stream cross-modal feature aggregation network for light field salient object detection. IEEE Signal Process. Lett., 2021
+Xiaoyang Zheng,Xin Tan,Jie Zhou,Lizhuang Ma,Rynson W. H. Lau. Weakly-Supervised Saliency Detection via Salient Object Subitizing. CoRR, 2021
+Zhoufeng Liu,Jinjin Wang,Chunlei Li,Bicao Li,Ruimin Yang. Fabric defect detection using fully convolutional network with attention mechanism. ICCPR, 2019
+Lena Gorelick,Olga Veksler. Simulating CRF with CNN for CNN. CoRR, 2019
+Changqun Xia,Jia Li,Jinming Su,Yonghong Tian. Exploring Reciprocal Attention for Salient Object Detection by Cooperative Learning. CoRR, 2019
+Zhou Huang,Huai-Xin Chen,Bi-Yuan Liu,Zhixi Wang. Semantic-guided attention refinement network for salient object detection in optical remote sensing images. Remote. Sens., 2021
+ [PDF][PDF] Object Segmentation and Augmented Visualization Based on Panoramic Image Segmentation. search fail, search fail
+Chao Zhang,Zhiguo Cao,Xin Xiong,Ke Xian,Xinyuan Qi. Salient Object Detection via Deep Hierarchical Context Aggregation and Multi-Layer Supervision. ICIP, 2019
+Eduardo Alcaín,Ana I. Muñoz,Emanuele Schiavi,Antonio S. Montemayor. A non-smooth non-local variational approach to saliency detection in real time. J. Real Time Image Process., 2021
+Peizhuo Li,Yunda Sun,Xue Wan. Saliency and tracking based semi-supervised learning for orbiting satellite segmentation. ICVIP, 2019
+Isaac J. Sledge,Matthew S. Emigh,Jonathan L. King,Denton L. Woods,J. Tory Cobb,José C. Príncipe. Target Detection and Segmentation in Circular-Scan Synthetic-Aperture-Sonar Images using Semi-Supervised Convolutional Encoder-Decoders. CoRR, 2021
+Peng Zhang,Xia Hua,Xinqing Wang,Ting Rui,Haitao Zhang,Faming Shao,Dong Wang. VSA-CGAN: An Intelligent Generation Model for Deep Learning Sample Database Construction. IEEE Access, 2020
+Qifeng Lin,Jianhui Zhao,Gang Fu,Zhiyong Yuan. Fast multi semantic pyramids via cross fusing inherent features for different-scale detection. IEEE Access, 2019
+ A deep framework for bone age assessment based on finger joint localization. CoRR, 2019
+Junhao Chen,Yuzhe Niu,Jianbin Wu,Junrong Chen. Optimisation for image salient object detection based on semantic-aware clustering and CRF.. IET Comput. Vis., 2020
+ [HTML][HTML] Deeper and Mixed Supervision for Salient Object Detection in Automated Surface Inspection. search fail, search fail
+Wei Ji,Ge Yan,Jingjing Li,Yongri Piao,Shunyu Yao,Miao Zhang,Li Cheng,Huchuan Lu. DMRA: Depth-Induced Multi-Scale Recurrent Attention Network for RGB-D Saliency Detection. IEEE Trans. Image Process., 2022
+ Dynamic zero-parallax-setting techniques for multi-view autostereoscopic display. search fail, search fail
+ Image steganography based on digital holography and saliency map. search fail, search fail
+Hooman Misaghi,Reza Askari Moghadam,Ali Mahmoudi,Kurosh Madani. Saliency Detection With Fully Convolutional Neural Network. CoRR, 2019
+ Attention-based Assisted Excitation for Salient Object Detection. search fail, search fail
+Xianpeng Liang,Di Wu,De-Shuang Huang. Image Co-Segmentation via Locally Biased Discriminative Clustering. IEEE Trans. Knowl. Data Eng., 2019
+ Image-Scale-Symmetric Cooperative Network for Defocus Blur Detection. search fail, search fail
+ Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection. search fail, search fail
+Bo Zhang,Li Niu,Liqing Zhang. Image composition assessment with saliency-augmented multi-pattern pooling. CoRR, 2021
+Libo Zhang,Dawei Du,Congcong Li,Yanjun Wu,Tiejian Luo. Iterative knowledge distillation for automatic check-out. IEEE Trans. Multim., 2021
+ Salient man-made object detection based on saliency potential energy for unmanned aerial vehicles remote sensing image. search fail, search fail
+Chunlei Yang,Xiangluo Wang,Jiexin Pu,Guo-Sen Xie,Zhonghua Liu,Yongsheng Dong,Lingfei Liang. Hybrid of extended locality-constrained linear coding and manifold ranking for salient object detection. J. Vis. Commun. Image Represent., 2018
+Yunfei Du,Nan Zhaol,Yiping Duan,Chaoyi Han. Object-aware Image Compression with Adversarial Learning. ICCC, 2019
+Libao Zhang,Yanan Liu. Image generation based on texture guided vae-agan for regions of interest detection in remote sensing images. ICASSP, 2021
+Hui Li. Pyramid spatial context features for salient object detection. IEEE Access, 2020
+ A Highly Efficient Model to Study the Semantics of Salient Object Detection. search fail, search fail
+Gargi Srivastava,Rajeev Srivastava. Design, Analysis, and Implementation of Efficient Framework for Image Annotation. ACM Trans. Multim. Comput. Commun. Appl., 2020
+Xiao Wang,Tao Sun,Rui Yang,Chenglong Li,Bin Luo,Jin Tang. Quality-aware multimodal saliency detection via deep reinforcement learning. CoRR, 2018
+Huiyuan Luo,Guangliang Han,Xiaotian Wu,Peixun Liu,Hang Yang,Xin Zhang. Cascaded hourglass feature fusing network for saliency detection. Neurocomputing, 2021
+Sayanti Bardhan. Salient Object Detection by Contextual Refinement. CVPR Workshops, 2020
+Tao Zheng,Bo Li,Delu Zeng,Zhiheng Zhou. Delving into the Impact of Saliency Detector: A GeminiNet for Accurate Saliency Detection. ICANN (3), 2019
+Fan Li,Yangfan Zhang,Pamela C. Cosman. MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment. IEEE Trans. Circuits Syst. Video Technol., 2021
+Ying Zang,Bo Yu,Longjiao Yu,Dongsheng Yang,Qingshan Liu. Far-infrared object segmentation focus on transmission of overall semantic information. IEEE Access, 2020
+Ze-yu Liu,Jianwei Liu,Xin Zuo,Ming-fei Hu. Multi-scale iterative refinement network for RGB-D salient object detection. Eng. Appl. Artif. Intell., 2022
+Fengming Sun,Lufei Huang,Xia Yuan,Chunxia Zhao. Salient object detection via attention-aware cascaded bottom-up feature aggregation. ICME, 2021
+Yaqin Zhou,Qingwu Li,Yunpeng Ma,Lulu Chu,Chang Xu,Jianqing Zhang. Salient object detection via joint perception of region-level spatial distribution and color contrast. J. Electronic Imaging, 2021
+ Aircraft Segmentation from Remote Sensing Images using Modified Deeply Supervised Salient Object Detection with Short Connections. search fail, search fail
+Fangting Lin,Chao Yang,Huizhou Li,Bin Jiang. Boundary-Aware Salient Object Detection via Recurrent Two-Stream Guided Refinement Network. CoRR, 2019
+Jin Zhang,Qiuwei Liang,Qianqian Guo,Jinyu Yang,Qing Zhang,Yanjiao Shi. R2Net: Residual refinement network for salient object detection. Image Vis. Comput., 2022
+ Active learning with sampling by joint global-local uncertainty for salient object detection. search fail, search fail
+Chaowei Fang,Haibin Tian,Dingwen Zhang,Qiang Zhang,Jungong Han,Junwei Han. Densely nested top-down flows for salient object detection. CoRR, 2021
+Jun Wang,Zhengyun Zhao,Shangqin Yang,Xiuli Chai,Wanjun Zhang,Miaohui Zhang. Global contextual guided residual attention network for salient object detection. Appl. Intell., 2022
+Cheng Xu,Wei Han,Dongzhen Wang,Daqing Huang. Salient region detection with multi-feature fusion and edge constraint. IEICE Trans. Inf. Syst., 2020
+Dengdi Sun,Hang Wu,Zhuanlian Ding,Sheng Li,Bin Luo. Salient object detection based on deep multi-level cascade network. BICS, 2019
+Xuewei Li,Xueming Li,Gang Zhang,Xianlin Zhang. Image aesthetic assessment using a saliency symbiosis network. J. Electronic Imaging, 2019
+ [PDF][PDF] Color Classification of Vehicles Based on Two-Layer Salincy, Illumination-Invariant Transformation, and Adaptive KNN.. search fail, search fail
+Jiali Shi,Rong Zhang,Lijun Guo,Linlin Gao,Huifang Ma,Jianhua Wang. Discriminative feature network based on a hierarchical attention mechanism for semantic hippocampus segmentation. IEEE J. Biomed. Health Informatics, 2021
+Bo Feng,Geoffrey C. Fox. Spatiotemporal Pattern Mining for Nowcasting Extreme Earthquakes in Southern California. e-Science, 2021
+Jing Tan,Pengfei Xiong,Zhengyi Lv,Kuntao Xiao,Yuwen He. Local context attention for salient object segmentation. CoRR, 2020
+Jun Zhang,Zhiyuan Hua,Kezhou Yan,Kuan Tian,Jianhua Yao,Eryun Liu,Mingxia Liu,Xiao Han. Joint fully convolutional and graph convolutional networks for weakly-supervised segmentation of pathology images. Medical Image Anal., 2021
+Lei Wang,Piotr Koniusz. Self-supervising action recognition by statistical moment and subspace descriptors. ACM Multimedia, 2021
+ [PDF][PDF] VisiFit: AI Tools to Iteratively Improve Visual Blends. search fail, search fail
+Danpei Zhao,Bo Yuan,Zhenwei Shi,Zhiguo Jiang. Selective focus saliency model driven by object class‐awareness. IET Image Process., 2021
+Huiyuan Luo,Guangliang Han,Xiaotian Wu,Peixun Liu,Hang Yang,Xin Zhang. LF3Net: Leader-follower feature fusing network for fast saliency detection. Neurocomputing, 2021
+ Image processing methods and apparatus, and electronic devices. search fail, search fail
+Tianpeng Jiang,Zhaoying Liu,Yujian Li. Multi-level Up-sampling Network for Infrared Ship Saliency Object Detection. ICVIP, 2019
+Qiuchen Zhu,Tran Hiep Dinh,Manh Duong Phung,Quang Phuc Ha. Hierarchical convolutional neural network with feature preservation and autotuned thresholding for crack detection. CoRR, 2021
+Zhonghan Niu,Xi-Peng Lin,An-Ni Yu,Yang-Hao Zhou,Yu-Bin Yang. Lightweight and accurate single image super-resolution with channel segregation network. ICASSP, 2021
+Zun Li,Congyan Lang,Tao Wang,Yidong Li,Jiashi Feng. Deep spatio-frequency saliency detection. Neurocomputing, 2021
+ [CITATION][C] Analytical review and study on object detection techniques in the image. search fail, search fail
+Tianfei Zhou,Liulei Li,Xueyi Li,Chun-Mei Feng,Jianwu Li,Ling Shao. Group-Wise Learning for Weakly Supervised Semantic Segmentation. IEEE Trans. Image Process., 2022
+Yuzhu Ji,Haijun Zhang,Feng Gao,Haofei Sun,Haokun Wei,Nan Wang,Biao Yang. LGCNet: A local-to-global context-aware feature augmentation network for salient object detection. Inf. Sci., 2022
+Zhijie Wang,Wei Zhang,Xuewen Rong,Yibin Li. Salient object detection with adversarial training. IET Image Process., 2019
+Wenbing Chen,Keshav P. Dahal,Shuxian Huang. Salient object detection via reciprocal function filter. IET Image Process., 2019
+ [BOOK][B] Deep learning architectures for automated image segmentation. search fail, search fail
+Patricia Jiménez,Juan C. Roldán,Rafael Corchuelo. [HTML][HTML] 使用密集弱注意力机制的图像显著性检测. Enterp. Inf. Syst., 2022
+Zhengmei Xu,Jin Tang,Aiwu Zhou,Huaming Liu. Learning Static-Adaptive Graphs for RGB-T Image Saliency Detection. Inf., 2022
+Jun Wei,Shuhui Wang,Liang Li,Qingming Huang. Active Perception Network for Salient Object Detection. MMAsia, 2019
+ [PDF][PDF] Salient Object Detection with Hybrid RNN and F-CNN model with Saliency Prior Maps using Boundary Information. search fail, search fail
+Zheng Fang,Tieyong Cao,Jibin Yang,Meng Sun. Parallel Feature Network For Saliency Detection. IEICE Trans. Fundam. Electron. Commun. Comput. Sci., 2019
+ [PDF][PDF] Smart Cropping of Images based on Saliency Detection. search fail, search fail
+Hang Yu,Derong Chen,Hang Yi. Salient Object Detection with Detail-Preserving Pooling and Feature Channel Refinement. ACAI, 2019
+ Visual saliency detection via a recurrent residual convolutional neural network based on densely aggregated features. search fail, search fail
+ Evolutionary Computation for Feature Manipulation in Salient Object Detection. search fail, search fail
+Xiran Wang,Jason Juang,Stanley H. Chan. Automatic foreground extraction from imperfect backgrounds using multi-agent consensus equilibrium. J. Vis. Commun. Image Represent., 2020
+Lin Xi,Weihai Chen,Xingming Wu,Zhong Liu,Zhengguo Li. Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation. CoRR, 2022
+Jialun Pei,He Tang,Chuanbo Chen. Salient Instance Segmentation with Region and Box-level Annotations. CoRR, 2020
+ An Optimized Convolutional Neural Network Model for Wild Animals Detection Using Filtering Techniques and Different Opacity Levels. search fail, search fail
+ Depth-Guided Two-Way Saliency Network for 2D Images. search fail, search fail
+Mingchen Zhuge,Xiankai Lu,Yiyou Guo,Zhihua Cai,Shuhan Chen. CubeNet: X-shape connection for camouflaged object detection. Pattern Recognit., 2022
+ Mrbenet: A Multi-Resolution Boundary Enhancement Network for Salient Object Detection. search fail, search fail
+ An Application of Mask Detector For Prevent Covid-19 in Public Services Area. search fail, search fail
+ [PDF][PDF] Innovate the Retail Industry with Automatic Checkout System. search fail, search fail
+Dengdi Sun,Xiangjie Lv,Shilei Huang,Lin Yao,Zhuanlian Ding. Salient Object Detection Based on Multi-layer Cascade and Fine Boundary. CIS, 2021
+ Multi-scale Spatial-Temporal Feature Aggregating for Video Salient Object Segmentation. search fail, search fail
+Yuting Su,Weikang Wang,Jing Liu,Peiguang Jing,Xiaokang Yang. DS-Net: Dynamic Spatiotemporal Network for Video Salient Object Detection. CoRR, 2020
+ Road Garbage Segmentation With Deep Supervision and High Fusion Network for Cleaning Vehicles. search fail, search fail
+Yingxia Jiao,Xiao Wang,Yu-Cheng Chou,Shouyuan Yang,Ge-Peng Ji,Rong Zhu,Ge Gao. Guidance and Teaching Network for Video Salient Object Detection. CoRR, 2021
+Qiang Qi,Muwei Jian,Yilong Yin,Junyu Dong,Wenyin Zhang,Hui Yu. Saliency detection using texture and local cues. CCCV (3), 2017
+ [HTML][HTML] Performance evaluation of salient object detection techniques. search fail, search fail
+Chenhao Zhang,Shanshan Gao,Xiao Pan,Yuting Wang,Yuanfeng Zhou. Coarse to Fine: Weak Feature Boosting Network for Salient Object Detection. Comput. Graph. Forum, 2020
+Yangxi Wu,Dongbo Zhang,Feng Yin,Ying Zhang. Salient object detection based on global to local visual search guidance. Signal Process. Image Commun., 2022
+ Joint deep learning for land cover and land use classification. search fail, search fail
+ [PDF][PDF] Don't Hit Me! Glass Detection in Real-world Scenes (Supplementary Material). search fail, search fail
+ [BOOK][B] Image and Video-Based Autism Spectrum Disorder Detection via Deep Learning. search fail, search fail
+Nian Liu,Wangbo Zhao,Ling Shao,Junwei Han. SCG: Saliency and Contour Guided Salient Instance Segmentation. IEEE Trans. Image Process., 2021
+Hao Fang,Daoxin Zhang,Yi Zhang,Minghao Chen,Jiawei Li,Yao Hu,Deng Cai,Xiaofei He. Salient Object Ranking with Position-Preserved Attention. CoRR, 2021
+ [PDF][PDF] Multichannel Fusion Based on modified CNN for Image Emotion Recognition. search fail, search fail
+Yuan-Hao Lee,Fu-En Yang,Yu-Chiang Frank Wang. A Pixel-Level Meta-Learner for Weakly Supervised Few-Shot Semantic Segmentation. CoRR, 2022
+Zhenshan Tan,Xiaodong Gu. Depth scale balance saliency detection with connective feature pyramid and edge guidance. Appl. Intell., 2021
+Seokjun Kang,Seiichi Uchida,Brian Kenji Iwana. Tunable U-Net: Controlling Image-to-Image Outputs Using a Tunable Scalar Value. IEEE Access, 2021
+ A Unified Model for Salient Object Detection. search fail, search fail
+Guoan Yang,Libo Jian,Zhengzhi Lu,Junjie Yang,Deyang Liu. A novel image recognition approach using multiscale saliency model and GoogLeNet. Image Processing: Algorithms and Systems, 2020
+ Medical-Modality Super-resolution for increased visualisation of Intracranial Tissue Details and Structural Details. search fail, search fail
+Zhe Zhang,Junhui Ma,Panpan Xu,Wencheng Wang. Saliency Detection with Deformable Convolution and Feature Attention. ECAI, 2020
+Bing Liu,Kezhou Mu,Mingzhu Xu,Fangyuan Wang,Lei Feng. A novel spatiotemporal attention enhanced discriminative network for video salient object detection. Appl. Intell., 2022
+Xinyue Zhang,Ting Jin. Attention-Based Asymmetric Fusion Network for Saliency Prediction in 3D Images. AIMS, 2020
+Gongyang Li,Zhi Liu,Dan Zeng,Weisi Lin,Haibin Ling. Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images. CoRR, 2022
+Xian Fang,Jinchao Zhu,Xiuli Shao,Hongpeng Wang. LC3Net: Ladder context correlation complementary network for salient object detection. CoRR, 2022
+Minyu Zhu,Xiuqi Xu,Jinhao Yu,Shuhan Chen,Jian Wang,Xuelong Hu,Jinrong Zhu. Global Feature Polishing Network for Glass-Like Object Detection. ICIG (1), 2021
+ IDENTIFYING CONCEALED OBJECTS FROM VIDEOS. search fail, search fail
+Xinxin Zhu,Yi Li,Huazhu Fu,Xiaoting Fan,Yanan Shi,Jianjun Lei. RGB-D salient object detection via cross-modal joint feature extraction and low-bound fusion loss. Neurocomputing, 2021
+ Global Perception Network for Salient Object Detection in Remote Sensing Images. search fail, search fail
+ Method for encoding/decoding image and device therefor. search fail, search fail
+ A Convolutional Neural Network Model of Image Denoising in Real Scenes. search fail, search fail
+Jinchao Zhu,Xiaoyu Zhang,Xian Fang,Junnan Liu. Perception-and-Regulation Network for Salient Object Detection. CoRR, 2021
+Prashant W. Patil,Akshay Dudhane,Sachin Chaudhary,Subrahmanyam Murala. Multi‐frame based adversarial learning approach for video surveillance. Pattern Recognit., 2022
+ [PDF][PDF] ROBUST METHOD FOR SALIENT OBJECT DETECTION FROM VIDEO STREAMS. search fail, search fail
+Lihua Fu,Haogang Ding,Cancan Li,Dan Wang,Yujia Feng. Deep learning framework for saliency object detection based on global prior and local context. J. Electronic Imaging, 2018
+Xuan Liu,Yumo Zhang,Runmin Cong,Chen Zhang,Ning Yang,Chunjie Zhang,Yao Zhao. GGRNet: Global Graph Reasoning Network for Salient Object Detection in Optical Remote Sensing Images. PRCV (2), 2021
+Tao Zheng,Bo Li,Haobo Rao. Enhancing Feature Representation for Saliency Detection. ISNN (2), 2019
+ Split-guidance network for salient object detection. search fail, search fail
+ Three Dimensional Object Detection Approaches for Indoor Navigation Aid. search fail, search fail
+ Salient object detection based on adaptive recalibration technique through deep network. search fail, search fail
+Peizhuo Li,Yunda Sun,Xue Wan. Saliency based Semi-supervised Learning for Orbiting Satellite Tracking. CoRR, 2019
+ Research on edge‐guided disambiguation module for shadow detection. search fail, search fail
+ Salient object extraction in low depth-of-field images using SVDD. search fail, search fail
+ Salient Object Detection Using Water Flow Approach and Image Boundary Contrast Map. search fail, search fail
+ Saliency Guided Inter-and Intra-Class Relation Constraints for Weakly Supervised Semantic Segmentation. search fail, search fail
+Zhenshan Tan,Yikai Hua,Xiaodong Gu. Salient Object Detection with Edge Recalibration. ICANN (1), 2020
+Feng Li,Wengang Zhou,Jiajun Deng,Bin Li,Yan Lu,Houqiang Li. Residual Refinement Network with Attribute Guidance for Precise Saliency Detection. ACM Trans. Multim. Comput. Commun. Appl., 2021
+Cuijin Li,Dewei Chen,Junji Chen,Hongying Dai. A Cross-Layer Fusion Multi-target Detection and Recognition Method Based on Improved FPN Model in Complex Traffic Environment. CICAI, 2021
+ Object-Aware Attention in Few-Shot Learning. search fail, search fail
+Yue Song,Hao Tang,Nicu Sebe,Wei Wang. Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling. CoRR, 2022
+ [HTML][HTML] CVPR 2019| PoolNet: Saliency Detection Based on Pooling Technology. search fail, search fail
+Zheng Fang,Tieyong Cao,Jibin Yang,Meng Sun. Multi-Feature Fusion Network for Salient Region Detection. IEICE Trans. Fundam. Electron. Commun. Comput. Sci., 2019
+Fei Guo,Yuan Yang,Yong Gao,Ningmei Yu. Efficient Salient Object Detection Model with Dilated Convolutional Networks. IEICE Trans. Inf. Syst., 2020
+ Re-thinking The Relations in Co-saliency Detection. search fail, search fail
+Yanhua Liang,Guihe Qin,Minghui Sun,Jun Qin,Jie Yan,Zhonghan Zhang. Semantic and detail collaborative learning network for salient object detection. Neurocomputing, 2021
+Huihuang Zhao,Yaonan Wang,Yuhua Li. Saliency Constrained Arbitrary Image Style Transfer using SIFT and DCNN. CoRR, 2022
+ [PDF][PDF] Image Co-saliency detection using CLAHE and modified Resnet-50 Convolution Neural Network. search fail, search fail
+ [HTML][HTML] A Saliency Detection and Gram Matrix Transform-Based Convolutional Neural Network for Image Emotion Classification. search fail, search fail
+ [PDF][PDF] Towards High-Resolution Salient Object Detection (Supplementary Material). search fail, search fail
+Yi Zhang,Geng Chen,Qian Chen,Yujia Sun,Olivier Déforges,Wassim Hamidouche,Lu Zhang. Learning Synergistic Attention for Light Field Salient Object Detection. CoRR, 2021
+ Learning Essential Region Mask In Spatial Dimension For Saliency Detection. search fail, search fail
+Tanveer Hussain,Abbas Anwar,Saeed Anwar,Lars Petersson,Sung Wook Baik. Pyramidal Attention for Saliency Detection. CoRR, 2022
+ [BOOK][B] Context, motion and semantic information for computational saliency. search fail, search fail
+ Topic scene graphs for image captioning. search fail, search fail
+ Camouflaged Object Segmentation in Images. search fail, search fail
+Chaewon Park,Minhyeok Lee,MyeongAh Cho,Sangyoun Lee. Saliency Detection via Global Context Enhanced Feature Fusion and Edge Weighted Loss. CoRR, 2021
+Manisha Saini,Seba Susan. Bag-of-Visual-Words codebook generation using deep features for effective classification of imbalanced multi-class image datasets. Multim. Tools Appl., 2021
+Zhandong Liu,Wengang Zhou,Houqiang Li. MFECN: Multi-level Feature Enhanced Cumulative Network for Scene Text Detection. ACM Trans. Multim. Comput. Commun. Appl., 2021
+Xuan Tuyen Tran,Tran Hiep Dinh,Ha Vu Le,Qiuchen Zhu,Quang Phuc Ha. Defect detection based on singular value decomposition and histogram thresholding. AIM, 2020
+Qing Zhang,Jianchen Shi,Baochuan Zuo,Meng Dai,Tianzhen Dong,Xiao Qi. Hierarchical Salient Object Detection Network with Dense Connections. ICIG (1), 2019
+Zhenyu Wu,Lingwei Kong,Lu Zhang,Huchuan Lu. Deeply supervised group recursive saliency prediction. Neurocomputing, 2021
+ A Novel Bottom-Up Semi-Supervised Learning Framework for Salient Object Detection. search fail, search fail
+ [PDF][PDF] BASNet: Boundary-Aware Salient Object Detection–Supplementary Material. search fail, search fail
+ [CITATION][C] Non-local Image Smoothing with Objective Evaluation. search fail, search fail
+ Saliency Model Based on Discriminative Feature and Bi-directional Message Interaction for Fabric Defect Detection. search fail, search fail
+Zunlei Feng,Lechao Cheng,Xinchao Wang,Xiang Wang,Ya Jie Liu,Xiangtong Du,Mingli Song. Visual Boundary Knowledge Translation for Foreground Segmentation. CoRR, 2021
+ Binary segmentation based on visual attention consistency under background-change. search fail, search fail
+Hang Yu,Derong Chen,Jiulu Gong. Video Saliency Detection with Gated CNN and Residual Architecture. ICDM Workshops, 2019
+ [PDF][PDF] EDN: Salient Object Detection via Extremely-Downsampled Network. search fail, search fail
+ Web Server based Hologram Image Production Pipeline System Implementation. search fail, search fail
+Jungbeom Lee,Eunji Kim,Jisoo Mok,Sungroh Yoon. Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization. CoRR, 2022
+Lydia B. Chilton,Ecenaz Jen Ozmen,Sam H. Ross,Vivian Liu. VisiFit: Structuring Iterative Improvement for Novice Designers. CHI, 2021
+ Region of Interest Coding Based on Convolutional Neural Network. search fail, search fail
+Zhaojian Yao,Luping Wang. Dual‐branch mutual assistance network for salient object detection. Int. J. Intell. Syst., 2022
+Zhengmin Kong,Zhuolin Fu,Feng Xiong,Chenggang Zhang. Foreground Feature Attention Module Based on Unsupervised Saliency Detector for Few-Shot Learning. IEEE Access, 2021
+Zhengyi Liu,Kaixun Wang,Hao Dong,Yuan Wang. A cross-modal edge-guided salient object detection for RGB-D image. Neurocomputing, 2021
+ Automatic Aircraft Shadow Removal from Remote Sensing Images Using Mask-ShadowGAN. search fail, search fail
+ The Virtual Machine Placement Algorithm Based on Equivalent Resource Model in the Offloading Data Center of Mobile Cloud Environment. search fail, search fail
+ Deep Learning Algorithm for Video Saliency Object Detection using 3D DWT with Set Partition Integer Hierarchical Tree List.. search fail, search fail
+Nianchang Huang,Yongjiang Luo,Qiang Zhang,Jungong Han. Discriminative unimodal feature selection and fusion for RGB-D salient object detection. Pattern Recognit., 2022
+Dominique Beaini,Sofiane Achiche,Alexandre Duperré,Maxime Raison. Saliency Enhancement using Gradient Domain Edges Merging. CoRR, 2020
+Nianchang Huang,Qiang Zhang,Jungong Han. Middle-level Fusion for Lightweight RGB-D Salient Object Detection. CoRR, 2021
+ Acquisition and evaluation of depth data from humans, in robotized industrial environments. search fail, search fail
+Shima Afzali Vahed Moghaddam,Harith Al-Sahaf,Bing Xue,Christopher Hollitt,Mengjie Zhang. An automatic feature construction method for salient object detection: A genetic programming approach. Expert Syst. Appl., 2021
+Chuang Wu,Lihua Tian,Chen Li. Pixel-wise binary classification network for salient object detection. ICMV, 2018
+Lecheng Zhou,Xiaodong Gu. Enriched Feature Representation and Combination for Deep Saliency Detection. ICANN (1), 2020
+ Salient Latent Features For Zero-shot Learning. search fail, search fail
+Chao Ji,Xinbo Huang,Wen Cao,Yongcan Zhu,Ye Zhang. Saliency detection using Multi-layer graph ranking and combined neural networks. J. Vis. Commun. Image Represent., 2019
+ Model-Assisted Labeling and Self-Training for Label Noise Reduction in the Detection of Stains on Images of Laundry. search fail, search fail
+Xixia Xu,Qi Zou,Xue Lin. CFENet: Content-aware feature enhancement network for multi-person pose estimation. Appl. Intell., 2022
+Lecheng Zhou,Xiaodong Gu. Deep Neural Network Based Salient Object Detection with Image Enhancement. ICONIP (4), 2018
+Zhou Huang,Tian-Zhu Xiang,Huai-Xin Chen,Hang Dai. Scribble-based Boundary-aware Network for Weakly Supervised Salient Object Detection in Remote Sensing Images. CoRR, 2022
+Letian Yu,Haiyang Mei,Wen Dong,Ziqi Wei,Li Zhu,Yuxin Wang,Xin Yang. Progressive Glass Segmentation. IEEE Trans. Image Process., 2022
+Yuzhen Niu,Jianer Chen,Xiao Ke,Junhao Chen. Stereoscopic Image Saliency Detection Optimization: A Multi-Cue-Driven Approach. IEEE Access, 2019
+ Real-Time Grasp Detection Using Improved FMM and Cascaded Neural Networks. search fail, search fail
+Shuyuan Yang,Junxiao Wang. Sparse Tensor Auto-Encoder for Saliency Detection. IEEE Access, 2020
+ Automatic Inspection and Evaluation System for Pavement Distress. search fail, search fail
+Lv Tang,Bo Li,Yijie Zhong,Shouhong Ding,Mofei Song. Disentangled High Quality Salient Object Detection. CoRR, 2021
+Monan Wang,Xiping Shang. An improved simplified PCNN model for salient region detection. Vis. Comput., 2022
+Runmin Cong,Ning Yang,Chongyi Li,Huazhu Fu,Yao Zhao,Qingming Huang,Sam Kwong. Global-and-Local Collaborative Learning for Co-Salient Object Detection. CoRR, 2022
+ Holistic Attention on Pooling Based Cascaded Partial Decoder for Real-Time Salient Object Detection. search fail, search fail
+Mingyuan Pan,Huihui Song,Junxia Li,Kaihua Zhang,Qingshan Liu. Top-Down Fusing Multi-level Contextual Features for Salient Object Detection. PRCV (3), 2020
+ MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object Detection. search fail, search fail
+ [HTML][HTML] SC-Dynamic R-CNN: A Self-Calibrated Dynamic R-CNN Model for Lung Cancer Lesion Detection. search fail, search fail
+ Deeper feature integration network for salient object detection of strip steel surface defects. search fail, search fail
+Shengjie Liu,Zhixin Qi,Xia Li,Anthony Gar-On Yeh. Object-based convolutional neural network for land use classification. Remote. Sens., 2019
+ Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection. search fail, search fail
+ Deep Zero-and Few-shot Learning in Computer Vision. search fail, search fail
+Zhe Cui,Li Su,Weigang Zhang,Qingming Huang. Fixation guided network for salient object detection. MMAsia, 2020
+Qing Zhang,Liqian Zhang,Dong Wang,Yanjiao Shi,Jiajun Lin. Global and local information aggregation network for edge-aware salient object detection. J. Vis. Commun. Image Represent., 2021
+ Object Contour Partition Model with Consistent Properties. search fail, search fail
+Boyi Zhou,Gang Yang,Xin Wan,Yutao Wang,Chang Liu,Hangxu Wang. A Simple Network with Progressive Structure for Salient Object Detection. PRCV (2), 2021
+ A dual-branch balance saliency model based on discriminative feature for fabric defect detection. search fail, search fail
+ Multi-source weakly supervised salient object detection via boosting weak-annotation source and constraining object structure. search fail, search fail
+Zhenshan Tan,Xiaodong Gu. SBN: Scale Balance Network for Accurate Salient Object Detection. IJCNN, 2020
+ Feature Decomposition and Attention-guided Boundary Refinement for Saliency Detection. search fail, search fail
+ Bottom-up visual attention model for still image: a preliminary study. search fail, search fail
+ [HTML][HTML] Multistrengthening Module-Based Salient Object Detection. search fail, search fail
+Han Sun,Jun Cen,Ningzhong Liu,Dong Liang,Huiyu Zhou. MPI: Multi-receptive and parallel integration for salient object detection. CoRR, 2021
+ Attention-based bi-directional refinement network for salient object detection. search fail, search fail
+ Research on Application of New Technology in Foreign Object Debris Detection Field. search fail, search fail
+ TOUCH EVENT DETECTION AND TEXTURE ANALYSIS FOR VIDEO COMPRESSION. search fail, search fail
+ Transformer-based Efficient Salient Instance Segmentation Networks with Orientative Query. search fail, search fail
+Xue Zhang,Zheng Wang,Meijun Sun. Semantical Knowledge Guided Salient Object Detection with Multiple Proposals. BICS, 2019
+ Dual-path Processing Network for High-resolution Salient Object Detection. search fail, search fail
+Shanmei Lu,Qiang Guo,Yongxia Zhang. Salient Object Detection Using Recurrent Guidance Network With Hierarchical Attention Features. IEEE Access, 2020
+ Cross channel aggregation similarity network for salient object detection. search fail, search fail
+Zhuotao Tian,Hengshuang Zhao,Michelle Shu,Jiaze Wang,Ruiyu Li,Xiaoyong Shen,Jiaya Jia. Region Refinement Network for Salient Object Detection. CoRR, 2019
+ [PDF][PDF] Integral Object Mining via Online Attention Accumulation. search fail, search fail
+Kitty Varghese,Sauradip Nag. SaLite: A light-weight model for salient object detection. CoRR, 2019
+ [BOOK][B] Learning Attentive Deep Representations for Object Re-Identification and Beyond. search fail, search fail
+ [PDF][PDF] Bibliometric Analysis of One-stage and Two-stage Object Detection. search fail, search fail
+ A2SPPNet: Attentive Atrous Spatial Pyramid Pooling Network for Salient Object Detection. search fail, search fail
+ A novel spectral-spatial multi-scale network for hyperspectral image classification with the Res2Net block. search fail, search fail
+ PoolNet+: Exploring the Potential of Pooling for Salient Object Detection. search fail, search fail
+Sangtae Kim,Luong Trung Nguyen,Byonghyo Shim. Object Region and Class Learning for Weakly-Supervised Semantic Segmentation. ACSCC, 2021
+ MASA-Net: Multi-level Aggregated and Self-attentive Network for Fast Salient Object Detection. search fail, search fail
+Anzhi Wang,Weihua Ou,Chunhong Ren,Yun Liu. Cross-level Feature Aggregation and Fusion Network for Light Field Salient Object Detection. iThings/GreenCom/CPSCom/SmartData/Cybermatics, 2020
+Rukhshanda Hussain,Yash Karbhari,Muhammad Fazal Ijaz,Marcin Wozniak,Pawan Kumar Singh,Ram Sarkar. Revise-Net: Exploiting Reverse Attention Mechanism for Salient Object Detection. Remote. Sens., 2021
+ [PDF][PDF] Saliency Detection Based on Non-convex Weighted Surrogates. search fail, search fail
+ [PDF][PDF] Efficient Unknown Object Detection with Discrepancy Networks for Semantic Segmentation. search fail, search fail
+ An Improved CNN Model for Fast Salient Object Detection. search fail, search fail
+ Image retargeting quality assessment based on saliency-driven classification. search fail, search fail
+ Global Context Guided Multi-scale Feature Network for Salient Object Detection. search fail, search fail
+Binwei Xu,Haoran Liang,Wentian Ni,Weihua Gong,Ronghua Liang,Peng Chen. Learning Video Salient Object Detection Progressively from Unlabeled Videos. CoRR, 2022
+Wei He,Chen Pan,Wenlong Xu,Ning Zhang. Multi-attention embedded network for salient object detection. Soft Comput., 2021
+ Evaluating Outlines as a Means to Segment Stains—A User Study. search fail, search fail
+Junxiu Zhou,Yangyang Tao,Xian Liu. Tensor Decomposition for Salient Object Detection in Images. Big Data Cogn. Comput., 2019
+Riku Arakawa,Yudai Tanaka,Hiromu Kawarasaki,Kiyosu Maeda. BulkScreen: Saliency-Based Automatic Shape Representation of Digital Images with a Vertical Pin-Array Screen. Tangible and Embedded Interaction, 2020
+ Multi-Path Deep CNN with Residual Inception Network for Single Image Super-Resolution. search fail, search fail
+Yang Yang,MingQiang Guo,Qiqi Zhu. CADNet: Top-Down Contextual Saliency Detection Network for High Spatial Resolution Remote Sensing Image Shadow Detection. IGARSS, 2021
+Kan Huang,Ge Li,Shan Liu. Learning channel-wise spatio-temporal representations for video salient object detection. Neurocomputing, 2020
+Mingfei Cheng,Kaili Zhao,Xuhong Guo,Yajing Xu,Jun Guo. Joint Topology-Preserving and Feature-Refinement Network for Curvilinear Structure Segmentation. ICCV, 2021
+Zhu Xu,Zhengyao Bai,Huijie Liu,Qianjie Lu,Shenglan Fan. DFC: Deep Feature Consistency for Robust Point Cloud Registration. CoRR, 2021
+Yan Liu,Yunzhou Zhang,Shichang Liu,Sonya Coleman,Zhenyu Wang,Feng Qiu. Salient object detection by aggregating contextual information. Pattern Recognit. Lett., 2022
+Zengyuan Guo,Xinzhu Ma,Haojie Li,Zhihui Wang,Pengbo Zhang. Self-Adaption Multi-classifier Fusion Networks for Image Recognition. ICME, 2019
+ [PDF][PDF] UWS Academic Portal. search fail, search fail
+Qing Zhang,Xiang Li. Salient object detection network with multi-scale feature refinement and boundary feedback. Image Vis. Comput., 2021
+ Feature Mutual Feedback Network for Salient Object Detection. search fail, search fail
+ [CITATION][C] Paying More Attention to Motion: Attention Distillation for Learning Video Representations.. search fail, search fail
+ [HTML][HTML] Leveraging colour-based pseudo-labels to supervise saliency detection in hyperspectral image datasets. search fail, search fail
+ [CITATION][C] Robust deep learning for computer vision to counteract data scarcity and label noise. search fail, search fail
+ An Approach to Estimate the Orientation and Movement Trend of a Person in the Vicinity of an Industrial Robot. search fail, search fail
+Yu Qiu,Yun Liu,Le Zhang,Jing Xu. Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net. CoRR, 2021
+ Multi-Scale Amplitude Spectrum Substitution for Visual Saliency Detection. search fail, search fail
+ [HTML][HTML] Attention mechanism and mixup data augmentation for classification of COVID-19 Computed Tomography images. search fail, search fail
+ A Salient Object Detection Model Based on Local-region Contrast for Night Security and Assurance. search fail, search fail
+Yingyue Xu,Xiaopeng Hong,Guoying Zhao. Salient Object Detection with CNNs and Multi-scale CRFs. SCIA, 2019
+ Accelerated Computational Methods in Image Processing using GPU Computing: Variational Saliency Detection and MRI-CT Synthesis. search fail, search fail
+ DIPONet: Dual-information progressive optimization network for salient object detection. search fail, search fail
+Omprakash S. Rajankar,Uttam D. Kolekar,Sanjay N. Talbar. Heuristics approach to speeding up saliency detection. Signal Image Video Process., 2019
+ Saliency Detection via Recurrently Aggregating and Refining Cross-layer Residual Features. search fail, search fail
+Xia Feng,Zhiyi Hu,Caihua Liu,W. H. Ip,Huiying Chen. Text-Image Retrieval With Salient Features. J. Softw., 2021
+Reshmi S. Bhooshan,Suresh K. An Attention Based Wavelet Convolutional Model for Visual Saliency Detection. ICASSP, 2021
+Chunxu Jiang,Yu Liu,Jinglin Sun,Jichang Guo,Wei Lu. Illumination-based adaptive saliency detection network through fusion of multi-source features. J. Vis. Commun. Image Represent., 2021
+Zhixiong Nan,Jingjing Jiang,Xiaofeng Gao,Sanping Zhou,Weiliang Zuo,Ping Wei,Nanning Zheng. Predicting Task-Driven Attention via Integrating Bottom-Up Stimulus and Top-Down Guidance. IEEE Trans. Image Process., 2021
+Shangrui Wu,Yang Wang,Tian Wang,Weijia Jia,Ruitao Xie. Self-adapted Frame Selection Module: Refine the Input Strategy for Video Saliency Detection. ICA3PP (2), 2021
+Yang Liu,Bo Wu,Bo Lang. Deep Salient Object Detection with Fuzzy Superpixel Extraction and Controlled Filter Convolution. IJCNN, 2019
+Chengyu Zheng,Ding Shi,Xuefeng Yan,Dong Liang,Mingqiang Wei,Xin Yang,Yanwen Guo,Haoran Xie. GlassNet: Label Decoupling‐based Three‐stream Neural Network for Robust Image Glass Detection. CoRR, 2022
+Xiangyu Qu,Stanley H. Chan. Detecting and Segmenting Adversarial Graphics Patterns from Images. CoRR, 2021
+Xiangyu Qu,Stanley H. Chan. Detecting and Segmenting Adversarial Graphics Patterns from Images. CoRR, 2021
+Chenxing Xia,Xiuju Gao,Xianjin Fang,Kuan-Ching Li,Shuzhi Su,Haitao Zhang. RLP-AGMC: Robust label propagation for saliency detection based on an adaptive graph with multiview connections. Signal Process. Image Commun., 2021
+Abdullah J. Alzahrani,Hina Afridi. Salient Object Detection: A Distinctive Feature Integration Model. CoRR, 2019
+ [HTML][HTML] Prototyping and Testing of a Social Robot for TV-Watching Experiments. search fail, search fail
+Yue Li,Xiangchun Zhou,Tao Cui,Ruohan Gong,Zuqi Tang,Chuang Wang,Wei Wang. Video Key Object Detection Network via Reinforcement Learning. ISCAS, 2020
+ DGrid: Dense Grid Network for Salient Object Detection. search fail, search fail
+Huajun Zhou,Peijia Chen,Lingxiao Yang,Jianhuang Lai,Xiaohua Xie. Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection. CoRR, 2021
+ A Fully Convolutional Network based on Spatial Attention for Saliency Object Detection. search fail, search fail
+ Fast Defocus Blur Detection Network via Global Search and Local Refinements. search fail, search fail
+ Dense image labeling using deep learning. search fail, search fail
+Yuanbin Fu,Xiaojie Guo,Qiming Hu,Di Lin,Jiayi Ma,Haibin Ling. Hierarchical Image Peeling: A Flexible Scale-space Filtering Framework. CoRR, 2021
+ TF-SOD: a novel transformer framework for salient object detection. search fail, search fail
+ Visual Tracking Using Online Deep Reinforcement Learning with Heatmap. search fail, search fail
+Yi Zhu,Tianyang Cheng,He Tang,Chuanbo Chen. DANet: Dynamic Salient Object Detection Networks Leveraging Auxiliary Information. IEEE Access, 2021
+Jiaxiao Wu,Olga Veksler. Learning Regularization Weight for CRF Optimization. BMVC, 2018
+Lingchen Gu,Ju Liu,Xiaoxi Liu,Jiande Sun. Deep Loss Driven Multi-Scale Hashing Based on Pyramid Connected Network. IEEE Trans. Multim., 2021
+ Approximately decoupled component supervision for salient object detection. search fail, search fail
+ A Fully Convolutional Network based on Double Attention for Saliency Object Detection. search fail, search fail
+ Image Co-saliency Detection and Co-segmentation from The Perspective of Commonalities. search fail, search fail
+Xingyu Wan,Jiakai Cao,Sanping Zhou,Jinjun Wang,Nanning Zheng. Tracking Beyond Detection: Learning a Global Response Map for End-to-End Multi-Object Tracking. IEEE Trans. Image Process., 2021
+Xingyu Wan,Jiakai Cao,Sanping Zhou,Jinjun Wang,Nanning Zheng. Tracking Beyond Detection: Learning a Global Response Map for End-to-End Multi-Object Tracking. IEEE Trans. Image Process., 2021
+Mingwen Shao,Shuqi Liu,Ran Wang,Gaozhi Zhang. An Adversarial sample defense method based on multi-scale GAN. Int. J. Mach. Learn. Cybern., 2021
+ EDNet: Encoder-Decoder Network with Low Rank and Margin Regularizations for Saliency Detection. search fail, search fail
+Xing Sheng,Zhuoran Zheng,Qiong Wu,Chunmeng Kang,Yunliang Zhuang,Lei Lyu,Chen Lyu. Saliency Detection Framework Based on Deep Enhanced Attention Network. ICONIP (4), 2021
+ Global-prior-guided fusion network for salient object detection. search fail, search fail
+Senbo Yan,Xiaowen Song,Chuer Yu. SDCNet: Size Divide and Conquer Network for Salient Object Detection. ACCV (1), 2020
+ [HTML][HTML] CVPR 2019| PoolNet: Interpretation of Saliency Detection Papers Based on Pooling Technology CVPR 2019| PoolNet: Interpretation of Saliency Detection …. search fail, search fail
+Yi Zhang,Lu Zhang,Wassim Hamidouche,Olivier Déforges. CMA-Net: A Cascaded Mutual Attention Network for Light Field Salient Object Detection. CoRR, 2021
+Patricia Jiménez,Juan C. Roldán,Rafael Corchuelo. [HTML][HTML] 结合空间注意力多层特征融合显著性检测. Enterp. Inf. Syst., 2022
+ 基于子网络级联式混合信息流的显著性检测. search fail, search fail
+ [PDF][PDF] MobileSal: 极其高效的 RGB-D 显著性物体检测模型. search fail, search fail
+Ahmad A. Masoud. [PDF][PDF] 一种用于图像检索的多层语义二值描述符. AAAI, 2022
+Ahmad A. Masoud. [PDF][PDF] 基于正则化密集连接金字塔网络的显著实例分割. AAAI, 2022
+ 基于弱显著图的实时热红外图像行人检测. search fail, search fail
+Patricia Jiménez,Juan C. Roldán,Rafael Corchuelo. [HTML][HTML] 基于双向消息链路卷积网络的显著性物体检测. Enterp. Inf. Syst., 2022
+Ahmad A. Masoud. [PDF][PDF] 用于语义线段检测的深度霍夫变换. AAAI, 2022
+ [PDF][PDF] Hi-Fi: 骨架检测的分层特征集成. search fail, search fail
+ Identifikasi lahan kosong Kota Batu berbasis Citra Google Earth menggunakan Algoritma Convolutional Neural Network (CNN). search fail, search fail
+ [PDF][PDF] Res2Net: 一种新的多尺度骨干架构. search fail, search fail
+ 深浅交错式特征融合的人体图像分割方法. search fail, search fail
+ 深浅交错式特征融合的人体图像分割方法. search fail, search fail
+ Perchage Automatique de Drones Basé Sur la Vision Artificielle. search fail, search fail
+ 基于局部短接单向融合网络的骨架检测研究. search fail, search fail
+Ahmad A. Masoud. [PDF][PDF] 深度学习背景下视觉显著性物体检测综述. AAAI, 2022
+Ahmad A. Masoud. [PDF][PDF] 基于前景优化和概率估计的显著性检测. AAAI, 2022
+Patricia Jiménez,Juan C. Roldán,Rafael Corchuelo. [HTML][HTML] 深度聚类注意力机制下的显著对象检测. Enterp. Inf. Syst., 2022
+ 基于显著图融合的无人机载热红外图像目标检测方法. search fail, search fail
+ 基于深度监督显著目标检测的草莓图像分割. search fail, search fail
+ 전치 컨볼루션을 이용한 딥러닝 기반 돌출 객체 검출. search fail, search fail
+Jingda Ding,Ruixia Xie,Chao Liu,Yiqing Yuan. [CITATION][C] 디포커스 블러에 강인한 주요 물체 검출 네트워크. J. Documentation, 2022

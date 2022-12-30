@@ -1,0 +1,246 @@
+Jingdong Wang,Ke Sun,Tianheng Cheng,Borui Jiang,Chaorui Deng,Yang Zhao,Dong Liu,Yadong Mu,Mingkui Tan,Xinggang Wang,Wenyu Liu,Bin Xiao. Deep high-resolution representation learning for visual recognition
+
+Yuhui Yuan,Xilin Chen,Jingdong Wang. Object-contextual representations for semantic segmentation
+
+Ke Sun,Yang Zhao,Borui Jiang,Tianheng Cheng,Bin Xiao,Dong Liu,Yadong Mu,Xinggang Wang,Wenyu Liu,Jingdong Wang. High-resolution representations for labeling pixels and regions
+
+Jianyuan Guo,Yuhui Yuan,Lang Huang,Chao Zhang,Jin-Ge Yao,Kai Han. Beyond human parts: Dual part-aligned representations for person re-identification
+
+Lingxiao He,Yinggang Wang,Wu Liu,He Zhao,Zhenan Sun,Jiashi Feng. Foreground-aware pyramid reconstruction for alignment-free occluded person re-identification
+
+Wenguan Wang,Zhijie Zhang,Siyuan Qi,Jianbing Shen,Yanwei Pang,Ling Shao. Learning compositional neural information fusion for human parsing
+
+Yuhui Yuan,Jingyi Xie,Xilin Chen,Jingdong Wang. Segfix: Model-agnostic boundary refinement for segmentation
+
+Lu Yang,Qing Song,Zhihui Wang,Ming Jiang. Parsing r-cnn for instance-level human analysis
+
+Lang Huang,Yuhui Yuan,Jianyuan Guo,Chao Zhang,Xilin Chen,Jingdong Wang. Interlaced sparse self-attention for semantic segmentation
+
+Wenguan Wang,Hailong Zhu,Jifeng Dai,Yanwei Pang,Jianbing Shen,Ling Shao. Hierarchical human parsing with typed part-relation reasoning
+
+Wen-Huang Cheng,Sijie Song,Chieh-Yun Chen,Shintami Chusnul Hidayati,Jiaying Liu. Fashion meets computer vision: A survey
+
+Wenchao Kang,Yuming Xiang,Feng Wang,Hongjian You. EU-net: An efficient fully convolutional network for building extraction from optical remote sensing images
+
+Yanrui Bin,Xuan Cao,Xinya Chen,Yanhao Ge,Ying Tai,Chengjie Wang,Jilin Li,Feiyue Huang,Changxin Gao,Nong Sang. Adversarial semantic data augmentation for human pose estimation
+
+Xinchen Liu,Meng Zhang,Wu Liu,Jingkuan Song,Tao Mei. Braidnet: Braiding semantics and details for accurate human parsing
+
+Yinglu Liu,Hailin Shi,Hao Shen,Yue Si,Xiaobo Wang,Tao Mei. A new dataset and boundary-attention semantic segmentation for face parsing
+
+Ziwei Zhang,Chi Su,Liang Zheng,Xiaodong Xie. Correlating edge, pose with parsing
+
+Gusi Te,Yinglu Liu,Wei Hu,Hailin Shi,Tao Mei. Edge-aware graph representation learning and reasoning for face parsing
+
+Yuhui Yuan,Lang Huang,Jianyuan Guo,Chao Zhang,Xilin Chen,Jingdong Wang. OCNet: Object context for semantic segmentation
+
+Tao Li,Zhiyuan Liang,Sanyuan Zhao,Jiahao Gong,Jianbing Shen. Self-learning with rectification strategy for human parsing
+
+Haoyu He,Jing Zhang,Qiming Zhang,Dacheng Tao. Grapy-ML: Graph pyramid mutual learning for cross-dataset human parsing
+
+Lu Yang,Qing Song,Zhihui Wang,Mengjie Hu,Chun Liu,Xueshi Xin,Wenhe Jia,Songcen Xu. Renovating parsing R-CNN for accurate multiple human parsing
+
+Ruyi Ji,Dawei Du,Libo Zhang,Longyin Wen,Yanjun Wu,Chen Zhao,Feiyue Huang,Siwei Lyu. Learning semantic neural tree for human parsing
+
+Peike Li,Xuanyi Dong,Xin Yu,Yi Yang. When Humans Meet Machines: Towards Efficient Segmentation Networks.
+
+ Influence of pumping/extrusion on the air-void system of 3D printed concrete
+
+Xiaomei Zhang,Yingying Chen,Bingke Zhu,Jinqiao Wang,Ming Tang. Part-aware context network for human parsing
+
+Tengteng Huang,Yongchao Xu,Song Bai,Yongpan Wang,Xiang Bai. Feature context learning for human parsing
+
+ Segmentation transformer: Object-contextual representations for semantic segmentation
+
+ Ehanet: An effective hierarchical aggregation network for face parsing
+
+ A pytorch semantic segmentation toolbox
+
+Li Yu,Yueqi Zhong,Xin Wang. Inpainting-based virtual try-on network for selective garment transfer
+
+Chen Gao,Si Liu,Ran He,Shuicheng Yan,Bo Li. Recapture as you want
+
+Xin Jin,Cuiling Lan,Wenjun Zeng,Zhizheng Zhang,Zhibo Chen. CASINet: Content-adaptive scale interaction networks for scene parsing
+
+Chi Wang,Yunke Zhang,Miaomiao Cui,Jinlin Liu,Peiran Ren,Yin Yang,Xuansong Xie,XianSheng Hua,Hujun Bao,Weiwei Xu. Active boundary loss for semantic segmentation
+
+Yuan Li,Xinggang Wang,Wenyu Liu,Bin Feng. Pose anchor: A single-stage hand keypoint detection network
+
+Jinjing Zhang,Jianchao Zeng,Pinle Qin,Lijun Zhao. Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets
+
+Yifan Liu,Qigang Zhu,Feng Cao,Junke Chen,Gang Lu. High-resolution remote sensing image segmentation framework based on attention mechanism and adaptive weighting
+
+Haifang Qin,Weixiang Hong,Wei-Chih Hung,Yi-Hsuan Tsai,Ming-Hsuan Yang. A top-down unified framework for instance-level human parsing
+
+Xiaomei Zhang,Yingying Chen,Bingke Zhu,Jinqiao Wang,Ming Tang. Semantic-spatial fusion network for human parsing
+
+Ruilin Zhao,Yanbing Xue,Jing Cai,Zan Gao. Parsing human image by fusing semantic and spatial features: A deep learning approach
+
+Yunan Liu,Liang Zhao,Shanshan Zhang,Jian Yang. Hybrid resolution network using edge guided region mutual information loss for human parsing
+
+Mohamed Abdel-Nasser,Adel Saleh,Domenec Puig. Channel-wise Aggregation with Self-correction Mechanism for Multi-center Multi-Organ Nuclei Segmentation in Whole Slide Imaging.
+
+Tianfei Zhou,Wenguan Wang,Si Liu,Yi Yang,Luc Van Gool. Differentiable multi-granularity human representation learning for instance-aware human semantic parsing
+
+Haoyu He,Jing Zhang,Bhavani M. Thuraisingham,Dacheng Tao. Progressive one-shot human parsing
+
+Shujon Naha,Qingyang Xiao,Prianka Banik,Md. Alimoor Reza,David J. Crandall. Pose-guided knowledge transfer for object part segmentation
+
+Daan de Geus,Panagiotis Meletis,Chenyang Lu,Xiaoxiao Wen,Gijs Dubbelman. Part-aware panoptic segmentation
+
+Peixian Chen,Wenfeng Liu,Pingyang Dai,Jianzhuang Liu,Qixiang Ye,Mingliang Xu,Qi'an Chen,Rongrong Ji. Occlude them all: Occlusion-aware attention network for occluded person re-id
+
+Kilian Pfeiffer,Alexander Hermans,István Sárándi,Mark Weber,Bastian Leibe. Visual person understanding through multi-task and multi-dataset learning
+
+Lu Yang,Qing Song,Zhihui Wang,Mengjie Hu,Chun Liu. Hier R-CNN: Instance-level human parts detection and a new benchmark
+
+Gusi Te,Wei Hu,Yinglu Liu,Hailin Shi,Tao Mei. Agrnet: Adaptive graph representation learning and reasoning for face parsing
+
+Zhenchao Jin,Tao Gong,Dongdong Yu,Qi Chu,Jian Wang,Changhu Wang,Jie Shao. Mining contextual information beyond image for semantic segmentation
+
+Enbo Huang,Zhuo Su,Fan Zhou. Tao: a trilateral awareness operation for human parsing
+
+Jinde Liu,Zhang Zhang,Caifeng Shan,Tieniu Tan. Kinematic skeleton graph augmented network for human parsing
+
+Sanyi Zhang,Guo-Jun Qi,Xiaochun Cao,Zhanjie Song,Jie Zhou. Human parsing with pyramidical gather-excite context
+
+Zhenchao Jin,Bin Liu,Qi Chu,Nenghai Yu. ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation
+
+Xiaomei Zhang,Yingying Chen,Bingke Zhu,Jinqiao Wang,Ming Tang. Blended grammar network for human parsing
+
+Zibo Zhao,Wen Liu,Yanyu Xu,Xianing Chen,Weixin Luo,Lei Jin,Bohui Zhu,Tong Liu,Binqiang Zhao,Shenghua Gao. Prior based human completion
+
+Xi Huang,Keyu Wu,Gang Hu,Jie Shao. Multi-class human body parsing with edge-enhancement network
+
+Mengmeng Xu,Yancheng Bai,Sally Sisi Qu,Bernard Ghanem. Semantic Part RCNN for Real-World Pedestrian Detection.
+
+Lu Yang,Qing Song,Zhihui Wang,Zhiwei Liu,Songcen Xu,Zhihao Li. Quality-Aware Network for Human Parsing
+
+Igor Kviatkovsky,Nadav Bhonker,Gérard G. Medioni. From real to synthetic and back: Synthesizing training data for multi-person scene understanding
+
+Loay Hassan,Adel Saleh,Mohamed Abdel-Nasser,Osama Ahmed Omer,Domenec Puig. Promising Deep Semantic Nuclei Segmentation Models for Multi-Institutional Histopathology Images of Different Organs.
+
+Chuang Zhang,Yu Lu,Muyan Feng,Ming Wu. Trucker behavior security surveillance based on human parsing
+
+Min Yan,Guoshan Zhang,Tong Zhang,Yueming Zhang. Nondiscriminatory Treatment: a straightforward framework for multi-human parsing
+
+Zhuoying Wang,Yongtao Wang,Zhi Tang,Yangyan Li,Ying Chen,Haibin Ling,Weisi Lin. Gsto: Gated scale-transfer operation for multi-scale feature learning in pixel labeling
+
+Ruru Zhang,Jiawen He,Shenda Shi,Haihong E,Zhonghong Ou,Meina Song. BMM-Net: automatic segmentation of edema in optical coherence tomography based on boundary detection and multi-scale network
+
+Yaoyu Li,Hantao Yao,Tianzhu Zhang,Changsheng Xu. Part-based structured representation learning for person re-identification
+
+Dan Zeng,Yuhang Huang,Qian Bao,Junjie Zhang,Chi Su,Wu Liu. Neural Architecture Search for Joint Human Parsing and Pose Estimation
+
+Fangrui Zhu,Yi Zhu,Li Zhang,Chongruo Wu,Yanwei Fu,Mu Li. A Unified Efficient Pyramid Transformer for Semantic Segmentation
+
+Xuan Cao,Yanhao Ge,Ying Tai,Wei Zhang,Jian Li,Chengjie Wang,Jilin Li,Feiyue Huang. Anti-Confusing: Region-Aware Network for Human Pose Estimation
+
+Enbo Huang,Zhuo Su,Fan Zhou,Ruomei Wang. Learning rebalanced human parsing model from imbalanced datasets
+
+Wing Yin Yu,Lai-Man Po,Yuzhi Zhao,Yujia Zhang,Kin Wai Lau. FEANet: Foreground-edge-aware network with DenseASPOC for human parsing
+
+ 基于深度学习的人体解析研究综述
+
+Xinyan Zhang,Yunfeng Wang,Pengfei Xiong. Affinity-aware Compression and Expansion Network for Human Parsing
+
+Jinjing Zhang,Lijun Zhao,Jianchao Zeng,Pinle Qin,Yanbo Wang,Xiaoqing Yu. Deep MRI glioma segmentation via multiple guidances and hybrid enhanced-gradient cross-entropy loss
+
+Matteo Terreran,Leonardo Barcellona,Daniele Evangelista,Stefano Ghidoni. Multi-view Human Parsing for Human-Robot Collaboration
+
+ A Novel Human Parsing Method Driven by Multi-Scale Feature Blend Network
+
+ Multi-human Parsing Based on Dynamic Convolution
+
+Jiayi Yin,Weibin Liu,Weiwei Xing,Yuan Xiao. Class-level Aware Network for Human Parsing
+
+Kunliang Liu,Ouk Choi,Jianming Wang,Wonjun Hwang. CDGNet: Class Distribution Guided Network for Human Parsing
+
+Zikun Liu,Chunyang Li,Yinglu Liu,Zifeng Lian,Yihong Wu. Classification Assisted Segmentation Network for Human Parsing
+
+ Human Parsing with Part-aware Relation Modeling
+
+Zhuo Su,Minshi Chen,Enbo Huang,Ge Lin,Fan Zhou. MVSN: A Multi-view stack network for human parsing
+
+ Image-Based Virtual Try-on System: A Survey of Deep Learning-Based Methods
+
+ Multiscale Meets Spatial Awareness: An Efficient Attention Guidance Network for Human Parsing
+
+ You can try without visiting: a comprehensive survey on virtually try-on outfits
+
+Yanghong Zhou,P. Y. Mok,Shijie Zhou. A Part-Based Deep Neural Network Cascade Model for Human Parsing
+
+Jingchun Cheng,Yuhui Yuan,Yali Li,Jingdong Wang,Shengjin Wang. Learning to Segment Video Object With Accurate Boundaries
+
+Jerome Wan,Guillaume Mougeot,Xubo Yang. Dense feature pyramid network for cartoon dog parsing
+
+Marco Mameli,Marina Paolanti,Rocco Pietrini,Giulia Pazzaglia,Emanuele Frontoni,Primo Zingaretti. Deep Learning approaches for Fashion Knowledge Extraction from Social Media: a review
+
+Mahnaz Moghaddam,Mostafa Charmi,Hossein Hassanpoor. Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets
+
+Huaqing Hao,Weibin Liu,Weiwei Xing,Shunli Zhang. Multilabel learning based adaptive graph convolutional network for human parsing
+
+Yiling Wu,Shuhui Wang,Guoli Song,Qingming Huang. Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval............
+
+Shilin Xu,Xiangtai Li,Jingbo B. Wang,Guangliang Cheng,Yunhai Tong,Dacheng Tao. Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition
+
+Haoyu He,Jing Zhang,Bohan Zhuang,Jianfei Cai,Dacheng Tao. End-to-end One-shot Human Parsing
+
+Shujon Naha,Qingyang Xiao,Prianka Banik,Md. Alimoor Reza,David J. Crandall. Part Segmentation of Unseen Objects using Keypoint Guidance
+
+Seungbae Bang,Maria Korosteleva,Sung-Hee Lee. Estimating Garment Patterns from Static Scan Data
+
+Yunan Liu,Shanshan Zhang,Jian Yang,Pong Chi Yuen. Hierarchical Information Passing Based Noise-Tolerant Hybrid Learning for Semi-Supervised Human Parsing
+
+ DeepProfile: Accurate Under-the-Clothes Body Profile Estimation
+
+Toby Long Hin Chong,I-Chao Shen,Nobuyuki Umetani,Takeo Igarashi. Per Garment Capture and Synthesis for Real-time Virtual Try-on
+
+Xi Huang,Chengkun He,Jie Shao. Attention-guided Progressive Partition Network for Human Parsing
+
+Lei Ma,Jian Wang,Jie Shao,Liqing Zhang. Human Parsing with Edge Enhancement
+
+Huaqing Hao,Weibin Liu,Weiwei Xing. Context Prior based Semantic-Spatial Graph Network for Human Parsing
+
+Aihua Mao,Yuan Liang,Jianbo Jiao,Yongtuo Liu,Shengfeng He. Mask-Guided Deformation Adaptive Network for Human Parsing
+
+Angelique Loesch,Romaric Audigier. Describe me if you can! Characterized instance-level human parsing
+
+Shuncheng Du,Yigang Wang,Zizhao Wu. Multi-human Parsing with Pose and Boundary Guidance
+
+ CLRNet: Component-Level Refinement Network for Deep Face Parsing
+
+Haoming Chen,Runyang Feng,Sifan Wu,Hao Xu,Fengcheng Zhou,Zhenguang Liu. 2D Human Pose Estimation: A Survey
+
+Loay Hassan,Adel Saleh,Mohamed Abdel-Nasser,Osama Ahmed Omer,Domenec Puig. Efficient Multi-Organ Multi-Center Cell Nuclei Segmentation Method Based on Deep Learnable Aggregation Network.
+
+Beibei Yang,Changqian Yu,Jiahui Liu,Changxin Gao,Nong Sang. Graph-Based Scale-Aware Network for Human Parsing
+
+ Supplementary for “SegFix: Model-Agnostic Boundary Refinement for Segmentation”
+
+ BASNet: improving semantic segmentation via boundary-assistant symmetrical network
+
+ Building extraction from remote sensing images using deep residual U-Net
+
+Minglong Li,Lianlei Shan,Xiaobin Li,Yang Bai,Dengji Zhou,Weiqiang Wang,Ke Lv,Bin Luo,Si-Bao Chen. Global-Local Attention Network for Semantic Segmentation in Aerial Images
+
+Liulei Li,Tianfei Zhou,Wenguan Wang,Jianwu Li,Yi Yang. Deep Hierarchical Semantic Segmentation
+
+ On the Correlation among Edge, Pose and Parsing
+
+Baoxing Li,Xu Zhao. Human Carving: A Parsing-Based Framework For 3d Human Reconstruction
+
+Zhuoying Wang,Yongtao Wang,Zhi Tang,Yangyan Li,Ying Chen,Haibin Ling,Weisi Lin. GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Semantic Segmentation
+
+Seyed Omid Mohammadi,Ahmad Kalhor. Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry
+
+ Pose-Guided Hierarchical Semantic Decomposition and Composition for Human Parsing
+
+ Feature fusion network for clothing parsing
+
+Di Wu,Jianhou Gan,Wei Zou. Fine-Grained Semantic Segmentation of National Costume Grayscale Image Based on Human Parsing
+
+Qingping Zheng,Jiankang Deng,Zheng Zhu,Ying Li,Stefanos Zafeiriou. Decoupled Multi-task Learning with Cyclical Self-Regulation for Face Parsing
+
+ 基于层次化标签的人体解析
+
