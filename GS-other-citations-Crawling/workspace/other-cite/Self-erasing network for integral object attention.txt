@@ -1,0 +1,268 @@
+Yude Wang,Jie Zhang,Meina Kan,Shiguang Shan,Xilin Chen. Self-supervised equivariant attention mechanism for weakly supervised semantic segmentation
+
+Guolei Sun,Wenguan Wang,Jifeng Dai,Luc Van Gool. Mining cross-image semantics for weakly supervised semantic segmentation
+
+Yu-Ting Chang,Qiaosong Wang,Wei-Chih Hung,Robinson Piramuthu,Yi-Hsuan Tsai,Ming-Hsuan Yang. Weakly-supervised semantic segmentation via sub-category exploration
+
+Xuesong Chen,Canmiao Fu,Yong Zhao,Feng Zheng,Jingkuan Song,Rongrong Ji,Yi Yang. Salience-guided cascaded suppression network for person re-identification
+
+Xihui Liu,Zihao Wang,Jing Shao,Xiaogang Wang,Hongsheng Li. Improving referring expression grounding with cross-modal attention-guided erasing
+
+Haolan Xue,Chang Liu,Fang Wan,Jianbin Jiao,Xiangyang Ji,Qixiang Ye. Danet: Divergent activation for weakly supervised object localization
+
+Wataru Shimoda,Keiji Yanai. Self-supervised difference detection for weakly-supervised semantic segmentation
+
+Junsong Fan,Zhaoxiang Zhang,Tieniu Tan,Chunfeng Song,Jun Xiao. Cian: Cross-image affinity net for weakly supervised semantic segmentation
+
+Cheng-Chun Hsu,Kuang-Jui Hsu,Chung-Chi Tsai,Yen-Yu Lin,Yung-Yu Chuang. Weakly supervised instance segmentation using the bounding box tightness prior
+
+Nikita Araslanov,Stefan Roth. Single-stage semantic segmentation from image labels
+
+Junsong Fan,Zhaoxiang Zhang,Chunfeng Song,Tieniu Tan. Learning integral objects with intra-class discriminator for weakly-supervised semantic segmentation
+
+Zhong Ji,Haoran Wang,Jungong Han,Yanwei Pang. Saliency-guided attention network for image-sentence matching
+
+Zhao Zhang,Zheng Lin,Jun Xu,Wenda Jin,Shao-Ping Lu,Deng-Ping Fan. Bilateral attention network for RGB-D salient object detection
+
+Jinjie Mai,Meng Yang,Wenfeng Luo. Erasing integrated learning: A simple yet effective approach for weakly supervised object localization
+
+Yuliang Zou,Zizhao Zhang,Han Zhang,Chun-Liang Li,Xiao Bian,Jia-Bin Huang,Tomas Pfister. Pseudoseg: Designing pseudo labels for semantic segmentation
+
+Wonho Bae,Junhyug Noh,Gunhee Kim. Rethinking class activation mapping for weakly supervised object localization
+
+Jungbeom Lee,Eunji Kim,Sungmin Lee,Jangho Lee,Sungroh Yoon. Frame-to-frame aggregation of active regions in web videos for weakly supervised semantic segmentation
+
+Jiayun Li,Wenyuan Li,Arkadiusz Gertych,Beatrice S. Knudsen,William Speier,Corey W. Arnold. An attention-based multi-resolution model for prostate whole slide imageclassification and localization
+
+Xueyi Li,Tianfei Zhou,Jianwu Li,Yi Zhou,Zhaoxiang Zhang. Group-wise semantic mining for weakly supervised semantic segmentation
+
+Tianyi Zhang,Guosheng Lin,Weide Liu,Jianfei Cai,Alex C. Kot. Splitting vs. merging: Mining object regions with discrepancy and intersection loss for weakly supervised semantic segmentation
+
+Yazhou Yao,Tao Chen,Guo-Sen Xie,Chuanyi Zhang,Fumin Shen,Qi Wu,Zhenmin Tang,Jian Zhang. Non-salient region object mining for weakly supervised semantic segmentation
+
+Junsong Fan,Zhaoxiang Zhang,Tieniu Tan. Employing multi-estimations for weakly-supervised semantic segmentation
+
+Yi-Fan Song,Zhang Zhang,Caifeng Shan,Liang Wang. Richly activated graph convolutional network for robust skeleton-based action recognition
+
+Qi Yao,Xiaojin Gong. Saliency guided self-attention network for weakly and semi-supervised semantic segmentation
+
+Jungbeom Lee,Eunji Kim,Sungroh Yoon. Anti-adversarially manipulated attributions for weakly and semi-supervised semantic segmentation
+
+Yazhao Li,Yanwei Pang,Jianbing Shen,Jiale Cao,Ling Shao. NETNet: Neighbor erasing and transferring network for better single shot object detection
+
+Fei Liu,Jing Liu,Richang Hong,Hanqing Lu. Erasing-based attention learning for visual question answering
+
+Wenfeng Luo,Meng Yang. Semi-supervised semantic segmentation via strong-weak dual-branch network
+
+Jiayun Li,Wenyuan Li,Anthony E. Sisk,Huihui Ye,W. Dean Wallace,William Speier,Corey W. Arnold. A multi-resolution model for histopathology image classification and localization with multiple instance learning
+
+Jungbeom Lee,Jihun Yi,Chaehun Shin,Sungroh Yoon. BBAM: Bounding box attribution map for weakly supervised semantic and instance segmentation
+
+Weide Liu,Chi Zhang,Guosheng Lin,Tzu-Yi Hung,Chunyan Miao. Weakly supervised segmentation with maximum bipartite graph matching
+
+ A weakly supervised semantic segmentation network by aggregating seed cues: the multi-object proposal generation perspective
+
+Yu-Ting Chang,Qiaosong Wang,Wei-Chih Hung,Robinson Piramuthu,Yi-Hsuan Tsai,Ming-Hsuan Yang. Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization
+
+Seungho Lee,Minhyun Lee,Jongwuk Lee,Hyunjung Shim. Railroad is not a train: Saliency as pseudo-pixel supervision for weakly supervised semantic segmentation
+
+Sanghyun Jo,In-Jae Yu. Puzzle-CAM: Improved localization via matching partial and full features
+
+Yude Wang,Jie Zhang,Meina Kan,Shiguang Shan,Xilin Chen. Self-supervised scale equivariant network for weakly supervised semantic segmentation
+
+Jiapei Feng,Xinggang Wang,Wenyu Liu. Deep graph cut network for weakly-supervised semantic segmentation
+
+Minsong Ki,Youngjung Uh,Wonyoung Lee,Hyeran Byun. In-sample contrastive learning and consistent attention for weakly supervised object localization
+
+Andrey Zhmoginov,Ian Fischer,Mark Sandler. Information-bottleneck approach to salient region discovery
+
+Yifan Yang,Guorong Li,Dawei Du,Qingming Huang,Nicu Sebe. Embedding perspective analysis into multi-column convolutional neural network for crowd counting
+
+Beomyoung Kim,Sangeun Han,Junmo Kim. Discriminative region suppression for weakly-supervised semantic segmentation
+
+Xin Sun,Changrui Chen,Junyu Dong,Dan Liu,Guosheng Hu. Exploring ubiquitous relations for boosting classification and localization
+
+Tong Wu,Junshi Huang,Guangyu Gao,Xiaoming Wei,Xiaolin Wei,Xuan Luo,Chi Harold Liu. Embedded discriminative attention mechanism for weakly supervised semantic segmentation
+
+Md. Moniruzzaman,Zhaozheng Yin,Zhihai He,Ruwen Qin,Ming C. Leu. Action completeness modeling with background aware networks for weakly-supervised temporal action localization
+
+Lian Xu,Wanli Ouyang,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel,Dan Xu. Leveraging auxiliary tasks with affinity learning for weakly supervised semantic segmentation
+
+Youngmin Oh,Beomjun Kim,Bumsub Ham. Background-aware pooling and noise-aware loss for weakly-supervised semantic segmentation
+
+Lei Zhou,Chen Gong,Zhi Liu,Keren Fu. SAL: Selection and attention losses for weakly supervised semantic segmentation
+
+Ronghua Luo,Huailin Huang,WeiZeng Wu. Salient object detection based on backbone enhanced network
+
+Jian Ji,Rui Shi,Sitong Li,Peng Chen,Qiguang Miao. Encoder-decoder with cascaded CRFs for semantic segmentation
+
+Donghyeon Baek,Youngmin Oh,Bumsub Ham. Exploiting a joint embedding space for generalized zero-shot semantic segmentation
+
+Tianyi Wu,Sheng Tang,Rui Zhang,Guodong Guo,Yongdong Zhang. Consensus feature network for scene parsing
+
+Yi-Jie Huang,Weiping Liu,Xiuying Wang,Qu Fang,Renzhen Wang,Yi Wang,Huai Chen,Hao Chen,Deyu Meng,Lisheng Wang. Rectifying supporting regions with mixed and active supervision for rib fracture recognition
+
+Meng Meng,Tianzhu Zhang,Qi Tian,Yongdong Zhang,Feng Wu. Foreground activation maps for weakly supervised object localization
+
+Yazhao Li,Yanwei Pang,Jiale Cao,Jianbing Shen,Ling Shao. Improving single shot object detection with feature scale unmixing
+
+Yi Li,Zhanghui Kuang,Liyang Liu,Yimin Chen,Wayne Zhang. Pseudo-mask matters in weakly-supervised semantic segmentation
+
+Rafael Padilha,Fernanda A. Andaló,Anderson Rocha. Improving the chronological sorting of images through occlusion: A study on the notre-dame cathedral fire
+
+ Fingerprint presentation attack detector using global-local model
+
+Lian Xu,Hao Xue,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel. Atrous convolutional feature network for weakly supervised semantic segmentation
+
+Lixiang Ru,Bo Du,Chen Wu. Learning visual words for weakly-supervised semantic segmentation
+
+Wenfeng Luo,Meng Yang,Weishi Zheng. Weakly-supervised semantic segmentation with saliency and incremental supervision updating
+
+ Online attention accumulation for weakly supervised semantic segmentation
+
+Fei Zhang,Chaochen Gu,Chenyue Zhang,Yuchao Dai. Complementary patch for weakly supervised semantic segmentation
+
+Yukun Su,Ruizhou Sun,Guosheng Lin,Qingyao Wu. Context decoupling augmentation for weakly supervised semantic segmentation
+
+Jeong Ryong Lee,Sewon Kim,Inyong Park,Taejoon Eo,Dosik Hwang. Relevance-cam: Your model already knows where to look
+
+Yann Lifchitz,Yannis Avrithis,Sylvaine Picard. Few-shot few-shot learning and the role of spatial attention
+
+Jiahui Liu,Changqian Yu,Beibei Yang,Changxin Gao,Nong Sang. CSENet: Cascade semantic erasing network for weakly-supervised semantic segmentation
+
+Erik Stammes,Tom F. H. Runia,Michael Hofmann,Mohsen Ghafoorian. Find it if you can: end-to-end adversarial erasing for weakly-supervised semantic segmentation
+
+Jungbeom Lee,Jooyoung Choi,Jisoo Mok,Sungroh Yoon. Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation
+
+Jun Cen,Han Sun,Xinyi Chen,Ningzhong Liu,Dong Liang,Huiyu Zhou. WFNet: a wider and finer network for salient object detection
+
+Caijuan Shi,Weiming Zhang,Changyu Duan,Houru Chen. A pooling-based feature pyramid network for salient object detection
+
+Hyeokjun Kweon,Sung-Hoon Yoon,Hyeonseong Kim,Daehee Park,Kuk-Jin Yoon. Unlocking the potential of ordinary classifier: Class-specific adversarial erasing framework for weakly supervised semantic segmentation
+
+Wenfeng Luo,Meng Yang. Learning saliency-free model with generic features for weakly-supervised semantic segmentation
+
+Zhenyu Wang,Yunzhou Zhang,Yan Liu,Shichang Liu,Sonya Coleman,Dermot Kerr. MFC-Net: Multi-feature fusion cross neural network for salient object detection
+
+ Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs
+
+ Semisupervised semantic segmentation by improving prediction confidence
+
+Jingshan Xu,Chuanwei Zhou,Zhen Cui,Chunyan Xu,Yuge Huang,Pengcheng Shen,Shaoxin Li,Jian Yang. Scribble-Supervised Semantic Segmentation Inference
+
+Constantin Seibold,Jens Kleesiek,Heinz-Peter Schlemmer,Rainer Stiefelhagen. Self-guided Multiple Instance Learning for Weakly Supervised Disease Classification and Localization in Chest Radiographs
+
+Lian Xu,Mohammed Bennamoun,Farid Boussaïd,Ferdous Sohel. Scale-aware feature network for weakly supervised semantic segmentation
+
+Tianfei Zhou,Meijie Zhang,Fang Zhao,Jianwu Li. Regional semantic contrast and aggregation for weakly supervised semantic segmentation
+
+Qing Liu,Vignesh Ramanathan,Dhruv Mahajan,Alan L. Yuille,Zhenheng Yang. Weakly supervised instance segmentation for videos with temporal mask consistency
+
+Haozhe Liu,Haoqian Wu,Weicheng Xie,Feng Liu,Linlin Shen. Group-wise Inhibition based Feature Regularization for Robust Classification
+
+Weide Liu,Xiangfei Kong,Tzu-Yi Hung,Guosheng Lin. Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation
+
+ A Highly Efficient Model to Study the Semantics of Salient Object Detection
+
+Sheng Yi,Huimin Ma,Xiang Wang,Tianyu Hu,Xi Li,Yu Wang. Weakly-supervised semantic segmentation with superpixel guided local and global consistency
+
+Aya Abdelsalam Ismail,Héctor Corrada Bravo,Soheil Feizi. Improving Deep Learning Interpretability by Saliency Guided Training
+
+Chaohao Xie,Dongwei Ren,Lei Wang,Qinghua Hu,Liang Lin,Wangmeng Zuo. Learning class-agnostic pseudo mask generation for box-supervised semantic segmentation
+
+Mingsi Tong,Wencong Li,Xinyang Ren,Xinghu Yu,Weiyang Lin. Weakly-supervised semantic segmentation with regional location cutting and dynamic credible regions correction
+
+Tianfei Zhou,Liulei Li,Xueyi Li,Chun-Mei Feng,Jianwu Li,Ling Shao. Group-Wise Learning for Weakly Supervised Semantic Segmentation
+
+Daniel R. Vilar,Claudio A. Perez. Extracting Structured Supervision From Captions for Weakly Supervised Semantic Segmentation
+
+Lixiang Ru,Bo Du,Yibing Zhan,Chen Wu. Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling
+
+Fabio Cermelli,Dario Fontanel,Antonio Tavera,Marco Ciccone,Barbara Caputo. Incremental Learning in Semantic Segmentation from Image Labels
+
+Junwen Pan,Pengfei Zhu,Kaihua Zhang,Bing Cao,Yu Wang,Dingwen Zhang,Junwei Han,Qinghua Hu. Learning Self-supervised Low-Rank Network for Single-Stage Weakly and Semi-supervised Semantic Segmentation
+
+Jiaruo Yu,Yongxin Ge,Xiaolei Qin,Ziqiang Li,Sheng Huang,Feiyu Chen. Deep feature enhancing and selecting network for weakly supervised temporal action localization
+
+Jinheng Xie,Jianfeng Xiang,Junliang Chen,Xianxu Hou,Xiaodong Zhao,Linlin Shen. Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation
+
+ Weakly supervised semantic segmentation of airborne laser scanning point clouds
+
+ Foreground Mining via Contrastive Guidance for Weakly Supervised Object Localization
+
+Ye Du,Zehua Fu,Qingjie Liu,Yunhong Wang. Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast
+
+Yannis Avrithis. Exploring and Learning from Visual Data
+
+Jungbeom Lee,Eunji Kim,Jisoo Mok,Sungroh Yoon. Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization
+
+Wataru Shimoda,Keiji Yanai. Self-supervised Difference Detection for Refinement CRF and Seed Interpolation.
+
+Zhengyi Liu,Kaixun Wang,Hao Dong,Yuan Wang. A cross-modal edge-guided salient object detection for RGB-D image
+
+Weixuan Sun,Jing Zhang,Nick Barnes. Inferring the Class Conditional Response Map for Weakly Supervised Semantic Segmentation
+
+Bairong Li,Yuesheng Zhu,Ruixin Liu,Zhenyu Weng. Learning frame-level affinity with video-level labels for weakly supervised temporal action detection
+
+Jiarong Ou,Shule Deng,Jin-Gang Yu. WS-RCNN: Learning to Score Proposals for Weakly Supervised Instance Segmentation
+
+Arvi Jonnarth,Michael Felsberg,Yushan Zhang. Activation-Based Sampling for Pixel-to Image-Level Aggregation in Weakly-Supervised Segmentation
+
+Chenshu Chen,Tao Liu,Wenming Tan,Shiliang Pu. Mixed-Dual-Head Meets Box Priors: A Robust Framework for Semi-Supervised Segmentation
+
+Jie Qin,Jie Wu,Xuefeng Xiao,Lujun Li,Xingang Wang. Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation
+
+Sung-Hoon Yoon,Hyeokjun Kweon,Jaeseok Jeong,Hyeonseong Kim,Shinjeong Kim,Kuk-Jin Yoon. Exploring Pixel-level Self-supervision for Weakly Supervised Semantic Segmentation
+
+ Class-related graph convolution for weakly supervised semantic segmentation
+
+Xiao-Bo Jin,Kaizhu Huang,Jianyu Miao. Beyond Attributes: Adversarial Erasing Embedding Network for Zero-shot Learning
+
+Xiangrong Zhang,Zelin Peng,Peng Zhu,Tianyang Zhang,Chen Li,Huiyu Zhou,Licheng Jiao. Adaptive Affinity Loss and Erroneous Pseudo-Label Refinement for Weakly Supervised Semantic Segmentation
+
+Jingwei Zhang,Ke Ma,John S. Van Arnam,Rajarsi Gupta,Joel H. Saltz,Maria Vakalopoulou,Dimitris Samaras. A Joint Spatial and Magnification Based Attention Framework for Large Scale Histopathology Classification
+
+Minhyun Lee,Dongseob Kim,Hyunjung Shim. Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds
+
+Dingwen Zhang,Wenyuan Zeng,Guangyu Guo,Chaowei Fang,Lechao Cheng,Junwei Han. Weakly Supervised Semantic Segmentation via Alternative Self-Dual Teaching
+
+Lian Xu,Wanli Ouyang,Mohammed Bennamoun,Farid Boussaïd,Dan Xu. Multi-class Token Transformer for Weakly Supervised Semantic Segmentation
+
+Guoying Sun,Meng Yang,Wenfeng Luo. Adversarial Decoupling for Weakly Supervised Semantic Segmentation
+
+Meng Meng,Tianzhu Zhang,Wenfei Yang,Jian Zhao,Yongdong Zhang,Feng Wu. Diverse Complementary Part Mining for Weakly Supervised Object Localization
+
+Qi Chen,Lingxiao Yang,Jianhuang Lai,Xiaohua Xie. Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation
+
+Senbo Yan,Xiaowen Song,Chuer Yu. SDCNet: Size Divide and Conquer Network for Salient Object Detection
+
+ Prior knowledge guided weakly supervised object detection and semantic segmentation
+
+Xinyue Fan,Yang Lin,Chaoxi Zhang,Jia Zhang. Self-Erasing Network for Person Re-Identification
+
+Ruiwen Li,Zheda Mai,Chiheb Trabelsi,Zhibo Zhang,Jongseong Jang,Scott Sanner. TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation
+
+Ioannis Kakogeorgiou,Spyros Gidaris,Bill Psomas,Yannis Avrithis,Andrei Bursuc,Konstantinos Karantzalos,Nikos Komodakis. What to Hide from Your Students: Attention-Guided Masked Image Modeling
+
+Constantin Seibold,Jens Kleesiek,Heinz-Peter Schlemmer,Rainer Stiefelhagen. Self-Guided Multiple Instance Learning for Weakly Supervised Disease Classification and Localization in Chest Radiographs
+
+ Expanded Edge Penalty Loss for Salient Object Detection
+
+Xue Zhang,Zheng Wang,Qinghua Hu,Jinchang Ren,Meijun Sun. Boundary-aware High-resolution Network with region enhancement for salient object detection
+
+Yuxing Huang,Qiu Shen,Ying Fu,Shaodi You. Weakly-supervised Semantic Segmentation in Cityscape via Hyperspectral Image
+
+ End-to-End Weakly Supervised Semantic Segmentation with Reliable Region Mining
+
+Jinheng Xie,Xianxu Hou,Kai Ye,Linlin Shen. Cross Language Image Matching for Weakly Supervised Semantic Segmentation
+
+ Semantic segmentation with less annotation efforts
+
+Ruiheng Chang,Dong Wang,Haiyan Guo,Jia Ding,Liwei Wang. Weakly-Supervised Ultrasound Video Segmentation with Minimal Annotations
+
+Zhaozheng Chen,Tan Wang,Xiongwei Wu,Xian-Sheng Hua,Hanwang Zhang,Qianru Sun. Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation
+
+ Scale-aware Attention Network for Weakly Supervised Semantic Segmentation
+
+ Segmentación semántica con supervisión débil utilizando descripciones en lenguaje natural
+

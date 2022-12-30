@@ -1,0 +1,122 @@
+[1]Wang Jingdong, Sun Ke, Cheng Tianheng, Jiang Borui, Deng Chaorui, Zhao Yang, Liu Dong, Mu Yadong, Tan Mingkui, Wang Xinggang, others. Deep high-resolution representation learning for visual recognition. IEEE transactions on pattern analysis and machine intelligence, 2020
+[2]Yuan Yuhui, Chen Xilin, Wang Jingdong. Object-contextual representations for semantic segmentation. European conference on computer vision, 2020
+[3]Sun Ke, Zhao Yang, Jiang Borui, Cheng Tianheng, Xiao Bin, Liu Dong, Mu Yadong, Wang Xinggang, Liu Wenyu, Wang Jingdong. High-resolution representations for labeling pixels and regions. arXiv preprint arXiv:1904.04514, 2019
+[4]Guo Jianyuan, Yuan Yuhui, Huang Lang, Zhang Chao, Yao Jin-Ge, Han Kai. Beyond human parts: Dual part-aligned representations for person re-identification. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019
+[5]He Lingxiao, Wang Yinggang, Liu Wu, Zhao He, Sun Zhenan, Feng Jiashi. Foreground-aware pyramid reconstruction for alignment-free occluded person re-identification. Proceedings of the IEEE/CVF international conference on computer vision, 2019
+[6]Wang Wenguan, Zhang Zhijie, Qi Siyuan, Shen Jianbing, Pang Yanwei, Shao Ling. Learning compositional neural information fusion for human parsing. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019
+[7]Yuan Yuhui, Xie Jingyi, Chen Xilin, Wang Jingdong. Segfix: Model-agnostic boundary refinement for segmentation. European Conference on Computer Vision, 2020
+[8]Yang Lu, Song Qing, Wang Zhihui, Jiang Ming. Parsing r-cnn for instance-level human analysis. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019
+[9]Huang Lang, Yuan Yuhui, Guo Jianyuan, Zhang Chao, Chen Xilin, Wang Jingdong. Interlaced sparse self-attention for semantic segmentation. arXiv preprint arXiv:1907.12273, 2019
+[10]Wang Wenguan, Zhu Hailong, Dai Jifeng, Pang Yanwei, Shen Jianbing, Shao Ling. Hierarchical human parsing with typed part-relation reasoning. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[11]Cheng Wen-Huang, Song Sijie, Chen Chieh-Yun, Hidayati Shintami Chusnul, Liu Jiaying. Fashion meets computer vision: A survey. ACM Computing Surveys (CSUR), 2021
+[12]Kang Wenchao, Xiang Yuming, Wang Feng, You Hongjian. EU-net: An efficient fully convolutional network for building extraction from optical remote sensing images. Remote Sensing, 2019
+[13]Bin Yanrui, Cao Xuan, Chen Xinya, Ge Yanhao, Tai Ying, Wang Chengjie, Li Jilin, Huang Feiyue, Gao Changxin, Sang Nong. Adversarial semantic data augmentation for human pose estimation. European Conference on Computer Vision, 2020
+[14]Liu Xinchen, Zhang Meng, Liu Wu, Song Jingkuan, Mei Tao. Braidnet: Braiding semantics and details for accurate human parsing. Proceedings of the 27th ACM International Conference on Multimedia, 2019
+[15]Liu Yinglu, Shi Hailin, Shen Hao, Si Yue, Wang Xiaobo, Mei Tao. A new dataset and boundary-attention semantic segmentation for face parsing. Proceedings of the AAAI Conference on Artificial Intelligence, 2020
+[16]Zhang Ziwei, Su Chi, Zheng Liang, Xie Xiaodong. Correlating edge, pose with parsing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[17]Te Gusi, Liu Yinglu, Hu Wei, Shi Hailin, Mei Tao. Edge-aware graph representation learning and reasoning for face parsing. European Conference on Computer Vision, 2020
+[18]Yuan Yuhui, Huang Lang, Guo Jianyuan, Zhang Chao, Chen Xilin, Wang Jingdong. OCNet: Object context for semantic segmentation. International Journal of Computer Vision, 2021
+[19]Li Tao, Liang Zhiyuan, Zhao Sanyuan, Gong Jiahao, Shen Jianbing. Self-learning with rectification strategy for human parsing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[20]He Haoyu, Zhang Jing, Zhang Qiming, Tao Dacheng. Grapy-ML: Graph pyramid mutual learning for cross-dataset human parsing. Proceedings of the AAAI Conference on Artificial Intelligence, 2020
+[21]Yang Lu, Song Qing, Wang Zhihui, Hu Mengjie, Liu Chun, Xin Xueshi, Jia Wenhe, Xu Songcen. Renovating parsing R-CNN for accurate multiple human parsing. European Conference on Computer Vision, 2020
+[22]Ji Ruyi, Du Dawei, Zhang Libo, Wen Longyin, Wu Yanjun, Zhao Chen, Huang Feiyue, Lyu Siwei. Learning semantic neural tree for human parsing. European Conference on Computer Vision, 2020
+[23]Li Peike, Dong Xuanyi, Yu Xin, Yang Yi. When Humans Meet Machines: Towards Efficient Segmentation Networks.. BMVC, 2020
+[24]Das Arnesh, Song Yu, Mantellato Sara, Wangler Timothy, Flatt Robert J, Lange David A. Influence of pumping/extrusion on the air-void system of 3D printed concrete. RILEM International Conference on Concrete and Digital Fabrication, 2020
+[25]Zhang Xiaomei, Chen Yingying, Zhu Bingke, Wang Jinqiao, Tang Ming. Part-aware context network for human parsing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+[26]Huang Tengteng, Xu Yongchao, Bai Song, Wang Yongpan, Bai Xiang. Feature context learning for human parsing. Science China Information Sciences, 2019
+[27]Yuan Yuhui, Chen Xiaokang, Chen Xilin, Wang Jingdong. Segmentation transformer: Object-contextual representations for semantic segmentation. arXiv preprint arXiv:1909.11065, 2019
+[28]Luo Ling, Xue Dingyu, Feng Xinglong. Ehanet: An effective hierarchical aggregation network for face parsing. Applied Sciences, 2020
+[29]Yu Li, Zhong Yueqi, Wang Xin. Inpainting-based virtual try-on network for selective garment transfer. IEEE Access, 2019
+[30]Gao Chen, Liu Si, He Ran, Yan Shuicheng, Li Bo. Recapture as you want. arXiv preprint arXiv:2006.01435, 2020
+[31]Jin Xin, Lan Cuiling, Zeng Wenjun, Zhang Zhizheng, Chen Zhibo. CASINet: Content-adaptive scale interaction networks for scene parsing. Neurocomputing, 2021
+[32]Wang Chi, Zhang Yunke, Cui Miaomiao, Liu Jinlin, Ren Peiran, Yang Yin, Xie Xuansong, Hua XianSheng, Bao Hujun, Xu Weiwei. Active boundary loss for semantic segmentation. arXiv preprint arXiv:2102.02696, 2021
+[33]Li Yuan, Wang Xinggang, Liu Wenyu, Feng Bin. Pose anchor: A single-stage hand keypoint detection network. IEEE Transactions on Circuits and Systems for Video Technology, 2019
+[34]Zhang Jinjing, Zeng Jianchao, Qin Pinle, Zhao Lijun. Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets. Neurocomputing, 2021
+[35]Liu Yifan, Zhu Qigang, Cao Feng, Chen Junke, Lu Gang. High-resolution remote sensing image segmentation framework based on attention mechanism and adaptive weighting. ISPRS International Journal of Geo-Information, 2021
+[36]Qin15 Haifang, Hong25 Weixiang, Hung Wei-Chih, Tsai Yi-Hsuan, Yang35 Ming-Hsuan. A top-down unified framework for instance-level human parsing. NULL, 2019
+[37]Zhang Xiaomei, Chen Yingying, Zhu Bingke, Wang Jinqiao, Tang Ming. Semantic-spatial fusion network for human parsing. Neurocomputing, 2020
+[38]Zhao Ruilin, Xue Yanbing, Cai Jing, Gao Zan. Parsing human image by fusing semantic and spatial features: A deep learning approach. Information Processing \& Management, 2020
+[39]Liu Yunan, Zhao Liang, Zhang Shanshan, Yang Jian. Hybrid resolution network using edge guided region mutual information loss for human parsing. Proceedings of the 28th ACM International Conference on Multimedia, 2020
+[40]Abdel-Nasser Mohamed, Saleh Adel, Puig Domenec. Channel-wise Aggregation with Self-correction Mechanism for Multi-center Multi-Organ Nuclei Segmentation in Whole Slide Imaging.. VISIGRAPP (4: VISAPP), 2020
+[41]Zhou Tianfei, Wang Wenguan, Liu Si, Yang Yi, Van Gool Luc. Differentiable multi-granularity human representation learning for instance-aware human semantic parsing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[42]He Haoyu, Zhang Jing, Thuraisingham Bhavani, Tao Dacheng. Progressive one-shot human parsing. Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+[43]Naha Shujon, Xiao Qingyang, Banik Prianka, Reza Md Alimoor, Crandall David J. Pose-guided knowledge transfer for object part segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2020
+[44]de Geus Daan, Meletis Panagiotis, Lu Chenyang, Wen Xiaoxiao, Dubbelman Gijs. Part-aware panoptic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[45]Chen Peixian, Liu Wenfeng, Dai Pingyang, Liu Jianzhuang, Ye Qixiang, Xu Mingliang, Chen Qi’an, Ji Rongrong. Occlude them all: Occlusion-aware attention network for occluded person re-id. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[46]Pfeiffer Kilian, Hermans Alexander, "S{\\a". Visual person understanding through multi-task and multi-dataset learning. German Conference on Pattern Recognition, 2019
+[47]Yang Lu, Song Qing, Wang Zhihui, Hu Mengjie, Liu Chun. Hier R-CNN: Instance-level human parts detection and a new benchmark. IEEE Transactions on Image Processing, 2020
+[48]Te Gusi, Hu Wei, Liu Yinglu, Shi Hailin, Mei Tao. Agrnet: Adaptive graph representation learning and reasoning for face parsing. IEEE Transactions on Image Processing, 2021
+[49]Jin Zhenchao, Gong Tao, Yu Dongdong, Chu Qi, Wang Jian, Wang Changhu, Shao Jie. Mining contextual information beyond image for semantic segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[50]Huang Enbo, Su Zhuo, Zhou Fan. Tao: a trilateral awareness operation for human parsing. 2020 IEEE International Conference on Multimedia and Expo (ICME), 2020
+[51]Liu Jinde, Zhang Zhang, Shan Caifeng, Tan Tieniu. Kinematic skeleton graph augmented network for human parsing. Neurocomputing, 2020
+[52]Zhang Sanyi, Qi Guo-Jun, Cao Xiaochun, Song Zhanjie, Zhou Jie. Human parsing with pyramidical gather-excite context. IEEE Transactions on Circuits and Systems for Video Technology, 2020
+[53]Jin Zhenchao, Liu Bin, Chu Qi, Yu Nenghai. ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[54]Zhang Xiaomei, Chen Yingying, Zhu Bingke, Wang Jinqiao, Tang Ming. Blended grammar network for human parsing. European Conference on Computer Vision, 2020
+[55]Zhao Zibo, Liu Wen, Xu Yanyu, Chen Xianing, Luo Weixin, Jin Lei, Zhu Bohui, Liu Tong, Zhao Binqiang, Gao Shenghua. Prior based human completion. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021
+[56]Huang Xi, Wu Keyu, Hu Gang, Shao Jie. Multi-class human body parsing with edge-enhancement network. International Conference on Neural Information Processing, 2019
+[57]Xu Mengmeng, Bai Yancheng, Qu Sally Sisi, Ghanem Bernard. Semantic Part RCNN for Real-World Pedestrian Detection.. CVPR Workshops, 2019
+[58]Yang Lu, Song Qing, Wang Zhihui, Liu Zhiwei, Xu Songcen, Li Zhihao. Quality-Aware Network for Human Parsing. arXiv preprint arXiv:2103.05997, 2021
+[59]Kviatkovsky Igor, Bhonker Nadav, Medioni Gerard. From real to synthetic and back: Synthesizing training data for multi-person scene understanding. arXiv preprint arXiv:2006.02110, 2020
+[60]Hassan Loay, Saleh Adel, Abdel-Nasser Mohamed, Omer Osama A, Puig Domenec. Promising Deep Semantic Nuclei Segmentation Models for Multi-Institutional Histopathology Images of Different Organs.. International Journal of Interactive Multimedia \& Artificial Intelligence, 2021
+[61]Zhang Chuang, Lu Yu, Feng Muyan, Wu Ming. Trucker behavior security surveillance based on human parsing. IEEE Access, 2019
+[62]Yan Min, Zhang Guoshan, Zhang Tong, Zhang Yueming. Nondiscriminatory Treatment: a straightforward framework for multi-human parsing. Neurocomputing, 2021
+[63]Wang Zhuoying, Wang Yongtao, Tang Zhi, Li Yangyan, Chen Ying, Ling Haibin, Lin Weisi. Gsto: Gated scale-transfer operation for multi-scale feature learning in pixel labeling. arXiv preprint arXiv:2005.13363, 2020
+[64]Zhang Ruru, He Jiawen, Shi Shenda, E Haihong, Ou Zhonghong, Song Meina. BMM-Net: automatic segmentation of edema in optical coherence tomography based on boundary detection and multi-scale network. Proceedings of the ACM Conference on Health, Inference, and Learning, 2020
+[65]Li Yaoyu, Yao Hantao, Zhang Tianzhu, Xu Changsheng. Part-based structured representation learning for person re-identification. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020
+[66]Zeng Dan, Huang Yuhang, Bao Qian, Zhang Junjie, Su Chi, Liu Wu. Neural Architecture Search for Joint Human Parsing and Pose Estimation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[67]Zhu Fangrui, Zhu Yi, Zhang Li, Wu Chongruo, Fu Yanwei, Li Mu. A Unified Efficient Pyramid Transformer for Semantic Segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021
+[68]Cao Xuan, Ge Yanhao, Tai Ying, Zhang Wei, Li Jian, Wang Chengjie, Li Jilin, Huang Feiyue. Anti-Confusing: Region-Aware Network for Human Pose Estimation. arXiv preprint arXiv:1905.00996, 2019
+[69]Huang Enbo, Su Zhuo, Zhou Fan, Wang Ruomei. Learning rebalanced human parsing model from imbalanced datasets. Image and Vision Computing, 2020
+[70]Yu Wing-Yin, Po Lai-Man, Zhao Yuzhi, Zhang Yujia, Lau Kin-Wai. FEANet: Foreground-edge-aware network with DenseASPOC for human parsing. Image and Vision Computing, 2021
+[71]邵杰, 黄茜, 曹坤涛. 基于深度学习的人体解析研究综述. 电子科技大学学报, 2019
+[72]Zhang Xinyan, Wang Yunfeng, Xiong Pengfei. Affinity-aware Compression and Expansion Network for Human Parsing. arXiv preprint arXiv:2008.10191, 2020
+[73]Zhang Jinjing, Zhao Lijun, Zeng Jianchao, Qin Pinle, Wang Yanbo, Yu Xiaoqing. Deep MRI glioma segmentation via multiple guidances and hybrid enhanced-gradient cross-entropy loss. Expert Systems with Applications, 2022
+[74]Terreran Matteo, Barcellona Leonardo, Evangelista Daniele, Ghidoni Stefano. Multi-view Human Parsing for Human-Robot Collaboration. 2021 20th International Conference on Advanced Robotics (ICAR), 2021
+[75]Wang Chunxu, Xu Benzhu, Zhang Gaofeng. A Novel Human Parsing Method Driven by Multi-Scale Feature Blend Network. 2021 4th International Conference on Robot Systems and Applications, 2021
+[76]Yan Min, Zhang Guoshan, Zhang Tong, Zhang Yueming. Multi-human Parsing Based on Dynamic Convolution. 2021 40th Chinese Control Conference (CCC), 2021
+[77]Yin Jiayi, Liu Weibin, Xing Weiwei, Xiao Yuan. Class-level Aware Network for Human Parsing. 2021 2nd International Conference on Computing, Networks and Internet of Things, 2021
+[78]Liu Kunliang, Choi Ouk, Wang Jianming, Hwang Wonjun. CDGNet: Class Distribution Guided Network for Human Parsing. arXiv preprint arXiv:2111.14173, 2021
+[79]Liu Zikun, Li Chunyang, Liu Yinglu, Lian Zifeng, Wu Yihong. Classification Assisted Segmentation Network for Human Parsing. 2019 IEEE International Conference on Image Processing (ICIP), 2019
+[80]Zhang Xiaomei, Chen Yingying, Tang Ming, Wang Jinqiao, Zhu Xiangyu, Lei Zhen. Human Parsing with Part-aware Relation Modeling. IEEE Transactions on Multimedia, 2022
+[81]Su Zhuo, Chen Minshi, Huang Enbo, Lin Ge, Zhou Fan. MVSN: A Multi-view stack network for human parsing. Neurocomputing, 2021
+[82]Ghodhbani Hajer, Alimi Adel, Neji Mohamed. Image-Based Virtual Try-on System: A Survey of Deep Learning-Based Methods. NULL, 2021
+[83]Zhou Fan, Huang Enbo, Su Zhuo, Wang Ruomei. Multiscale Meets Spatial Awareness: An Efficient Attention Guidance Network for Human Parsing. Mathematical Problems in Engineering, 2020
+[84]Ghodhbani Hajer, Neji Mohamed, Razzak Imran, Alimi Adel M. You can try without visiting: a comprehensive survey on virtually try-on outfits. Multimedia Tools and Applications, 2022
+[85]Zhou Yanghong, Mok PY, Zhou Shijie. A Part-Based Deep Neural Network Cascade Model for Human Parsing. IEEE Access, 2019
+[86]Cheng Jingchun, Yuan Yuhui, Li Yali, Wang Jingdong, Wang Shengjin. Learning to Segment Video Object With Accurate Boundaries. IEEE Transactions on Multimedia, 2020
+[87]Wan Jerome, Mougeot Guillaume, Yang Xubo. Dense feature pyramid network for cartoon dog parsing. The Visual Computer, 2020
+[88]Mameli Marco, Paolanti Marina, Pietrini Rocco, Pazzaglia Giulia, Frontoni Emanuele, Zingaretti Primo. Deep Learning approaches for Fashion Knowledge Extraction from Social Media: a review. IEEE Access, 2021
+[89]Moghaddam Mahnaz, Charmi Mostafa, Hassanpoor Hossein. Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets. IET Image Processing, 2021
+[90]Hao Huaqing, Liu Weibin, Xing Weiwei, Zhang Shunli. Multilabel learning based adaptive graph convolutional network for human parsing. Pattern Recognition, 2022
+[91]Chen G, Lu J, Yang M, Zhou J, Liu T, Wei Y, Zhao Y, Liu S, Wei S, Bao W, others. Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval............. NULL, NULL
+[92]Xu Shilin, Li Xiangtai, Wang Jingbo, Cheng Guangliang, Tong Yunhai, Tao Dacheng. Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition. arXiv preprint arXiv:2204.04654, 2022
+[93]He Haoyu, Zhang Jing, Zhuang Bohan, Cai Jianfei, Tao Dacheng. End-to-end One-shot Human Parsing. arXiv preprint arXiv:2105.01241, 2021
+[94]Naha Shujon, Xiao Qingyang, Banik Prianka, Reza Md, Crandall David J, others. Part Segmentation of Unseen Objects using Keypoint Guidance. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2021
+[95]Bang Seungbae, Korosteleva Maria, Lee Sung-Hee. Estimating Garment Patterns from Static Scan Data. Computer Graphics Forum, 2021
+[96]Liu Yunan, Zhang Shanshan, Yang Jian, Yuen PongChi. Hierarchical Information Passing Based Noise-Tolerant Hybrid Learning for Semi-Supervised Human Parsing. Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+[97]Lu Shufang, Lu Funan, Shou Xufeng, Zhu Shuaiyin. DeepProfile: Accurate Under-the-Clothes Body Profile Estimation. Applied Sciences, 2022
+[98]Chong Toby, Shen I-Chao, Umetani Nobuyuki, Igarashi Takeo. Per Garment Capture and Synthesis for Real-time Virtual Try-on. The 34th Annual ACM Symposium on User Interface Software and Technology, 2021
+[99]Huang Xi, He Chengkun, Shao Jie. Attention-guided Progressive Partition Network for Human Parsing. 2021 International Joint Conference on Neural Networks (IJCNN), 2021
+[100]Ma Lei, Wang Jian, Shao Jie, Zhang Liqing. Human Parsing with Edge Enhancement. 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2021
+[101]Hao Huaqing, Liu Weibin, Xing Weiwei. Context Prior based Semantic-Spatial Graph Network for Human Parsing. Neurocomputing, 2021
+[102]Mao Aihua, Liang Yuan, Jiao Jianbo, Liu Yongtuo, He Shengfeng. Mask-Guided Deformation Adaptive Network for Human Parsing. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022
+[103]Loesch Angelique, Audigier Romaric. Describe me if you can! Characterized instance-level human parsing. 2021 IEEE International Conference on Image Processing (ICIP), 2021
+[104]Du Shuncheng, Wang Yigang, Wu Zizhao. Multi-human Parsing with Pose and Boundary Guidance. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020
+[105]Huang Peiliang, Han Junwei, Zhang Dingwen, Xu Mingliang. CLRNet: Component-Level Refinement Network for Deep Face Parsing. IEEE Transactions on Neural Networks and Learning Systems, 2021
+[106]Chen Haoming, Feng Runyang, Wu Sifan, Xu Hao, Zhou Fengcheng, Liu Zhenguang. 2D Human Pose Estimation: A Survey. arXiv preprint arXiv:2204.07370, 2022
+[107]Hassan Loay, Saleh Adel, Abdel-Nasser Mohamed, Omer Osama A, Puig Domenec. Efficient Multi-Organ Multi-Center Cell Nuclei Segmentation Method Based on Deep Learnable Aggregation Network.. Traitement du Signal, 2021
+[108]Yang Beibei, Yu Changqian, Liu Jiahui, Gao Changxin, Sang Nong. Graph-Based Scale-Aware Network for Human Parsing. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2019
+[109]Yuan Yuhui, Xie Jingyi, Chen Xilin, Wang Jingdong. Supplementary for “SegFix: Model-Agnostic Boundary Refinement for Segmentation”. NULL, NULL
+[110]Qiang Yong, Zhou Quan, Shi Huiming, Jin Xin, Ou Weihua, Latecki Longin Jan. BASNet: improving semantic segmentation via boundary-assistant symmetrical network. International Symposium on Artificial Intelligence and Robotics 2021, 2021
+[111]Wang Haiying, Miao Fang. Building extraction from remote sensing images using deep residual U-Net. European Journal of Remote Sensing, 2022
+[112]Li Minglong, Shan Lianlei, Li Xiaobin, Bai Yang, Zhou Dengji, Wang Weiqiang, Lv Ke, Luo Bin, Chen Si-Bao. Global-Local Attention Network for Semantic Segmentation in Aerial Images. 2020 25th International Conference on Pattern Recognition (ICPR), 2021
+[113]Li Liulei, Zhou Tianfei, Wang Wenguan, Li Jianwu, Yang Yi. Deep Hierarchical Semantic Segmentation. arXiv preprint arXiv:2203.14335, 2022
+[114]Zhang Ziwei, Su Chi, Zheng Liang, Xie Xiaodong, Li Yuan. On the Correlation among Edge, Pose and Parsing. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+[115]Li Baoxing, Zhao Xu. Human Carving: A Parsing-Based Framework For 3d Human Reconstruction. 2021 IEEE International Conference on Image Processing (ICIP), 2021
+[116]Wang Zhuoying, Wang Yongtao, Tang Zhi, Li Yangyan, Chen Ying, Ling Haibin, Lin Weisi. GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Semantic Segmentation. 2020 25th International Conference on Pattern Recognition (ICPR), 2021
+[117]Mohammadi Seyed Omid, Kalhor Ahmad. Smart Fashion: A Review of AI Applications in the Fashion \& Apparel Industry. arXiv preprint arXiv:2111.00905, 2021
+[118]Yang Beibei, Yu Changqian, Yu Jin-Gang, Gao Changxin, Sang Nong. Pose-Guided Hierarchical Semantic Decomposition and Composition for Human Parsing. IEEE Transactions on Cybernetics, 2021
+[119]Chen Lifang, Yu Enting, Cong Honglian. Feature fusion network for clothing parsing. International Journal of Machine Learning and Cybernetics, 2022
+[120]Wu Di, Gan Jianhou, Zou Wei. Fine-Grained Semantic Segmentation of National Costume Grayscale Image Based on Human Parsing. International Conference on Data Mining and Big Data, 2021
+[121]Zheng Qingping, Deng Jiankang, Zhu Zheng, Li Ying, Zafeiriou Stefanos. Decoupled Multi-task Learning with Cyclical Self-Regulation for Face Parsing. arXiv preprint arXiv:2203.14448, 2022
+[122]胡莉娜, 高盛华. 基于层次化标签的人体解析. NULL, 2020
