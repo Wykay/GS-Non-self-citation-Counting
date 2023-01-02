@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 #流程：  先按github指示配置config.json里面的scholar_id和 chromedriver.exe在系统的路径
 
-删除data文件夹下的 articles_id_0.json 文件
+删除data文件夹下的 articles_id_0.json 文件（在每次执行02后产生，记录的为爬取文章的作者的所有论文信息）
 
 再依次执行01_ 02_ 03_ 04_05_06_的 py 文件，其中02_ ，04_，05_开头需要指定哪篇论文
 
