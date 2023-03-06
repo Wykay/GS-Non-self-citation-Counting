@@ -27,13 +27,13 @@ Install Google Chrome driver according to your Chrome version， modify these in
 ## Procedure
 
 
-remove data/articles_id_0.json （a file recording the info of citing list）
+Remove data/articles_id_0.json （a file recording the info of citing list）
 
-specifiy which paper is to be counted at the beginning of 02_ ，04_，05_ 
+Specifiy which paper is to be counted at the beginning of 02_ ，04_，05_ 
 
-run scripts 01_ 02_ 03_ 04_05_06_ in order
+Run scripts 01_ 02_ 03_ 04_05_06_ in order
 
-run 08_ and the number of IEEE fellows will be printed.
+Run 08_ and the number of IEEE fellows will be printed.
 
 ## Result
 
