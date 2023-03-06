@@ -9,32 +9,33 @@ This program is based on https://github.com/rpSebastian/gs-cite-fellow . Thanks 
 * The name of author in the citing article is the same as the counted one's.
 * DBLP(https://dblp.org) doesn't include some papers' info, but the author lists of all papers are crawled from it.
 * The IEEE Fellow list in fellow is not accurate.
-* Google Scholar 只显示引用列表里的1000个结果，对于引用数超过1000的文章统计会出错
+* Google Scholar only show 1000 citing papers, so for those whose citing times is grater than 1000, the result may be inaccurate.
 
-## 安装
+## Installation
 
 ```
 pip install -r requirements.txt
 ```
 
-## 配置
+## Configuration
 
-安装与chrome版本匹配的Google Chrome driver， 将以下信息添加到 config.json ``.
+Install Google Chrome driver according to your Chrome version， modify these in config.json ``.
 
 * ``scholar_id``. The scholar's Google Scholar Id, which can be found in the URL of the scholar's Google Scholar home page.
 * ``driver_path``. The address of the Google Chrome driver, which must be the same version as Google Chrome. It can be downloaded from the internet.
 
-## 执行过程
+## Procedure
 
-#流程：  先按github指示配置config.json里面的scholar_id和 chromedriver.exe在系统的路径
 
-删除data文件夹下的 articles_id_0.json 文件（在每次执行02后产生，记录的为爬取文章的作者的所有论文信息）
+remove data/articles_id_0.json （a file recording the info of citing list）
 
-再依次执行01_ 02_ 03_ 04_05_06_的 py 文件，其中02_ ，04_，05_开头需要指定哪篇论文
+specifiy which paper is to be counted at the beginning of 02_ ，04_，05_ 
 
-最后执行08_ 会在命令行输出 fellow 数量
+run scripts 01_ 02_ 03_ 04_05_06_ in order
 
-## 结果
+run 08_ and the number of IEEE fellows will be printed.
+
+## Result
 
 * result.txt
 
