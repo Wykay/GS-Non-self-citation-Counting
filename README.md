@@ -1,14 +1,14 @@
-# Google Scholar 文章他引数量统计
+# Google Scholar Non-self Citation Counting
 
-本程序用于对Google Scholar 上指定的一篇文章统计其引用里的他引文章数量，并输出这些他引文章的名称、作者列表、年份、发表位置至 result/result.txt 里，并在命令行输出所有他引文章中有多少个IEEE Fellow
+This program is designed to count the times that a specific paper on google scholar has been cited by other paper whose author list doesn't contain any author of the counted one (i.e. non-self citation list) . It would produce a txt file result/result.txt, containing the info including name, authors, year, publisher of the non-self citation papers, and print the number of IEEE Fellow in the command line.
 
-本程序基于https://github.com/rpSebastian/gs-cite-fellow 完成，十分感谢这位作者的工作！
+This program is based on https://github.com/rpSebastian/gs-cite-fellow . Thanks greatly to this author !
 
-## 会出错的一些情况
+## Some cases that the final result may be inaccurate
 
-* 引用文章的作者名字和爬取文章的作者名字相同
-* DBLP 网站没有收录到一些文章的信息，无法查询其作者，进而无法做他引判断
-* Fellow 名单不全
+* The name of author in the citing article is the same as the counted one's.
+* DBLP(https://dblp.org) doesn't include some papers' info, but the author lists of all papers are crawled from it.
+* The IEEE Fellow list in fellow is not accurate.
 * Google Scholar 只显示引用列表里的1000个结果，对于引用数超过1000的文章统计会出错
 
 ## 安装
