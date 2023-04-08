@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Install Google Chrome driver according to your Chrome version， modify these in config.json ``.
+Install Google Chrome driver according to your Chrome version， modify these in config.json.
 
 * ``scholar_id``. The scholar's Google Scholar Id, which can be found in the URL of the scholar's Google Scholar home page.
 * ``driver_path``. The address of the Google Chrome driver, which must be the same version as Google Chrome. It can be downloaded from the internet.
