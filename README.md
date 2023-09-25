@@ -2,7 +2,7 @@
 
 This program is designed to count the times that a specific paper on google scholar has been cited by other paper whose author list doesn't contain any author of the counted one (i.e. non-self citation list) . It would produce a txt file result/result.txt, containing the info including name, authors, year, publisher of the non-self citation papers, and print the number of IEEE Fellow in the command line.
 
-This program is based on https://github.com/rpSebastian/gs-cite-fellow . Thanks greatly to this author !
+This program is based on https://github.com/rpSebastian/gs-cite-fellow. Thanks greatly to this author!
 
 ## Some cases that the final result may be inaccurate
 
