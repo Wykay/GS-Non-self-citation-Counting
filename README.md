@@ -4,7 +4,7 @@ This program is designed to count the times that a specific paper on google scho
 
 This program is based on https://github.com/rpSebastian/gs-cite-fellow. Thanks greatly to this author!
 
-谷歌学术论文他引次数统计[中文简介](https://github.com/Wykay/GS-Non-self-citation-Counting/blob/main/README_CN.md)
+谷歌学术论文他引次数统计  [中文简介](https://github.com/Wykay/GS-Non-self-citation-Counting/blob/main/README_CN.md)
 ## Some cases that the final result may be inaccurate
 
 * The name of author in the citing article is the same as the counted one's.
