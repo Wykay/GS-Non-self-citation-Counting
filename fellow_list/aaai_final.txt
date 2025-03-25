@@ -1,0 +1,366 @@
+Maria-Florina (Nina) Balcan
+Mohit Bansal
+J. Christopher Beck
+Emma Brunskill
+Yixin Chen
+Ernest Davis
+Emilio Ferrara
+Yun Raymond Fu
+Gal Kaminka
+Kate Larson
+Karen Myers
+Sriraam Natarajan
+Roberto Navigli
+Balaraman Ravindran
+Hui Xiong
+Ming-Hsuan Yang
+Anima Anandkumar
+Claire Cardie
+Nitesh Chawla
+Cristina Conati
+Jennifer Dy
+Ariel Felner
+Kristian Kersting
+Mausam
+Ariel Procaccia
+Brian Scassellati
+Kilian Weinberger
+Jun Zhu
+Kristian Hammond
+Vipin Kumar
+Xuelong Li
+Deborah McGuinness
+Risto Miikkulainen
+Ana Paiva
+Ronald Parr
+Matthias Scheutz
+Csaba Szepesvàri
+Jie Tang
+Kiri Wagstaff
+Innderjit Dhillon
+Pascale Fung
+Kristina Lerman
+Barry O’Sullivan
+Lynne E. Parker
+Cynthia Rudin
+David Silver
+Mary-Anne Williams
+Peter Wurman
+Shuicheng Yan
+Michael Bowling
+Ashok Goel
+Malte Helmert
+Jörg Hoffmann
+Ayanna Howard
+Odest Chadwicke Jenkins
+Hiroaki Kitano
+Rada Mihalcea
+Antonio Torralba
+Holly Yanco
+Yoshua Bengio
+Cynthia Breazeal
+William T. Freeman
+Yann LeCun
+Radhika Nagpal
+Natasha Noy
+Martha Palmer
+Dragomir Radev
+Thomas Schiex
+Sylvie Thiébaux
+Vincent Conitzer
+Luc De Raedt
+Kristen Grauman
+Charles Isbell
+Huan Liu
+Jiebo Luo
+Peter Stuckey
+Nancy M. Amato
+Regina Barzilay
+Marie desJardins
+Kevin Leyton-Brown
+Dinesh Manocha
+Joelle Pineau
+Amit Sheth
+Gaurav S. Sukhatme
+Ronen I. Brafman
+Eduard H. Hovy
+Tommi S. Jaakkola
+Maurizio Lenzerini
+Fangzhen Lin
+Dale Eric Schuurmans
+Munindar P. Singh
+Giuseppe De Giacomo
+Daniel D. Lee
+Bing Liu
+Maja J. Matarić University of Southern California
+Eric Poe Xing
+Zhi-Hua Zhou
+Rama Chellappa
+Marco Dorigo
+Holger H. Hoos
+Adele E. Howe
+Thorsten Joachims
+Carla E. Brodley
+Jonathan Gratch
+Michael N. Huhns
+Kevin Knight
+James C. Lester
+Chih-Jen Lin
+Sridhar Mahadevan
+Mark Maybury
+David C. Parkes
+Bonnie Dorr
+Tim Finin
+Lise Getoor
+Sven Koenig
+Lillian Lee
+Gerald J. Tesauro
+Miroslaw Truszczynski
+Qiang Yang
+Murray S. Campbell
+Boi V. Faltings
+Yolanda Gil
+Peter F. Patel-Schneider
+Francesca Rossi
+Peter H. Stone
+Dieter Fox
+Robert C. Holte
+Sheila A. McIlraith
+Satinder Singh Baveja
+Makoto Yokoo
+Shlomo Zilberstein
+Pedro Domingos
+Nicholas R. Jennings
+Michael L. Littman
+Christopher D. Manning
+Bernhard Nebel
+Yoram Singer
+Padhraic Smyth
+Moshe Tennenholtz
+Wolfram Burgard
+William W. Cohen
+Andrew K. McCallum
+Jeffrey S. Rosenschein
+Dan Roth
+Daniela Rus
+Robert E. Schapire
+Venkatramanan Siva Subrahmanian
+Pascal R. Van Hentenryck
+Yoav S. Freund
+Maria L. Gini
+Lydia E. Kavraki
+Tuomas W. Sandholm
+Peter van Beek
+Toby Walsh
+Brian C. Williams
+Michael John Wooldridge
+Pierre F. Baldi
+Adnan Y. Darwiche
+Hector A Geffner
+Carla P. Gomes
+Russell Greiner
+Stephen F. Smith
+Milind Tambe
+Fahiem Bacchus
+Craig Boutilier
+Anthony G. Cohn
+Gregory F. Cooper
+Jude W. Shavlik
+Oliviero Stock
+Sebastian Thrun
+Usama M. Fayyad
+Raymond J. Mooney
+Andrew W. Moore
+David E. Smith
+Subbarao Kambhampati
+Craig A. Knoblock
+Daphne Koller
+Gérard G. Medioni
+Stuart M. Shieber
+Moshe Y. Vardi
+Oren Etzioni
+Scott E. Fahlman
+Michael Kearns
+Pradeep Khosla
+Michael Pazzani
+Reid Simmons
+Manuela Veloso
+Kevin D. Ashley
+Michael Gelfond
+Eric Horvitz
+Henry E. Kyburg
+Michael I. Jordan
+Sarit Kraus
+Stephen H. Muggleton
+Katia P. Sycara
+Edmund H. Durfee
+David Heckerman
+Peter Norvig
+Reid G. Smith
+Richard S. Sutton
+Michael Wellman
+Kenneth Ford
+W. Eric L. Grimson
+Leslie Pack Kaelbling
+David Poole
+Jonathan Schaeffer
+Bart Selman
+Harry G. Barrow
+James A. Hendler
+Daniel S. Weld
+George A. Bekey
+Steven Minton
+Yoav Shoham
+David E. Wilkins
+Henry A. Kautz
+Pat Langley
+Robert M. MacGregor
+David Allen McAllester
+Stuart Russell
+Piero P. Bonissone
+Dana S. Nau
+Martha E. Pollack
+Charles E. Thorpe
+Beverly P. Woolf
+Luigia Carlucci Aiello
+Eugene C. Freuder
+Michael P. Georgeff
+Matthew L. Ginsberg
+Kurt Konolige
+John E. Laird
+Douglas R. Smith
+Alan W. Biermann
+Thomas O. Binford
+Thomas L. Dean
+Rina Dechter
+Daniel C. Dennett
+Thomas Glen Dietterich
+John S. Gero
+Julia B. Hirschberg
+Jim Howe
+Philip Klahr
+Richard E. Korf
+Kathleen R. McKeown
+Jacques Pitrat
+Zenon W. Pylyshyn
+Paul S. Rosenbloom
+Stuart C. Shapiro
+Judith B. Bachant
+Robert Balzer
+Margaret A. Boden
+Paul R. Cohen
+Peter Friedland
+Cordell C. Green
+Joseph Y. Halpern
+David Haussler
+Ellen Hildreth
+Ramesh Jain
+Jean-Claude Latombe
+Donald W. Loveland
+John Mylopoulos
+Ramesh Patil
+Christopher K. Riesbeck
+Lenhart K. Schubert
+John F. Sowa
+Mark J. Steedman
+Austin Tate
+Richmond H. Thomason
+Wolfgang Wahlster
+Sholom M. Weiss
+William L. Whittaker
+Narendra Ahuja
+Michael Anthony Arbib
+William J. Clancey
+Philip R. Cohen
+Gerald Francis DeJong III
+Lee D. Erman
+Kenneth D. Forbus
+Frederick Hayes-Roth
+Jerry Robert Hobbs
+Laveen N. Kanal
+Janet L. Kolodner
+Benjamin J. Kuipers
+Mitchell P. Marcus
+Matthew T. Mason
+Ramakant Nevatia
+Glenn R. Shafer
+Howard E. Shrobe
+William R. Swartout
+Peter Szolovits
+Leslie G. Valiant
+Robert S. Boyer
+Jaime Carbonell
+B. Chandrasekaran
+Jon Doyle
+Mark S. Fox
+Barbara Hayes-Roth
+Elaine Kant
+Robert A. Kowalski
+Wendy G. Lehnert
+Vladimir Lifschitz
+J. Strother Moore
+Robert C. Moore
+Fernando C. N. Pereira
+Elaine Rich
+Edwina L. Rissland
+Candace L. Sidner
+Aaron Sloman
+Richard J. Waldinger
+Robert Wilensky
+Yorick A. Wilks
+Lotfi A. Zadeh
+James F. Allen
+Ruzena Bajcsy
+Hans Berliner
+Wolfgang Bibel
+Ronald J. Brachman
+J. Michael Brady
+Rodney A. Brooks
+John Seely Brown
+Bruce Buchanan
+Alan Bundy
+Eugene Charniak
+Allan Collins
+Randall Davis
+Johan De Kleer
+Richard Duda
+Edward A. Feigenbaum
+Jerome Feldman
+Richard E. Fikes
+Michael Genesereth
+Barbara J. Grosz
+Peter Hart
+Patrick J. Hayes
+Geoffrey E. Hinton
+Berthold K. P. Horn
+Aravind K. Joshi
+Robert E. Kahn
+Takeo Kanade
+Casimir A. Kulikowski
+Douglas B. Lenat
+Victor R. Lesser
+Hector Levesque
+Tomas Lozano-Perez
+Alan K. Mackworth
+Drew McDermott
+John McDermott
+Jack Minker
+Tom Mitchell
+Judea Pearl
+C. Raymond Perrault
+Tomaso Poggio
+John Ross Quinlan
+Marc Raibert
+Raj Reddy
+Alan Robinson
+Stanley J. Rosenschein
+Erik J. Sandewall
+Roger Schank
+Edward H. Shortliffe
+James R. Slagle
+Guy L. Steele
+Mark J. Stefik
+Gerald Jay Sussman
+Jay M. Tenenbaum
+Bonnie Lynn Webber
+William Woods

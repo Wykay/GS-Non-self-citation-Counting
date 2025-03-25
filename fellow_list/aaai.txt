@@ -1,0 +1,1050 @@
+Elected in 2025
+Maria-Florina (Nina) Balcan, Carnegie Mellon University
+For significant contributions to the foundations of machine learning and its applications to multiagent systems and modern algorithm design.
+
+Mohit Bansal, University of North Carolina at Chapel Hill
+For significant contributions to multimodal AI foundations as well as faithful language generation and summarization.
+
+J. Christopher Beck, University of Toronto
+For significant contributions to planning and scheduling, constraint programming, and the integration of operations research and AI for combinatorial optimization.
+
+Emma Brunskill, Stanford University
+For significant contributions to the field of reinforcement learning, and applications for societal benefit, in particular AI for education.
+
+Yixin Chen, Washington University
+For significant contributions to machine learning, pioneering widely used architectures and algorithms for graph neural networks and lightweight deep neural networks.
+
+Ernest Davis, New York University
+For significant contributions to automated commonsense reasoning, particularly spatial and physical reasoning, and for writings explaining AI to a general audience.
+
+Emilio Ferrara, University of Southern California
+For pioneering contributions to computational social science and the study of online information diffusion and manipulation.
+
+Yun Raymond Fu, Northeastern University
+For significant contributions to transformative technology innovation in computer vision, augmented human-machine interaction, and leadership in AI technology commercialization.
+
+Gal Kaminka, Bar Ilan University
+For significant contributions to plan- and goal- recognition, to collaborative multi-robot systems, and to multi-agent systems exhibiting social intelligence.
+
+Kate Larson, University of Waterloo
+For significant contributions to the foundations of multiagent systems, and for service to the broader AI community.
+
+Karen Myers, SRI International
+For significant contributions to the field of AI planning, including the development and application of human-centered planning technologies.
+
+Sriraam Natarajan, University of Texas at Dallas
+For significant contributions to statistical relational AI, healthcare adaptations and service to AAAI community.
+
+Roberto Navigli, Sapienza University of Rome
+For significant contributions to multilingual Natural Language Understanding, and development of widely recognized methods for knowledge resource construction, text disambiguation, and semantic parsing.
+
+Balaraman Ravindran, Indian Institute of Technology Madras
+For significant contributions to reinforcement learning foundations and applications.
+
+Hui Xiong, Hong Kong University of Science and Technology (Guangzhou)
+For significant contributions to the field of artificial intelligence and mobile computing, and development of the widely used Informer algorithm.
+
+Ming-Hsuan Yang, University of California at Merced, Google DeepMind
+For significant contributions to visual tracking, low-level vision, visual tracking, and visual learning with widely used benchmark datasets and source code.
+
+
+Elected in 2024
+Anima Anandkumar, Caltech and NVIDIA
+For significant contributions to machine learning including neural operators for scientific machine learning and tensor methods for probabilistic models.
+
+Claire Cardie, Cornell University
+For significant contributions to co-reference resolution, information and opinion extraction, and to machine learning methods in natural language processing.
+
+Nitesh Chawla, University of Notre Dame
+For significant advancements in learning from imbalanced data, learning on graphs, and interdisciplinary applications of AI.
+
+Cristina Conati, University of British Columbia
+For significant contributions to human-centered AI and AI-driven personalization, particularly for  intelligent tutoring systems and visualization.
+
+Jennifer Dy, Northeastern University
+For significant contributions to unsupervised and interpretable machine learning, advancing AI to address health care challenges, and service to the AI community.
+
+Ariel Felner, Ben-Gurion University of the Negev
+For significant contributions to the theory, practice and pedagogical aspects of heuristic search.
+
+Kristian Kersting, TU Darmstadt
+For significant contributions to the foundations and applications of statistical relational AI and neurosymbolic learning.
+
+Mausam,  Indian Institute of Technology
+For contributions to NLP, Planning & Human Computation; as well as his leadership in AI.
+
+Ariel Procaccia, Harvard University
+For contributions to AI and society, including foundational work on economic paradigms and practical impact on governance and group decisions.
+
+Brian Scassellati, Yale University
+For significant contributions to human-robot interaction and the use of robots to provide cognitive and social support.
+
+Kilian Weinberger, Cornell University
+For his contribution to machine learning and deep learning research.
+
+Jun Zhu, Tsinghua University
+For significant contributions to the theory and practice of machine learning. 
+
+Elected in 2023
+Kristian Hammond, Northwestern University
+For significant contributions to Case-Based Reasoning, practical Natural Language Generation linking data to meaning, and methods for safe AI.
+
+Vipin Kumar, University of Minnesota
+For significant contributions to advancing AI and ML to address environmental problems.
+
+Xuelong Li, Northwestern Polytechnical University
+For contributions to higher-order data analysis theories and applications.
+
+Deborah McGuinness, Rensselaer Polytechnic Institute
+For significant contributions to the semantic web, knowledge representation and reasoning environments, and deployed artificial intelligence applications.
+
+Risto Miikkulainen, University of Texas, Austin
+For significant contribution to neuroevolution techniques and applications.
+
+Ana Paiva, University of Lisbon
+For contributions to the development of embodied agents with social intelligence and their applications.
+
+Ronald Parr, Duke University
+For significant contributions to reinforcement learning, including the development of foundational hierarchical, least-squares, factored, and feature selection methods.
+
+Matthias Scheutz, Tufts University
+For significant contributions to human-AI interaction, and for service to the AI community.
+
+Csaba Szepesvàri, University of Alberta
+For significant contributions to adaptive control, reinforcement learning, and the theory of bandit problems.
+
+Jie Tang, Tsinghua University
+For significant contributions to information and social network mining.
+
+Kiri Wagstaff, Jet Propulsion Laboratory
+For significant contributions to deployed AI systems in NASA ground and spacecraft operations, AI education, and clustering algorithms.
+
+Elected in 2022
+Innderjit Dhillon, University of Texas at Austin, US
+For significant contributions to machine learning and large-scale data analysis.
+
+Pascale Fung, The Hong Kong University of Science & Technology, Hong Kong
+For significant contributions to the field of conversational AI and to the development of ethical AI principles and algorithms.
+
+Kristina Lerman, University of Southern California, US
+For significant contributions to the field of network science and the application of AI to computational social science.
+
+Barry O’Sullivan, School of Computer Science & IT, University College Cork, Ireland
+For significant contributions to constraint programming and outstanding leadership in the AI community.
+
+Lynne E. Parker, University of Tennessee, US
+For pioneering research in distributed robotics and exceptional leadership in AI policy.
+
+Cynthia Rudin, Duke University, US
+For groundbreaking and pioneering work on interpretable machine learning and trustworthy AI.
+
+David Silver, DeepMind, UK
+For significant contributions to machine learning and game theory, and the application of deep learning to game playing.
+
+Mary-Anne Williams, University of New South Wales and Stanford University
+For significant contributions to knowledge representation and human-robot interaction and for leadership in the community.
+
+Peter Wurman, Sony Corporation, US
+For significant contributions to computational auction theory and multi-agent systems, and for important applications of robotics.
+
+Shuicheng Yan, Sea Ltd., Singapore
+For significant contributions to deep learning architectures and computer vision.
+
+Elected in 2021
+Michael Bowling, University of Alberta and DeepMind, Canada
+For significant contributions to game-playing theory and practice and to machine learning.
+
+Ashok Goel, Georgia Institute of Technology, USA
+For significant contributions to research on cognitive systems, design, and education, and for distinguished leadership and teaching.
+
+Malte Helmert, University of Basel, Switzerland
+For significant contributions to the theory and practice of automated planning and combinatorial search.
+
+Jörg Hoffmann, Saarland University, Germany
+For significant contributions to AI planning and related areas, particularly in the design and analysis of heuristic functions and other search methods.
+
+Ayanna Howard, The Ohio State University, USA
+For significant contributions to human-robot interaction and for improving access and equity through artificial intelligence technologies.
+
+Odest Chadwicke Jenkins, University of Michigan, USA
+For significant contributions to the field of human-robot interaction and extensive service in broadening participation in artificial intelligence.
+
+Hiroaki Kitano, Sony Corporation, Sony Computer Science Laboratories, Inc., Sony AI Inc. and Okinawa Institute of Science and Technology Graduate School, Japan
+For significant contributions and leadership in robotics, massively parallel AI, and the use of AI for scientific discovery and systems biology.
+
+Rada Mihalcea, University of Michigan, USAFor significant contributions to natural language processing and computational social science.
+
+Antonio Torralba, Massachusetts Institute of Technology, USA
+For significant contributions to scene recognition, large-scale visual datasets, and transfer learning.
+
+Holly Yanco, University of Massachusetts Lowell, USA
+For foundational contributions to the field of human-robot interaction and for exceptional leadership in education and broadening participation.
+
+Elected in 2020
+Yoshua Bengio, Université de Montréal, Canada
+For foundational contributions to development of deep neural networks, scientific leadership in Canada, and service to the AI community.
+
+Cynthia Breazeal, MIT Media Lab, USA
+For foundational contributions to the field of socially interactive robots.
+
+William T. Freeman, Massachusetts Institute of Technology and Google Research, USA
+For significant contributions to computer vision and machine learning, especially the development of steerable filters, belief propagation, and motion re-rendering.
+
+Yann LeCun, New York University, USA
+For significant contributions to deep learning, neural networks, and image recognition, including the introduction of convolutional neural networks.
+
+Radhika Nagpal, Harvard University, USA
+For significant contributions to collective intelligence, especially self-organizing systems, including novel robotics and foundational theory.
+
+Natasha Noy, Google, USA
+For significant contributions to semantic web and ontology-development research, and for distinguished service to the community.
+
+Martha Palmer, University of Colorado Boulder, USA
+For significant contributions to natural language processing and knowledge representation, including widely-used corpora of annotated structures in several languages.
+
+Dragomir Radev, Yale University, USA
+For significant contributions to natural language processing and computational linguistics, and development of widely used techniques in text summarization, question answering, and education.
+
+Thomas Schiex, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, France
+For significant contributions to the theory and algorithms of constraint-based reasoning and to their applications in computational biology.
+
+Sylvie Thiébaux, The Australian National University, Australia
+For significant contributions to algorithms and applications of planning and scheduling, and service to the AI community.
+
+Elected in 2019
+Vincent Conitzer, Duke University, USA
+For significant contributions to the advancement of artificial intelligence through integration with economics and philosophy, including game theory, mechanism design, social choice, and ethics.
+
+Luc De Raedt, Katholieke Universiteit Leuven, Belgium
+For significant contributions to learning and reasoning through the integration of logical and relational representations in machine learning and probabilistic models.
+
+Kristen Grauman, University of Texas at Austin and Facebook AI Research, USA
+For significant contributions to computer vision in visual recognition and search.
+
+Charles Isbell, Georgia Institute of Technology, USA
+For significant contributions to the field of interactive machine learning, computing education, and for increasing access and diversity in computing.
+
+Huan Liu, Arizona State University, USA
+For significant contributions to feature selection and social computing.
+
+Jiebo Luo, University of Rochester, USA
+For significant contributions to the fields of computer vision and data mining, and particularly pioneering work on multimodal understanding for sentiment analysis, computational social science, and digital health.
+
+Peter Stuckey, Monash University, Australia
+For significant contributions to logic programming and constraint programming.
+
+Elected in 2018
+Nancy M. Amato, Texas A&M University, USA
+For significant contributions to the algorithmic foundations of motion planning in robotics and computational biology and leadership in broadening participation in computing.
+
+Regina Barzilay, Massachusetts Institute of Technology, USA
+For significant contributions to Natural Language Processing.
+
+Marie desJardins, University of Maryland, Baltimore County, USA
+For significant contributions to machine learning, planning, and multiagent systems, and for exceptional service, mentoring, and teaching.
+
+Kevin Leyton-Brown, University of British Columbia, Canada
+For significant contributions to machine learning for algorithm optimization, and theoretical and practical aspects of computational game theory and market design.
+
+Dinesh Manocha, University of Maryland at College Park, USA
+For significant contributions to robotics and multi-agent simulation.
+
+Joelle Pineau, McGill University, Canada
+For significant contributions to reinforcement learning, including planning and learning in complex partially-observable domains, and applications in robotics and healthcare.
+
+Amit Sheth, Kno.e.sis, Wright State University, USA
+For significant and enduring contribution to semantics and knowledge based techniques to transform diverse data into insights and actions.
+
+Gaurav S. Sukhatme, University of Southern California, USA
+For significant contributions in developing novel techniques for designing and understanding large-scale, distributed, networked robotic systems.
+
+Elected in 2017
+Ronen I. Brafman, Ben-Gurion University, Israel
+For significant contributions to algorithms, representation, and theoretical foundations of automated decision making in the areas of preference handling, planning under uncertainty, multi-agent planning, and privacy.
+
+Eduard H. Hovy, Carnegie Mellon University, USA
+For significant contributions to natural language processing, including text summarization, semantic analysis, entity/event coreference and sentiment analysis.
+
+Tommi S. Jaakkola, Massachusetts Institute of Technology, USA
+For significant contributions to the fields of machine learning, computational biology and natural language processing.
+
+Maurizio Lenzerini, Università degli Studi di Roma “La Sapienza,” Italy
+For fundamental contributions to knowledge representation, description logics, ontologies, and AI and databases, which have become mainstream in AI.
+
+Fangzhen Lin, Hong Kong University of Science and Technology, Hong Kong
+For significant contributions to formal theories of knowledge representation, in particular nonmonotonic logics, answer-set programing, and theories of action.
+
+Dale Eric Schuurmans, University of Alberta, Canada
+For significant contributions to machine learning, including foundational methods for model selection, on-line learning, unsupervised learning and sequential decision making.
+
+Munindar P. Singh, North Carolina State University, USA
+For significant contributions to multiagent systems, especially via seminal formalizations of the interactions, communications, trust, and commitments among intelligent agents and services.
+
+Elected in 2016
+Giuseppe De Giacomo, University of Rome La Sapienza
+For significant contributions to the field of knowledge representation and reasoning, and applications to data integration, ontologies, planning, and process synthesis and verification.
+
+Daniel D. Lee, University of Pennsylvania
+For significant contributions to machine learning and robotics, including algorithms for perception, planning, and motor control.
+
+Bing Liu, University of Illinois at Chicago (UIC)
+For significant contributions to data mining and development of widely used sentiment analysis, opinion spam detection, and Web mining algorithms.
+
+Maja J. Matarić University of Southern California
+For significant contributions to the advancement of multi-robot coordination, learning in human-robot systems, and socially assistive robotics.
+
+Eric Poe Xing, Carnegie Mellon University
+For significant contributions to statistical machine learning, its theoretical analysis, new algorithms for learning probabilistic models, and applications of these to important problems in biology, social network analysis, natural language processing and beyond; and to the development of new architecture, system platform, and theory for distributed machine learning programs on large scale applications.
+
+Zhi-Hua Zhou, Nanjing University
+For significant contributions to ensemble methods and learning from multi-labeled and partially-labeled data.
+
+Elected in 2015
+Rama Chellappa, University of Maryland
+For significant contributions to Markov random fields, 3D recovery from single and mutiple images and image/video-based recognition
+
+Marco Dorigo, Université Libre de Bruxelles
+For seminal contributions to the foundations of swarm intelligence, including ant colony optimization and swarm robotics
+
+Holger H. Hoos, University of British Columbia
+For significant contributions to the field of automated reasoning and the development of widely used methods for algorithm selection and configuration
+
+Adele E. Howe, (deceased)
+For significant contributions to the theory, practice and evaluation of automated planning, scheduling and other AI technologies, as well as service to the AI community
+
+Thorsten Joachims, Cornell University
+For significant contributions to the theory and practice of machine learning and information retrieval
+
+Elected in 2014
+Carla E. Brodley, Northeastern University
+For significant contributions to machine learning and its application to science, engineering and medicine, and to increasing the participation of underrepresented groups in computer science.
+
+Jonathan Gratch, USC Institute for Creative Technologies
+For significant contributions to the fields of affective computing, virtual human research and autonomous systems.
+
+Michael N. Huhns, University of South Carolina
+For significant contributions to the field of multiagent systems and its applications in information management and service-oriented computing.
+
+Kevin Knight, Information Sciences Institute, University of Southern California
+For significant contributions to statistical machine translation, automata for natural language processing, and decipherment of historical manuscripts.
+
+James C. Lester, North Carolina State University
+For significant and sustained contributions to artificial intelligence technologies for education.
+
+Chih-Jen Lin, National Taiwan University
+For significant contributions to the field of machine learning, and the development of a widely used SVM software.
+
+Sridhar Mahadevan, University of Massachusetts Amherst
+For significant contributions to the field of machine learning including pioneering work in robot learning and representation discovery.
+
+Mark Maybury, MITRE Corporation
+For advancing natural language text generation and summarization, intelligent multimedia systems, intelligent user interfaces and knowledge management.
+
+David C. Parkes, Harvard University
+For significant contributions to multi-agent systems research through advances in auctions and mechanism design and development of the CS-economics research community.
+
+Elected in 2013
+Bonnie Dorr, “Institute for Human and Machine Cognition, Emerita at University of Maryland
+For significant contributions to natural language understanding and representation, and development of the widely recognized methods for interlingual machine translation.
+
+Tim Finin, University of Maryland, Baltimore County
+For significant contributions to the theory and practice of knowledge sharing in multiagent systems and on the Web, and for sustained service to the AI community.
+
+Lise Getoor, University of Maryland
+For significant contributions to methods which combine probabilistic and logical representations in machine learning, knowledge discovery, graph mining, network analysis, and database systems.
+
+Sven Koenig, University of Southern California
+For significant contributions to planning, decision making and coordination for robots and other situated agents.
+
+Lillian Lee, Cornell University
+For significant contributions to natural language processing, including in sentiment analysis and in drawing connections to the social sciences.
+
+Gerald J. Tesauro, IBM TJ Watson Research Center
+For significant contributions to neural computation, game-playing (Backgammon, Chess and Jeopardy!), autonomic computing, and economic agents.
+
+Miroslaw Truszczynski, University of Kentucky
+For significant contributions to the theory of nonmonotonic reasoning and to the invention of answer set programming.
+
+Qiang Yang, Hong Kong University of Science and Technology
+For significant contributions to fundamental research and practical applications of AI planning, data mining and case-based reasoning
+
+Elected in 2012
+Murray S. Campbell, IBM T.J. Watson Research Center
+For significant contributions to computer game-playing, especially chess, and the associated improvement in public awareness of the AI endeavor.
+
+Boi V. Faltings, Swiss Federal Institute of Technology (EPFL)
+For significant contributions to research and applications of spatial reasoning, distributed constraint reasoning, case-based reasoning, design, optimized communication, and social networking.
+
+Yolanda Gil, USC/Information Sciences Institute
+For significant contributions to intelligent user interfaces, knowledge capture, representations for web-based science, and for leadership in the AI community.
+
+Peter F. Patel-Schneider
+For significant contributions to knowledge representation and reasoning, in particular the exploration of decidable logic fragments, reasoning optimizations, and the application of KR on the web.
+
+Francesca Rossi, Università degli Studi di Padova
+For significant contributions to constraint and preference reasoning, and for distinguished leadership and service.
+
+Peter H. Stone, The University of Texas at Austin
+For significant contributions to machine learning, multiagent systems, and robotics, and pioneering applications in the robot soccer, trading agents, and autonomous driving domains.
+
+Elected in 2011
+Dieter Fox, University of Washington
+For significant contributions to probabilistic state estimation and its application to the fields of robotics and ubiquitous computing.
+
+Robert C. Holte, University of Alberta
+For significant contributions to the science and practice of empirical machine learning, and for leadership of the Machine Learning Journal.
+
+Sheila A. McIlraith, University of Toronto
+For significant contributions to knowledge representation, reasoning about action, and the formal foundations of the semantic web and diagnostic problem solving.
+
+Satinder Singh Baveja, University of Michigan
+For significant contributions to reinforcement learning, including seminal theoretical results on algorithm properties and the foundations of dynamical system representations.
+
+Makoto Yokoo, Kyushu University
+For significant contributions to the theory and algorithms for multiagent systems and in particular in pioneering research in distributed constraint reasoning and mechanism design in anonymous environments.
+
+Shlomo Zilberstein, University of Massachusetts Amherst
+For significant contributions to decision-theoretic reasoning, resource-bounded reasoning, automated planning, decentralized decision making and multiagent systems.
+
+Elected in 2010
+Pedro Domingos, University of Washington
+For significant contributions to the field of machine learning and to the unification of first-order logic and probability.
+
+Nicholas R. Jennings, University of Southampton
+For significant contributions to the theory and practice of multi-agent systems, including industrial applications, practical coordination techniques, and market-based control mechanisms.
+
+Michael L. Littman, Rutgers University
+For significant contributions to the fields of reinforcement learning, decision making under uncertainty, and statistical language applications.
+
+Christopher D. Manning, Stanford University
+For significant contributions to statistical natural language processing, including in statistical parsing and grammar induction, and education through leading textbooks.
+
+Bernhard Nebel, Albert-Ludwigs-Universitaet Freiburg
+For significant contributions to knowledge representation and reasoning, planning, robotics, and services to the international AI community.
+
+Yoram Singer, Google
+For significant contributions to the theory and practice of efficient machine learning algorithms.
+
+Padhraic Smyth, University of California, Irvine
+For significant contributions to the theory and practice of statistical machine learning.
+
+Moshe Tennenholtz, Technion – Israel Institute of Technology
+For significant contributions in the area of multiagent systems and beyond, and for extraordinary service to the AI community.
+
+Elected in 2009
+Wolfram Burgard, Albert-Ludwigs-Universität Freiburg
+For significant contributions to mobile robot navigation and environment modeling.
+
+William W. Cohen, Carnegie Mellon UniversityFor significant contributions to many aspects of the theory and practice of machine learning.
+
+Andrew K. McCallum, University of Massachusetts, Amherst
+For significant contributions to the theory and application of information extraction, natural language processing, data mining, machine learning, and their integration.
+
+Jeffrey S. Rosenschein, The Hebrew University of Jerusalem
+For significant contributions to multiagent systems, automated negotiation, voting mechanisms, and to bringing game-theoretic mechanism design into computer science.
+
+Dan Roth, University of Illinois at Urbana/Champaign
+For significant contributions to the foundations of machine learning and inference and to developing learning-centered solutions to natural language problems.
+
+Daniela Rus, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+For significant contributions to the theory and practice of distributed robotics, agents, and sensor networks.
+
+Robert E. Schapire, Princeton University
+For significant contributions to machine learning, including the theory and practice of boosting.
+
+Venkatramanan Siva Subrahmanian, University of Maryland, College Park
+For significant contributions to the study of probabilistic databases, logic programming and agent-based systems.
+
+Pascal R. Van Hentenryck, Brown University
+For significant contributions to constraint satisfaction and reasoning under uncertainty, the development of the widely used CHIP, Numerica, OPL, and Comet systems, and his pioneering role in the inception of constraint programming and its integration in operations research.
+
+Elected in 2008
+Yoav S. Freund, University of California, San Diego
+For significant contributions to machine learning including the development of practical boosting algorithms.
+
+Maria L. Gini, University of Minnesota
+For significant contributions to coordination and competition in multirobot and multiagent systems, for leadership in the AI community, and for inspiring the next generation.
+
+Lydia E. Kavraki, Rice University
+For significant contributions to the field of automated motion planning and the development of widely used probabilistic search algorithms
+
+Tuomas W. Sandholm, Carnegie Mellon University
+For significant contributions to the foundations of multiagent systems and computational game theory, pioneering work in combinatorial auctions, multiagent preference elicitation, and automated mechanism design, and principles and large-scale application of electronic marketplaces.
+
+Peter van Beek, University of Waterloo
+For contributions to temporal reasoning, backtracking search algorithms, and constraint programming.
+
+Toby Walsh, University of New South Wales
+For significant and sustained contributions to automated deduction and constraint programming, and for extraordinary service to the AI community.
+
+Brian C. Williams, Massachusetts Institute of Technology
+For significant contributions to model-based reasoning and autonomous systems, and the innovative application of AI to space exploration.
+
+Michael John Wooldridge, University of Liverpool
+For significant contributions to logical foundations and complexity analysis of multiagent systems, including formal theories of teamwork and agent-oriented software engineering.
+
+Elected in 2007
+Pierre F. Baldi, University of California, Irvine
+For significant contributions to statistical machine learning and the development of widely used algorithms/architectures to solve problems in the life sciences.
+
+Adnan Y. Darwiche, University of California, Los Angeles
+For significant contributions to the development and application of both probabilistic and logical methods in automated reasoning.
+
+Hector A Geffner, ICREA and Universitat Pompeu Fabra
+For significant contributions to the fields of planning, reasoning, and knowledge representation.
+
+Carla P. Gomes, Cornell University
+For significant contributions to constraint reasoning and the integration of techniques from artificial intelligence, constraint programming, and operations research.
+
+Russell Greiner, University of Alberta
+For significant contributions to the theory of statistical machine learning and its applications in bioinformatics and medical informatics.
+
+Stephen F. Smith, Carnegie Mellon University
+For significant contributions to heuristic and mixed-initiative scheduling, constraint-based search, and the development of scalable AI systems.
+
+Milind Tambe, University of Southern California
+For significant contributions to theory and software infrastructure for multiagent systems and pioneering applications in teamwork systems.
+
+Elected in 2006
+Fahiem Bacchus, University of Toronto
+For significant contributions in knowledge representation, automated planning, utility modeling, and algorithms for SAT and constraint satisfaction.
+
+Craig Boutilier, University of Toronto
+For significant contributions to default reasoning, belief revision, and decision-theoretic foundations of AI.
+
+Anthony G. Cohn, University of Leeds
+For significant contributions to knowledge representation, qualitative spatial reasoning, cognitive vision, and service to the international AI community.
+
+Gregory F. Cooper, University of Pittsburgh
+For significant contributions to the theory and applications of Bayesian reasoning and causal modeling, and the promotion of artificial intelligence within medicine.
+
+Jude W. Shavlik, University of Wisconsin
+For significant contributions to machine learning, especially knowledge-intensive approaches, and the application of machine learning to problems in computational biology.
+
+Oliviero Stock, ITC-IRST
+For wide-ranging, significant contributions to research in computational linguistics and intelligent interfaces, serious work on computational humor, and dedicated service and leadership in support of the European AI community.
+
+Sebastian Thrun, Stanford University
+For significant contributions to the theory of probabilistic robot navigation and its successful real-world application.
+
+Elected in 2005
+Usama M. Fayyad, Yahoo, Inc.
+For significant research contributions to machine learning, data mining and KDD, exceptional service in founding a new AI subfield/community, and for successfully fielding and commercializing AI and KDD technologies.
+
+Raymond J. Mooney, University of Texas at Austin
+For significant contributions to machine learning, particularly explanation-based learning, theory refinement, and learning for natural-language processing.
+
+Andrew W. Moore, Carnegie Mellon University
+For significant contributions to machine learning, data mining, and statistical AI, and for major roles in transferring these technologies to industry and government.
+
+David E. Smith, NASA Ames Research Center
+For significant contributions to the field of automated planning, including influential techniques for contingent, conformant, and temporal planning.
+
+Elected in 2004
+Subbarao Kambhampati, Arizona State University
+For significant contributions to a unified theory of planning, its relation to constraint satisfaction, and development of varied speedup methods and heuristics.
+
+Craig A. Knoblock, University of Southern California
+For significant contributions to planning and information integration and the application of AI methods to complex domains.
+
+Daphne Koller, Stanford University
+For significant contributions to the integration of logic and probability and development of methods for reasoning, learning, and decision making under uncertainty.
+
+Gérard G. Medioni, University of Southern California
+For significant contributions to computer vision, including algorithms for feature extraction, organization, and matching.
+
+Stuart M. Shieber, Harvard University
+For significant contributions to the foundations of computational linguistics, to graphical and spokenlanguage interfaces, and to open scientific publishing.
+
+Moshe Y. Vardi, Rice University
+For significant contributions to the development of automated-reasoning techniques and to the development of logic as a unifying foundational framework and a tool for modeling computational systems.
+
+Elected in 2003
+Oren Etzioni, University of Washington
+For significant contributions to the fields of software agents, web-based technology, and intelligent user interfaces.
+
+Scott E. Fahlman, Carnegie Mellon University and IBM Research
+For significant contributions to knowledge representation, artificial neural networks, AI-oriented software tools, and massively parallel architectures for AI.
+
+Michael Kearns, University of Pennsylvania
+For significant contributions to computational learning theory, to reinforcement learning and stochastic planning, to dialogue agents, and to the theory of multi-agent systems.
+
+Pradeep Khosla, Carnegie Mellon University
+For significant contributions to automated modeling, reconfiguration, and design of robotic and real-time software systems, and for encouraging the field through professional leadership.
+
+Michael Pazzani, University of California, Irvine
+For significant contributions to the development and understanding of machine learning algorithms and their relationship to human learning.
+
+Reid Simmons, Carnegie Mellon University
+For significant contributions to mobile robot navigation, self-reliant autonomous systems, and the Task Control Architecture.
+
+Manuela Veloso, Carnegie Mellon University
+For significant contributions to the development of planning and learning algorithms, and multiagent robot teams for uncertain dynamic environments.
+
+Elected in 2002
+Kevin D. Ashley, University of Pittsburgh
+For significant contributions in computationally modeling case-based and analogical reasoning in law and practical ethics.
+
+Michael Gelfond, Texas Tech University
+For significant contributions to the development of stable model semantics, answer set semantics, and work in cognitive robotics, logic programming, and nonmonotonic reasoning.
+
+Eric Horvitz, Microsoft Research
+For significant contributions to principles and applications of probability and utility in computation, including reasoning and decision making under limited resources, human-computer interaction, and machine learning.
+
+Henry E. Kyburg, Jr., University of Rochester and Institute for Human and Machine Cognition
+For significant contributions to the study of probabilistic, statistical and nonmonotonic inference.
+
+Michael I. Jordan, University of California, Berkeley
+For significant contributions to reasoning under uncertainty, machine learning, and human motor control.
+
+Sarit Kraus, Bar-Ilan University and University of Maryland
+For significant contributions to modeling of negotiation, collaboration, and non-monotonic reasoning, including theoretical advances and applications in various computational domains.
+
+Stephen H. Muggleton, Imperial College of Science, Technology and Medicine
+For significant contributions to the theory and practice of inductive logic programming, especially applied to the discovery of new biomolecular theories from observational data.
+
+Katia P. Sycara, Carnegie Mellon University
+For significant contributions to case-based reasoning, autonomous agents, and multiagent systems.
+
+Elected in 2001
+Edmund H. Durfee, University of Michigan
+For significant contributions to the field of multiagent systems, distributed computing and real-time intelligent control.
+
+David Heckerman, Microsoft Research
+For significant contributions to reasoning and learning under uncertainty.
+
+Peter Norvig, Google, Inc.
+For significant contributions to educational materials, natural language processing techniques, web-based technology, and research management and leadership.
+
+Reid G. Smith, Schlumberger Limited
+For significant contributions to the science and practice of knowledge management, and for his role as principal architect of the widely cited contract net methodology.
+
+Richard S. Sutton, AT&T Research
+For significant contributions to many topics in machine learning, including reinforcement learning, temporal difference techniques, and neural networks.
+
+Michael Wellman, University of Michigan
+For significant contributions to decision theory, qualitative probabilistic and utilitarian reasoning, planning, multiagent systems, computational economics, electronic commerce, and editing the Journal of Artificial Intelligence Research.
+
+Elected in 2000
+Kenneth Ford, Institute for Human & Machine Cognition
+For leadership in exploring and explaining foundational issues and in establishing large-scale AI research programs and institutions.
+
+W. Eric L. Grimson, Massachusetts Institute of Technology
+For significant contributions to the theory and application of computer vision, ranging from algorithms for binocular stereo, surface interpolation and object recognition to deployed systems for computer-assisted surgery.
+
+Leslie Pack Kaelbling, Massachusetts Institute of Technology
+For seminal contributions to situated agents, machine learning, planning and mobile robotics.
+
+David Poole, University of British Columbia
+For significant contributions to the fields of abductive inference and default and probabilistic reasoning with applications to diagnosis and decision-making.
+
+Jonathan Schaeffer, University of Alberta
+For significant contributions to search and game-playing, including the design and implementation of the checker-playing system Chinook, the first program to win a human world championship in any non-trivial game of skill.
+
+Bart Selman, Cornell University
+For significant contributions to the field of knowledge representation and reasoning, and the development of widely used randomized methods in reasoning, search, and planning.
+
+Elected in 1999
+Harry G. Barrow, Schlumberger Cambridge Research
+For seminal contributions towards understanding the computational nature of vision in humans and machines.
+
+James A. Hendler, University of Maryland and DARPA/ISO
+For significant contributions to the field of planning, knowledge representation, and high-performance artificial intelligence.
+
+Daniel S. Weld, University of Washington
+For significant contributions to development of qualitative reasoning methods, software agent technology, and plan synthesis algorithms.
+
+Elected in 1998
+George A. Bekey, University of Southern California
+For contributions to the theory and practice of intelligent robotics, with applications to health care, space technology and human service.
+
+Steven Minton, USC/Information Sciences InstituteFor contributions to machine learning, planning, and constraint satisfaction, and for service to the AI community.
+
+Yoav Shoham, Stanford University
+For fundamental contributions concerning logics of time, knowledge, and belief that have resulted in significant advances in reasoning about time and change.
+
+David E. Wilkins, SRI International
+For contributions to both the theory and application of planning, especially for efficient, flexible ways of representing and reasoning about actions.
+
+Elected in 1997
+Henry A. Kautz, University of Washington
+For contributions to many areas of artificial intelligence, from plan recognition to knowledge representation to software agents.
+
+Pat Langley, Daimler-Benz Research and Technology Center and Institute for the Study of Learning and Expertise
+For his cognitive models of numerous data-driven scientific discoveries and his founding role in the emergence of machine learning.
+
+Robert M. MacGregor, USC/Information Sciences Institute
+For contributions to knowledge representation, and development of the loom knowledge representation system
+
+David Allen McAllester, AT&T Laboratories-Research
+For contributions to the fields of knowledge representation, reasoning, search and planning.
+
+Stuart Russell, University of California at Berkeley
+For contributions to machine learning, bounded rationality and planning under uncertainty.
+
+Elected in 1996
+Piero P. Bonissone, General Electric Corporation
+For his pioneering development of uncertainty calculus and its application to fuzzy-logic based control systems.
+
+Dana S. Nau, University of Maryland
+For contributions to the fields of AI search algorithms, AI planning, and AI applications in design and manufacturing.
+
+Martha E. Pollack, University of Pittsburgh
+For contributions to planning with limited resources and innovative research in discourse analysis.
+
+Charles E. Thorpe, Carnegie Mellon University
+For contributions to outdoor autonomous robots, including development of the highly successful Navlab vehicles.
+
+Beverly P. Woolf, University of Massachusetts
+For contributions to the science, technology, and dissemination of multimedia, intelligent tutoring systems and authoring tools.
+
+Elected in 1995
+Luigia Carlucci Aiello, Universitá di Roma
+For contributions to the field of meta-level control and reasoning, and promotion of AI in Italy and Europe.
+
+Eugene C. Freuder, University of New Hampshire
+For fundamental and sustained contributions to the field of constraint-based reasoning.
+
+Michael P. Georgeff, Australian Artificial Intelligence Institute
+For pioneering theory and applications of reactive planning technology and agent architectures.
+
+Matthew L. Ginsberg, University of Oregon
+For theoretical and practical advances in nonmonotonic reasoning, planning, and search.
+
+Kurt Konolige, SRI International
+For landmark contributions to nonmonotonic logic, reasoning about beliefs, and mobile robotics.
+
+John E. Laird, University of Michigan
+For contributions to machine learning, integrated architectures for intelligence, and unified theories of cognition.
+
+Douglas R. Smith, Kestrel Institute
+For the development of an effective theory of algorithm design and for creating major new algorithms.
+
+Elected in 1994
+Alan W. Biermann, Duke University
+For contributions to the fields of automatic programming and automated natural language understanding, including dialog systems.
+
+Thomas O. Binford, Stanford University
+For his role as a founding father in the field of computer vision and model-based perception in robotics; and for his many contributions to the fields.
+
+Thomas L. Dean, Brown University
+For contributions to the fields of automated planning, temporal reasoning, and robotics.
+
+Rina Dechter, University of California, Irvine
+For contributions to automated problem solving, heuristic search and constraint processing.
+
+Daniel C. Dennett, Tufts University
+For contributions to foundational problems in artificial intelligence and the philosophy of mind.
+
+Thomas Glen Dietterich, Oregon State University
+For contributions to the science and practice of machine learning, methodology of machine learning research, and for service to the AI community.
+
+John S. Gero, University of Sydney
+For pioneering research on AI in architecture and engineering, and outstanding leadership in the AI in design research community.
+
+Julia B. Hirschberg, ATandT Bell Laboratories
+For foundational research in discourse and speech processing; and for pioneering development of algorithms for incorporating discourse-level intonational features into speech synthesis systems.
+
+Jim Howe, University of Edinburgh
+For contributions to the design of learning environments, AI technology transfer, and the promotion of AI research in the United Kingdom.
+
+Philip Klahr, Inference CorporationFor applying AI technology to solve real business problems, and for service to the AI community.
+
+Richard E. Korf, University of California, Los AngelesFor contributions to the development and analysis of heuristic search methods.
+
+Kathleen R. McKeown, Columbia UniversityFor contributions to natural language generation and integration of language and graphics.
+
+Jacques Pitrat, P. and M. Curie UniversityFor his roles as a pioneer of AI in France, outstanding teacher and student leader; and for his many valuable contributions involving metaknowledge.
+
+Zenon W. Pylyshyn, Rutgers UniversityFor sustained contributions to the foundations of artificial intelligence and cognitive science.
+
+Paul S. Rosenbloom, University of Southern California
+For contributions to unified theories of cognition, and to integrated architectures for intelligence; and for service to the AI community.
+
+Stuart C. Shapiro, State University of New York at Buffalo
+For contributions to theory and practice of knowledge representation and reasoning, and service to the AI community.
+
+Elected in 1993
+Judith B. Bachant, Digital Equipment Corporation
+For superior engineering accomplishments in embedding expert configuration systems in Digital’s business processes.
+
+Robert Balzer, University of Southern California Information Sciences Institute
+For contributions to automatic programming and rule-based development environments through the development of Gist, FSD, and the transformation based Rederivation Lifecycle.
+
+Margaret A. Boden, University of Sussex
+For contributions to the philosophy of AI, links between AI and psychology, social implications of AI, and making AI accessible to non-specialists.
+
+Paul R. Cohen, University of Massachusetts
+For leadership in the development of experimental methodologies for AI research, important contributions to real-time planning, and uncertainty management in expert systems.
+
+Peter Friedland, NASA Ames Research Center
+For pioneering work in planning, KR languages, scientific discovery, AI applications to molecular biology; and for extraordinary leadership and service.
+
+Cordell C. Green, Kestrel Institute
+For the development of the foundation theory for logic programming, the deductive data base field, and many formal-inference-based AI systems; and for his seminal contributions to the field of program synthesis.
+
+Joseph Y. Halpern, International Business MachinesFor sustained excellence in theoretical research on the logics of and relationships among knowledge, common knowledge, belief and probability.
+
+David Haussler, University of California, Santa Cruz
+For scientific contributions to the theory and practice of machine learning.
+
+Ellen Hildreth, Wellesley College
+For contributions to artificial intelligence in the fields of motion vision and natural computation.
+
+Ramesh Jain, University of California San Diego
+For pioneering and sustained contributions to computer vision research and applications.
+
+Jean-Claude Latombe, Stanford University
+For contributions to robotics, particularly the theory and practice of robot motion planning.
+
+Donald W. Loveland, Duke University
+For outstanding contributions to the field of automated reasoning and development of the model elimination theorem-proving procedure.
+
+John Mylopoulos, University of Toronto
+For outstanding leadership in Canadian AI; foundational roles in the oldest AI society; and superior productivity in education and research.
+
+Ramesh Patil, University of Southern California Information Sciences Institute
+For seminal contributions in medical AI, diagnostic reasoning, and knowledge representation; and for service to AAAI.
+
+Christopher K. Riesbeck, Northwestern University
+For pioneering contributions to natural language analysis by computer, and for the development and codification of case-based reasoning.
+
+Lenhart K. Schubert, University of Rochester
+For fundamental contributions in natural language processing, especially in the formalization, representation, and practical implementation of non-first order concepts.
+
+John F. Sowa, State University of New York at Binghamton
+For his outstanding contributions on the theory of conceptual graphs for knowledge representation and reasoning, and for his leadership in inspiring and directing the world-wide efforts of other researchers and students in advancing this theory.
+
+Mark J. Steedman, University of Pennsylvania
+For contributions to the integration of syntax, semantics, and prosody in human language processing, using the framework of categorial grammars.
+
+Austin Tate, University of Edinburgh
+For contributions to the development and use of knowledge-based planning techniques and artificial intelligence technology transfer.
+
+Richmond H. Thomason, University of Pittsburgh
+For fundamental contributions to the logical foundations of artificial intelligence and computational linguistics.
+
+Wolfgang Wahlster, German Research Center for AI (DFKI)
+For pioneering work in the development of dialog systems, and outstanding service to the artificial intelligence community.
+
+Sholom M. Weiss, Rutgers University
+For pioneering contributions to practical systems for causal and expert reasoning, and machine learning, especially in biomedicine.
+
+William L. Whittaker, Carnegie Mellon University
+For contributions to robotics education, and research and development of field robotics.
+
+Elected in 1992
+Narendra Ahuja, University of Illinois
+For significant contributions to the integration of multiple cues for three-dimensional and active vision; object representation and path planning; and multiprocessor architectures for computer vision.
+
+Michael Anthony Arbib, University of Southern California
+For his work in schema theory and neural networks to provide a linking methodology between distributed artificial intelligence and brain theory.
+
+William J. Clancey,Institute for Human & Machine Cognition and NASA/Ames Research Center
+For his influential knowledge analyses of expert systems and pioneering work in grounding AI research in scientific and engineering modeling.
+
+Philip R. Cohen, SRI International
+For seminal work in the plan-based application of speech acts, and continued excellence in the study of natural language discourse.
+
+Gerald Francis DeJong III, University of Illinois
+For seminal technical contributions to natural language processing and machine learning, as well as excellence in teaching future researchers.
+
+Lee D. Erman, Cimflex Teknowledge Corporation
+For contributions to the development and dissemination of AI Technology and service to AAAI.
+
+Kenneth D. Forbus, Northwestern University
+For contributions to qualitative physics, cognitive modeling, reasoning engine design and machine learning, and general service to the AI community.
+
+Frederick Hayes-Roth, Cimflex Teknowledge Corporation
+For leadership in commercialization of expert system technology; for the co-development of Hearsay II and opportunistic-planning; and for the technical management of ROSIE, M.1, S.1, and ABE.
+
+Jerry Robert Hobbs, SRI International
+For research in artificial intelligence, particularly natural language understanding and knowledge representation.
+
+Laveen N. Kanal, University of Maryland and L. N. K. Corporation
+For contributions to pattern recognition and heuristic search procedures and their application in the machine recognition of patterns.
+
+Janet L. Kolodner, Georgia Institute of Technology
+For pioneering research on case-based reasoning and learning, including memory organization, information retrieval, problem solving, and knowledge acquisition.
+
+Benjamin J. Kuipers, University of Texas at Austin
+For fundamental contributions to qualitative reasoning about physical systems (QSIM) and qualitative methods for robot exploration and cognitive mapping.
+
+Mitchell P. Marcus, University of Pennsylvania
+For work in novel parsing architectures for integrating syntax, semantics, and psycholinguistic phenomena, and the development of learning techniques based on large corpora.
+
+Matthew T. Mason, Carnegie Mellon University
+For lasting contributions to robotic manipulation in the areas of compliant force control, planning under uncertainty, the mechanics of pushing, and sensorless manipulation strategies.
+
+Ramakant Nevatia, University of Southern California
+For pioneering contributions to many aspects of computer vision, especially in computational descriptions of complex three-dimensional objects.
+
+Glenn R. Shafer, Rutgers University
+For the development of the Dempster-Shafer theory of evidence and its applications to AI systems.
+
+Howard E. Shrobe, Massachusetts Institute of Technology
+For significant contributions in the development of new problem solving approaches and programming languages, and for service to the field.
+
+William R. Swartout , University of Southern California Information Sciences Institute
+For seminal contributions in the areas of knowledge-based machine explanation, and for extraordinary service to the Artificial Intelligence community.
+
+Peter Szolovits, Massachusetts Institute of Technology
+For pioneering the application of Artificial Intelligence in Medicine.
+
+Leslie G. Valiant, Harvard University
+For the development of computational learning theory, and providing a scientific basis for research in machine learning.
+
+Elected in 1991
+Robert S. Boyer, University of Texas at Austin
+
+Jaime Carbonell, Carnegie Mellon University
+
+B. Chandrasekaran, The Ohio State University
+
+Jon Doyle, Massachusetts Institute of Technology
+
+Mark S. Fox, University of Toronto
+
+Barbara Hayes-Roth, Stanford University
+
+Elaine Kant, Schlumberger Laboratory for Computer Science
+
+Robert A. Kowalski, Imperial College of Science and Technology
+
+Wendy G. Lehnert, University of Massachusetts
+
+Vladimir Lifschitz, University of Texas at Austin
+
+J. Strother Moore, Computer Logic Incorporated
+
+Robert C. Moore, SRI International
+
+Fernando C. N. Pereira, AT&T Bell Laboratories
+
+Elaine Rich, Microelectronics Computer Consortium
+
+Edwina L. Rissland, University of Massachusetts
+
+Candace L. Sidner, Lotus Development Corporation
+
+Aaron Sloman, The University of Birmingham
+
+Richard J. Waldinger, SRI International
+
+Robert Wilensky, University of California, Berkeley
+
+Yorick A. Wilks, “Institute for Human and Machine Cognition / New Mexico State University
+
+Lotfi A. Zadeh, University of California, Berkeley
+
+Elected in 1990
+
+James F. Allen, University of Rochester and Institute for Human and Machine Cognition
+
+Ruzena Bajcsy, University of Pennsylvania
+
+Hans Berliner, Carnegie Mellon University
+
+Wolfgang Bibel, FG Intellektik
+
+Ronald J. Brachman, AT&T Bell Laboratories
+
+J. Michael Brady, Oxford University
+
+Rodney A. Brooks, Massachusetts Institute of Technology
+
+John Seely Brown, Xerox Palo Alto Research Center
+
+Bruce Buchanan, University of Pittsburgh
+
+Alan Bundy, University of Edinburgh
+
+Eugene Charniak, Brown University
+
+Allan Collins, Bolt, Beranek and Newman
+
+Randall Davis, Massachusetts Institute of Technology
+
+Johan De Kleer, Xerox Palo Alto Research Center
+
+Richard Duda, San Jose State University
+
+Edward A. Feigenbaum, Stanford University
+
+Jerome Feldman, International Computer Science Institute
+
+Richard E. Fikes, Stanford University
+
+Michael Genesereth, Stanford University
+
+Barbara J. Grosz, Harvard University
+
+Peter Hart, Ricoh Corporation
+
+Patrick J. Hayes, Institute for Human & Machine Cognition
+
+Geoffrey E. Hinton, University of Toronto
+
+Berthold K. P. Horn, Massachusetts Institute of Technology
+
+Aravind K. Joshi, University of Pennsylvania
+
+Robert E. Kahn, Corporation for National Research Initiatives
+
+Takeo Kanade, Carnegie Mellon University
+
+Casimir A. Kulikowski, Rutgers University
+
+Douglas B. Lenat, Microelectronics Computer Consortium
+
+Victor R. Lesser, University of Massachusetts
+
+Hector Levesque, University of Toronto
+
+Tomas Lozano-Perez, Massachusetts Institute of Technology
+
+Alan K. Mackworth, University of British Columbia
+
+Drew McDermott, Yale University
+
+John McDermott, Digital Equipment Corporation
+
+Jack Minker, University of Maryland
+
+Tom Mitchell, Carnegie Mellon University
+
+Judea Pearl, University of California, Los Angeles
+
+C. Raymond Perrault, SRI International
+
+Tomaso Poggio, Massachusetts Institute of Technology
+
+John Ross Quinlan, University of Sydney
+
+Marc Raibert, Massachusetts Institute of Technology
+
+Raj Reddy, Carnegie Mellon University
+
+Alan Robinson, Syracuse University
+
+Stanley J. Rosenschein, Teleos Research
+
+Erik J. Sandewall, University of Linkoeping
+
+Roger Schank, Northwestern University
+
+Edward H. Shortliffe, Stanford University
+
+James R. Slagle, University of Minnesota
+
+Guy L. Steele, Jr., Thinking Machines Corporation
+
+Mark J. Stefik, Xerox Palo Alto Research Center
+
+Gerald Jay Sussman, Massachusetts Institute of Technology
+
+Jay M. Tenenbaum, Enterprise Integration Technologies Corporation
+
+Bonnie Lynn Webber, University of Pennsylvania
+
+William Woods, Sun Microsystems Laboratories

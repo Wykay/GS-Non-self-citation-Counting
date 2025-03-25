@@ -1,0 +1,1408 @@
+Balu Adsumilli
+Google Inc.
+CA, USA
+for contributions to video processing and pervasive user-generated online video content
+Tareq Y. Al-Naffouri
+King Abdullah University of Science and Technology
+Saudi Arabia
+for contributions to adaptive signal processing and applications to wireless communications
+Dionysios C. Aliprantis
+Purdue University
+IN, USA
+for contributions to rotating electric machine modeling and distributed energy resources
+John Yiannis Aloimonos
+University of Maryland, College Park
+MD, USA
+for contributions to active perception and the perception of action
+2 IEEE Fellows Class 2025 | ieee.org/fellows
+Ron Alterovitz
+University of North Carolina at Chapel Hill
+NC, USA
+for contributions to medical steerable needles and motion planning for medical robots
+Giulio Antonini
+University L'Aquila
+Italy
+for contributions to the advancement of electromagnetic and circuit modeling of electrical systems
+Rodolfo Araneo
+Sapienza University of Rome
+Italy
+for contributions to electromagnetic shielding and EMC design of grid-scale photo-voltaic plants
+Ana C. Arias
+University of California Berkeley
+CA, USA
+for contributions to printed and flexible large-area electronics
+Solomon Assefa
+IBM T. J. Watson Research Center
+NY, USA
+for contributions to the development and commercialization of silicon photonics
+Waheed Uz Zaman Bajwa
+Rutgers University
+NJ, USA
+for contributions to compressed sensing, communications, and machine learning in distributed systems
+3 IEEE Fellows Class 2025 | ieee.org/fellows
+Peter M. Barbosa
+Delta Electronics, Inc.
+NC, USA
+for contributions to multilevel power conversion in medium voltage drives
+Mike Barnes
+University of Manchester
+United Kingdom
+for contributions to power electronic converter modeling for system studies
+Raheem A. Beyah
+Georgia Tech
+GA, USA
+for contributions in rogue device detection in the field of cybersecurity
+Shalabh Bhatnagar
+Indian Institute of Science
+India
+for contributions to stochastic recursive algorithms for optimization, control, and reinforcement learning
+Jessica J. Bian
+Grid-X Partners, LLC
+NJ, USA
+for contributions to bulk power system reliability improvement and advances in power flow controllers
+Battista Biggio
+University of Cagliari, Italy
+Italy
+for contributions to the security of machine learning
+4 IEEE Fellows Class 2025 | ieee.org/fellows
+Hans O. Bjorklund
+Hitachi Energy
+Sweden
+for leadership in the development of HVDC control and protection systems
+Carlos Bordons
+University of Seville
+Spain
+for contributions to Model Predictive Control of industrial processes and energy systems
+Paolo Braca
+NATO Science and Technology Organization (STO) Centre for Maritime Research and Experimentation (CMRE)
+Italy
+for contributions to advancements in networked surveillance systems
+Michael Scott Brown
+Samsung AI Research Center
+ON, Canada
+for contributions to in-camera color image processing
+Yuriy Brun
+University of Massachusetts Amherst
+MA, USA
+for contributions to software bias mitigation and to software engineering automation
+Shujun Cai
+Wuxi Microelectronics Research Center
+China
+for contributions to GaN microwave devices for RF systems applications
+5 IEEE Fellows Class 2025 | ieee.org/fellows
+Liangliang Cao
+Apple, Inc.
+CA, USA
+for contributions to computer vision and speech recognition with significant industrial impacts
+Yang Chai
+Hong Kong Polytechnic University
+Hong Kong
+for contributions to bioinspired in-sensor computing
+Aranya Chakrabortty
+North Carolina State University
+NC, USA
+for contributions to wide-area monitoring and control of electric power systems
+Yuen-Yan Chan
+Chinese University of Hong Kong
+Hong Kong
+for contributions to learning technologies for special education needs and social inclusion
+Balarko Chaudhuri
+Imperial College London
+United Kingdom
+for contributions to control and stability of AC-DC grid systems
+Huanhuan Chen
+University of Science and Technology of China
+China
+for contributions to theory and applications of statistical and explainable machine learning
+6 IEEE Fellows Class 2025 | ieee.org/fellows
+Jingsheng Chen
+National University of Singapore
+Singapore
+for contributions to magnetic materials and heterostructures for Magnetic Recording Technology and Spintronics
+Pai-Yen Chen
+University of Illinois Chicago
+IL, USA
+for contributions to mesoscopic and multiscale electromagnetics for antenna and sensor applications
+Pin-Yu Chen
+IBM T. J. Watson Research Center
+NY, USA
+for contributions to machine learning robustness and AI safety
+Tsong Yueh Chen
+Swinburne University of Technology
+Australia
+for contributions to software testing through the invention of metamorphic testing and adaptive random testing
+Xiaofeng Chen
+Xidian University
+China
+for contributions to verifiable computation and verifiable storage in cloud computing
+Xueqi Cheng
+Institute of Computer Technology, Chinese Academy of Sciences
+China
+for contributions to web search and social network analysis
+7 IEEE Fellows Class 2025 | ieee.org/fellows
+Nagendra Srinivas Cherukupalli
+FTC Solar Inc
+CA, USA
+for contributions to advancements in utility-scale solar power plants and rural energy technologies
+Kyungwhoon Cheun
+Samsung Electronics
+Korea, Republic of
+for leadership in 5G mmWave and vRAN technologies
+Mandar Chitre
+National University of Singapore
+Singapore
+for contributions to underwater acoustic interference modeling and development of acoustic communication networking protocols
+Huang-Jen Chiu
+National Taiwan University of Science and Technology
+Taiwan
+for contributions to energy-saving high-efficiency power converters for sources and loads
+Sungbae Cho
+Yonsei University
+Korea, Republic of
+for contributions to hybrid artificial intelligent systems for industrial applications
+Hongsoo Choi
+Daegu Gyeongbuk Institute of Science & Technology
+Korea, Republic of
+for contributions to the development and implementation of medical tethered and untethered microrobots
+8 IEEE Fellows Class 2025 | ieee.org/fellows
+Xiaowen Chu
+The Hong Kong University of Science and Technology (Guangzhou)
+China
+for contributions to algorithms for communication-efficient distributed machine learning
+Oksana Chubykalo-Fesenko
+Spanish National Research Council, CSIC
+Spain
+for development of multiscale methods for modeling of thermal magnetization dynamics
+Craig A. Colopy
+Usa
+WI, USA
+for contributions to design, development, and application of single-phase 32-step voltage regulators
+Julio C. Costa
+Global Foundries
+NC, USA
+for contributions to the development of RF silicon-on-insulator technologies and circuits for mobile applications
+Simon Cotton
+ECIT Institute, Queen's University Belfast
+United Kingdom
+for contributions to the modelling of fading channels
+Vittorio Curri
+Politecnico di Torino
+Italy
+for contributions to physical layer aware multi-band open optical networks
+9 IEEE Fellows Class 2025 | ieee.org/fellows
+Qionghai Dai
+Tsinghua University
+China
+for contributions to 3D content understanding and computational imaging
+Davide Dardari
+University of Bologna
+Italy
+for contributions to theory and practice of radio positioning systems
+Arati Dasgupta
+U.S. Naval Research Laboratory
+DC, USA
+for contributions to high energy density plasma, atomic, and radiation physics
+Ronald F. Demara
+University of Central Florida
+FL, USA
+for contributions to runtime reconfigurable computing and resilient datapath design
+Robert A. Dent
+usa
+NJ, USA
+for leadership in enriching the history of electric power industry and contributions to its technology
+Liping Di
+George Mason University
+VA, USA
+for contributions to geoinformatic technology for Earth observations
+10 IEEE Fellows Class 2025 | ieee.org/fellows
+Stefano Di Cairano
+Mitsubishi Electric Research Laboratories
+MA, USA
+for contributions to model predictive and constrained control in automotive and aerospace applications
+Whitfield Diffie
+Independent Advisor
+CA, USA
+for the deveopment of public key cryptography and its applications
+Denis Dochain
+Ecole Polytechnique de Montréal
+Belgium
+for contributions to analysis, estimation and control of reaction systems
+Hairong Dong
+China State Key Laboratory of Rail Traffic Control and Safet, Beijing Jiatong University
+China
+for contributions to the intelligent and autonomous operation and control of railway transportation systems
+Chunxia Dou
+Jiangsu Provincial Engineering Research Center for Zero-carbon Operation Control of Active Distribution Network
+China
+for contributions to power system control and industrial applications
+Tomislav Dragicevic
+Technical University of Denmark
+Denmark
+for contributions within control, design and diagnostics of power converter and drive-based systems
+11 IEEE Fellows Class 2025 | ieee.org/fellows
+Drazen Dujic
+Swiss Federal Institute of Technology of Lausanne, Switzerland
+Switzerland
+for contributions to medium-voltage high-power solid-state conversion
+Larry Dunleavy
+Modelithics, Inc.
+FL, USA
+for contributions to commercial development of microwave device models and microwave education leadership
+David B. Durocher
+CEM Service LLC
+OR, USA
+for technical leadership in electrical system reliability and personnel safety
+Christopher Edwards
+University of Exeter
+United Kingdom
+for contributions to sliding mode control and fault tolerant control
+Kamran Entesari
+Texas A&M University
+TX, USA
+for contributions to millimeter-wave high-efficiency front ends and high-linearity mixer-first receivers
+Melike Erol Kantarci
+University of Ottawa
+ON, Canada
+for contributions to AI-enabled wireless networks and smart grid communications
+12 IEEE Fellows Class 2025 | ieee.org/fellows
+Christian Fager
+Chalmers University of Technology
+Sweden
+for contributions to RF power amplifier efficiency enhancement and modeling of transmitter distortion
+Tiago H. Falk
+University of Quebec
+ON, Canada
+for contributions to cognitive computing for adaptive, context-aware human-machine systems
+Serge Fdida
+Sorbonne University
+France
+for contributions to federated network research testbeds at scale, and quality of service
+Mehdi Ferdowsi
+Missouri University of Science and Technology
+MO, USA
+for contributions to high-gain converters for renewable energy applications and to battery management systems
+Baris Fidan
+University of Waterloo
+ON, Canada
+for contributions to adaptive control and cooperative estimation with vehicular, robotic, and sensor network applications
+Tim Fingscheidt
+Technische Universitaet Braunschweig
+Germany
+for contributions to speech enhancement systems and their evaluation
+13 IEEE Fellows Class 2025 | ieee.org/fellows
+Carlo Fischione
+KTH Royal Institute of Technology
+Sweden
+for contributions to the theory and practice of wireless internet of things
+Frank H. Fitzek
+TU Dresden
+Germany
+for contributions to cooperative wireless communications for tactile internet and 5G networks
+Gabor A. Fodor
+Ericsson AB
+Sweden
+for contributions to radio resource management and optimization of cellular networks
+Nelson J. Fonseca
+Anywaves
+France
+for contributions to microwave beamforming techniques and technologies in terrestrial and space wireless communication systems
+Daniele Fontanelli
+University of Trento
+Italy
+for contributions to measurement and real-time estimation algorithms in robotics
+Jeffrey B. Fowlkes
+University of Michigan
+MI, USA
+for contributions to therapeutic ultrasound and the understanding of acoustic cavitation in medicine
+14 IEEE Fellows Class 2025 | ieee.org/fellows
+Alejandro C. Frery
+Victoria University of Wellington
+New Zealand
+for contributions to statistical signal processing in earth observation data
+Yong Fu
+Mississippi State University
+MS, USA
+for contributions to computational optimization and parallel computing for power system operation
+Tammy L. Gammon
+John Matthews and Associates, Inc.
+GA, USA
+for contributions to the reduction of electrical injuries and deaths
+Sinan Gezici
+Bilkent University
+Turkiye
+for contributions to wireless localization and ultra-wideband systems
+Kamran Ghorbani
+Royal Melbourne Institute of Technology
+Australia
+for contributions to microwave sensors and multifunctional microwave structures
+Swaroop Ghosh
+Pennsylvania State University
+PA, USA
+for contributions to design and security of memories in technology nodes
+15 IEEE Fellows Class 2025 | ieee.org/fellows
+Brian P. Ginsburg
+Texas Instruments, Inc.
+TX, USA
+for contributions to CMOS mm-wave radars
+John C. Grundy
+Monash University
+Australia
+for contributions to automated software engineering
+Saikat Guha
+University of Arizona
+MD, USA
+for bridging information theory and physics to design quantum-enhanced photonic sensing, communications, and networking systems
+Jing-Ming Guo
+National Taiwan University of Science and Technology
+Taiwan
+for contributions to digital halftoning and image/video analysis for consumer applications
+L. Jay Guo
+University of Michigan
+MI, USA
+for contributions to nanoimprint, scalable nanopatterning
+Indranil Gupta
+University of Illinois at Urbana-Champaign
+IL, USA
+for contributions to reliable large-scale distributed systems
+16 IEEE Fellows Class 2025 | ieee.org/fellows
+Hiroshi Harada
+Kyoto University
+Japan
+for technical leadership and contributions in wireless smart utility networks and software-defined cognitive radio
+Sivanandan Harilal
+DOE Pacific Northwest National Labratory
+WA, USA
+for contributions to laser-produced plasma fundamentals and applications
+Bingsheng He
+National University of Singapore
+Singapore
+for contributions to big data systems in the areas of many-core architectures and cloud-based systems
+Ran He
+Institute of Automation, Chinese Academy of Sciences
+China
+for contributions to face analysis and image synthesis
+Wei He
+University of Science and Technology Beijing
+China
+for contributions to intelligent control and applications of unmanned systems
+Kory W. Hedman
+Arizona State University
+AZ, USA
+for contributions to topology control and leadership in applying risk management to power systems
+17 IEEE Fellows Class 2025 | ieee.org/fellows
+Amr S. Helmy
+Agilent Technologies
+ON, Canada
+for contributions to harnessing optical non-linearities in diode lasers for quantum and non-linear photonics applications
+Kenichi Higuchi
+Tokyo University of Science
+Japan
+for contributions to cellular wireless communications technology and standards
+Volker Hilt
+Nokia Bell Labs
+Germany
+for leadership in multimedia communication and cloud-based software systems
+Mingyi Hong
+University of Minnesota
+MN, USA
+for contributions to optimization in signal processing, wireless communication and machine learning
+Timothy Hospedales
+University of Edinburgh
+United Kingdom
+for contributions to data-efficient machine learning and meta-learning
+Jiankun Hu
+University of New South Wales, Australia
+Australia
+for contributions to biometrics security and anomaly intrusion detection
+18 IEEE Fellows Class 2025 | ieee.org/fellows
+Xiangji Huang
+York University
+ON, Canada
+for contributions to information retrieval, web search, natural language processing, conversational systems, and their applications
+Xin Huang
+Wuhan University
+China
+for contributions to feature extraction and machine learning in remote sensing
+Yongming Huang
+Southeast University
+China
+for contributions to signal processing for mmWave and MIMO wireless communications
+Zi Huang
+University of Queensland
+Australia
+for contributions to multi-modal data management
+Chih-Ming Hung
+MediaTek Inc.
+Taiwan
+for contributions to CMOS digitally-assisted RF designs
+Chih-Pin Hung
+Advanced Semiconductor Engineering Group
+Taiwan
+for leadership in developing and commercializing high density interconnect packaging
+19 IEEE Fellows Class 2025 | ieee.org/fellows
+C. R. Huntley
+Schweitzer Engineering Laboratories, Inc.
+BC, Canada
+for contributions to telecommunication and timing systems in electric power utilities
+Junichi Itoh
+Nagaoka University of Technology
+Japan
+for contributions to high-power density power converters based on circuit topology
+Ho-Ching Iu
+The University of Western Australia
+Australia
+for contributions to nonlinear analysis of power electronics circuits and systems
+Trent R. Jaeger
+University of California, Riverside
+CA, USA
+for contributions to research and education for operating systems and software security
+Roozbeh Jafari
+Massachusetts Institute of Technology
+MA, USA
+for contributions to sensors and systems for digital health paradigms
+Aamer Jaleel
+NVIDIA Corp
+MA, USA
+for contributions to High-Performance Cache Design and Memory-Aware Scheduling
+20 IEEE Fellows Class 2025 | ieee.org/fellows
+Dean G. Jarrett
+National Institute of Standards and Technology
+MD, USA
+for contributions to high resistance metrology and measurement standards and techniques
+Zhensheng Jia
+CableLabs
+CO, USA
+for contributions to optical communication systems and broadband access networks
+Daxin Jiang
+China
+123
+for contributions to context-aware search and language scaling approaches
+Xingliang Jiang
+Chongqing University
+China
+for contributions to prevention of icing events and external insulation design of high-voltage transmission lines
+Mikael Johansson
+KTH - Royal Institute of Technology
+Sweden
+for contributions to computational analysis and optimization of hybrid and networked systems
+Joaquim A. Jorge
+Instituto Superior Tecnico
+Portugal
+for contributions to sketch-based interfaces,modeling and virtual reality
+21 IEEE Fellows Class 2025 | ieee.org/fellows
+Raphael M. Jungers
+Universite Catholique de Louvain
+Belgium
+for contributions to an algorithmic theory of hybrid systems
+Cherie Kagan
+University of Pennsylvania
+PA, USA
+for contributions to colloidal nanocrystals and their integration in optical and optoelectronic devices
+Charles Alexandre Kamhoua
+DEVCOM Army Research Laboratory
+MD, USA
+for contributions to blockchain and game theory applied to cybersecurity
+Maarten J. Kamper
+Stellenbosch University
+South Africa
+for contributions to electrical machine design optimization and application of synchronous machines
+Masoud Karimi Ghartemani
+Mississippi State University
+MS, USA
+for contributions to synchronization, modeling and control of power electronic converters in dc/ac applications
+Andrew J. Keane
+University College Dublin
+Ireland
+for contributions to the integration of resources into energy distribution systems
+22 IEEE Fellows Class 2025 | ieee.org/fellows
+Wolfgang Kellerer
+Technical Univ. of Munich
+Germany
+for contributions to software-defined communication networks and cross-layer network design
+Christopher M. Kellett
+Australian National University
+Australia
+for contributions to analysis and control of nonlinear systems
+Farshad Khorrami
+NYU Tandon School of Engineering
+NY, USA
+for contributions to adaptive nonlinear control and applications to robotics, unmanned systems, and cyber-physical systems
+John Kim
+KAIST
+Korea, Republic of
+for contributions to the design and analysis of high-performance interconnection network architectures
+Younsun Kim
+Samsung Electronics
+Korea, Republic of
+for contributions and leadership in 5G physical layer standardization
+Mustafa Kizilcay
+University of Siegen
+Germany
+for contributions to modeling and simulation of power system electromagnetic transients
+23 IEEE Fellows Class 2025 | ieee.org/fellows
+Thierry E. Klein
+Nokia Bell Labs
+NJ, USA
+for contributions to communication and networking technologies in multiple vertical industry sectors
+Alexander Koelpin
+Hamburg University of Technology
+Germany
+for contributions to microwave interferometry and six-port technology
+Samir Kouro
+Universidad Tecnica Federico Santa Maria
+Chile
+for contributions to power converter topologies and control in energy transition
+Andreas R. Krause
+ETH Zurich
+Switzerland
+for contributions to active sensing, Bayesian optimization, and learning-based control
+Christopher I. Kruegel
+University of California at Santa Barbara
+CA, USA
+for contributions to security, malware detection and vulnerability analysis
+Krzysztof Kulpa
+Warsaw University of Technology (WUT)
+Poland
+for contributions to passive radar
+24 IEEE Fellows Class 2025 | ieee.org/fellows
+Bennett A. Landman
+Vanderbilt University
+TN, USA
+for contributions to MRI harmonization and data-driven modelling in medical image processing
+Jacqueline J. Le Moigne
+NASA Headquarters Science Mission Directorate (SMD)/Earth Science Division (ESD) Earth Science Technology 
+Office (ESTO) MD, USA
+for contributions to satellite image registration and intelligent space systems design
+Jae Sung Lee
+Brightonix Imaging Inc.
+Korea, Republic of
+for contributions to positron emission tomography and hybrid imaging systems and technologies
+Sanghoon Lee
+Yonsei University
+Korea, Republic of
+for contributions to the modeling of human visual perception and processing of visual signals
+Max Lemme
+RWTH Aachen University
+Germany
+for contributions to the development of graphene-based electronic devices
+Debra Lew
+Energy Systems Integration Group
+CO, USA
+for contributions to grid integration of wind and solar power
+25 IEEE Fellows Class 2025 | ieee.org/fellows
+Dan Li
+Tsinghua University
+China
+for contributions to data center network designs
+Jinyu Li
+Microsoft
+WA, USA
+for contributions to deep-learning-based speech technology innovation and commercialization
+Jr-Shin Li
+Washington University in St. Louis
+MO, USA
+for contributions to ensemble control systems theory and applications to quantum and biological systems
+Jun Li
+Nanjing University of Science and Technology
+China
+for contributions to mobile edge computing and wireless federated learning
+Maokun Li
+Tsinghua University
+China
+for contributions to nonlinear inversion algorithms for subsurface imaging
+Zan Li
+Xidian University
+China
+for contributions in theoretical foundations and system development of spectrum monitoring and cognition-based secure communications
+26 IEEE Fellows Class 2025 | ieee.org/fellows
+Zuyi Li
+Zhejiang University
+China
+for contributions to functional microgrid design and microgrid cybersecurity analyses
+Jiye Liang
+Shanxi University
+China
+for contributions to multi-granularity data modeling and graph data mining
+Shengcai Liao
+United Arab Emirates University
+United Arab Emirates
+for contributions to face and person image analysis and recognition
+Hyesook Lim
+Ewha Womans University
+Korea, Republic of
+for leadership in the field of information and communication technology
+Cheng-Tsung Liu
+National Sun Yat-sen University
+Taiwan
+for contributions to next-generation high-efficiency synchronous reluctance motor designs
+Jiajia Liu
+Northwestern Polytechnical University
+China
+for contributions to vehicular edge computing and security, wireless mobile network evaluation, and optimization
+27 IEEE Fellows Class 2025 | ieee.org/fellows
+Jiaying Liu
+Peking University
+China
+for contributions to intelligent visual compression and enhancement
+Lingjia Liu
+Virginia Tech
+VA, USA
+for contributions to multi-cell multi-user MIMO and intelligent spectrum access
+Ying Liu
+Xidian University
+China
+for contributions to the development of antennas with low radar cross-section
+Yunxin Liu
+Tsinghua University
+China
+for contributions to the design and development of intelligent and efficient mobile systems
+Karen Livescu
+Toyota Technological Institute at Chicago
+IL, USA
+for contributions to multi-view and pre-trained speech representation learning
+Oscar Lucia
+University of Zaragoza
+Spain
+for contributions to power conversion for induction heating
+28 IEEE Fellows Class 2025 | ieee.org/fellows
+Xin Luo
+Southwest University
+China
+for contributions to big data analytics, recommender systems and graph learning
+Chengbin Ma
+Shanghai Jiao Tong University
+China
+for contributions to design and control for high-frequency wireless power transfer and hybrid energy storage
+Yanwei Ma
+Institute of Electrical Engineering, Chinese Academy of Sciences
+China
+for contributions to the development and applications of MgB2 and iron-based superconducting wires
+Yiorgos Makris
+The University of Texas at Dallas
+TX, USA
+for contributions to machine-learning-based design of trusted and reliable integrated circuits
+Sebastien Marcel
+Université de Lausanne
+Switzerland
+for contributions to biometric presentation attack detection
+Santiago Marco
+University of Barcelona
+Spain
+for contributions to the use of signal processing and machine learning in chemical sensing systems
+29 IEEE Fellows Class 2025 | ieee.org/fellows
+Mahesh K. Marina
+University of Edinburgh
+United Kingdom
+for contributions to software-oriented mobile networking systems and data-driven networking methods
+Slava A. Maslennikov
+ISO New England
+MA, USA
+for contributions to reliable electric power systems monitoring and mitigation of natural and forced oscillations
+Mohammad Ali Sherkat Masoum
+Utah Valley University
+UT, USA
+for contributions to EV-charging considering power quality
+Yuri Masuoka
+Samsung Electronics
+Korea, Republic of
+for contributions to leading-edge foundry transistor development
+Yasuyuki Matsushita
+Microsoft Research
+Japan
+for contributions to photometric 3D modeling and computational photography
+James R. Mcdonald
+University of Strathclyde
+United Kingdom
+for contributions to advance power engineering research and education
+30 IEEE Fellows Class 2025 | ieee.org/fellows
+Mark A. Mcvey
+Dominion Energy
+VA, USA
+for contributions to standards for stability and deployment of reactive power control technology
+Matteo Meneghini
+University of Padova
+Italy
+for contributions to the reliability of wide bandgap electronic and optoelectronic devices
+Patrick P. Mercier
+University of California, San Diego
+CA, USA
+for contributions to low-power and energy-efficient circuits and systems
+James Misener
+Qualcomm Inc.
+CA, USA
+for leadership in developing and deploying V2X communications
+Sukumar Mishra
+Indian Institute of Technology Delhi
+India
+for contributions to microgrid control and smart charging technologies
+Vishal Monga
+Pennsylvania State University
+PA, USA
+for contributions to computationally efficient image analysis and restoration
+31 IEEE Fellows Class 2025 | ieee.org/fellows
+Shayan Mookherjea
+University of California, San Diego
+CA, USA
+for contributions to optoelectronic devices and their applications
+Pedro J. Moreno
+Saudi Data and Artificial Intelligence Authority (SDAIA
+Saudi Arabia
+for contributions to speech recognition and industrial-scale internationalization of automated speech processing
+Ali Mosleh
+University of California, Los Angles
+CA, USA
+for innovative advancements in Bayesian models for risk and reliability analysis
+Rana Mukerji
+NYISO
+NY, USA
+for leadership in the design and implementation of wholesale electricity markets
+Debdeep Mukhopadhyay
+Indian Institute of Technology-Kharagpur
+India
+for contributions to design and analysis of hardware security primitives
+Ramakrishna Mukkamala
+University of Pittsburgh
+PA, USA
+for contributions to advanced hemodynamic monitoring and cuffless blood pressure measurement
+32 IEEE Fellows Class 2025 | ieee.org/fellows
+Rajen Manicon Murugan
+Texas Instruments, Inc.
+TX, USA
+for contributions to multiphysics co-design and characterization methods of advanced heterogeneous packages
+Nirmal K. C. Nair
+University of Auckland
+New Zealand
+for contributions towards secure renewables grid integration
+Shinohara Naoki
+Kyoto University
+Japan
+for contributions to wireless power transfer technologies and applications
+Amiya Nayak
+University of Ottawa
+ON, Canada
+for contributions to wireless ad hoc networks and cybersecurity
+Hans Toya Nembach
+National Institute of Standards and Technology
+CO, USA
+for contributions to the development of novel magnetodynamic measurements of thin films and nanostructures
+Surya Nepal
+Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia
+Australia
+for contributions to cybersecurity, trust and privacy in distributed systems
+33 IEEE Fellows Class 2025 | ieee.org/fellows
+Tse Nga Ng
+University of California, San Diego
+CA, USA
+for contributions to flexible organic electronics used in large-area imagers and sensing systems
+Hien Q. Ngo
+Queen's University of Belfast
+United Kingdom
+for contributions to cellular and cell-free massive MIMO
+Pavel Nikitin
+Impinj
+WA, USA
+for contributions to the analysis and design of RFID tags and systems
+Yoshifumi Nishio
+Tokushima University
+Japan
+for contributions to new nonlinear phenomena and effective model creation for large coupled nonlinear systems
+Stuart F. Oberman
+NVIDIA Corp
+CA, USA
+for contributions to GPU computing for artificial intelligence
+Umit Y. Ogras
+University of Wisconsin-Madison
+WI, USA
+for contributions to networks-on-chip for heterogeneous manycore architectures
+34 IEEE Fellows Class 2025 | ieee.org/fellows
+Hendrik Ohldag
+Lawrence Berkeley National Laboratory
+CA, USA
+for contributions to studies of magnetic materials with novel x-ray techniques at high spatio-temporal resolution
+William D. Oliver
+Massachusetts Institute of Technology
+MA, USA
+for contributions to superconductive quantum computing technology and its teaching
+Timothy J. Oshea
+DeepSig
+VA, USA
+for contributions to deep learning for physical layer communications and sensing
+Ram Bilas Pachori
+Indian Institute of Technology Indore
+India
+for contributions to application of signal decomposition methods to biomedical engineering
+Willie J. Padilla
+Duke University
+NC, USA
+for contributions to the field of metamaterials, including perfect absorbers and active devices
+Sinno Pan
+The Chinese University of Hong Kong
+Hong Kong
+for contributions to transfer learning methodologies
+35 IEEE Fellows Class 2025 | ieee.org/fellows
+Aarno Parssinen
+University of Oulu
+Finland
+for contributions to direct conversion and digital RF transceivers and hardware-aware communications systems
+Simone Paulotto
+Apple, Inc.
+CA, USA
+for contributions to 5G mm-wave and leaky-wave antennas
+Lacra Pavel
+University of Toronto
+ON, Canada
+for contributions to game theory, control, and optimization for network systems
+Wen-Hsiao Peng
+National Yang Ming Chiao Tung University
+Taiwan
+for contributions to the design and implementation of video coding algorithms and standards
+Mauricio Pereira Da Cunha
+University of Maine
+ME, USA
+for contributions to the commercialization of harsh-environment microwave acoustics materials, sensors and systems
+Jamie Phillips
+University of Delaware
+DE, USA
+for contributions to quantum dot infrared photodetector and microscale photovoltaic energy harvesting
+36 IEEE Fellows Class 2025 | ieee.org/fellows
+Angelo Pinto
+Intel Corporation
+CA, USA
+for technical leadership and contributions to FinFET technology adoption into volume manufacturing of mobile products
+Nils H. Pohl
+Ruhr-Universitat Bochum
+Germany
+for contributions to wideband and ultra-precise millimeter-wave radar sensors
+Radu-Emil Precup
+Politehnica University of Timisoara
+Romania
+for contributions to fuzzy and data-driven control of servo systems
+Nuria Gonzalez Prelcic
+University of California, San Diego
+CA, USA
+for contributions to millimeter wave wireless communications
+Malin Harindhu Premaratne
+Monash University
+Australia
+for contributions to theory, modelling, and simulations of optical quantum devices
+Kai Qin
+Swinburne University of Technology
+Australia
+for contributions to synergy machine learning and intelligent optimization
+37 IEEE Fellows Class 2025 | ieee.org/fellows
+Maxim Raginsky
+University of Illinois
+IL, USA
+for contributions to information-theoretic analysis of stochastic systems in optimization and machine learning
+Suresh Ramalingam
+AMD, Inc.
+CA, USA
+for leadership in technology innovation to commercialize 2.5D Silicon interposer
+Julio Romero Aguero
+Quanta Technology
+TX, USA
+for leadership in the development of methodologies for modernization of power distribution systems
+Philip Rubin
+Haskins Laboratories
+CT, USA
+for contributions in speech synthesis and analysis, neuroscience, and ethics of research and technology
+Jee-Hwan Ryu
+KAIST
+Korea, Republic of
+for contributions to passivation and stability-assured control in haptics and telerobotics
+Ahmed K Sadek
+Qualcomm Inc.
+CA, USA
+for contributions to the leadership and development of automated driving and cellular in unlicensed spectrum
+38 IEEE Fellows Class 2025 | ieee.org/fellows
+Luca Sanguinetti
+University of Pisa
+Italy
+for contributions to signal processing of multi-antenna and multi-cell wireless communications
+Costas D. Sarris
+University of Toronto
+ON, Canada
+for contributions to microwave and electromagnetic field computations
+Davide Scaramuzza
+University of Zurich, Switzerland
+Switzerland
+for contributions to micro-drones visual navigation and robust perception with event cameras
+Patrick R. Schaumont
+Worcester Polytechnic Institute
+MA, USA
+for contributions to the implementation and evaluation of hardware security
+Christian Schuster
+Hamburg University of Technology
+Germany
+for contributions to physics-based modeling, design, and optimization of interconnects in servers and networking equipment
+Michael Lewis Seltzer
+Meta
+WA, USA
+for contributions to speech recognition
+39 IEEE Fellows Class 2025 | ieee.org/fellows
+Kaushik Sengupta
+Princeton University
+NJ, USA
+for contributions to millimeter-Wave and terahertz technology in silicon-based integrated circuits
+Abdallah A. Shami
+The University of Western Ontario
+ON, Canada
+for contributions to methods for virtualized networks and optical access design
+Satish K. Sharma
+San Diego State University
+CA, USA
+for contributions to antennas design for satellite and radar applications
+Xu She
+Lunar Energy
+CA, USA
+for contributions to power conversion technologies and system architectures for sustainable energy utilization in industry
+Min Sheng
+Xidian University
+China
+for contributions to interference and resource management in space-air-ground networks
+Jin-Wei Shi
+National Central University
+Taiwan
+for contributions to high-speed photodetectors and VCSELs for optics fiber communications
+40 IEEE Fellows Class 2025 | ieee.org/fellows
+Yi Shi
+Virginia Tech
+MD, USA
+for contributions to wireless network performance optimization and wireless security
+Zhiguo Shi
+Zhejiang University
+China
+for contributions to array signal processing with applications to UAV surveillance
+Masayuki Shigematsu
+Sumitomo Electric Industries, Ltd.
+Japan
+for contributions to realization of low loss optical transmission lines and gain flattened optical amplifiers
+Byonghyo Shim
+Seoul National University
+Korea, Republic of
+for contributions to sparse signal processing and multi-antenna technology
+Manuel Sierra Castaner
+Universidad Politecnica de Madrid
+Spain
+for contributions to antenna measurement techniques and planar antennas design
+Biplab Sikdar
+National University of Singapore
+Singapore
+for contributions to the security and privacy of the Internet-of-Things and cyber-physical systems
+41 IEEE Fellows Class 2025 | ieee.org/fellows
+Chow-Yen-Desmond Sim
+Feng Chia University
+Taiwan
+for contributions to the practical design and application of high-isolation broadband antennas and arrays
+Daniel B. Sinars
+Sandia National Laboratories
+NM, USA
+for contributions to radiography diagnostics and magneto-inertial fusion
+Radan Slavik
+University of Southampton
+United Kingdom
+for contributions to coherent all-optical signal processing and hollow core fiber development
+James J. Sluss
+University of Oklahoma
+OK, USA
+for contributions to advancing global engineering education through entrepreneurship and professional development
+Larry Smarr
+University of California, San Diego
+CA, USA
+for contributions to supercomputing and metacomputer cyberinfrastructure
+Noah Snavely
+Google Inc.
+NY, USA
+for contributions to computer vision and computer graphics
+42 IEEE Fellows Class 2025 | ieee.org/fellows
+Francesco Soldovieri
+National Research Council of Italy (CNR), Institute for Electromagnetic Sensing of the Environment
+Italy
+for contributions to theoretical analyses of inverse problems, microwave tomography, and their applications
+Peilin Song
+IBM T. J. Watson Research Center
+NY, USA
+for contributions to imaging-based integrated-circuit diagnostics and detection
+Wen Liang Soong
+University of Adelaide
+Australia
+for contributions to performance improvement and high-speed operation of permanent magnet synchronous machines
+Asgeir J. Sorensen
+Norwegian University of Science and Technology
+Norway
+for contributions to autonomous robotic platforms and certification of control systems for marine operations
+Alexander Sprintson
+Nokia Bell Labs
+TX, USA
+for contributions to wireless network coding and network security
+Kai Strunz
+Technische Universitaet Berlin (TU Berlin)
+Germany
+for contributions to multi-scale modeling and control of AC-DC power and energy systems
+43 IEEE Fellows Class 2025 | ieee.org/fellows
+Nan Sun
+Tsinghua University
+China
+for contributions to noise-shaping ADC and mixed-signal circuits
+Xiao Wei Sun
+Southern University of Science and Technology
+China
+for contributions to optoelectronic materials and devices
+Teruhiko Suzuki
+Sony Corporation
+Japan
+for contributions to video coding for professional and consumer products
+Rajasekaran Swaminathan
+Advanced Micro Devices Inc.,
+TX, USA
+for leadership in chiplets technology architectures for high-performance computing
+Thomas L. Szabo
+Verasonics, Inc.
+MA, USA
+for contributions to ultrasound education and establishing technical standards
+Csaba Szepesvari
+Google DeepMind
+AB, Canada
+for contributions to the theory of sequential decision making under uncertainty
+44 IEEE Fellows Class 2025 | ieee.org/fellows
+Rahim Tafazolli
+The University of Surrey
+United Kingdom
+for contributions in wireless communications
+Makoto Takamiya
+The University of Tokyo
+Japan
+for contributions to digitally controlled integrated power management circuits
+Sheldon Xiangdong Tan
+University of California, Riverside
+CA, USA
+for contributions to reliability and thermal modeling and analysis of integrated circuits
+Adrian J. Tang
+NASA Jet Propulsion Laboratory / Caltech
+CA, USA
+for contributions to Millimeter-Wave Systems-on-Chip Instruments for space science
+Kea-Tiong Tang
+National Tsing Hua University
+Taiwan
+for contributions to smart miniature electronic nose circuits and systems
+Xiaohu Tang
+School of Information Science & Technology, Southwest Jiaotong University
+China
+for contributions to sequence design in wireless communications and coding in distributed systems
+45 IEEE Fellows Class 2025 | ieee.org/fellows
+Ed G. teNyenhuis
+Hitachi Energy
+ON, Canada
+for technical leadership in transformer design, industry standards, and power transformer services
+Han Wui Then
+Intel Corporation
+OR, USA
+for the development and heterogeneous integration of GaN electronics on 300-mm Silicon wafers
+Michael J. Thompson
+Schweitzer Engineering Laboratories, Inc.
+IL, USA
+for contributions to standardization and guidelines for modern protection technologies
+Daxin Tian
+Beihang University
+China
+for contributions to vehicular communications and networking
+Dong Tian
+InterDigital
+MA, USA
+for contributions to 3D video compression, processing, and analysis
+Julian Togelius
+New York University
+NY, USA
+for contributions to procedural content generation and artificial intelligence in video games
+46 IEEE Fellows Class 2025 | ieee.org/fellows
+Cristiano Tomassoni
+Univeristy of Perugia
+Italy
+for contributions to miniaturized microwave filters and additive manufactured filters
+Xiaohua Tong
+Tongji University
+China
+for contributions to planetary photogrammetric mapping and remote sensing for lunar and martian exploration
+Natalia A. Trayanova
+Johns Hopkins University
+MD, USA
+for contributions to personalized digital-twins and AI in arrhythmia diagnosis and treatment
+Dina H. Triyoso
+Tokyo Electron America
+NY, USA
+for contributions to high-k metal gate complementary metal-oxide-semiconductor technology
+Jeffrey Y. Tsao
+Sandia National Laboratories
+NM, USA
+for contributions to semiconductor-epitaxy and solid-state-lighting technologies
+Alfredo Vaccaro
+University of Sannio Department of Engineering, Italy
+Italy
+for contributions to power system analysis with data uncertainty
+47 IEEE Fellows Class 2025 | ieee.org/fellows
+Dirk Van Hertem
+Katholieke Universiteit Leuven
+Belgium
+for contributions to the development of high-voltage DC grids
+Vincent O. Vanhoucke
+Google
+CA, USA
+for contributions to deep learning applied to perception and robotics
+Rajiv K. Varma
+University of Western Ontario
+ON, Canada
+for contributions in developing technology for static synchronous compensators
+Nalini Venkatasubramanian
+University of California at Irvine
+CA, USA
+for contributions to the foundations of adaptive software and its application in enhancing community safety
+Jiafu Wan
+South China University of Technology
+China
+for contributions to resource interconnection and reconfiguration of the internet of manufacturing things
+Caisheng Wang
+Wayne State University
+MI, USA
+for contributions to modeling and control of distributed alternative energy systems and battery storage management
+48 IEEE Fellows Class 2025 | ieee.org/fellows
+Xinran Wang
+Nanjing University
+China
+for contributions to the fabrication and device application of low-dimensional semiconductors
+Brent Waters
+The University of Texas at Austin
+TX, USA
+for contributions to cryptography and attribute-based encryption
+Hung-Yu Wei
+National Taiwan University
+Taiwan
+for standardization of edge/fog computing and innovation in wireless relay networking technologies
+Gordon Wetzstein
+Stanford University
+CA, USA
+for contributions to computational imaging and display systems
+Adam Wierman
+California Institute of Technology
+CA, USA
+for contributions to algorithms and scheduling theory in sustainable computing
+Steve Wilton
+University of British Columbia
+BC, Canada
+for contributions to debugging methodologies and low-power FPGAs
+49 IEEE Fellows Class 2025 | ieee.org/fellows
+Robert Wisniewski
+Samsung
+NY, USA
+for leadership in high-performance computing software and systems
+Chuan Wu
+University of Hong Kong
+Hong Kong
+for contributions to resource scheduling in cloud computing and distributed machine learning systems
+Fangxiang Wu
+University of Saskatchewan
+SK, Canada
+for contributions to computational intelligence techniques for biomedical data analytics
+Jingxian Wu
+University of Arkansas
+AR, USA
+for contributions to the modeling and energy efficient design of wireless communication systems
+Wei-Li Wu
+University of Texas at Dallas
+TX, USA
+for contributions to study of data communication and processing in wireless sensor networks
+Lucy R. Wyatt
+University of Sheffield
+United Kingdom
+for contributions to HF radar metocean inversion methods, measurement campaigns, and validation
+50 IEEE Fellows Class 2025 | ieee.org/fellows
+John Q. Xiao
+University of Delaware
+DE, USA
+for contributions to spin-polarized transport and spin dynamics in magnetic heterostructures
+Liang Xiao
+Xiamen University
+China
+for contributions to learning based wireless security
+Kaigui Xie
+Chongqing University
+China
+for contributions to power system reliability
+Chunsheng Xin
+National Science Foundation
+VA, USA
+for contributions to secure resource sharing and core network control for resilient computing
+Hongkai Xiong
+Shanghai Jiao Tong University
+China
+for contributions to multi-scale multimedia signal representation, coding and communication
+Hao Xu
+Qualcomm Inc.
+CA, USA
+for leadership in development of radio propagation and MIMO technology in mobile communications
+51 IEEE Fellows Class 2025 | ieee.org/fellows
+Jianliang Xu
+Hong Kong Baptist University
+Hong Kong
+for contributions to mobile data management and trustworthy query processing
+Jie Xu
+The Chinese University of Hong Kong, Shenzhen
+China
+for contributions to wireless information and power transfer and unmanned aerial vehicle enabled wireless networks
+Qingsong Xu
+University of Macau
+China
+for contributions to the design and control of robotic micro-and nano-positioning and manipulation systems
+Sheng Xu
+University of California, San Diego
+CA, USA
+for contributions in developing wearable electronics for monitoring deep tissue of the human body
+Wei Xu
+Southeast University
+China
+for contributions to hybrid MIMO transceiver design and distributed optimization for wireless networks
+Zhen Xu
+University of Michigan-Ann Arbor
+MI, USA
+for development and clinical translation of non-invasive mechanical ultrasound ablation technology
+52 IEEE Fellows Class 2025 | ieee.org/fellows
+Hyunsoo Yang
+National University of Singapore
+Singapore
+for contributions to controlling spintronic materials and devices for memories and terahertz technology
+Jianhua Yao
+Tencent AI Lab
+MD, USA
+for contributions to computer aided diagnosis, computational genomics and healthcare AI product development
+Ece Yaprak
+Wayne State University
+MI, USA
+for leadership in engineering technology accreditation and education
+Amirnaser Yazdani
+Toronto Metropolitan University (formerly, Ryerson University), Department of Electrical, Computer and 
+Biomedical EngineeringON, Canada
+for contributions to the modeling, analysis, and control of power-electronically interfaced distributed energy resources
+Fan Ye
+Stony Brook University
+NY, USA
+for contributions to the development of sensing networks, systems, and applications
+53 IEEE Fellows Class 2025 | ieee.org/fellows
+Lijun Yin
+Binghamton University - State University of New York
+NY, USA
+for contributions to automatic facial behavior analysis and recognition
+Shouyi Yin
+Tsinghua University
+China
+for contributions to energy-efficient AI chip architectures
+Lei Ying
+SUNY at Buffalo
+NY, USA
+for contributions to fast magnetic resonance imaging with sparse sampling
+Mika E. Ylianttila
+University of Oulu
+Finland
+for contributions to mobility management and network security
+Hanwen Yu
+University of Electronic Science and Technology of China
+China
+for contributions to InSAR phase unwrapping and its applications
+Wenjian Yu
+Tsinghua University
+China
+for contributions to parasitic extraction, circuit simulation and related numerical methods
+54 IEEE Fellows Class 2025 | ieee.org/fellows
+Jing Yuan
+Microsoft
+China
+for contributions to trajectory data mining and social computing
+Mehmet R. Yuce
+Monash University
+Australia
+for contributions to wireless wearable body sensors and self-powered sensors
+Regan A. Zane
+Utah State University
+UT, USA
+for contributions to modular power conversion in energy harvesting, lighting, and electrified transportation systems
+Alessio Zappone
+University of Cassino and Southern Lazio
+Italy
+for contributions to the energy-efficient design of wireless communication networks
+Heiga Zen
+Google DeepMind
+Japan
+for contributions to generative model-based speech synthesis
+Yong Zeng
+Southeast University
+China
+for contributions to unmanned aerial vehicle communications and wireless power transfer
+55 IEEE Fellows Class 2025 | ieee.org/fellows
+Guangtao Zhai
+Shanghai Jiao Tong University
+China
+for contributions to perceptual quality assessment and enhancement of visual media
+Bo Zhang
+Tsinghua University
+China
+for contributions to electromagnetic environment effects in power systems
+Jinfa Zhang
+Delta Electronics, Inc.
+China
+for leadership in LLC-SRC converter design and engineering applications
+Shuai Zhang
+Aalborg University
+Denmark
+for contributions to antennas for mobile communications
+Xingyi Zhang
+Anhui University
+China
+for contributions to evolutionary multi-objective optimization
+Xinmiao Zhang
+The Ohio State University
+WA, USA
+for contributions to error-correcting codes and VLSI implementations
+56 IEEE Fellows Class 2025 | ieee.org/fellows
+Yanning Zhang
+Northwestern Polytechnical University
+China
+for contributions in dynamic visual information reconstruction and recognition
+Yong Zhang
+City University of Hong Kong
+Hong Kong
+for contributions to the development of functional materials and devices for biomedical applications
+Yongchang Zhang
+North China Electric Power University
+China
+for contributions to control of motor drives and converters
+Yongdong Zhang
+University of Science and Technology of China
+China
+for contributions to Internet multimedia processing and analysis
+Peter D. Zhao
+Hydro One
+ON, Canada
+for contributions to the development of safer, more reliable and explosion-resistant bushing and transformer standards
+Jie Zhou
+Tsinghua University
+China
+for contributions to visual content recognition and search
+57 IEEE Fellows Class 2025 | ieee.org/fellows
+Liang Zhou
+Nanjing University of Posts and Telecommunications, China
+China
+for contributions to massive multimedia transmission and computing
+Wanlei Zhou
+City University of Macau
+Macao
+for contributions to cyber security and privacy
+Haibin Zhu
+Nipissing University
+ON, Canada
+for contributions to collaboration theory, models, and systems
+Hongtu Zhu
+University of North Carolina at Chapel Hill
+NC, USA
+for contributions to data integration in medical imaging and genetics, and applying learning in ridesharing
+Mingjian Zuo
+Qingdao Mingserve Tech. Co. Ltd.
+AB, Canada
+for contributions in system reliability assurance and prognostics and health management of engineering systems

@@ -1,0 +1,1567 @@
+Alexa, Marc
+Arenas, Marcelo
+Bailey, Michael
+Banerjee, Arindam
+Barrett, Clark
+Bodker, Susanne
+Chandra, Satish
+Chechik, Marsha
+Chen, Lei
+Chen, Wei
+Chiasserini, Carla Fabiana
+Chong, Fred
+Cook, Diane Joyce
+Crocker, Stephen David
+Curless, Brian
+de Alfaro, Luca
+de Rijke, Maarten
+Delp, Edward J
+Dressler, Falko
+Dreyer, Derek
+Elmqvist, Niklas
+Feldman, Michal
+Foster, Nate
+Goel, Ashish
+Guha, Sudipto
+Heer, Jeffrey Michael
+Housley, Russell
+Hudson, Scott
+Kankanhalli, Mohan
+King, Irwin
+Lampe, Cliff
+Leonardi, Stefano
+Li, Guoliang
+Madni, Azad M
+Menzies, Tim J.
+Mezini, Mira
+Misra, Sudip
+Nuseibeh, Bashar A
+O'Hearn, Peter W
+Ozcan, Fatma
+Pagh, Rasmus
+Panda, Dhabaleswar K
+Ramakrishnan, Naren
+Randall, Dana
+Roychoudhury, Abhik
+Silva, Claudio T.
+Starner, Thad
+Tian, Qi
+Walid, Anwar
+Wang, Haixun
+Xing, Guoliang
+Zhao, Feng
+Zhou, Jingren
+Zobel, Justin
+Zorn, Benjamin G
+Akella, Aditya
+Backes, Michael
+Bafna, Vineet
+Balcan, Maria-Florina
+Bansal, Nikhil
+Belkin, Mikhail
+Ben-David, Shai
+Bengio, Yoshua
+Berners-Lee, Tim
+Betz, Vaughn Timothy
+Caceres, Ramon
+Chekuri, Chandra
+Chen, Haibo
+Chen, Yingying
+Church, Kenneth Ward
+Dannenberg, Roger B.
+Dong, Xin Luna
+Drechsler, Rolf
+Du, Wenliang
+Dubey, Pradeep
+Feldmann, Anja
+Fitzmaurice, George
+Fomin, Fedor
+Foster, Jeffrey S
+Gao, Jianfeng
+Goldberg, Ian
+Gulwani, Sumit
+Han, Zhu
+Hinton, Geoffrey E
+Immorlica, Nicole
+Jaeger, Trent
+Koedinger, Kenneth Richard
+Krause, Andreas
+Kruegel, Christopher Ian
+Kung, Ht
+LeCun, Yann
+Lo, David
+Lou, Wenjing
+Ma, Kwan-Liu
+Ma, Wei-Ying
+Mao, Zhuoqing
+McGuinness, Deborah
+Medioni, Gerard
+Mehrotra, Sharad
+Naor, Seffi
+Narayanan, Shrikanth
+Noy, Natasha
+Pasareanu, Corina S
+Pedram, Massoud
+Raghunathan, Anand
+Raphael, Benjamin
+Ron, Dana
+Roughgarden, Tim
+Sankoff, David
+Saroiu, Stefan
+Schmidt, Albrecht
+Schuller, Björn W.
+Sengers, Phoebe
+Shi, Elaine
+Snavely, Keith Noah
+Sriram, Ram D
+Staab, Steffen
+Szalay, Alexander
+Varma, Manik
+Wang, XiaoFeng
+Weinberger, Kilian
+Witchel, Emmett
+Xie, Xing
+Agrawala, Maneesh
+Anandkumar, Anima
+Atienza Alonso, David
+Barak, Boaz
+Beaudouin-Lafon, Michel
+Boncz, Peter
+Ceze, Luis H
+Chandra, Ranveer
+Chawla, Nitesh
+Chi, Ed H.
+Cortes, Corinna
+Curtis, Bill
+Daskalakis, Constantinos
+de Supinski, Bronis R.
+Deb, Kalyanmoy
+Elbaum, Sebastian
+Fang, Yuguang
+Fu, Kevin
+Gotsman, Craig
+Hassan, Ahmed E.
+Helal, Sumi
+Henkel, Joerg
+Hermenegildo, Manuel V
+Hicks, Michael W
+Hoefler, Torsten
+Hong, Jason
+Irani, Sandy
+Ishii, Hiroshi
+Kemper, Alfons
+Khuller, Samir
+Koushanfar, Farinaz
+Kuo, Chung C
+Li, Hang
+Lin, Jimmy
+Marculescu, Radu
+Mei, Hong
+Mount, David M
+Navarro, Gonzalo
+Pass, Rafael
+Pollefeys, Marc
+Pothen, Alex
+Qureshi, Moinuddin
+Sabharwal, Ashutosh
+Sherwood, Tim
+Soatto, Stefano
+Stasko, John
+Su, Zhendong
+Sullivan, Gary J.
+Teevan, Jaime
+Toyama, Kentaro
+Vidal, Rene
+Xing, Eric
+Yu, Dong
+Yu, Yizhou
+Zheng, Haitao
+Zhu, Wenwu
+Zorin, Denis
+Adleman, Leonard M.
+Bader, David A
+Balakrishnan, Meenakshi
+Braverman, Mark
+Camp, Linda Jean
+Chang, Edward Y
+Choudhury, Tanzeem
+Cohen-Or, Daniel
+Das, Gautam
+Dey, Anind K.
+Eeckhout, Lieven
+Farach-Colton, Martin
+Fiat, Amos
+Franke, Hubertus
+Friedman, Batya
+Gabrilovich, Evgeniy
+Gal-Ezer, Judith
+Ganesan, Deepak
+Gupta, Anupam
+Haas, Zygmunt J.
+Hazan, Elad
+Hu, Xiaobo Sharon
+Inverardi, Paola
+Ives, Zachary
+Jajodia, Sushil
+Jhala, Ranjit
+Kaeli, David R
+Katz, Jonathan
+Kleinberg, Robert
+Lengauer, Thomas
+Li, Feifei
+Li, Hai
+Li, Ninghui
+Liu, Tie-Yan
+Marschner, Steve
+Mason, Matthew T
+Miller, Dale A
+Mossel, Elchanan
+Nebel, Bernhard
+Nikolaj, Bjorner
+Ostrovsky, Rafail
+Ouaknine, Joel
+Pan, David Z.
+Picard, Rosalind Wright
+Qadeer, Shaz
+Ricart, Glenn
+Rosing, Tajana
+Ross, Robert B
+Rusinkiewicz, Szymon
+Samarati, Pierangela
+Sarawagi, Sunita
+Schiele, Bernt
+Shah, Mubarak Ali
+Sheffer, Alla
+Singh, Munindar P.
+Sistla, Aravinda P
+Smolka, Scott
+Tang, Jie
+Tehranipoor, Mark
+Trevisan, Luca
+Wang, Wenping
+Waters, Brent
+White, Ryen W
+Wobbrock, Jacob Otto
+Xie, Tao
+Yang, Ming-Hsuan
+Zaki, Mohammed
+Zhao, Ben Y.
+Zhong, Lin
+Zilberstein, Shlomo
+Zimmermann, Thomas
+Abadi, Daniel J
+Allan, James
+Aluru, Srinivas
+Arpaci-Dusseau, Andrea
+Arpaci-Dusseau, Remzi
+Banerjee, Suman
+Blum, Manuel
+Briand, Lionel
+Brooks, David
+Canetti, Ran
+Canny, John
+Chandrakasan, Anantha
+Chang, Yao-Wen
+Charikar, Moses
+Chen, Yiran
+Cormode, Graham R.
+Cousot, Patrick
+Desbrun, Mathieu
+Diffie, Whitfield
+Dorr, Bonnie J
+Duffield, Nicholas
+Edelman, Alan
+Eiter, Thomas
+Flanagan, Cormac
+Forlizzi, Jodi
+Fox, Dieter
+Ghemawat, Sanjay
+Gonzalez, Antonio
+Gordon, Andrew D.
+Gribble, Steven
+Hambrusch, Susanne E
+Hellman, Martin
+Higham, Nicholas
+Hoare, C. Antony R.
+Hoos, Holger H.
+Ilyas, Ihab F.
+John, Lizy Kurian
+Katoen, Joost-Pieter
+Kim, Nam Sung
+Koenig, Sven
+Kotz, David
+Krishnamurthy, Arvind
+Kumar, Ravi
+Levine, Brian
+Leyton-Brown, Kevin
+LI, Xuelong
+Low, Steven H.
+Lu, Chenyang
+Madden, Samuel
+Mahlke, Scott
+Maltz, David
+Markl, Volker
+Mataric, Maja
+Menczer, Filippo
+Meseguer, Jose
+Morris, Meredith Ringel
+Nagappan, Nachiappan
+Nagpal, Radhika
+Naor, Moni
+Narayanaswami, Chandra
+Noh, Sam H.
+Panangaden, Prakash
+Panchanathan, Sethuraman
+Parashar, Manish
+Parhi, Keshab K.
+Park, Haesun
+Plotkin, Gordon
+Rabin, Michael O.
+Ren, Kui
+Resnick, Paul
+Rosson, Marybeth
+Salzberg, Steven
+Seshia, Sanjit Arunkumar
+Shamir, Adi
+Shen, Heng Tao
+Sheth, Amit
+Smith, Adam
+Sorkine-Hornung, Olga
+Stevens, Rick
+Stone, Peter
+Tao, Yufei
+Tassiulas, Leandros
+Thompson, Kenneth Lane
+Tomkins, Andrew
+Troyanskaya, Olga
+Turk, Matthew A
+Van Der Aalst, Wil
+Walsh, Toby
+Wang, Wei
+Williams, Laurie Ann
+Wu, Cathy H
+Yan, Shuicheng
+Yi, Wang
+Zhou, Kun
+Zyda, Michael J
+Aaronson, Scott J
+Abdelzaher, Tarek
+Amarasinghe, Saman
+Bala, Kavita
+Balazinska, Magdalena
+Beame, Paul
+Berger, Emery David
+Boisvert, Ronald F
+Cachin, Christian
+Calder, Bradley G
+Calvanese, Diego
+Capkun, Srdjan
+Cardie, Claire
+Chan, Timothy
+Chandy, Kanianthra Mani
+Chen, Xilin
+Churchill, Elizabeth Frances
+Cohen, Philip R
+Conitzer, Vincent
+Contractor, Noshir
+Dwyer, Matthew B
+Ferrari, Elena
+Freedman, Michael J.
+Frincke, Deborah
+Getoor, Lise
+Gini, Maria L
+Kambhampati, Subbarao
+Kolda, Tamara G
+Li, Xiangyang
+Lu, Songwu
+Mackay, Wendy Elizabeth
+Marculescu, Diana
+McIlraith, Sheila
+Mihalcea, Rada
+Murphy, Robin R
+Najork, Marc
+Nieh, Jason
+Pfister, Hanspeter
+Pinkston, Timothy
+Pop, Mihai
+Reuter, Andreas
+Rosenschein, Jeffrey S
+Seshan, Srinivasan
+Shenoy, Prashant J
+Shor, Peter W
+Singh, Mona
+Sitaraman, Ramesh Kumar
+Song, Dawn
+Stolfo, Salvatore J
+Tao, Dacheng
+Tennenholtz, Moshe
+Vigna, Giovanni
+Vishnoi, Nisheeth
+Whitley, Darrell
+Xie, Yuan
+Youssef, Moustafa A
+Zaniolo, Carlo A
+Zhou, Lidong
+Agha, Gul
+Asanovic, Krste
+Asokan, N
+Barham, Paul
+Bartlett, Peter L
+Basin, David
+Belding, Elizabeth
+Bodik, Rastislav
+Borner, Katy
+Bruckman, Amy S
+Camenisch, Jan
+Darwiche, Adnan
+Dehon, Andre M
+Devanbu, Premkumar T
+Dey, Tamal K
+Dwarkadas, Sandhya
+Feiner, Steven
+Finin, Tim
+Funkhouser, Thomas
+Garofalakis, Minos
+Gerla, Mario
+Gilbert, Juan E
+Hajiaghayi, Mohammad T.
+Halperin, Dan
+He, Tian
+Heinzelman, Wendi Beth
+Hertzmann, Aaron
+Hodgins, Jessica K
+Hughes, John
+Håstad, Johan
+Isbell, Charles Lee
+Keeton, Kimberly
+Khanna, Sanjeev
+Lee, Lillian
+Leighton, Tom
+Li, Fei-Fei
+Littman, Michael
+Liu, Huan
+Luo, Jiebo
+Maggs, Bruce M
+Manjunath, Bangalore S
+Misra, Vishal
+Mueller, Frank
+Parkes, David
+Parulkar, Gurudatta
+Pitassi, Toniann
+Qiu, Lili
+Roughan, Matthew
+Sahai, Amit
+Snoeren, Alex C.
+Tesauro, Gerald
+Thuraisingham, Bhavani
+Vadhan, Salil
+Voorhees, Ellen M
+Wigderson, Avi
+Wolman, Alec
+Birkedal, Lars
+Bugnion, Edouard
+Burnett, Margaret
+Chang, Shih Fu
+Cohen, Edith
+Comaniciu, Dorin
+Dray, Susan
+Fox, Edward Alan
+Fujimoto, Richard M
+Goldwasser, Shafi
+Gomes, Carla
+Grohe, Martin
+Gupta, Aarti
+Guruswami, Venkatesan
+Gusfield, Dan
+Hager, Gregory
+Hand, Steven Michael
+Harchol-Balter, Mor
+Kale, Laxmikant
+Kass, Michael
+Keromytis, Angelos Dennis
+Kesselman, Carl
+Knightly, Edward
+Knoblock, Craig
+Lee, Insup
+Lee, Wenke
+Li, Li Erran
+Loh, Gabriel H
+Lozano-Perez, Tomas
+Lynch, Clifford A
+Ma, Yi
+Mccallum, Andrew K.
+Micali, Silvio
+Moshovos, Andreas
+Murphy, Gail C
+Mutlu, Onur
+Oliver, Nuria
+Prabhakar, Balaji
+Rabin, Tal
+Ramakrishnan, K. K.
+Ramamoorthi, Ravi
+Rogers, Yvonne
+Rui, Yong
+Schoelkopf, Bernhard
+Seitz, Steve
+Sipser, Michael
+Sivasubramaniam, Anand
+Srivastava, Mani B.
+Vardy, Alexander
+Voelker, Geoffrey
+Wong, Martin
+Yang, Qiang
+Zhai, Chengxiang
+Zhang, Aidong
+Alon, Noga
+Barford, Paul
+Benini, Luca
+Bianchini, Ricardo
+Blackburn, Stephen
+Boneh, Dan
+Brodley, Carla
+Cassell, Justine
+Demaine, Erik
+Druin, Allison
+Durand, Fredo
+Feamster, Nick
+Flinn, Jason
+Freeman, William
+Gil, Yolanda
+Grossman, Robert L.
+Gupta, Rajesh
+Hendler, James
+Henzinger, Monika
+Hey, Anthony
+Huang, Xuedong
+Jackson, Daniel
+Jacob, Robert J.K.
+Jha, Somesh
+Kannan, Ravi
+Kermarrec, Anne-Marie
+Kersten, Martin
+Kozyrakis, Christos
+Kwiatkowska, Marta
+Landay, James
+Leino, K. Rustan M.
+Lyles, Joseph Bryan
+Mowry, Todd C
+Mudge, Trevor
+Oviatt, Sharon
+Padmanabhan, Venkata
+Patel, Shwetak N
+Peleg, David
+Perlman, Radia
+Perrig, Adrian
+Ramalingam, Ganesan
+Raschid, Louiqa
+Rushmeier, Holly E
+Saks, Michael E
+Sapatnekar, Sachin S.
+Sellen, Abigail
+Sengupta, Sudipta
+Seznec, Andre
+Taylor, Valerie
+Tomasi, Carlo
+Van Oorschot, Paul
+Veloso, Manuela
+Zhou, Zhi-Hua
+Ailamaki, Anastasia
+Amato, Nancy M
+Blei, David M.
+Chang, Naehyuck
+Chen, Hsinchun
+Czerwinski, Mary P.
+De Giacomo, Giuseppe
+Dourish, Paul
+Dwork, Cynthia
+Fall, Kevin
+Falsafi, Babak
+Franz, Michael
+Grumberg, Orna
+Guha, Ramanathan
+Haritsa, Jayant R
+Hirschberg, Julia
+Indyk, Piotr
+Kuo, Tei-Wei
+Leroy, Xavier
+Lin, Chih-Jen
+Liu, Bing
+Liu, Yunhao
+Luby, Michael George
+Lyu, Michael Rung-Tsong
+Maurer, Ueli M
+McDaniel, Patrick
+Miller, Victor
+Mynatt, Elizabeth D.
+Pearl, Judea
+Pei, Jian
+Pfenning, Frank
+Radev, Dragomir R
+Rajamani, Sriram
+Rodriguez, Pablo
+Sagiv, Shmuel
+Schroeder, Peter
+Schuster, Assaf
+Skadron, Kevin
+Tan, Wang-Chiew
+Vempala, Santosh
+Warnow, Tandy
+Wooldridge, Michael
+Abramsky, Samson
+Adve, Vikram
+Afrati, Foto
+Bachman, Charles W
+Borodin, Allan
+Bundy, Alan
+Cranor, Lorrie Faith
+Davis, Timothy Alden
+Devadas, Srinivas
+Dhillon, Inderjit
+Dutt, Nikil D.
+Ellen, Faith
+Ernst, Michael D
+Finkelstein, Adam
+Freire, Juliana
+Gehrke, Johannes
+Grimson, Eric
+Guzdial, Mark
+Heiser, Gernot
+Horvitz, Eric
+Joachims, Thorsten
+Kearns, Michael
+King, Valerie
+Kraus, Sarit
+Lamport, Leslie Barry
+Malik, Sharad
+Mansour, Yishay
+Mitra, Subhasish
+Mitzenmacher, Michael
+Morris, Robert
+Narayanan, Vijaykrishnan
+Navathe, Shamkant
+Patel, Jignesh M
+Ranganathan, Parthasarathy
+Reingold, Omer
+Rodden, Tom
+Rubinfeld, Ronitt
+Rus, Daniela
+Sangiovanni Vincentelli, Alberto Luigi
+Schulzrinne, Henning
+Shieber, Stuart
+Srikant, Ramakrishnan
+Srinivasan, Aravind
+Sudarshan, S.
+Syverson, Paul
+Tsudik, Gene
+Whittaker, Stephen J
+Ackerman, Mark S
+Aggarwal, Charu Chandra
+Anderson, James H
+Bellare, Mihir
+Borgman, Christine L
+Ceri, Stefano
+Chakrabarty, Krishnendu
+Chellappa, Ramalingam
+Cox, Ingemar J.
+De Lucena, Carlos J P
+Dechter, Rina
+Elliott, Chip
+Forsyth, David
+Gao, Wen
+Garlan, David
+Gosling, James
+Haas, Peter
+Hearst, Marti
+Jarke, Matthias
+Kannan, Sampath Kumar
+Kasik, David J
+Katabi, Dina
+Kautz, Henry A
+Kleinberg, Jon
+Kumar, Panganamala
+Lea, Douglas
+Maarek, Yoelle
+Manning, Christopher
+Marathe, Madhav
+Mellor-Crummey, John
+Morrisett, Greg
+Myers, Andrew
+Nau, Dana
+Rao, Satish
+Robertson, S E
+Roscoe, Timothy
+Sellis, Timoleon
+Shasha, Dennis E
+Shavit, Nir N
+Shim, Kyuseok
+Smyth, Padhraic
+Tambe, Milind
+Tannen, Val
+Williamson, David
+Wong, Limsoon
+Yung, Moti
+Zegura, Ellen
+Zhang, Zhengyou
+Zhou, Yuanyuan
+Zuckerman, David
+Alonso, Gustavo
+Arge, Lars
+Baldi, Pierre
+Boehm, Hans
+Boutilier, Craig
+Camp, Tracy
+Cattell, Rick
+Davis, Larry S
+Elmagarmid, Ahmed
+Fan, Wenfei
+Gao, Lixin
+Garfinkel, Simson L
+Gibson, Garth A
+Greenberg, Saul
+Gross, Markus
+Grove, David Paul
+Grudin, Jonathan
+Guerraoui, Rachid
+Gupta, Manish
+Hershberger, John
+Kahng, Andrew
+Karlin, Anna
+Keshav, Srinivasan
+Kiczales, Gregor
+Kitsuregawa, Masaru
+Libkin, Leonid
+Milo, Tova
+Nahrstedt, Klara
+O'Rourke, Joseph
+Pierce, Benjamin
+Pingali, Keshav K
+Pitts, Andrew M
+Rastogi, Rajeev  Ramnarain
+Reddy, Raj
+Ross, Keith
+Sakallah, Karem
+Schreiber, Robert
+Scott, Steven
+Selman, Bart
+Shamir, Ron
+Shoham, Yoav
+Sifakis, Joseph
+Sinclair, Alistair
+Stein, Clifford
+Stoica, Ion
+Tamassia, Roberto
+Tichy, Walter F.
+Valduriez, Patrick
+Valiant, Leslie G
+Yelick, Katherine
+Zabih, Ramin
+Zhang, Xiaodong
+Abiteboul, Serge
+Agrawal, Divyakant
+Baecker, Ronald M
+Ball, Thomas
+Blelloch, Guy
+Ebeling, Carl
+Eppstein, David
+Fox, Geoffrey
+Furnas, George
+Gifford, David K
+Govindan, Ramesh
+Guo, Baining
+Heckerman, David
+Holzmann, Gerard J.
+Hoppe, Hugues
+Jensen, Christian S.
+Karloff, Howard J
+Keckler, Stephen
+Key, Peter B.
+Kirkpatrick, Scott
+Kraut, Robert E
+Landau, Susan
+Lin, Ming C
+Magnusson, Peter
+Malkhi, Dahlia
+Marzullo, Keith
+MATSUOKA, SATOSHI
+Max, Nelson
+Mitchell, Joseph
+Mukherjee, Shubu
+Ooi, Beng Chin
+Ozsoyoglu, Zehra
+Pach, Janos
+Petzold, Linda
+Pollack, Martha
+Roth, Dan
+Sanguinetti, John
+Seltzer, Margo
+Singhal, Amit
+Souvaine, Diane L
+Srivastava, Divesh
+Suciu, Dan
+Tullsen, Dean
+Vahdat, Amin
+Wetherall, David
+Zadeck, Frank Kenneth
+Abramson, David A
+Adve, Sarita
+Alvisi, Lorenzo
+Barroso, Luiz Andre
+Burger, Douglas C
+Chayes, Jennifer
+Chen, Peter
+Condon, Anne
+Crovella, Mark
+Cytron, Ron
+Dahlin, Michael D
+El Abbadi, Amr
+Ellis, Carla S.
+Faloutsos, Christos
+Fisher, Kathleen S
+Goodman, James
+Hall, Wendy
+Hubaux, Jean-Pierre
+Jordan, Michael  I.
+Kavraki, Lydia
+Kiesler, Sara
+Klein, Philip N
+Kossmann, Donald
+Launchbury, John
+Lyon, Richard F
+Mooney, Raymond
+Muthukrishnan, S.
+Pereira, Fernando
+Pevzner, Pavel
+Rombach, Dieter
+Rosenblum, David S.
+Savage, Stefan
+Schnabel, Robert B
+Spielman, Daniel A
+Suri, Subhash
+Tompa, Frank Wm
+Torrellas, Josep
+Trimberger, Stephen
+Ungar, David M
+Zeller, Andreas
+Zhai, Shumin
+Attiya, Hagit
+Bacon, David F
+Baeza-Yates, Ricardo A
+Bajaj, Chandrajit L.
+Bhatkar, Vijay P
+Blakeley, Jose A
+Borriello, Gaetano
+Choudhary, Alok
+Dale, Nell B.
+Davie, Bruce
+Dean, Jeffrey A
+Dean, Thomas L
+Donald, Bruce R.
+Erickson, Thomas D
+Esteves-Verissimo, Paulo
+Fischer, Gerhard
+Foster, Ian T
+Goldberg, Andrew V
+Goodrich, Michael T
+Govindaraju, Venu
+Gupta, Rajiv
+Hellerstein, Joseph M
+Hendren, Laurie J
+Hoelzle, Urs
+Jahanian, Farnam
+Kaltofen, Erich L
+Karger, David
+Kaufman, Arie E
+Kriegel, Hans-Peter
+Lenzerini, Maurizio
+Lui, John Chi-Shing
+Manocha, Dinesh
+Martonosi, Margaret
+Matias, Yossi
+Miller, RJ
+Riedl, John T
+Rinard, Martin
+Selinger, Patricia G.
+Shyamasundar, Rudrapatna K
+Teng, Shang-Hua
+Thekkath, Chandramohan A
+Van Renesse, Robbert
+Vemuri, Baba C
+Vetterli, Martin
+Whang, Kyu-Young
+Wilks, Yorick
+Winograd, Terry
+Abadi, Martin
+Abowd, Gregory D.
+Aiken, Alex
+Arora, Sanjeev
+Balakrishnan, Hari
+Buxton, William A.S.
+Clarkson, Kenneth
+Cong, Jason
+Cook, Perry
+Cook, Stephen A
+Davidson, Jack
+Dayal, Umeshwar
+Deng, Xiaotie
+Garcia-Luna-Aceves, J.J.
+Goemans, Michel X
+Hanrahan, Pat
+House, Charles H
+Humphrey, Watts S
+Kay, Alan
+Konstan, Joseph A
+Levin, Roy
+Lowney, Paul G
+Malik, Jitendra
+McKinley, Kathryn S
+Meyer, Bertrand
+Mitchell, John C.
+Moses, Joel
+Munro, Ian
+Olson, Judith S
+Paulson, Lawrence C
+Pirahesh, Hamid
+Randell, Brian
+Reiter, Michael
+Rexford, Jennifer
+Rose, Jonathan
+Rosenblum, Mendel
+Rutenbar, Rob A
+Sandholm, Tuomas
+Sarkar, Vivek
+Squillante, Mark S
+Stenstrom, Per O
+Sudan, Madhu
+Szeliski, Richard
+Terry, Douglas B
+Agarwal, Anant
+Alur, Rajeev
+Banerjee, Utpal
+Beeri, Catriel
+Blum, Avrim
+Brewer, Eric A A.
+Broder, Andrei
+Cohen, Michael F.
+Constantine, Larry
+Dolev, Danny
+Downey, Rodney
+Feigenbaum, Edward A
+Felten, Edward
+Fortnow, Lance
+Gao, Guang
+Gottlob, Georg
+Hull, Richard
+Huttenlocher, Daniel
+Jiang, Tao
+Klensin, John C
+Lam, Monica
+Levoy, Marc
+Mishra, Bud
+Moss, Eliot
+Motwani, Rajeev
+Odersky, Martin
+Olson, Gary M
+Padua, David
+Pausch, Randy
+Pnueli, Amir
+Prasanna, Viktor
+Requicha, Aristides
+Roberts, Eric S
+Terzopoulos, Demetri
+Thomas, Donald E
+Wadler, Philip
+Wand, Mitchell
+Zhang, HongJiang
+Allender, Eric
+Arvind, Arvind
+Atallah, Mikhail
+Chen, Ming-Syan
+Dumais, Susan T
+Fayyad, Usama M
+Felleisen, Matthias
+Forbus, Kenneth
+Gibbons, Phillip B
+Giles, Lee
+Greenberg, Albert G
+Gropp, William D
+Guerin, Roch
+Guttag, John
+Haas, Laura M
+Halevy, Alon Yitzchak
+Hearn, Anthony C
+Henzinger, Thomas A
+Jouppi, Norman
+Laird, John E.
+Larus, James
+Leiserson, Charles E
+Li, Ming
+McKeown, Nick
+Moore, J Strother
+Newell, Alan
+Norvig, Peter
+OLeary, Dianne Prost
+Olsen, Dan R
+Olukotun, Oyekunle
+Ozsu, M. Tamer
+Paxson, Vern
+Scott, Michael
+Shum, Heung-Yeung
+Spector, Alfred Z
+Vianu, Victor
+Winslett, Marianne
+Wolf, Alexander L
+York, Bryant W
+Zdonik, Stanley
+Zhang, Lixia
+Anderson, Thomas
+Bjorner, Dines
+Bourne, Stephen
+Brooks, Rodney A
+Chaudhuri, Surajit
+Cooper, Keith
+Dill, David
+Diot, Christophe
+Dubois, Michel
+Franklin, Michael J
+Frieder, Ophir
+Harper, Robert
+Herlihy, Maurice
+Kolaitis, Phokion
+Kumar, Vipin
+Lakshman, T V
+Myers, Brad A
+Nicol, David M
+Palem, Krishna
+Reps, Thomas
+Sha, Lui
+Thorup, Mikkel
+Upfal, Eli
+Vazirani, Umesh
+Vazirani, Vijay V
+Want, Roy
+Weikum, Gerhard
+Weiser, Uri
+Weld, Daniel
+Wellman, Michael
+Widom, Jennifer
+Willinger, Walter
+Wood, David A
+Zhang, Hui
+Bose, Bella
+Bubenko, Janis A
+Cardelli, Luca
+Chien, Andrew A
+Collins, George E
+Emer, Joel
+Gottlieb, Allan
+Hanson, Vicki
+Hill, Mark D.
+Ioannidis, Yannis
+Kaashoek, Frans
+Larson, Per-Ake
+Lee, Peter
+Mockapetris, Paul
+Peyton-Jones, Simon L
+Schantz, Richard
+Schroeder, Michael D
+Vassiliadis, Stamatis
+Wah, Benjamin W.
+Wise, David S
+Agrawal, Rakesh
+Ammar, Mostafa
+Bahl, Victor
+Berger, Bonnie
+Bertino, Elisa
+Carroll, John Millar
+DeMillo, Richard
+Grosz, Barbara J
+Hailpern, Brent T
+Han, Jiawei
+Harrold, Mary
+Hart, Peter
+Horowitz, Mark A
+Hudak, Paul
+Jagadish, H V
+Jain, Anil K
+Jain, Ramesh C
+Jha, Niraj K.
+Kozen, Dexter
+Lin, Yi-Bing
+McKeown, Kathleen
+Moran, Thomas
+Myers, Eugene
+Partridge, Craig
+Reed, Daniel A
+Russell, Stuart
+Sanders, William
+Shenker, Scott J
+Sohi, Gurindar S
+Van Rijsbergen, C J
+Agarwal, Pankaj
+Agrawal, Vishwani D
+Babaoglu, Ozalp
+Crowcroft, Jon
+Culler, David
+Dally, William
+Dietterich, Thomas G
+Eggers, Susan
+Gabow, Harold N
+Goyal, Ambuj
+Guzman, Adolfo
+Halpern, Joseph
+Hwu, Wen-Mei
+Immerman, Neil
+Karin, Sidney
+Kellogg, Wendy A
+Lomet, David B
+Miller, Gary L
+Mohan, C.
+Naughton, Jeffrey F
+Rau, Bantwal R
+Salesin, David H
+Satyanarayanan, Mahadev
+Valero, Mateo
+Varghese, George
+Wilkes, John
+Abraham, Jacob
+Aiken, Robert
+Asano, Tetsuo
+Bernstein, Philip A
+Birnbaum, Joel S
+Borning, Alan H
+Breitbart, Yuri
+Cai, Jin-Yi
+Clark, David D
+Davidson, Susan B
+de Kleer, Johan
+Demicheli, Giovanni
+Dongarra, Jack
+Farber, David J.
+Feigenbaum, Joan
+Ferrari, Domenico
+Floyd, Sally J
+Gelenbe, Erol
+Hayes, John P
+Iyengar, Sitharama
+Iyer, Ravishankar
+Jaja, Joseph F
+Kahn, Robert E
+Kang , Sung Mo
+Kieburtz, Richard B
+Kowalski, Robert A
+Kramer, Jeffrey
+Kurose, James
+Lee, Ruby B
+Litwin, Witold
+Miller, Barton P
+Mogul, Jeffrey C
+Norman, Don
+Pancake, Cherri M
+Papadimitriou, Christos
+Parker, Donn B
+Patel, Janak H
+Patt, Yale
+Pohl, Ira
+Pullen, John Mark
+Raghavan, Prabhakar
+Ramakrishnan, Raghu
+Ramamritham, Krithi
+Reynolds, John C
+Robertson, George
+Roussopoulos, Nick
+Sabnani, Krishan K.
+Sandhu, Ravinderpal S
+Schek, Hans-Joerg
+Schlichting, Richard D
+Shin, Kang
+Shmoys, David Bernard
+Smith, Alan
+Steinmetz, Ralf
+Turner, Jonathan
+Wolf, Marilyn Claire
+Wolfson, Ouri
+Zave, Pamela
+Banerjee, Prithviraj
+Berman, Francine
+Bhuyan, Laxminarayan Bhuyan
+Biermann, Alan W
+Bokhari, Shahid H
+Bryant, Randal E
+Buneman, Peter
+Card, Stuart K.
+Carey, Michael J
+Comer, Douglas E
+Duncan, Karen
+Estrin, Deborah
+Fagin, Ronald
+Freeman, Peter A
+Fuchs, Wesley Kent
+Haderle, Donald J
+Heath, Michael
+Kleinrock, Leonard
+Korth, Henry F
+Lamsweerde, Axel Van
+Lorie, Raymond A
+Loveland, Donald W
+Meyer, Albert R
+Morris, James H
+Peterson, Larry L
+Vardi, Moshe Y
+Warren, David S
+Wilhelm, Reinhard
+Williams, Robin
+Zwaenepoel, Willy E
+Auslander, Marc
+Birman, Ken
+Brachman, Ronald J.
+Braden, Robert T
+Cook, Rob
+DeBlasi, Joseph S
+Demmel, James
+Fateman, Richard J
+Foley, James D
+Gannon, John D
+Geschke, Charles M
+Ghezzi, Carlo
+Glass, Robert L
+Graham, Ronald L.
+Guibas, Leonidas
+Ibaraki, Toshihide
+Kanade, Takeo
+Lewis, Philip M
+MacQueen, David
+Martin, C. Dianne
+Masinter, Larry M
+Mehlhorn, Kurt
+Mills, David L
+Pradhan, Dhiraj
+Sameh, Ahmed
+Samuelson, Pamela
+Snir, Marc
+Snodgrass, Richard
+Soffa, Mary Lou
+Tan, Chung Jen
+Torii, Koji
+Waltz, David L
+Warnock, John
+Yonezawa, Akinori
+Agrawal, Dharma P
+Andrews, Gregory R
+Appel, Andrew W
+Berghel, Hal
+Browne, James C
+Cartwright, Robert
+Chen, Peter P
+Clarke, Edmund
+Clarke, Lori
+Cole, Richard J
+Ellis, Clarence A
+Gabriel, Richard P.
+Gupta, Gopal Krishna
+Horning, James Jay
+Jones, Neil
+Joshi, Aravind K
+Kandel, Abraham
+Kent, Stephen T
+LAM, SIMON S
+Li, Kai
+Maier, David
+Notkin, David S
+Nycum, Susan H
+Osterweil, Leon J
+Rangan, Venkat
+Richards, John T
+Rowe, Lawrence A
+Ryder, Barbara Gershon
+Selman, Alan
+Sequin, Carlo H
+Siegel, H. J.
+Spafford, Eugene H.
+Tardos, Eva
+Taylor, Richard N
+Turner, Albert J
+Welzl, Emmerich
+Wing, Jeannette M.
+Yannakakis, Mihalis
+Zweben, Stuart
+Akyildiz, Ian F
+Basili, Victor
+Bate, Roger R
+Boehm, Barry
+Chlamtac, Imrich
+Couger, J D
+Croft, Bruce
+Davis, Gordon B
+Dobkin, David P
+E Baer, Jean-Loup E
+Freeman, Herbert
+Garcia-Molina, Hector
+Greif, Irene
+Gurevich, Yuri
+Hennessy, John L
+Kedem, Zvi Meir
+Kemmerer, Richard A.
+Lawson, H W
+Lee, Der-Tsai
+Lipton, Richard
+Lynch, Nancy
+Menasce, Daniel A.
+Miller, Raymond
+Perrott, Ron
+Pippenger, Nicholas
+Pratt, Vaughan Ronald
+Reif, John H
+Reiter, Raymond
+Schneck, Paul
+Sedgewick, Robert
+Sevcik, Kenneth C
+Sharir, Micha
+Shaw, Alan C
+Shneiderman, Ben
+Steiglitz, Kenneth
+Towsley, Donald F
+Weyuker, Elaine
+Widmayer, Peter
+Wilensky, Robert
+Yu, Philip S
+Zanella, Paolo
+Adrion, William Richards
+Aho, Alfred V
+Ahuja, Narendra
+Akeley, Kurt B
+Bajcsy, Ruzena
+Bochmann, Gregor V
+Borg, Anita
+Chandrasekaran, B.
+Chazelle, Bernard
+Deo, Narsingh
+Dodd, George
+Encarnacao, Jose L.
+Ferrante, Jeanne
+Fischer, Michael J
+Frailey, Dennis
+Graham, Robert M
+Harrison, Michael A
+Heidelberger, Philip
+Irwin, Mary Jane
+Jaffe, Jeffrey
+Jain, Raj
+Jones, Anita K
+Katz, Randy H.
+Klawe, Maria
+Landweber, Lawrence H
+Lesk, Michael E
+Levy, Henry M
+Liskov, Barbara
+Muntz, Richard R
+Nance, Richard E
+Nishizeki, Takao
+Preas, Bryan
+Rao, TRN
+Reingold, Edward M
+Rice, John
+Rosenberg, Arnold
+Sahni, Sartaj K
+Samet, Hanan
+Savage, John E
+Sethi, Ravi
+Shaw, Mary M
+Silberschatz, Abraham
+Stankovic, John A
+Stockmeyer, Larry
+Tanenbaum, Andrew S
+Vernon, Mary K
+Vishkin, Uzi
+Vitter, Jeffrey S.
+Wasserman, Anthony I
+Wegman, Mark
+Weingarten, Fred W
+Witten, Ian
+Yovits, Marshall C
+Abrahams, Paul W
+Ashenhurst, R L
+Barr, Alan H
+Bernstein, Lawrence
+Booch, Grady
+Brandin, David H
+Brent, Richard P
+Carpenter, Loren C
+Catmull, Edwin
+Constable, Robert
+Denning, Dorothy E
+DeWitt, David
+Druffel, Larry
+Engeler, Erwin
+Feldman, Stuart
+Fuchs, Henry
+Galil, Zvi
+Garey, Michael R
+Ginsberg, Myron
+Goodenough, John B
+Greenberg, Donald
+Grosch, Herbert R J
+Herzog, Bertram
+Highland, Harold J
+Hoffman, Lance J
+Ibarra, Oscar
+Johnson, David S
+Jones, Cliff B
+Kennedy, Kenneth W
+Kim, Won
+Kosaraju, Sambasiva
+Ladner, Richard E.
+Lakshmivarahan, S
+Lazowska, Edward
+Leveson, Nancy
+Misra, Jayadev
+Nievergelt, J
+Oettinger, Anthony
+Preparata, Franco P
+Rada, Roy F
+Rosenkrantz, Daniel J
+Salton, Gerard
+Schneider, Fred B
+Snyder, Larry
+Suzuki, Norihisa
+Ullman, Jeffrey D
+Wallace, Chris S
+Wegner, Peter
+White, John R.
+Whitted, J Turner
+Wiederhold, Gio
+Wong, Chak-Kuen
+Yao, Andrew C
+Young, Paul
+Adams, James M
+Allen, Frances
+Alt, Franz L
+Atchison, William F.
+Austing, Richard H
+Batcher, Kenneth E
+Bell, C Gordon
+Blasgen, Michael W
+Bobrow, Daniel
+Boggs, David R.
+Borman, Lorraine
+Bradshaw, Charles L
+Bricklin, Daniel S
+Brooks, Frederick
+Brotz, Douglas K
+Burton, Richard R.
+Canning, Richard G
+Carlson, Walter
+Cerf, Vinton
+Chamberlin, Donald
+Codd, Edgar F
+Coffman, Ed
+Corbato, Fernando J
+Cragon, Harvey G
+D'Auria, Thomas A
+DeFanti, Thomas
+Denning, Peter J
+Dennis, Jack
+Deutsch, L Peter
+Dijkstra, Edsger W
+Dunwell, Stephen
+Eckert, J Presper
+Elias, Peter
+Engel, Gerald L
+Esbin, John H
+Evans, Bob O
+Feng, Tse-Yun
+Finerman, Aaron
+Floyd, Robert W.
+Flynn, Michael J
+Frankston, Robert M
+Friedman, Frank L
+Galler, Bernard A
+Gear, Charles W
+Goldberg, Adele
+Gotlieb, Calvin C.
+Graham, Susan L
+Gray, Jim
+Green, Cordell
+Gries, David Joseph
+Hammer, Carl
+Hamming, Richard W
+Harel, David
+Harris, Fred H
+Hartmanis, Juris
+Hillis, William Daniel
+Hopcroft, John E
+Hull, Tom
+Hume, J N
+Huskey, Harry D
+Kahan, William
+Kaplan, Ronald M
+Karp, Richard
+Knuth, Donald E
+Kuck, David J
+Kurtz, Thomas E
+Kurzweil, Ray
+Lampson, Butler W
+Lavenberg, Stephen S
+Lederberg, Joshua
+Lee, John A
+Lehman, Meir
+Lindsay, Bruce
+Little, Joyce Currie
+Liu, C.L.
+Lynn, M Stuart
+Maisel, Herbert
+Manna, Zohar
+McCarthy, John
+McCluskey, Edward
+McCracken, Daniel D
+McJones, Paul R
+Milner, A J
+Minker, Jack
+Needham, Roger M
+Neumann, Peter G
+Newborn, Monroe
+Ousterhout, John
+Owicki, Susan S
+Parnas, David Lorge
+Patterson, David
+Poucher, William B
+Ralston, Anthony
+Rivest, Ronald L
+Rosenfeld, Azriel
+Rulifson, Jeff
+Sammet, Jean E
+Scott, Dana S
+Siewiorek, Daniel
+Simon, Herbert A
+Simons, Barbara B
+Sloan, Martha
+Slutz, Donald R
+Smith, Burton
+Stearns, Richard E
+Steel, Thomas B
+Steele, Guy L
+Stone, Harold
+Stonebraker, Michael
+Strecker, William
+Stroustrup, Bjarne
+Suppes, Patrick
+Sussman, Gerald
+Sutherland, Ivan
+Taft, Edward A
+Tarjan, Robert E
+Taylor, Robert W
+Thacker, Charles P
+Traiger, Irv
+Traub, Joseph
+Tucker, Allen
+van Dam, Andries
+Ware, Willis H
+Wecker, Stuart
+Wegbreit, Ben
+Weiss, Eric A
+Wheeler, David John
+Wilkes, Maurice V.
+Winograd, Shmuel
+Wirth, Niklaus E
+Wolfson, Seymour J
+Wulf, William A
+Zadeh, L A
